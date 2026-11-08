@@ -1,0 +1,252 @@
+# Gosip Aman — teman, lo/gue boleh. Gosip ringan tanpa menjatuhkan orang tertentu: seleb, tren, kebiasaan umum, diri sendiri.
+s|Gosip artis paling heboh yang pernah lo ikutin apa?
+s|Pasangan seleb mana yang menurut lo paling cocok?
+s|Pasangan seleb mana yang putusnya paling bikin lo kaget?
+s|Drama apa di media sosial yang lagi rame minggu ini?
+s|Siapa seleb yang menurut lo paling sering bikin sensasi?
+s|Tren TikTok atau media sosial apa yang menurut lo paling absurd?
+s|Kalau lo jadi admin akun gosip, gosip pertama yang lo angkat apa?
+s|Siapa artis yang menurut lo paling nggak pernah kena skandal?
+s|Apa konten kreator yang lagi sering lo tonton?
+s|Siapa seleb yang gaya hidupnya paling bikin penasaran?
+s|Apa sinetron atau drama yang alurnya paling bikin geleng-geleng?
+s|Siapa artis yang menurut lo paling ramah di dunia nyata?
+s|Apa acara reality show yang paling seru buat digosipin?
+s|Siapa idol K-pop atau penyanyi yang lagi lo stan?
+s|Apa skandal fiksi di film atau drama yang paling seru?
+s|Siapa seleb yang menurut lo paling cocok jadi teman nongkrong?
+s|Apa kabar viral paling random yang pernah lo baca?
+s|Siapa artis yang menurut lo makin keren seiring umur?
+s|Apa pernikahan seleb yang paling megah menurut lo?
+s|Siapa seleb yang paling sering lo lihat di FYP?
+s|Apa podcast gosip atau obrolan yang lo suka?
+s|Siapa artis yang menurut lo paling lucu kalau diwawancara?
+s|Apa rumor seleb yang ternyata cuma hoaks?
+s|Siapa influencer yang hidupnya kelihatan paling sempurna di media sosial?
+s|Apa tren fesyen yang menurut lo bakal balik lagi?
+s|Siapa seleb yang menurut lo paling jago bikin konten?
+s|Apa lagu viral yang lo dengar sampai bosan?
+s|Siapa artis lama yang pengin lo lihat comeback?
+s|Apa acara penghargaan yang paling sering bikin drama?
+s|Siapa seleb yang menurut lo paling mirip salah satu dari kita?
+s|Apa momen live streaming paling kocak yang pernah lo tonton?
+s|Siapa atlet yang menurut lo punya kisah hidup paling seru?
+s|Apa tren makanan viral yang pernah lo cobain?
+s|Siapa seleb yang menurut lo paling sering dihujat tapi sebenarnya baik?
+s|Apa drama selebritas luar negeri yang lo ikutin sampai tuntas?
+s|Siapa artis yang menurut lo punya selera fesyen paling unik?
+s|Apa iklan yang menurut lo paling sering bikin heboh?
+s|Siapa kreator yang menurut lo bakal terkenal banget tahun depan?
+s|Apa meme yang lagi rame di grup chat lo?
+s|Siapa seleb yang pengin lo ajak makan malam?
+s|Apa kebiasaan orang di media sosial yang menurut lo paling lucu?
+s|Siapa artis yang menurut lo paling rajin nyapa fans?
+s|Apa film yang syutingnya penuh gosip di balik layar?
+s|Siapa penyanyi yang konsernya paling pengin lo datengin?
+s|Apa reality show yang menurut lo paling penuh setingan?
+s|Siapa seleb yang menurut lo paling cocok jadi pemimpin?
+s|Apa tren tarian viral yang paling susah diikutin?
+s|Siapa artis yang menurut lo paling lucu di media sosial?
+s|Apa kebiasaan orang di kondangan yang paling sering digosipin?
+s|Siapa tokoh publik yang kata-katanya sering jadi meme?
+s|Apa kabar viral tentang hewan yang paling bikin lo gemas?
+s|Siapa artis cilik yang lo inget dan sekarang udah dewasa?
+s|Apa acara musik yang dulu wajib ditonton tiap pagi?
+s|Siapa seleb yang menurut lo paling sering ganti gaya rambut?
+s|Apa tren nama bayi seleb yang paling unik?
+s|Siapa artis yang pengin lo lihat main film bareng?
+s|Apa bisnis seleb yang menurut lo paling sukses?
+s|Siapa seleb yang menurut lo paling dermawan?
+s|Apa video klip yang paling banyak gosip di baliknya?
+s|Siapa artis yang menurut lo paling cocok jadi tetangga?
+s|Apa kebiasaan warga grup chat RT atau kompleks yang paling lucu?
+s|Siapa tokoh viral lokal yang lo inget dari daerah lo?
+s|Apa gosip paling lucu soal diri lo sendiri yang pernah beredar?
+s|Siapa seleb yang menurut lo diam-diam punya bakat terpendam?
+s|Apa tren ulang tahun atau pesta yang lagi rame?
+s|Siapa artis yang pengin lo lihat jadi juri ajang pencarian bakat?
+s|Apa konten mukbang paling ekstrem yang pernah lo tonton?
+s|Siapa seleb yang menurut lo paling cocok jadi guru?
+s|Apa cerita viral tentang kebaikan orang asing yang paling bikin lo terharu?
+s|Siapa kreator yang menurut lo kontennya paling bermanfaat?
+s|Apa hal yang lagi diomongin semua orang tapi lo belum ngerti?
+s|Siapa artis yang menurut lo bakal awet sampai tua sama pasangannya?
+s|Apa kebiasaan seleb di bandara yang menurut lo lucu?
+s|Siapa penyanyi yang lagu lamanya lagi viral lagi?
+s|Apa reaksi fans paling heboh yang pernah lo lihat?
+s|Siapa artis yang menurut lo paling sering dijadiin stiker WhatsApp?
+s|Apa kebiasaan tamu di acara keluarga yang paling sering diomongin?
+s|Siapa seleb yang menurut lo bakal jadi politisi?
+s|Apa video lucu yang paling sering lo kirim ke grup?
+s|Siapa artis yang menurut lo paling cocok main jadi kita di film?
+s|Apa thread atau cerita horor viral yang pernah bikin lo merinding?
+s|Siapa seleb yang pernah lo temuin langsung, dan gimana rasanya?
+s|Apa fenomena antre makanan viral yang pernah lo ikutin?
+s|Siapa artis yang menurut lo paling jago ngeles saat diwawancara?
+s|Apa kebiasaan netizen yang paling bikin lo geleng-geleng?
+s|Siapa tokoh kartun yang hidupnya paling layak digosipin?
+s|Apa gosip kampus atau kantor ringan yang ternyata cuma salah paham?
+m|Kenapa menurut lo orang suka banget sama gosip?
+m|Apa bedanya gosip yang seru dan gosip yang nyakitin menurut lo?
+m|Pernah nggak lo jadi bahan gosip, dan gimana rasanya?
+m|Gimana cara lo nanggepin kalau temen mulai ngegosipin orang secara kejam?
+m|Apa gosip yang pernah lo percaya lalu ternyata salah?
+m|Gimana perasaan lo kalau tahu diomongin di belakang?
+m|Apa yang lo lakuin kalau dengar gosip tentang teman dekat?
+m|Gimana pendapat lo soal akun gosip yang menyebar kehidupan pribadi orang?
+m|Apa batas gosip yang menurut lo masih aman?
+m|Pernah nggak gosip bikin pertemanan lo retak?
+m|Kenapa menurut lo kabar buruk lebih cepat menyebar daripada kabar baik?
+m|Apa yang lo rasain pas lihat seleb dihujat ramai-ramai?
+m|Gimana cara lo memastikan kabar viral itu benar atau hoaks?
+m|Pernah nggak lo ikut menyebarkan hoaks tanpa sadar?
+m|Apa yang bikin lo berhenti mengikuti seorang seleb?
+m|Gimana pendapat lo soal budaya cancel di media sosial?
+m|Apa yang bikin seseorang layak dimaafkan setelah skandal?
+m|Pernah nggak lo menilai orang dari gosip sebelum kenal langsung?
+m|Apa yang lo pelajari dari drama media sosial yang pernah lo ikutin?
+m|Gimana cara lo nanggepin gosip keluarga di acara kumpul besar?
+m|Apa yang lo rasain kalau lihat orang terkenal yang lagi jatuh?
+m|Gimana pendapat lo soal seleb yang menjual sensasi demi popularitas?
+m|Apa yang bikin lo suka ngikutin kehidupan orang lain di media sosial?
+m|Pernah nggak lo ngerasa kurang karena lihat hidup orang di media sosial?
+m|Apa gosip yang menurut lo seharusnya nggak pernah jadi bahan obrolan?
+m|Gimana cara lo menjaga privasi lo di zaman semua orang suka ngomongin orang?
+m|Apa yang lo lakuin kalau ada yang curhat ke lo soal gosip tentang lo?
+m|Gimana cara kita bisa tetap seru ngobrol tanpa ngomongin orang lain?
+m|Apa yang lo pikirin pas lihat komentar jahat di unggahan orang lain?
+m|Pernah nggak lo ngebela orang yang lagi digosipin?
+m|Apa yang bikin lo percaya sama satu sumber berita?
+m|Gimana rasanya kalau gosip tentang lo ternyata benar?
+m|Apa yang bikin lo pengin tahu urusan orang lain?
+m|Gimana pendapat lo soal teman yang selalu jadi sumber gosip di tongkrongan?
+d|Pernah nggak gosip bikin lo ngerasa sendirian?
+d|Apa gosip tentang lo yang paling nyakitin, dan gimana lo bangkit?
+d|Pernah nggak lo nyesel ikut ngomongin seseorang?
+d|Apa yang pengin lo bilang ke orang yang pernah nyebarin gosip soal lo?
+d|Kenapa menurut lo kadang kita lebih gampang ngomongin orang daripada ngaca?
+d|Apa yang lo harap orang tahu sebelum mereka menghakimi lo?
+d|Pernah nggak lo ngerasa nggak bisa jadi diri sendiri karena takut digosipin?
+d|Apa yang bikin lo tetap percaya sama orang setelah pernah difitnah?
+d|Apa yang lo pelajari tentang diri lo dari cara lo bergosip?
+d|Siapa orang yang pernah lo nilai salah karena gosip dan pengin lo minta maaf?
+d|Apa yang bikin lo ngerasa aman buat jadi diri sendiri di tongkrongan ini?
+d|Apa yang pengin lo ubah dari kebiasaan lo ngomongin orang lain?
+d|Kalau hidup lo jadi bahan gosip satu kota, bagian mana yang paling lo takutin dibahas?
+d|Apa yang lo rasain pas tahu temen dekat ternyata ngomongin lo?
+d|Apa yang bikin lo milih diam saat dengar gosip yang nyakitin orang lain?
+d|Apa yang pengin lo lakuin buat orang yang lagi jadi korban gosip di sekitar lo?
+d|Apa yang bikin lo bisa maafin orang yang pernah nyebarin cerita buruk tentang lo?
+d|Kalau semua orang tahu cerita lengkap hidup lo, apa yang bakal berubah dari cara mereka melihat lo?
+d|Apa yang bikin lo ngerasa perlu menjaga citra di depan orang lain?
+d|Apa yang lo harap kita lakuin kalau ada yang ngegosipin salah satu dari kita?
+d|Apa yang pengin lo ajarin ke adik atau anak lo soal gosip dan media sosial?
+d|Apa yang bikin lo tetap baik ke orang yang pernah ngejelekin lo?
+d|Apa yang pengin lo jaga dari obrolan kita supaya tetap hangat dan nggak nyakitin siapa pun?
+d|Apa yang bikin lo sadar bahwa setiap orang yang digosipin punya cerita yang nggak kita tahu?
+d|Apa satu kebaikan dari seseorang yang pengin lo sebarin seheboh gosip?
+d|Apa yang bikin lo memilih berhenti ikut drama di tongkrongan lama?
+d|Apa yang lo pelajari tentang kepercayaan dari pengalaman digosipin?
+d|Apa yang pengin lo bilang ke diri lo yang dulu terlalu peduli omongan orang?
+d|Apa yang bikin lo bisa tenang walau ada orang yang nggak suka sama lo?
+d|Apa yang lo rasain pas akhirnya kebenaran soal lo terungkap setelah lama digosipin?
+s|Siapa seleb yang menurut lo bakal paling cocok jadi presenter berita?
+s|Apa acara talk show yang paling sering bikin gosip baru?
+s|Siapa artis yang menurut lo paling sering kepergok liburan?
+s|Apa tren skincare atau make up viral yang menurut lo aneh?
+s|Siapa influencer yang menurut lo paling jujur saat review produk?
+s|Apa gosip soal film atau serial yang ternyata jadi kenyataan?
+s|Siapa artis yang pengin lo lihat jadi pasangan di film romantis?
+s|Apa hal paling kocak yang pernah dilakuin seleb di siaran langsung?
+s|Siapa penyanyi yang menurut lo paling sering jadi topik debat netizen?
+s|Apa kebiasaan orang di grup chat keluarga yang paling sering jadi bahan obrolan?
+s|Siapa seleb luar negeri yang menurut lo paling cinta Indonesia?
+s|Apa video kucing atau anjing viral yang paling lo suka?
+s|Siapa artis yang menurut lo paling jago masak?
+s|Apa fenomena musiman di media sosial yang selalu muncul tiap tahun?
+s|Siapa kreator yang paling sering bikin lo ketawa sendirian?
+s|Apa gosip soal tempat makan viral yang ternyata nggak seenak itu?
+s|Siapa seleb yang pengin lo tahu rutinitas paginya?
+s|Apa acara musik besar yang paling banyak cerita di balik panggungnya?
+s|Siapa artis yang menurut lo paling sering muncul di iklan?
+s|Apa tren nama akun media sosial yang menurut lo lucu?
+s|Siapa tokoh viral yang hidupnya berubah total setelah terkenal?
+s|Apa kebiasaan pengunjung kafe kekinian yang paling sering dibahas orang?
+s|Siapa artis yang menurut lo bakal jadi legenda?
+s|Apa hal yang selalu jadi bahan obrolan pas Lebaran atau kumpul keluarga?
+s|Siapa seleb yang pernah bikin lo berubah pikiran tentang dia?
+s|Apa trend challenge yang paling berbahaya menurut lo?
+s|Siapa kreator yang kontennya paling menenangkan?
+s|Apa gosip soal sinetron lama yang masih lo inget?
+s|Siapa artis yang menurut lo paling romantis ke pasangannya?
+s|Apa kabar viral tentang makanan daerah yang bikin lo bangga?
+s|Siapa seleb yang menurut lo paling cocok jadi tokoh komik?
+s|Apa reality show luar negeri yang paling seru buat dibahas bareng?
+s|Siapa artis yang menurut lo paling lucu kalau lagi marah?
+s|Apa video lama artis yang sering muncul lagi di media sosial?
+s|Siapa kreator yang paling sering dijadiin bahan parodi?
+s|Apa tren kencan atau hubungan di media sosial yang menurut lo aneh?
+s|Siapa artis yang menurut lo paling pantas dapat penghargaan seumur hidup?
+s|Apa berita lucu dari luar negeri yang pernah bikin lo heran?
+s|Siapa seleb yang pengin lo ajak liburan bareng?
+s|Apa hal yang sering diributin netizen tapi menurut lo sepele?
+s|Siapa artis yang menurut lo paling jago nyanyi live?
+s|Apa kabar tentang konser yang paling heboh tahun ini?
+s|Siapa tokoh kartun yang hidup percintaannya paling layak dibahas?
+s|Apa kebiasaan orang di kolom komentar yang paling bikin lo ketawa?
+s|Siapa seleb yang menurut lo paling rendah hati?
+s|Apa hal unik dari pernikahan seleb yang pengin lo tiru?
+s|Siapa artis yang menurut lo paling cocok jadi kakak?
+s|Apa video tutorial viral yang ternyata gagal saat lo coba?
+s|Siapa kreator yang pengin lo ajak kolaborasi?
+s|Apa hal yang lagi jadi bahan obrolan di kampus atau kantor tapi aman diceritain?
+s|Siapa artis yang menurut lo paling berubah setelah terkenal?
+s|Apa tren foto atau filter yang lagi rame di media sosial?
+s|Siapa seleb yang menurut lo bakal jadi orang tua paling seru?
+s|Apa kebiasaan orang saat nonton bola bareng yang sering jadi bahan cerita?
+s|Siapa artis yang paling sering muncul di mimpi lo, kalau ada?
+s|Apa kabar paling absurd dari daerah lo yang pernah viral?
+s|Siapa artis yang menurut lo paling layak dapat film biografi?
+s|Apa gosip soal tetangga fiksi di drama yang paling lucu?
+s|Siapa kreator yang menurut lo bakal tetap terkenal sepuluh tahun lagi?
+s|Apa tren belanja viral yang pernah bikin lo kalap?
+s|Siapa seleb yang menurut lo diam-diam lucu banget?
+s|Apa acara TV lama yang pengin lo lihat tayang lagi?
+s|Siapa penyanyi yang menurut lo punya penggemar paling setia?
+m|Apa gosip yang menurut lo justru bikin seleb makin disukai?
+m|Gimana pendapat lo soal seleb yang membuka kehidupan pribadinya ke publik?
+m|Apa yang lo rasain kalau seleb yang lo suka ternyata berbuat salah?
+m|Gimana cara lo menjaga diri biar nggak ikut termakan hoaks?
+m|Apa yang bikin lo percaya atau nggak percaya sama klarifikasi seleb?
+m|Gimana pendapat lo soal orang yang terkenal karena sensasi?
+m|Apa yang lo pelajari dari cara seleb menghadapi hujatan?
+m|Gimana cara lo nolak ikut ngomongin orang tanpa terkesan sok suci?
+m|Apa yang menurut lo bikin sebuah gosip berubah jadi perundungan?
+m|Gimana perasaan lo kalau privasi lo tersebar di media sosial?
+m|Apa yang bikin lo milih unfollow seseorang?
+m|Gimana pendapat lo soal fans yang terlalu ikut campur kehidupan idolanya?
+m|Apa yang lo lakuin kalau keluarga lo percaya hoaks dari grup chat?
+m|Gimana cara lo membedakan opini dan fakta di media sosial?
+m|Apa hal dari kehidupan seleb yang bikin lo bersyukur sama hidup sendiri?
+m|Gimana pendapat lo soal seleb yang membesarkan anak di depan kamera?
+m|Apa yang bikin obrolan santai berubah jadi gosip yang nggak enak?
+m|Gimana cara lo ngingetin temen yang terlalu sering ngomongin orang?
+m|Apa yang lo rasain pas tahu gosip tentang lo nyebar di grup yang lo nggak ikutin?
+m|Gimana pendapat lo soal berita yang membesar-besarkan kesalahan kecil orang?
+d|Apa yang bikin lo pengin dipahami, bukan dibicarakan?
+d|Apa yang pengin lo bilang ke orang yang pernah menilai lo cuma dari cerita orang lain?
+d|Apa yang bikin lo ngerasa harus menjelaskan diri ke semua orang?
+d|Apa yang bikin lo akhirnya berhenti peduli sama omongan orang?
+d|Apa cerita tentang lo yang paling pengin lo luruskan?
+d|Apa yang bikin lo tetap bisa tersenyum walau ada yang ngomongin lo?
+d|Apa yang lo pelajari tentang empati dari lihat orang lain dihujat?
+d|Apa yang pengin lo jaga dari diri lo biar nggak ikut nyakitin orang lewat omongan?
+d|Apa yang lo rasain pas tahu ada orang yang membela lo di belakang?
+d|Apa yang pengin lo ucapin terima kasih ke orang yang pernah membela lo dari gosip?
+d|Apa yang bikin lo bisa maafin diri sendiri setelah pernah nyakitin orang lewat gosip?
+d|Kalau lo bisa ngehapus satu gosip dari dunia, gosip apa itu?
+d|Apa yang pengin lo ubah dari cara kita ngobrolin orang mulai hari ini?
+d|Apa yang bikin lo yakin orang yang benar-benar kenal lo nggak akan percaya gosip murahan?
+d|Apa yang bikin lo pengin jadi orang yang dibicarakan karena kebaikannya?
+s|Siapa seleb yang menurut lo paling sering jadi bahan tebak-tebakan pacar barunya?
+s|Apa acara gosip televisi yang dulu sering ditonton di rumah lo?

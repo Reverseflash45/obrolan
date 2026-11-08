@@ -1,0 +1,252 @@
+# Rahasia & Pengakuan — teman, lo/gue boleh
+s|Apa kebiasaan aneh lo yang belum pernah ketahuan siapa pun?
+s|Lo pernah pura-pura sakit biar nggak masuk sekolah atau kerja?
+s|Apa lagu yang diam-diam lo suka tapi malu ngakuinnya?
+s|Lo pernah stalking akun media sosial seseorang sampai jauh banget?
+s|Apa makanan yang lo bilang nggak suka padahal suka?
+s|Lo pernah ngaku udah baca buku padahal cuma baca ringkasannya?
+s|Apa tontonan guilty pleasure yang nggak pernah lo ceritain?
+s|Lo pernah salah kirim chat ke orang yang lagi diomongin?
+s|Apa hal paling konyol yang pernah lo tangisin diam-diam?
+s|Lo pernah pura-pura nggak lihat orang yang lo kenal di jalan?
+s|Apa barang yang pernah lo pinjam dan belum dibalikin sampai sekarang?
+s|Lo pernah ngehabisin makanan orang lain di kulkas tanpa bilang?
+s|Apa nama akun palsu atau akun kedua yang pernah lo punya?
+s|Lo pernah latihan ngomong di depan cermin?
+s|Apa hal yang lo lakuin kalau sendirian di rumah?
+s|Lo pernah nyanyi keras-keras di kamar mandi sampai tetangga dengar?
+s|Apa alasan paling sering lo pakai buat nolak ajakan?
+s|Lo pernah pura-pura sibuk biar nggak diajak ngobrol?
+s|Apa kebohongan kecil yang paling sering lo ucapin?
+s|Kapan terakhir kali lo nahan ketawa sampai mukanya merah?
+s|Apa hal yang lo lakuin pas nggak bisa tidur yang belum pernah lo ceritain?
+s|Lo pernah naksir pacar teman sendiri?
+s|Apa hadiah yang pernah lo terima tapi diam-diam nggak lo suka?
+s|Lo pernah kasih hadiah hasil dari hadiah orang lain?
+s|Apa hal memalukan yang pernah lo lakuin di depan gebetan?
+s|Lo pernah salah sapa orang karena dikira kenalan?
+s|Apa kebiasaan lo pas makan sendirian?
+s|Lo pernah sengaja nggak angkat telepon padahal ponsel di tangan?
+s|Apa julukan rahasia yang lo kasih buat seseorang di sini?
+s|Lo pernah ngintip isi chat orang di sebelah lo di kendaraan umum?
+s|Apa hal yang pernah lo googling karena malu nanya langsung?
+s|Lo pernah ngedit foto biar kelihatan beda banget?
+s|Apa tren yang pernah lo ikutin dan sekarang lo sesali?
+s|Lo pernah nyimpen screenshot chat buat bukti?
+s|Apa nama kontak aneh yang lo kasih buat orang tertentu di ponsel?
+s|Lo pernah pura-pura ngerti pas orang jelasin sesuatu?
+s|Apa hal yang lo lakuin buat ngehindarin orang di acara keluarga?
+s|Lo pernah salah tingkah sampai jatuh atau nabrak sesuatu?
+s|Apa makanan yang pernah lo makan setelah jatuh ke lantai?
+s|Lo pernah nangis karena film kartun?
+s|Apa kebiasaan lo yang lo sembunyiin dari pasangan atau gebetan?
+s|Lo pernah mengaku udah di jalan padahal masih di rumah?
+s|Apa hal yang pernah lo beli diam-diam biar nggak diomelin?
+s|Lo pernah ngomong sendiri di jalan dan diliatin orang?
+s|Apa akun gosip atau akun aneh yang diam-diam lo ikutin?
+s|Lo pernah nge-like foto lama seseorang tanpa sengaja saat stalking?
+s|Apa hal kecil yang bikin lo cemburu tapi nggak pernah lo akuin?
+s|Lo pernah pura-pura tidur biar nggak disuruh?
+s|Apa barang paling aneh yang lo simpan sebagai kenangan?
+s|Lo pernah nulis surat cinta yang nggak pernah dikirim?
+s|Apa hal paling nekat yang pernah lo lakuin demi tiket konser atau barang incaran?
+s|Lo pernah nyalahin hewan peliharaan atas kesalahan lo?
+s|Apa kebiasaan lo pas lagi nunggu balasan chat gebetan?
+s|Lo pernah ngehapus komentar lo sendiri karena malu?
+s|Apa kata yang sering lo salah ucap tapi diam-diam baru tahu yang benar?
+s|Lo pernah nyontek waktu ujian, dan gimana caranya?
+s|Apa hal yang lo bilang ke orang tua cuma setengah benar?
+s|Lo pernah ngedengerin obrolan orang lain di kafe sampai lupa sama temen sendiri?
+s|Apa hal yang pernah bikin lo malu sampai pengin pindah kota?
+s|Lo pernah salah kostum ke acara dan pura-pura sengaja?
+s|Apa kebiasaan belanja online lo yang belum pernah ketahuan?
+s|Lo pernah pura-pura nggak tahu gosip padahal udah tahu duluan?
+s|Apa hal yang lo lakuin pas lift kosong?
+s|Lo pernah salah dengar lirik dan nyanyiin keras-keras?
+s|Apa rahasia kecil soal masakan lo yang nggak pernah lo ceritain?
+s|Lo pernah ngebatalin janji karena males, bukan karena sibuk?
+s|Apa hal yang lo lakuin di toilet kantor atau kampus selain ke toilet?
+s|Lo pernah ngaku suka film yang sebenarnya lo belum nonton?
+s|Apa hal yang pernah lo pecahkan atau rusakin lalu diam-diam diganti?
+s|Lo pernah nangis di kendaraan umum?
+s|Apa hal yang lo lakuin buat kelihatan sibuk di grup chat?
+s|Lo pernah salah sebut nama pacar atau gebetan?
+s|Apa hal yang pernah lo buang diam-diam padahal dikasih orang?
+s|Lo pernah ngikutin akun mantan pakai akun kedua?
+s|Apa hal yang lo lakuin buat ngehindarin pertanyaan kapan nikah?
+s|Lo pernah pura-pura alergi demi nolak makanan?
+s|Apa hal yang sering lo lakuin pas video call tapi kamera dimatiin?
+s|Lo pernah ketiduran di tempat umum yang aneh?
+s|Apa nama panggilan memalukan dari keluarga yang nggak mau lo bongkar?
+s|Lo pernah salah paham sama sinyal seseorang dan ngerasa ge-er?
+s|Apa makanan yang lo makan diam-diam tengah malam?
+s|Lo pernah nyimpen chat lama yang bikin baper?
+s|Apa hal kecil yang lo lakuin buat narik perhatian seseorang?
+s|Lo pernah ngehindarin orang di supermarket sampai muter-muter?
+s|Apa hal paling absurd yang pernah ada di riwayat pencarian lo?
+m|Apa rahasia yang paling lama lo simpen dari temen-temen?
+m|Apa hal yang pernah lo lakuin dan masih bikin lo ngerasa bersalah?
+m|Pernah nggak lo ngomongin temen di belakang, dan gimana perasaan lo sekarang?
+m|Apa yang lo sembunyiin dari orang tua sampai sekarang?
+m|Siapa orang yang paling lo iri-in diam-diam?
+m|Apa hal yang pernah lo bohongin ke temen biar nggak nyakitin perasaannya?
+m|Pernah nggak lo naksir seseorang di tongkrongan ini?
+m|Apa kesalahan yang pernah lo tutupin dan nggak pernah ketahuan?
+m|Apa hal yang lo pura-pura nggak peduli padahal peduli banget?
+m|Apa pengakuan yang pengin lo sampaikan ke salah satu orang di sini?
+m|Pernah nggak lo ngerasa dimanfaatin temen tapi diam aja?
+m|Apa hal yang bikin lo minder tapi nggak pernah lo ceritain?
+m|Pernah nggak lo ninggalin temen pas dia butuh?
+m|Apa hal yang pernah lo lakuin demi diterima di tongkrongan?
+m|Apa rahasia soal masa lalu lo yang menurut lo bakal bikin kita kaget?
+m|Pernah nggak lo ngerasa nggak cocok sama tongkrongan ini?
+m|Apa hal yang lo sesali pernah lo ucapin pas lagi marah?
+m|Apa yang pernah lo lakuin buat balas dendam kecil-kecilan?
+m|Pernah nggak lo bohong soal pencapaian lo biar kelihatan keren?
+m|Apa hal yang lo takut ketahuan dari ponsel lo?
+m|Pernah nggak lo nyimpen perasaan ke temen sendiri dan nggak pernah bilang?
+m|Apa hal yang bikin lo marah sama temen di sini tapi nggak pernah lo omongin?
+m|Apa rahasia yang pernah lo bocorin dan nyesel?
+m|Pernah nggak lo diam-diam nyimpen dendam ke seseorang?
+m|Apa yang pernah lo lakuin buat ngedapetin perhatian orang tua?
+m|Pernah nggak lo ngerasa lega pas rencana bareng temen batal?
+m|Apa kebiasaan yang lo malu kalau orang tahu?
+m|Apa hal yang lo omongin ke orang lain soal lo yang sebenarnya dilebih-lebihin?
+m|Pernah nggak lo nyesel nolak seseorang?
+m|Apa hal yang pernah lo curi atau ambil diam-diam waktu kecil?
+m|Pernah nggak lo ngebohongin pasangan soal hal kecil?
+m|Apa pengalaman yang bikin lo susah percaya sama orang?
+m|Pernah nggak lo ngerasa nggak tulus pas ngucapin selamat ke seseorang?
+m|Apa hal yang lo lakuin buat kelihatan baik-baik aja di media sosial?
+m|Pernah nggak lo nangis karena sesuatu yang nggak bisa lo jelasin?
+m|Apa hal yang lo pikirin tentang diri lo tapi takut diucapin?
+m|Apa rahasia keluarga kecil yang boleh lo ceritain di sini?
+m|Pernah nggak lo ngerasa jadi orang ketiga di persahabatan?
+m|Apa hal yang paling lo takutin ketahuan dari masa SMA atau kuliah?
+m|Apa hal yang pernah lo janjiin tapi nggak lo tepati?
+d|Apa rahasia terberat yang pernah lo pikul sendirian?
+d|Apa hal yang belum pernah lo ceritain ke siapa pun sampai detik ini?
+d|Apa yang bikin lo takut banget dihakimi kalau orang tahu yang sebenarnya?
+d|Apa luka yang lo tutupin pakai candaan?
+d|Pernah nggak lo ngerasa pengin menghilang dari semua orang?
+d|Apa yang paling lo sesali dalam hidup sejauh ini?
+d|Apa pengakuan yang pengin lo kasih ke diri lo sendiri?
+d|Siapa orang yang pengin lo minta maaf tapi nggak pernah sempat?
+d|Apa hal yang bikin lo ngerasa nggak pantas dicintai?
+d|Pernah nggak lo ngerasa sendirian di tengah keramaian kita?
+d|Apa yang lo sembunyiin di balik sikap kuat lo?
+d|Apa rahasia yang kalau lo bagi sekarang bakal bikin lo lebih lega?
+d|Apa yang lo harap kita tahu tentang lo tanpa lo harus bilang?
+d|Apa hal yang pernah bikin lo malu banget sama diri sendiri?
+d|Apa yang bikin lo susah percaya kalau orang benar-benar peduli?
+d|Pernah nggak lo ngerasa nggak dianggap di keluarga sendiri?
+d|Apa yang pengin lo akuin soal persahabatan kita?
+d|Apa hal yang lo lakuin buat bertahan yang nggak pernah orang lihat?
+d|Apa yang bikin lo nyimpen semuanya sendiri selama ini?
+d|Apa ketakutan yang lo pura-pura nggak punya?
+d|Kalau lo bisa ngaku satu hal tanpa konsekuensi, apa yang bakal lo akuin?
+d|Apa yang pengin lo dengar dari kita setelah lo ngaku sesuatu yang berat?
+d|Apa yang bikin lo akhirnya berani jujur ke seseorang?
+d|Apa yang lo rasain pas rahasia lo dibocorin orang?
+d|Apa yang lo pelajari dari menyimpan rahasia orang lain?
+d|Apa yang pengin lo lepasin dari dada lo malam ini?
+d|Apa yang bikin lo ngerasa aman buat cerita di sini?
+d|Apa pengakuan cinta atau sayang yang belum pernah lo ucapin?
+d|Apa hal yang lo harap bisa lo ulang dan lakuin dengan lebih jujur?
+d|Apa yang pengin lo bilang ke diri lo yang dulu nyimpen rahasia sendirian?
+s|Lo pernah pura-pura baca pesan padahal cuma lihat notifikasi?
+s|Apa makanan yang lo makan langsung dari panci tanpa piring?
+s|Lo pernah ngehindarin tetangga karena males basa-basi?
+s|Apa hal yang lo lakuin pas nggak ada yang lihat di lampu merah?
+s|Lo pernah salah kirim stiker yang nggak pantas ke grup keluarga?
+s|Apa kebiasaan jorok kecil yang mungkin cuma lo yang lakuin?
+s|Lo pernah pakai baju yang sama dua hari dan berharap nggak ada yang sadar?
+s|Apa barang yang lo beli cuma karena iklannya lucu?
+s|Lo pernah pura-pura sinyal jelek biar bisa nutup telepon?
+s|Apa hal konyol yang lo percaya sampai umur belasan?
+s|Lo pernah ngulang-ulang video seseorang karena suka suaranya?
+s|Apa julukan yang lo kasih ke diri lo sendiri?
+s|Lo pernah ngedengerin satu lagu seratus kali dalam sehari?
+s|Apa hal yang pernah lo lakuin buat ngehindarin kerja kelompok?
+s|Lo pernah ngehapus foto karena ada mantan di situ?
+s|Apa trik lo biar kelihatan lagi kerja padahal lagi santai?
+s|Lo pernah ngaku udah makan padahal belum?
+s|Apa makanan yang lo umpetin biar nggak dibagi ke saudara?
+s|Lo pernah salah masuk toilet laki-laki atau perempuan?
+s|Apa hal yang lo lakuin pas merasa ditatap orang asing?
+s|Lo pernah nyimpen nomor seseorang dengan nama samaran?
+s|Apa ide bisnis konyol yang pernah lo pikirin serius?
+s|Lo pernah latihan senyum buat foto?
+s|Apa hal kecil yang lo curi dari hotel atau restoran?
+s|Lo pernah ngerasa ge-er karena dilambaiin orang yang ternyata nyapa orang di belakang lo?
+s|Apa video lama lo yang paling lo takut muncul lagi?
+s|Lo pernah nyesel potong rambut sampai nggak mau keluar rumah?
+s|Apa nama asli yang dulu lo sembunyiin karena malu?
+s|Lo pernah ngaku tahu tempat padahal belum pernah ke sana?
+s|Apa hal yang lo lakuin pas nunggu pesanan ojek online?
+s|Lo pernah ketahuan ngomongin orang yang ternyata ada di belakang lo?
+s|Apa kebiasaan lo pas lagi telponan yang bikin orang serumah heran?
+s|Lo pernah pura-pura dengar padahal nggak denger apa yang diomongin?
+s|Apa hal yang lo tulis di catatan ponsel yang nggak boleh dibaca siapa pun?
+s|Lo pernah pakai foto lama biar kelihatan lebih segar?
+s|Apa hal yang pernah lo lakuin demi dapet giveaway?
+s|Lo pernah salah paham ngira seseorang naksir lo?
+s|Apa kebiasaan lo pas lagi sakit yang bikin orang ketawa?
+s|Lo pernah sengaja lama-lamain mandi biar nggak disuruh?
+s|Apa yang paling sering lo bohongin ke dokter gigi?
+s|Lo pernah ngedit tugas orang lalu ngaku kerja sendiri?
+s|Apa hal yang lo lakuin pas nggak sengaja kentut di tempat ramai?
+s|Lo pernah ngehindarin acara reuni karena belum siap ditanya-tanya?
+s|Apa kebiasaan rahasia lo pas lagi belanja di supermarket?
+s|Lo pernah salah kirim email ke atasan atau dosen?
+s|Apa makanan yang lo sebut sehat padahal jelas nggak?
+s|Lo pernah nyanyi di karaoke lagu yang nggak hafal sama sekali?
+s|Apa hal paling memalukan yang terekam kamera?
+m|Pernah nggak lo ngerasa lega pas seseorang pergi dari hidup lo?
+m|Apa hal yang pernah lo lakuin karena tekanan teman?
+m|Apa kebohongan yang pernah lo ucapin buat ngelindungin orang lain?
+m|Pernah nggak lo ngerasa bangga sama sesuatu yang sebenarnya nggak baik?
+m|Apa yang pernah lo rahasiain dari sahabat terdekat lo?
+m|Pernah nggak lo naksir orang yang jauh lebih tua atau lebih muda?
+m|Apa yang pernah lo lakuin dan bikin lo kehilangan kepercayaan seseorang?
+m|Pernah nggak lo pura-pura bahagia di acara orang lain?
+m|Apa hal yang lo iri dari hidup salah satu orang di sini?
+m|Pernah nggak lo ngerasa hubungan lo sama seseorang cuma formalitas?
+m|Apa hal yang bikin lo susah bilang maaf ke orang tertentu?
+m|Pernah nggak lo diam-diam bersyukur seseorang gagal?
+m|Apa yang pernah lo lakuin demi kelihatan lebih kaya atau lebih sukses?
+m|Pernah nggak lo nyesel nerima ajakan atau tawaran seseorang?
+m|Apa hal yang lo pikirin tentang mantan lo yang nggak pernah lo ucapin?
+m|Pernah nggak lo ngerasa nggak dihargai sama orang di sini?
+m|Apa rahasia kecil yang bikin lo ngerasa beda dari orang lain?
+m|Pernah nggak lo ngerasa cemburu sama hubungan temen lo?
+m|Apa yang pernah lo lakuin biar disukai orang yang sebenarnya nggak lo suka?
+m|Pernah nggak lo nolak bantuan karena gengsi?
+m|Apa yang pernah lo sembunyiin dari guru atau atasan?
+m|Pernah nggak lo ngerasa terlalu bergantung sama satu orang?
+m|Apa yang paling lo khawatirin dari pendapat orang tentang lo?
+m|Pernah nggak lo nyesel mutusin seseorang atau diputusin?
+m|Apa yang pernah lo lakuin dan sampai sekarang belum lo ceritain ke orang tua?
+d|Apa yang lo takutin bakal terjadi kalau lo jujur soal perasaan lo yang sebenarnya?
+d|Pernah nggak lo ngerasa hidup lo palsu?
+d|Apa yang bikin lo susah nerima pujian?
+d|Apa luka yang lo nggak pernah izinin siapa pun lihat?
+d|Siapa orang yang paling pengin lo peluk sekarang tapi nggak bisa?
+d|Apa yang pengin lo akuin ke orang tua lo sebelum terlambat?
+d|Apa yang bikin lo ngerasa harus selalu terlihat baik-baik aja?
+d|Kapan lo ngerasa paling nggak jujur sama diri sendiri?
+d|Apa yang lo rasain pas akhirnya ngaku sesuatu yang lama lo simpan?
+d|Apa yang pengin lo maafin dari diri lo malam ini?
+d|Apa pengakuan yang pengin lo dengar dari seseorang di masa lalu?
+d|Apa yang bikin lo milih percaya sama kita buat cerita hal-hal berat?
+d|Apa satu hal yang lo harap bisa lo ubah dari cerita hidup lo?
+d|Apa yang bikin lo takut kehilangan orang-orang di sini?
+d|Apa yang pengin lo janjiin ke diri lo setelah ngaku banyak hal malam ini?
+d|Apa hal yang pengin lo bisikin ke diri lo yang paling rapuh?
+d|Apa yang bikin lo bertahan jadi orang baik walau sering dikecewain?
+d|Apa yang pengin lo kasih tahu ke orang yang pernah lo sakitin?
+d|Apa yang lo harap orang lain lihat dari lo selain kesalahan lo?
+d|Apa yang bikin lo lega bisa jujur di depan kita?
+s|Lo pernah pura-pura kenal orang yang nyapa lo padahal lupa namanya?
+s|Apa aplikasi yang paling lo malu kalau orang lihat waktu pemakaiannya?
+s|Lo pernah sengaja nggak update status biar dikira sibuk?
