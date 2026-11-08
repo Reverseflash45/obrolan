@@ -1,0 +1,252 @@
+# Batasan & Kenyamanan — 18+, pasangan dewasa. Fokus persetujuan, kenyamanan, batasan; tidak grafis.
+s|Apa kata isyarat yang bisa kita pakai kalau salah satu ingin berhenti sejenak?
+s|Kamu lebih nyaman bermesraan di kamar yang gelap atau sedikit terang?
+s|Apa suhu ruangan yang paling membuatmu nyaman saat kita berdua?
+s|Kamu suka kalau aku bertanya dulu sebelum memelukmu dari belakang?
+s|Apa jenis sentuhan yang paling menenangkanmu saat sedang cemas?
+s|Kamu nyaman bermesraan di rumah saat ada orang lain di ruangan sebelah?
+s|Apa pakaian tidur yang membuatmu paling nyaman?
+s|Kamu lebih nyaman kalau kita membicarakan keinginan sebelum atau sesudah momen berdua?
+s|Apa waktu dalam sehari yang membuatmu paling rileks untuk dekat secara fisik?
+s|Kamu nyaman berciuman di depan umum atau lebih suka di tempat pribadi?
+s|Apa jenis kata manis yang membuatmu nyaman, bukan canggung?
+s|Kamu suka kalau aku mengecek apakah kamu nyaman di tengah momen berdua?
+s|Apa hal kecil yang membuatmu langsung merasa aman di dekatku?
+s|Kamu lebih nyaman tidur berpelukan sepanjang malam atau hanya sebentar?
+s|Apa suara atau musik yang membantumu rileks?
+s|Kamu nyaman kalau aku menyentuh rambutmu kapan saja?
+s|Apa bagian tubuh yang lebih kamu sukai tidak disentuh secara tiba-tiba?
+s|Kamu suka kalau aku memberi tahu dulu sebelum mencium?
+s|Apa aroma yang membuatmu merasa nyaman dan tenang?
+s|Kamu lebih nyaman memakai selimut sendiri atau berbagi?
+s|Apa jenis pujian tentang tubuhmu yang membuatmu senang, bukan malu?
+s|Kamu nyaman kalau kita berbicara tentang keintiman lewat chat?
+s|Apa tempat di rumah yang menurutmu paling privat?
+s|Kamu lebih suka aku memulai atau kamu yang memulai?
+s|Apa hal yang membuatmu langsung merasa tidak nyaman, sekecil apa pun?
+s|Kamu suka kalau ponsel kita jauh saat waktu berdua?
+s|Apa jenis pelukan yang terasa terlalu erat buatmu?
+s|Kamu nyaman kalau aku melihatmu saat sedang berganti pakaian?
+s|Apa kebiasaan setelah momen berdua yang membuatmu merasa diperhatikan?
+s|Kamu lebih nyaman langsung tidur atau mengobrol dulu setelah bermesraan?
+s|Apa minuman yang membuatmu rileks tanpa membuatmu kehilangan kendali?
+s|Kamu nyaman kalau aku memanggilmu dengan julukan mesra di depan teman?
+s|Apa jenis lampu kamar yang paling nyaman menurutmu?
+s|Kamu nyaman dengan kebiasaan mandi bersama atau lebih suka privasi?
+s|Apa tanda tubuh kecil yang menunjukkan kamu sedang tidak nyaman?
+s|Kamu suka kalau aku memijat bahumu tanpa diminta?
+s|Apa jenis canda yang tidak kamu sukai saat momen berdua?
+s|Kamu nyaman kalau kita berbagi kamar mandi setiap saat?
+s|Apa hal yang perlu aku tahu tentang batas waktu tidurmu?
+s|Kamu lebih suka aku menunggu kamu memberi tanda atau aku bertanya langsung?
+s|Apa jenis pakaian yang membuatmu merasa tidak percaya diri?
+s|Kamu nyaman kalau aku mengomentari penampilanmu saat bangun tidur?
+s|Apa hal yang membuatmu merasa ruangan terlalu terbuka?
+s|Kamu suka kalau aku menutup gorden dan mengunci pintu lebih dulu?
+s|Apa jenis musik yang justru membuatmu tidak bisa rileks?
+s|Kamu nyaman kalau kita mengobrol soal kesehatan reproduksi secara terbuka?
+s|Tempo seperti apa yang membuatmu tidak merasa diburu-buru saat kita berdua?
+s|Kamu suka kalau aku menyiapkan suasana dulu sebelum kita berdua?
+s|Apa kata yang tidak suka kamu dengar saat momen berdua?
+s|Kamu lebih nyaman kalau kita bercanda atau serius saat bermesraan?
+s|Apa hal kecil yang membuatmu merasa dihormati di kamar tidur?
+s|Kamu nyaman kalau aku tidur tanpa baju di sampingmu?
+s|Apa kebiasaanku yang membuatmu merasa sangat nyaman?
+s|Kamu suka kalau aku menanyakan kabarmu setelah momen intim?
+s|Apa hal yang membuatmu ingin ditemani tanpa disentuh?
+s|Kamu nyaman kalau kita saling memotret dalam suasana mesra?
+s|Apa jenis sentuhan yang kamu suka saat sedang menstruasi atau tidak enak badan?
+s|Kamu nyaman membicarakan riwayat kesehatan seksual masing-masing?
+s|Apa jenis kencan yang membuatmu paling rileks sebelum pulang berdua?
+s|Kamu nyaman kalau aku menunjukkan rasa tertarik di depan keluarga?
+s|Apa hal yang membuatmu merasa ruang pribadimu dihargai?
+s|Kamu suka kalau aku memelukmu saat kamu sedang menangis?
+s|Apa hal yang membuatmu merasa terlalu diperhatikan?
+s|Kamu nyaman kalau kita berbicara jujur soal apa yang tidak kamu suka?
+s|Apa jenis bantal atau kasur yang membuat tidurmu nyaman?
+s|Kamu lebih nyaman kalau kita membuat jadwal waktu berdua atau spontan?
+s|Apa jenis gurauan tentang tubuh yang tidak boleh aku ucapkan?
+s|Kamu nyaman kalau aku memakai baju tidurmu?
+s|Apa hal yang membuatmu merasa nyaman untuk tertawa di tengah momen canggung?
+s|Kamu suka kalau aku mengingatkan untuk minum air setelah momen berdua?
+s|Apa hal yang membuatmu merasa dihargai saat kamu mengatakan tidak?
+s|Kamu nyaman kalau aku menciummu saat kamu baru bangun dan belum gosok gigi?
+s|Apa hal yang membuatmu merasa siap secara mental untuk dekat?
+s|Kamu nyaman kalau aku menggandengmu saat sedang marah?
+s|Apa jenis kehadiran yang paling kamu butuhkan saat tidak ingin disentuh?
+s|Kamu nyaman kalau kita membicarakan topik ini di depan teman dekat?
+s|Apa suasana hati yang membuatmu lebih terbuka untuk bermesraan?
+s|Kamu suka kalau aku mengusulkan sesuatu dengan bertanya, bukan langsung melakukan?
+s|Apa hal yang membuatmu merasa diperlakukan dengan lembut?
+s|Kamu nyaman kalau aku menunjukkan rasa kangen secara fisik setelah lama tidak bertemu?
+m|Apa batasan fisik yang perlu aku tahu dan hormati?
+m|Bagaimana caramu memberi tahu aku kalau kamu tidak nyaman di tengah momen berdua?
+m|Apa yang biasanya membuatmu sulit mengatakan tidak?
+m|Bagaimana kamu ingin aku menanggapi saat kamu menolak?
+m|Apa yang membuatmu merasa persetujuan adalah bagian romantis dari hubungan?
+m|Bagaimana kita memastikan kita berdua sama-sama mau, bukan hanya mengikuti?
+m|Apa batasan yang dulu ada dan sekarang sudah berubah?
+m|Bagaimana pendapatmu tentang bertanya ulang setiap kali mencoba sesuatu yang baru?
+m|Apa yang membuatmu merasa tertekan walau aku tidak bermaksud menekan?
+m|Bagaimana kamu ingin kita membicarakan kontrasepsi dan perencanaan keluarga?
+m|Apa yang membuatmu merasa batasanmu dihormati olehku?
+m|Bagaimana kita sebaiknya menghadapi perbedaan batas nyaman di antara kita?
+m|Apa yang membuatmu merasa perlu waktu lebih lama untuk terbiasa dengan hal baru?
+m|Bagaimana kamu ingin kita membahas hal yang membuatmu tidak nyaman setelah kejadian?
+m|Apa yang membuatmu merasa aman untuk mengubah pikiran di tengah jalan?
+m|Bagaimana pendapatmu soal alkohol dan keputusan intim?
+m|Apa yang membuatmu merasa aku memperhatikan bahasa tubuhmu?
+m|Bagaimana kamu ingin aku bertanya tanpa merusak suasana?
+m|Apa hal yang ingin kamu ubah dari caramu menyampaikan batasan?
+m|Bagaimana kita menjaga privasi hubungan dari teman dan keluarga?
+m|Apa yang membuatmu merasa batasan adalah tanda saling menghormati, bukan penolakan?
+m|Bagaimana perasaanmu saat aku menetapkan batasan yang berbeda dari keinginanmu?
+m|Apa yang perlu kita sepakati soal foto atau video pribadi?
+m|Bagaimana kita menghadapi saat salah satu sedang sangat lelah dan yang lain ingin dekat?
+m|Apa yang membuatmu merasa tidak enak hati menolak ajakanku?
+m|Bagaimana kamu ingin kita menjaga kesehatan bersama sebagai bentuk tanggung jawab?
+m|Apa yang perlu kita lakukan kalau salah satu dari kita merasa sakit atau tidak nyaman secara fisik?
+m|Bagaimana pendapatmu tentang konsultasi ke dokter bersama soal kesehatan reproduksi?
+m|Apa yang membuatmu merasa batasan kita sudah cukup jelas?
+m|Bagaimana kita bisa memperbarui kesepakatan seiring waktu?
+m|Apa yang membuatmu merasa aku terlalu berhati-hati sampai canggung?
+m|Bagaimana kamu ingin aku memberi tahu saat aku sedang tidak mood?
+m|Apa yang membuatmu merasa tidak didengarkan soal kenyamanan?
+m|Bagaimana pendapatmu tentang tidur terpisah sesekali demi kualitas tidur?
+m|Apa yang membuatmu merasa ruang pribadi tetap penting walau sudah sangat dekat?
+m|Bagaimana kita menjaga keintiman saat sedang menjalani pengobatan atau masa pemulihan?
+m|Apa yang membuatmu merasa bebas mengungkapkan rasa sakit atau tidak nyaman?
+m|Bagaimana kita sebaiknya menanggapi saran orang lain tentang kehidupan intim kita?
+m|Apa yang membuatmu merasa kesepakatan kita adil untuk kedua pihak?
+m|Bagaimana kamu ingin aku menanggapi kalau kamu tiba-tiba ingin berhenti?
+m|Apa yang membuatmu merasa canggung membicarakan kebersihan atau kesehatan intim?
+m|Bagaimana kita bisa membicarakan batasan dengan bahasa yang hangat, bukan kaku?
+m|Apa yang membuatmu merasa perlu memastikan dua kali sebelum mencoba sesuatu?
+m|Bagaimana pendapatmu tentang batasan soal membicarakan mantan dalam konteks keintiman?
+m|Apa yang membuatmu merasa siap kembali dekat setelah melahirkan, sakit, atau masa sulit?
+m|Bagaimana kamu ingin kita merawat diri sebelum dan sesudah momen berdua?
+m|Apa yang membuatmu merasa kenyamananmu sama pentingnya dengan kenyamananku?
+m|Bagaimana pendapatmu tentang menulis daftar batasan agar tidak lupa?
+m|Apa yang membuatmu merasa aku peka terhadap perubahan suasana hatimu?
+m|Bagaimana kita menjaga batasan saat sedang liburan atau menginap di rumah keluarga?
+m|Apa yang membuatmu merasa tidak perlu menjelaskan alasan ketika menolak?
+m|Bagaimana kamu ingin kita menyikapi hari-hari ketika tubuhmu sedang sensitif?
+m|Apa yang membuatmu merasa kita bisa bicara tentang ini tanpa bertengkar?
+d|Apa batasan yang paling penting bagimu dan kenapa?
+d|Pernahkah kamu merasa batasanmu dilanggar di masa lalu, dan bagaimana itu memengaruhimu sekarang?
+d|Apa yang membuatmu merasa benar-benar aman untuk mengatakan tidak padaku?
+d|Apa yang kamu butuhkan dariku saat kenangan buruk muncul di momen intim?
+d|Bagaimana kamu ingin aku menanggapi kalau kamu tiba-tiba menangis saat kita dekat?
+d|Apa yang membuatmu takut mengecewakanku saat menolak?
+d|Apa yang membuatmu merasa persetujuan harus terus diperbarui, bukan sekali saja?
+d|Apa yang kamu rasakan saat aku menghormati penolakanmu tanpa kecewa?
+d|Bagaimana kamu ingin kita membangun kembali rasa aman kalau suatu hari batas terlanggar?
+d|Apa yang membuatmu merasa tubuhmu sepenuhnya milikmu dalam hubungan ini?
+d|Apa yang kamu harap aku pahami tentang trauma atau ketakutan yang mungkin kamu bawa?
+d|Bagaimana kamu ingin kita meminta bantuan profesional kalau keintiman terasa berat?
+d|Apa yang membuatmu merasa batasanmu adalah bentuk mencintai dirimu sendiri?
+d|Apa yang membuatmu merasa dihargai sebagai manusia utuh, bukan hanya pasangan?
+d|Apa yang kamu rasakan saat aku menetapkan batasan yang membuatmu kecewa?
+d|Bagaimana kamu ingin kita berbicara kalau salah satu dari kita merasa dimanfaatkan?
+d|Apa yang membuatmu merasa kenyamanan adalah fondasi keintiman kita?
+d|Apa yang perlu aku lakukan agar kamu tidak ragu mengucapkan kata berhenti?
+d|Apa yang kamu harapkan dariku saat kamu tidak bisa menjelaskan kenapa kamu tidak nyaman?
+d|Apa yang membuatmu merasa perlu melindungi dirimu bahkan dariku?
+d|Bagaimana kamu ingin kita menjaga rasa hormat saat keinginan sedang tidak sejalan dalam waktu lama?
+d|Apa yang membuatmu merasa tidak bersalah saat memprioritaskan kenyamananmu?
+d|Apa yang membuatmu merasa diperlakukan sebagai partner yang setara?
+d|Bagaimana kamu ingin kita merawat kepercayaan dalam hal-hal yang paling pribadi?
+d|Apa yang membuatmu merasa layak meminta kenyamanan tanpa merasa merepotkan?
+d|Apa yang kamu harap tidak pernah aku lakukan meski dengan niat bercanda?
+d|Apa yang membuatmu merasa kita sudah saling memahami tanpa banyak kata?
+d|Bagaimana kamu ingin kita menghadapi perubahan batasan setelah peristiwa besar dalam hidup?
+d|Apa yang membuatmu merasa takut membicarakan batasan karena khawatir merusak hubungan?
+d|Apa yang membuatmu merasa batasan justru membuat kita lebih dekat?
+d|Bagaimana kamu ingin aku menunjukkan bahwa aku tetap mencintaimu saat kamu ingin menjaga jarak?
+d|Apa yang kamu rasakan tentang dirimu setelah berhasil menyampaikan batasan dengan jelas?
+d|Apa yang membuatmu yakin hubungan kita adalah tempat paling aman untuk tubuh dan hatimu?
+d|Bagaimana kamu ingin kita membicarakan ini lagi setiap kali ada yang berubah dalam hidup kita?
+d|Apa yang membuatmu merasa pernah memaksakan diri demi menyenangkan orang lain?
+d|Apa yang ingin kamu ubah dari dirimu agar lebih berani menjaga batas?
+d|Apa yang kamu harapkan dariku saat aku tidak sadar sudah membuatmu tidak nyaman?
+d|Apa yang membuatmu merasa tenang bahwa kita akan saling menjaga di saat paling rentan?
+d|Bagaimana kamu ingin kita merayakan kepercayaan yang memungkinkan kita saling terbuka?
+d|Apa yang membuatmu merasa kenyamanan kita adalah tanggung jawab bersama?
+d|Apa satu batasan yang ingin kamu katakan dengan jelas hari ini?
+d|Apa satu hal yang membuatmu merasa sangat nyaman yang ingin aku lakukan lebih sering?
+d|Apa yang membuatmu yakin kita bisa terus belajar tentang satu sama lain tanpa melukai?
+s|Apa jenis selimut atau kain yang paling nyaman di kulitmu?
+s|Kamu nyaman kalau kita mengobrol santai soal keintiman sambil makan?
+s|Apa posisi duduk atau rebahan yang paling nyaman untuk mengobrol berdua?
+s|Kamu suka kalau aku menunggu sampai kamu selesai mandi tanpa mengganggu?
+s|Apa jenis perhatian kecil yang kamu butuhkan sebelum tidur?
+s|Kamu nyaman kalau aku memanggilmu dengan nama lengkap saat bermanja?
+s|Apa jenis kegiatan menenangkan yang ingin kita lakukan setelah hari berat?
+s|Kamu lebih nyaman kalau pintu kamar tertutup atau sedikit terbuka?
+s|Apa jenis aroma minyak pijat yang kamu suka?
+s|Kamu suka kalau aku menanyakan pendapatmu soal dekorasi kamar kita?
+s|Apa hal yang membuatmu merasa kamar kita adalah tempat istirahat, bukan tempat kerja?
+s|Kamu nyaman kalau ponsel ditaruh di luar kamar saat malam?
+s|Apa kebiasaan bersih-bersih sebelum tidur yang membuatmu nyaman?
+s|Kamu suka kalau aku menyiapkan air hangat saat kamu kedinginan?
+s|Apa jenis pakaian yang ingin kamu pakai saat kita bersantai di rumah?
+s|Kamu nyaman kalau kita saling memakai parfum yang sama?
+s|Apa hal yang membuatmu merasa sedang dilindungi saat berjalan di keramaian?
+s|Kamu nyaman kalau aku menyentuh tanganmu di bawah meja saat makan bersama teman?
+s|Apa hal kecil yang bisa aku lakukan agar kamu cepat tidur?
+s|Kamu nyaman kalau kita mendengarkan suara hujan sambil berpelukan?
+m|Apa yang perlu aku tahu tentang hari-hari ketika tubuhmu terasa lelah atau nyeri?
+m|Bagaimana kamu ingin aku menunjukkan kepedulian saat kamu sedang menstruasi atau sakit?
+m|Apa yang membuatmu merasa batasan kita dihormati saat sedang di rumah keluarga?
+m|Bagaimana pendapatmu tentang membicarakan batasan dengan bahasa yang lucu agar tidak tegang?
+m|Apa yang membuatmu merasa nyaman untuk bertanya hal yang memalukan?
+m|Bagaimana kita sebaiknya memeriksa kembali kenyamanan setelah lama tidak dibahas?
+m|Apa hal yang membuatmu merasa terganggu tapi selama ini kamu diamkan?
+m|Bagaimana kamu ingin kita menyikapi perbedaan jam biologis dalam keintiman?
+m|Apa yang membuatmu merasa aku memberi pilihan, bukan perintah?
+m|Bagaimana pendapatmu tentang memakai isyarat tangan sebagai tanda nyaman atau tidak?
+m|Apa yang membuatmu merasa aku sungguh-sungguh mendengarkan kata tidak darimu?
+m|Bagaimana kita bisa membuat kamar terasa aman dan nyaman untuk kita berdua?
+m|Apa yang membuatmu merasa siap membicarakan riwayat hubungan sebelumnya?
+m|Bagaimana kamu ingin kita membicarakan perubahan tubuh setelah sakit atau bertambah usia?
+m|Apa yang membuatmu merasa batasanmu tidak dianggap merepotkan?
+m|Bagaimana kita sebaiknya bersikap saat salah satu sedang tidak ingin bicara soal keintiman?
+m|Apa yang membuatmu merasa perlu mengatakan ya dengan jelas, bukan sekadar diam?
+m|Bagaimana pendapatmu tentang istirahat sejenak di tengah momen berdua?
+m|Apa yang membuatmu merasa lebih santai saat lampu dimatikan?
+m|Bagaimana kamu ingin kita menjaga kesehatan mental sebagai bagian dari keintiman?
+d|Apa yang membuatmu merasa bisa mempercayakan tubuhmu padaku?
+d|Apa yang kamu harapkan dariku saat kamu merasa tidak nyaman tapi tidak tahu sebabnya?
+d|Apa yang membuatmu merasa dihormati bahkan ketika aku kecewa?
+d|Bagaimana kamu ingin kita membicarakan pengalaman masa lalu yang menyakitkan dengan perlahan?
+d|Apa yang membuatmu merasa batasan adalah hadiah untuk hubungan kita?
+d|Apa yang membuatmu merasa layak dihormati sepenuhnya dalam keintiman?
+d|Apa yang membuatmu merasa kita sedang tumbuh dalam cara saling menjaga?
+d|Bagaimana kamu ingin aku merespons kalau kamu merasa tertekan oleh harapan orang lain tentang keintiman?
+d|Apa yang membuatmu merasa tenang untuk mengatakan aku belum siap?
+d|Apa yang membuatmu merasa tidak harus membuktikan cinta lewat hal fisik?
+d|Apa yang kamu rasakan saat aku memilih menunggu demi kenyamananmu?
+d|Bagaimana kamu ingin kita menjaga keintiman tetap lembut di masa-masa sulit?
+d|Apa yang membuatmu merasa kita bisa membicarakan hal paling sensitif dengan kepala dingin?
+d|Kebiasaan lembut mana dariku yang paling membuat tubuhmu rileks?
+d|Apa yang membuatmu merasa sudah cukup aman untuk melepaskan rasa waspada?
+d|Bagaimana kamu ingin kita memastikan tidak ada yang merasa sendirian dalam masalah intim?
+d|Apa yang membuatmu yakin kita akan selalu memilih menghormati daripada memaksa?
+d|Apa yang ingin kamu sampaikan padaku tentang rasa hormat yang paling kamu hargai?
+d|Apa yang membuatmu merasa kenyamananmu akan tetap dijaga sampai kita tua?
+d|Apa yang membuatmu merasa batasan kita membuat cinta kita lebih dewasa?
+d|Apa yang kamu harapkan dari kita saat kita sama-sama sedang rapuh?
+d|Apa yang membuatmu merasa bebas menjadi dirimu tanpa harus memenuhi harapan siapa pun?
+d|Apa yang membuatmu merasa aku adalah orang yang aman untuk tubuh dan perasaanmu?
+d|Bagaimana kamu ingin kita menyembuhkan rasa canggung setelah membicarakan hal sulit?
+d|Apa yang membuatmu merasa kita sudah menjadi tim yang saling menjaga dalam segala hal?
+s|Kamu suka kalau aku menyalakan lampu tidur kecil saat kamu takut gelap?
+s|Apa jenis teh atau minuman hangat yang membuatmu tenang sebelum tidur?
+s|Kamu nyaman kalau kita tidur dengan jendela sedikit terbuka?
+m|Bagaimana kamu ingin aku menanggapi saat kamu butuh waktu sendiri setelah momen berdua?
+m|Apa yang membuatmu merasa kita perlu bicara lagi soal kenyamanan bulan ini?
+m|Bagaimana kita sebaiknya menjaga kebersihan dan kesehatan saat salah satu sedang flu?
+d|Apa yang membuatmu merasa aman bahkan ketika kamu sedang sangat rapuh di depanku?
+d|Apa yang kamu harapkan dariku untuk menjaga rahasia paling pribadimu?
+d|Apa yang membuatmu yakin aku tidak akan menceritakan keintiman kita kepada siapa pun?
+d|Apa yang membuatmu merasa kenyamananmu adalah hal yang tidak bisa ditawar?
