@@ -1,0 +1,252 @@
+# Persahabatan — teman, lo/gue boleh
+s|Gimana awal mula kita bisa temenan?
+s|Apa kesan pertama lo tentang gue?
+s|Siapa di antara kita yang paling sering telat?
+s|Apa tempat nongkrong favorit kita?
+s|Lagu apa yang paling cocok jadi lagu persahabatan kita?
+s|Siapa di antara kita yang paling jago masak?
+s|Apa makanan wajib tiap kita kumpul?
+s|Siapa yang paling sering traktir di antara kita?
+s|Apa julukan lucu yang pernah kita kasih ke satu sama lain?
+s|Momen paling lucu kita bareng apa?
+s|Siapa di antara kita yang paling sering ngilang dari grup chat?
+s|Apa foto bareng yang paling lo suka?
+s|Kalau kita bikin band, nama band-nya apa?
+s|Siapa di antara kita yang paling cocok jadi artis?
+s|Apa liburan bareng paling seru yang pernah kita jalani?
+s|Kalau persahabatan kita jadi film, judulnya apa?
+s|Siapa di antara kita yang paling sering curhat?
+s|Siapa yang paling sering kasih nasihat ngawur?
+s|Apa kebiasaan gue yang paling bikin lo ketawa?
+s|Apa kebiasaan lo yang menurut lo paling nyebelin buat kita?
+s|Kalau kita bikin bisnis bareng, bisnis apa yang paling cocok?
+s|Siapa yang paling sering ketiduran pas lagi kumpul?
+s|Apa singkatan atau kode rahasia yang cuma kita yang ngerti?
+s|Apa stiker andalan di grup chat kita?
+s|Siapa yang paling jago foto di antara kita?
+s|Siapa yang paling sering jadi tukang foto tapi jarang difoto?
+s|Apa permainan yang paling sering kita mainkan bareng?
+s|Siapa yang paling heboh kalau nonton bola atau konser bareng?
+s|Kalau kita satu kos, siapa yang paling berantakan?
+s|Kalau kita satu kos, siapa yang paling sering masak mi?
+s|Apa tontonan yang wajib kita tonton bareng?
+s|Siapa yang paling sering salah kirim chat ke grup?
+s|Apa jajanan yang selalu kita beli bareng waktu dulu?
+s|Kalau kita bikin seragam geng, warnanya apa?
+s|Siapa yang paling sering ngajak jalan tapi paling sering batal?
+s|Apa hal pertama yang lo lakuin kalau gue ulang tahun?
+s|Kalau kita jadi tim superhero, kekuatan masing-masing apa?
+s|Siapa yang paling cocok jadi ketua geng?
+s|Apa playlist yang cocok buat road trip kita?
+s|Siapa yang paling jago nawar kalau belanja bareng?
+s|Apa hal paling nekat yang pernah kita lakuin bareng?
+s|Kalau kita ikut acara kuis tim, siapa yang paling bisa diandalkan?
+s|Siapa yang paling sering nyontek atau minta jawaban dulu?
+s|Apa tempat yang pengin banget kita datengin bareng?
+s|Kalau kita terdampar di pulau, siapa yang bakal jadi pemimpin?
+s|Siapa di antara kita yang paling dramatis?
+s|Apa kebiasaan kita kalau lagi kumpul sampai malam?
+s|Siapa yang paling sering pinjam barang dan lupa balikin?
+s|Apa meme yang paling mewakili persahabatan kita?
+s|Siapa yang paling cepat akrab sama orang baru?
+s|Siapa yang paling pemalu di antara kita?
+s|Kalau kita bikin podcast, topik episode pertamanya apa?
+s|Siapa yang paling sering jadi korban jahil?
+s|Apa makanan yang pernah kita rebutin?
+s|Siapa yang paling sering bilang ini terakhir kali padahal enggak?
+s|Apa kejadian memalukan yang pernah kita alami bareng?
+s|Acara rutin apa yang wajib kita jaga tiap tahun, walau udah pada sibuk?
+s|Siapa yang paling sering ngajak foto selfie?
+s|Apa outfit kembar yang pernah atau pengin kita pakai?
+s|Siapa yang paling sering kasih kado paling niat?
+s|Apa hadiah dari gue yang paling lo ingat?
+s|Siapa yang paling jago nyanyi pas karaoke?
+s|Siapa yang paling sering ngehilangin suasana dengan cerita horor?
+s|Apa kafe atau warung langganan kita?
+s|Kalau kita jadi grup K-pop, posisi masing-masing apa?
+s|Siapa yang paling sering ketinggalan inside joke kita?
+s|Apa hal kecil dari gue yang selalu lo inget?
+s|Siapa yang paling sering kirim video lucu tengah malam?
+s|Apa kebiasaan lo kalau lagi bete yang udah gue hafal?
+s|Siapa yang paling sering ngebela temen lain?
+s|Apa hal pertama yang kita lakukan kalau ketemu setelah lama?
+s|Siapa yang paling sering berubah gaya rambut?
+s|Kalau kita satu kantor, siapa yang paling sering dimarahi bos?
+s|Siapa yang paling sering lupa password akun?
+s|Apa kebiasaan nongkrong kita yang udah jarang dilakuin sekarang?
+s|Siapa di antara kita yang paling mirip tokoh kartun?
+s|Apa kata yang paling sering kita ucapkan bareng?
+s|Siapa yang paling cerewet soal jadwal kumpul?
+s|Kalau kita bikin akun media sosial bareng, isinya apa?
+s|Siapa yang paling sering kebagian bayar parkir?
+s|Apa hal yang selalu kita bahas tiap ketemu?
+s|Kalau ada lomba sahabat paling kompak, kita menang di kategori apa?
+s|Apa makanan yang ngingetin lo sama gue?
+s|Siapa yang paling sering ngajak nonton film horor padahal penakut?
+s|Apa hal paling random yang pernah kita bahas sampai pagi?
+s|Siapa yang paling sering curhat soal kerjaan atau kuliah?
+s|Kalau kita jadi keluarga di sinetron, peran masing-masing apa?
+s|Siapa yang paling sering ngingetin makan dan istirahat?
+m|Kapan lo ngerasa kita udah jadi sahabat beneran, bukan sekadar temen?
+m|Apa yang bikin lo tetap temenan sama gue sampai sekarang?
+m|Apa hal yang lo pelajari dari persahabatan kita?
+m|Apa yang paling lo hargai dari gue sebagai temen?
+m|Pernah nggak lo ngerasa kita mulai jauh, dan kenapa?
+m|Apa hal yang pengin lo ubah dari cara kita temenan?
+m|Siapa temen yang paling berpengaruh dalam hidup lo?
+m|Apa arti sahabat buat lo?
+m|Gimana cara lo tahu temen lo lagi nggak baik-baik aja?
+m|Apa jenis dukungan yang paling lo butuhin dari temen?
+m|Apa hal yang bikin lo susah percaya sama temen baru?
+m|Pernah nggak lo ngerasa ditinggal temen-temen, gimana rasanya?
+m|Gimana pendapat lo soal temen yang cuma muncul pas butuh?
+m|Apa batas yang menurut lo penting dalam persahabatan?
+m|Gimana cara terbaik bilang ke temen kalau dia nyakitin kita?
+m|Apa hal yang bikin lo bangga punya temen kayak kita?
+m|Gimana cara kita tetap deket walau sibuk masing-masing?
+m|Apa yang biasanya bikin lo ngerasa canggung di tongkrongan?
+m|Gimana perasaan lo kalau temen deket punya sahabat baru?
+m|Apa yang pengin lo bilang ke temen yang udah lama nggak ngobrol?
+m|Gimana pendapat lo soal temenan sama mantan?
+m|Apa hal yang menurut lo nggak boleh dibocorin ke orang lain dari obrolan kita?
+m|Gimana cara lo minta maaf ke temen kalau salah?
+m|Apa yang lo lakuin kalau dua temen lo lagi berantem?
+m|Gimana pendapat lo soal pinjam-meminjam uang sesama temen?
+m|Apa yang bikin lo ngerasa dihargai di tongkrongan?
+m|Apa yang bikin lo ngerasa dicuekin di tongkrongan?
+m|Siapa temen yang paling sering lo jadiin tempat curhat, dan kenapa dia?
+m|Apa hal yang pengin lo lakuin bareng kita sebelum semua sibuk berkeluarga?
+m|Gimana persahabatan kita berubah setelah lulus atau kerja?
+m|Apa kebiasaan baik yang lo dapet dari gue?
+m|Apa kebiasaan buruk yang lo tularin ke gue?
+m|Gimana cara kita ngerayain keberhasilan temen tanpa bikin yang lain minder?
+m|Apa hal yang bikin lo ngerasa nggak enak sama gue tapi belum sempat dibahas?
+m|Gimana pendapat lo soal temen yang terlalu ikut campur urusan pribadi?
+m|Apa yang menurut lo bikin persahabatan bisa awet bertahun-tahun?
+m|Gimana cara lo nunjukin sayang ke temen tanpa terlihat lebay?
+m|Apa yang lo lakuin kalau temen terus-terusan ngebatalin janji?
+m|Apa yang bikin lo ngerasa bisa jadi diri sendiri di depan kita?
+m|Gimana perasaan lo kalau temen sukses duluan?
+m|Pernah nggak lo iri sama temen sendiri, soal apa?
+m|Apa hal yang paling lo kangenin dari masa awal kita temenan?
+m|Gimana cara kita jaga persahabatan kalau ada yang pindah kota?
+m|Apa yang bikin lo milih buat tetap temenan setelah kita pernah berantem?
+m|Apa yang pengin lo tahu tentang gue tapi belum pernah lo tanya?
+m|Gimana pendapat lo soal temen yang berubah setelah punya pacar?
+m|Apa yang lo harapin dari temen pas lo lagi patah hati?
+m|Apa yang lo harapin dari temen pas lo lagi susah duit?
+m|Gimana cara lo nolak ajakan temen tanpa bikin dia sakit hati?
+m|Apa yang bikin lo ngerasa temen ini bakal jadi temen seumur hidup?
+m|Gimana pendapat lo soal temen yang suka banding-bandingin hidup?
+m|Apa hal sederhana dari kita yang paling bikin lo bahagia?
+m|Apa yang lo pelajari tentang diri lo dari temen-temen lo?
+m|Gimana cara kita ngasih kritik ke temen tanpa bikin dia minder?
+m|Siapa temen lama yang pengin lo ajak gabung lagi ke tongkrongan?
+m|Apa tanda kalau persahabatan mulai nggak sehat menurut lo?
+m|Gimana perasaan lo kalau ada yang ngomongin lo di belakang?
+m|Apa yang lo lakuin kalau tahu temen dibicarain jelek sama orang lain?
+d|Apa yang belum pernah lo bilang ke gue tapi pengin banget lo sampaikan?
+d|Kapan lo paling butuh gue tapi gue nggak ada?
+d|Apa yang bikin lo takut kehilangan persahabatan ini?
+d|Pernah nggak lo kecewa banget sama gue, dan udah lo maafin?
+d|Apa luka dari persahabatan lama yang masih lo bawa?
+d|Apa yang bikin lo susah buka diri ke temen-temen?
+d|Kapan lo ngerasa paling sendirian walau lagi bareng temen-temen?
+d|Apa yang pengin lo ucapin terima kasih ke gue tapi selalu malu?
+d|Kalau suatu hari kita jauh, apa yang pengin lo inget dari persahabatan ini?
+d|Apa hal yang lo sembunyiin dari kita karena takut dihakimi?
+d|Apa yang bikin lo ngerasa nggak cukup sebagai temen?
+d|Siapa temen yang pernah lo kecewain dan pengin lo minta maaf?
+d|Apa persahabatan yang berakhir dan masih lo sesali?
+d|Apa yang bikin lo bertahan di masa sulit, dan apakah temen jadi bagian dari itu?
+d|Gimana caranya gue bisa jadi temen yang lebih baik buat lo?
+d|Apa yang pengin lo denger dari gue pas lo lagi nggak percaya sama diri sendiri?
+d|Apa yang lo pelajari dari temen yang udah pergi atau menjauh?
+d|Kapan lo ngerasa persahabatan kita nyelametin lo?
+d|Apa yang bikin lo takut cerita masalah keluarga ke kita?
+d|Apa yang bikin lo ngerasa beban kalau terus jadi tempat curhat?
+d|Apa hal yang lo harap gue tahu tentang hidup lo sekarang?
+d|Kalau persahabatan kita harus diuji, ujian apa yang paling lo takutin?
+d|Apa yang bikin lo yakin kita bakal tetap temenan sampai tua?
+d|Apa yang lo rasain pas lihat temen-temen udah punya jalan masing-masing?
+d|Apa yang pengin lo bilang ke diri lo yang dulu susah punya temen?
+d|Apa arti setia kawan buat lo setelah semua yang udah kita lewatin?
+d|Apa kenangan bareng kita yang bakal lo ceritain ke anak lo nanti?
+d|Apa yang bikin lo ngerasa beruntung kenal gue?
+d|Apa yang pengin lo lakuin kalau suatu hari salah satu dari kita sakit parah?
+d|Apa yang bikin lo ngerasa diterima apa adanya di persahabatan ini?
+d|Apa hal yang pengin lo perbaiki dari diri lo sebagai temen?
+d|Kapan terakhir kali lo nangis di depan temen, dan gimana rasanya?
+d|Apa yang lo harap kita lakuin kalau salah satu dari kita lagi di titik terendah?
+d|Apa yang bikin persahabatan ini beda dari semua pertemanan yang pernah lo punya?
+d|Apa yang pengin lo jaga dari persahabatan ini apa pun yang terjadi?
+s|Siapa yang paling sering jadi sopir pas kita jalan bareng?
+s|Apa warung tenda favorit kita buat makan tengah malam?
+s|Siapa yang paling sering ngasih ide liburan tapi nggak pernah jadi?
+s|Apa film yang kita tonton bareng sampai hafal dialognya?
+s|Siapa di antara kita yang paling sering dikira kakak-adik?
+s|Apa hal paling absurd yang pernah kita debatin?
+s|Siapa yang paling sering ketawa sampai nangis?
+s|Apa julukan grup kita kalau dikasih orang lain?
+s|Siapa yang paling sering ngasih spoiler film?
+s|Apa makanan yang selalu kita pesan buat dibagi rame-rame?
+s|Siapa yang paling sering nyasar kalau kita jalan di mal?
+s|Apa barang yang pernah kita beli kembaran?
+s|Siapa yang paling jago bikin rencana liburan detail?
+s|Apa kejadian lucu waktu kita nginep bareng?
+s|Siapa yang paling sering jadi penengah kalau ada yang berantem?
+s|Apa kebiasaan kita yang bikin orang lain heran?
+s|Siapa yang paling sering ngajak olahraga tapi paling cepat capek?
+s|Apa hal yang selalu kita lakuin di hari terakhir liburan?
+s|Siapa yang paling sering ngasih kado lucu tapi nggak berguna?
+s|Apa grup chat lain yang lo punya tapi paling garing dibanding grup kita?
+s|Siapa yang paling sering bikin polling di grup?
+s|Apa hal yang bikin kita langsung ketawa cuma dengan satu kata?
+s|Siapa yang paling sering ngajak makan pedas padahal nggak kuat?
+s|Apa tempat foto andalan kita di setiap kota?
+s|Siapa yang paling suka ngatur playlist pas jalan bareng?
+s|Apa hal pertama yang lo ceritain ke kita kalau habis kencan?
+s|Siapa yang paling sering jadi korban candaan tapi paling sabar?
+s|Kalau kita bikin buku kenangan, judul bab pertamanya apa?
+s|Siapa yang paling jago bikin kejutan ulang tahun?
+m|Apa yang bikin lo ngerasa nyaman diam lama-lama bareng kita?
+m|Gimana cara kita ngejaga persahabatan pas salah satu udah nikah?
+m|Apa hal yang pengin lo pelajari dari temen lain di tongkrongan kita?
+m|Apa yang lo lakuin kalau ngerasa jadi orang paling nggak penting di grup?
+m|Gimana pendapat lo soal temen yang selalu minta dimengerti tapi jarang ngertiin?
+m|Apa kebiasaan kita yang menurut lo bikin persahabatan makin kuat?
+m|Apa yang bikin lo susah cerita masalah ke temen, padahal deket?
+m|Gimana cara lo nyemangatin temen yang lagi gagal tanpa terdengar menggurui?
+m|Apa yang paling lo takutin kalau kita nggak satu kota lagi?
+m|Gimana pendapat lo soal temen yang suka pamer di media sosial?
+m|Apa yang pengin lo lakuin buat temen yang selama ini paling sering bantu lo?
+m|Gimana cara kita nyelesaiin salah paham di grup chat biar nggak makin panjang?
+m|Apa yang bikin lo ngerasa dilupain sama temen?
+m|Gimana perasaan lo kalau ada temen yang lebih deket sama orang lain di grup?
+m|Apa yang lo harap dari temen pas lo lagi ngerasa kesepian?
+m|Gimana cara lo bilang nggak ke temen yang ngajak hal yang lo nggak nyaman?
+m|Apa hal kecil dari temen yang bikin lo ngerasa disayang?
+m|Gimana pendapat lo soal persahabatan beda umur jauh?
+m|Apa yang bikin lo milih temen yang sama buat cerita hal berbeda?
+m|Gimana cara lo nerima temen yang berubah karena hidupnya berubah?
+d|Apa yang pengin lo bilang ke temen yang dulu ninggalin lo?
+d|Apa yang bikin lo tetap percaya sama persahabatan setelah pernah dikhianati?
+d|Apa yang lo harap kita sadar tentang perjuangan lo selama ini?
+d|Kapan lo ngerasa persahabatan kita lebih kuat dari hubungan keluarga?
+d|Apa hal yang bikin lo takut jadi beban buat temen-temen?
+d|Apa yang lo rasain kalau inget temen yang udah meninggal atau pergi jauh?
+d|Apa yang pengin lo lakuin buat persahabatan ini sebelum semuanya berubah?
+d|Apa satu hal tentang lo yang cuma kita yang tahu, dan gimana rasanya dipercaya?
+d|Apa yang bikin lo ngerasa nggak sendirian di dunia ini?
+d|Kalau lo bisa ngasih satu janji buat persahabatan ini, janjinya apa?
+d|Apa yang bikin lo ngerasa harus kuat di depan temen padahal lagi rapuh?
+d|Apa hal yang pengin lo ubah dari cara lo memperlakukan temen di masa lalu?
+d|Apa yang bikin lo ngerasa persahabatan ini rumah kedua buat lo?
+d|Apa yang lo harap kita ingat tentang lo kalau suatu hari kita jarang ketemu?
+d|Kalau sepuluh tahun lagi kita jarang ngobrol, apa yang paling bikin lo sedih?
+d|Apa yang lo rasain pas temen bener-bener ada di saat lo jatuh?
+d|Apa pelajaran paling berharga yang lo dapet dari kehilangan temen?
+d|Apa yang bikin lo bisa maafin temen yang udah nyakitin lo?
+s|Siapa yang paling sering jadi alarm buat bangunin yang lain pas nginep?
+s|Apa jajanan kaki lima yang selalu kita beli kalau lewat jalan yang sama?
+s|Siapa yang paling sering ngasih ulasan makanan kayak kritikus?
