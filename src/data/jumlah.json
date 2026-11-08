@@ -1,0 +1,248 @@
+{
+ "masa-lalu": {
+  "total": 260,
+  "santai": 95,
+  "sedang": 92,
+  "dalam": 73
+ },
+ "masa-sekarang": {
+  "total": 256,
+  "santai": 95,
+  "sedang": 87,
+  "dalam": 74
+ },
+ "masa-depan": {
+  "total": 255,
+  "santai": 97,
+  "sedang": 82,
+  "dalam": 76
+ },
+ "kenalan-lebih-dalam": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kencan-pertama": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "ldr": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "konflik-baikan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "bahasa-cinta": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "keuangan-bareng": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "pernikahan-keluarga": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "parenting": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kepercayaan-kecemburuan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kebiasaan-sehari-hari": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "mimpi-bareng": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "keintiman-romansa": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "fantasi-pasangan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "batasan-kenyamanan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "fantasi-halu": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "anime-film": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "dunia-game": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "time-travel-multiverse": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "superpower": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "zombie-survival": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "would-you-rather": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "random-lucu": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "roasting-ringan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "persahabatan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kenangan-sekolah": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kampus-kerja": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "rahasia-pengakuan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "gosip-aman": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "orang-tua-anak": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kakak-adik": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "tradisi-keluarga": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "refleksi-diri": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "self-love": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "karier-ambisi": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "ketakutan-harapan": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "nilai-hidup": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "kesehatan-mental": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ },
+ "spiritualitas-makna": {
+  "total": 0,
+  "santai": 0,
+  "sedang": 0,
+  "dalam": 0
+ }
+}

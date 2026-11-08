@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="id" data-tema="merah">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Obrolan · Kartu ngobrol buat pasangan & teman</title>
+    <meta name="description" content="Kartu pertanyaan deep talk buat pasangan, teman, keluarga, atau diri sendiri. Tarik kartu, jawab bergantian. Gratis, tanpa akun, bisa offline." />
+    <meta name="theme-color" content="#5e0d18" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:title" content="Obrolan · Kartu ngobrol" />
+    <meta property="og:description" content="Tarik kartu, jawab bergantian. 10.000+ pertanyaan buat pasangan, teman, keluarga, dan diri sendiri." />
+    <meta property="og:image" content="/og.png" />
+    <script>
+      // pasang tema tersimpan sebelum gambar pertama, biar tidak berkedip
+      try {
+        var p = JSON.parse(localStorage.getItem("obrolan:pengaturan") || "{}");
+        if (p.tema) document.documentElement.dataset.tema = p.tema;
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

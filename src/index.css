@@ -1,0 +1,204 @@
+@import "tailwindcss";
+@import "@fontsource-variable/lexend/wght.css";
+@import "@fontsource/patrick-hand/latin-400.css";
+@import "@fontsource/gochi-hand/latin-400.css";
+@import "@fontsource/shrikhand/latin-400.css";
+
+@theme inline {
+  --color-latar: var(--latar);
+  --color-tinta: var(--tinta);
+  --color-redup: var(--redup);
+  --color-permukaan: var(--permukaan);
+  --color-ptinta: var(--ptinta);
+  --color-predup: var(--predup);
+  --color-utama: var(--utama);
+  --color-utinta: var(--utinta);
+  --color-emas: var(--emas);
+  --color-garis: var(--garis);
+  --color-bingkai: var(--bingkai);
+  --color-ktinta: var(--kartu-tinta);
+  --font-ui: var(--huruf-ui);
+  --font-tangan: var(--huruf-tangan);
+  --font-judul: var(--huruf-judul);
+}
+
+/* ---------- tema ---------- */
+:root,
+[data-tema="merah"] {
+  --latar: #5e0d18;
+  --latar-gambar: radial-gradient(120% 70% at 50% 0%, #7a1422 0%, #5e0d18 60%);
+  --tinta: #fff7ec;
+  --redup: #f3d3cc;
+  --permukaan: #fff7ec;
+  --ptinta: #3d0a12;
+  --predup: #7a4a50;
+  --utama: #e2bd63;
+  --utinta: #3d0a12;
+  --emas: #d9b25f;
+  --garis: rgb(255 247 236 / 0.28);
+  --bingkai: #fffaf2;
+  --kartu-tinta: #fffaf2;
+  --kartu-l: 0.47;
+  --kartu-c: 0.16;
+  --kartu-geser: 0deg;
+  --huruf-ui: "Lexend Variable", system-ui, sans-serif;
+  --huruf-tangan: "Patrick Hand", "Comic Sans MS", cursive;
+  --huruf-judul: "Patrick Hand", "Comic Sans MS", cursive;
+  --judul-spasi: 0.04em;
+  color-scheme: dark;
+}
+
+[data-tema="pastel"] {
+  --latar: #fbf0ec;
+  --latar-gambar: radial-gradient(90% 60% at 100% 0%, #f6dbe6 0%, transparent 70%), radial-gradient(80% 50% at 0% 100%, #e5dcf5 0%, transparent 70%), #fbf0ec;
+  --tinta: #2e2236;
+  --redup: #66546e;
+  --permukaan: #ffffff;
+  --ptinta: #2e2236;
+  --predup: #66546e;
+  --utama: #6a3f9e;
+  --utinta: #ffffff;
+  --emas: #b8893a;
+  --garis: #e6d3dc;
+  --bingkai: #ffffff;
+  --kartu-tinta: #2c1f33;
+  --kartu-l: 0.86;
+  --kartu-c: 0.075;
+  --kartu-geser: 0deg;
+  color-scheme: light;
+}
+
+[data-tema="malam"] {
+  --latar: #0c1430;
+  --latar-gambar: radial-gradient(100% 60% at 50% 0%, #1a2752 0%, #0c1430 65%);
+  --tinta: #eef1fb;
+  --redup: #aeb7d8;
+  --permukaan: #17224a;
+  --ptinta: #eef1fb;
+  --predup: #aeb7d8;
+  --utama: #e2bd5b;
+  --utinta: #0c1430;
+  --emas: #e2bd5b;
+  --garis: rgb(238 241 251 / 0.18);
+  --bingkai: #f4efe2;
+  --kartu-tinta: #fdf8ec;
+  --kartu-l: 0.42;
+  --kartu-c: 0.1;
+  --kartu-geser: 0deg;
+  color-scheme: dark;
+}
+
+[data-tema="senja"] {
+  --latar: #a4380f;
+  --latar-gambar: linear-gradient(172deg, #b0431a 0%, #8f2d45 48%, #4a1f6e 100%);
+  --tinta: #fff6ea;
+  --redup: #ffe4d0;
+  --permukaan: #fff4ea;
+  --ptinta: #3e1430;
+  --predup: #774460;
+  --utama: #ffcf7a;
+  --utinta: #3e1430;
+  --emas: #ffcf7a;
+  --garis: rgb(255 246 234 / 0.3);
+  --bingkai: #fff8ef;
+  --kartu-tinta: #fffaf2;
+  --kartu-l: 0.47;
+  --kartu-c: 0.14;
+  --kartu-geser: 0deg;
+  color-scheme: dark;
+}
+
+[data-tema="hutan"] {
+  --latar: #1d3528;
+  --latar-gambar: radial-gradient(110% 60% at 50% 0%, #29473a 0%, #1d3528 60%);
+  --tinta: #efe5c8;
+  --redup: #c9cfae;
+  --permukaan: #efe5c8;
+  --ptinta: #1d3528;
+  --predup: #4c5b49;
+  --utama: #efe5c8;
+  --utinta: #1d3528;
+  --emas: #c9a55a;
+  --garis: rgb(239 229 200 / 0.24);
+  --bingkai: #f6efd9;
+  --kartu-tinta: #f8f2de;
+  --kartu-l: 0.44;
+  --kartu-c: 0.075;
+  --kartu-geser: 0deg;
+  color-scheme: dark;
+}
+
+[data-tema="retro"] {
+  --latar: #e0a12c;
+  --latar-gambar: repeating-linear-gradient(0deg, transparent 0 46px, rgb(59 34 19 / 0.06) 46px 52px), #e0a12c;
+  --tinta: #3b2213;
+  --redup: #4f2e17;
+  --permukaan: #fbeed0;
+  --ptinta: #3b2213;
+  --predup: #6b4527;
+  --utama: #3b2213;
+  --utinta: #fbeed0;
+  --emas: #f2c14e;
+  --garis: rgb(59 34 19 / 0.22);
+  --bingkai: #fbeed0;
+  --kartu-tinta: #fbeed0;
+  --kartu-l: 0.47;
+  --kartu-c: 0.12;
+  --kartu-geser: 18deg;
+  --huruf-tangan: "Gochi Hand", "Comic Sans MS", cursive;
+  --huruf-judul: "Shrikhand", Georgia, serif;
+  --judul-spasi: 0.01em;
+  color-scheme: light;
+}
+
+/* ---------- dasar (di layer base supaya utilitas Tailwind tetap menang) ---------- */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    background: var(--latar);
+  }
+  body {
+    margin: 0;
+    min-height: 100dvh;
+    background: var(--latar-gambar, var(--latar));
+    background-attachment: fixed;
+    color: var(--tinta);
+    font-family: var(--huruf-ui);
+    font-size: 18px;
+    line-height: 1.5;
+    -webkit-tap-highlight-color: transparent;
+  }
+  :focus-visible {
+    outline: 3px solid var(--emas);
+    outline-offset: 3px;
+  }
+}
+.judul-logo {
+  font-family: var(--huruf-judul);
+  letter-spacing: var(--judul-spasi, 0.04em);
+}
+
+/* kartu: ukuran teks mengikuti lebar kartu */
+.kartu-wadah {
+  container-type: inline-size;
+}
+.kartu-teks {
+  font-family: var(--huruf-tangan);
+  text-transform: uppercase;
+  line-height: 1.18;
+  text-wrap: balance;
+}
+.sisi-belakang-tersembunyi {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

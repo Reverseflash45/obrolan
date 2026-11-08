@@ -1,0 +1,58 @@
+{
+  "grup": [
+    { "id": "pasangan", "nama": "Berpasangan", "ringkas": "Buat kamu dan dia" },
+    { "id": "intim", "nama": "Intim 18+", "ringkas": "Khusus pasangan dewasa" },
+    { "id": "seru", "nama": "Seru-seruan", "ringkas": "Halu, lucu, dan absurd" },
+    { "id": "teman", "nama": "Teman", "ringkas": "Buat tongkrongan" },
+    { "id": "keluarga", "nama": "Keluarga", "ringkas": "Buat di rumah" },
+    { "id": "diri", "nama": "Diri Sendiri", "ringkas": "Buat kenal diri sendiri" }
+  ],
+  "topik": [
+    { "id": "masa-lalu", "nama": "Masa Lalu", "grup": "pasangan", "ikon": "🕰️", "mode": ["pasangan"], "adult": false },
+    { "id": "masa-sekarang", "nama": "Masa Sekarang", "grup": "pasangan", "ikon": "☕", "mode": ["pasangan"], "adult": false },
+    { "id": "masa-depan", "nama": "Masa Depan", "grup": "pasangan", "ikon": "🌅", "mode": ["pasangan"], "adult": false },
+    { "id": "kenalan-lebih-dalam", "nama": "Kenalan Lebih Dalam", "grup": "pasangan", "ikon": "🔍", "mode": ["pasangan"], "adult": false },
+    { "id": "kencan-pertama", "nama": "Kencan Pertama", "grup": "pasangan", "ikon": "🌹", "mode": ["pasangan"], "adult": false },
+    { "id": "ldr", "nama": "LDR", "grup": "pasangan", "ikon": "✈️", "mode": ["pasangan"], "adult": false },
+    { "id": "konflik-baikan", "nama": "Konflik & Baikan", "grup": "pasangan", "ikon": "🤝", "mode": ["pasangan"], "adult": false },
+    { "id": "bahasa-cinta", "nama": "Bahasa Cinta", "grup": "pasangan", "ikon": "💌", "mode": ["pasangan"], "adult": false },
+    { "id": "keuangan-bareng", "nama": "Keuangan Bareng", "grup": "pasangan", "ikon": "💰", "mode": ["pasangan"], "adult": false },
+    { "id": "pernikahan-keluarga", "nama": "Pernikahan & Keluarga", "grup": "pasangan", "ikon": "💍", "mode": ["pasangan"], "adult": false },
+    { "id": "parenting", "nama": "Parenting", "grup": "pasangan", "ikon": "🍼", "mode": ["pasangan"], "adult": false },
+    { "id": "kepercayaan-kecemburuan", "nama": "Kepercayaan & Kecemburuan", "grup": "pasangan", "ikon": "🔐", "mode": ["pasangan"], "adult": false },
+    { "id": "kebiasaan-sehari-hari", "nama": "Kebiasaan Sehari-hari", "grup": "pasangan", "ikon": "🪥", "mode": ["pasangan"], "adult": false },
+    { "id": "mimpi-bareng", "nama": "Mimpi Bareng", "grup": "pasangan", "ikon": "🌠", "mode": ["pasangan"], "adult": false },
+
+    { "id": "keintiman-romansa", "nama": "Keintiman & Romansa", "grup": "intim", "ikon": "🕯️", "mode": ["pasangan"], "adult": true },
+    { "id": "fantasi-pasangan", "nama": "Fantasi Pasangan", "grup": "intim", "ikon": "💭", "mode": ["pasangan"], "adult": true },
+    { "id": "batasan-kenyamanan", "nama": "Batasan & Kenyamanan", "grup": "intim", "ikon": "🛡️", "mode": ["pasangan"], "adult": true },
+
+    { "id": "fantasi-halu", "nama": "Fantasi & Halu", "grup": "seru", "ikon": "🦄", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "anime-film", "nama": "Anime & Film", "grup": "seru", "ikon": "🎬", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "dunia-game", "nama": "Dunia Game", "grup": "seru", "ikon": "🎮", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "time-travel-multiverse", "nama": "Time Travel & Multiverse", "grup": "seru", "ikon": "⏳", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "superpower", "nama": "Superpower", "grup": "seru", "ikon": "⚡", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "zombie-survival", "nama": "Zombie & Survival", "grup": "seru", "ikon": "🧟", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "would-you-rather", "nama": "Would You Rather", "grup": "seru", "ikon": "🤔", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "random-lucu", "nama": "Random Lucu", "grup": "seru", "ikon": "🤪", "mode": ["pasangan", "teman", "keluarga", "sendiri"], "adult": false },
+    { "id": "roasting-ringan", "nama": "Roasting Ringan", "grup": "seru", "ikon": "🔥", "mode": ["pasangan", "teman", "keluarga"], "adult": false },
+
+    { "id": "persahabatan", "nama": "Persahabatan", "grup": "teman", "ikon": "🫂", "mode": ["teman"], "adult": false },
+    { "id": "kenangan-sekolah", "nama": "Kenangan Sekolah", "grup": "teman", "ikon": "🎒", "mode": ["teman"], "adult": false },
+    { "id": "kampus-kerja", "nama": "Kampus & Kerja", "grup": "teman", "ikon": "💼", "mode": ["teman"], "adult": false },
+    { "id": "rahasia-pengakuan", "nama": "Rahasia & Pengakuan", "grup": "teman", "ikon": "🤫", "mode": ["teman"], "adult": false },
+    { "id": "gosip-aman", "nama": "Gosip Aman", "grup": "teman", "ikon": "🗣️", "mode": ["teman"], "adult": false },
+
+    { "id": "orang-tua-anak", "nama": "Orang Tua & Anak", "grup": "keluarga", "ikon": "🏡", "mode": ["keluarga"], "adult": false },
+    { "id": "kakak-adik", "nama": "Kakak Adik", "grup": "keluarga", "ikon": "👫", "mode": ["keluarga"], "adult": false },
+    { "id": "tradisi-keluarga", "nama": "Tradisi Keluarga", "grup": "keluarga", "ikon": "🍲", "mode": ["keluarga"], "adult": false },
+
+    { "id": "refleksi-diri", "nama": "Refleksi Diri", "grup": "diri", "ikon": "🪞", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "self-love", "nama": "Self Love", "grup": "diri", "ikon": "💗", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "karier-ambisi", "nama": "Karier & Ambisi", "grup": "diri", "ikon": "🚀", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "ketakutan-harapan", "nama": "Ketakutan & Harapan", "grup": "diri", "ikon": "🌧️", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "nilai-hidup", "nama": "Nilai Hidup", "grup": "diri", "ikon": "🧭", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "kesehatan-mental", "nama": "Kesehatan Mental Ringan", "grup": "diri", "ikon": "🌿", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false },
+    { "id": "spiritualitas-makna", "nama": "Spiritualitas & Makna Hidup", "grup": "diri", "ikon": "✨", "mode": ["sendiri", "pasangan", "teman", "keluarga"], "adult": false }
+  ]
+}

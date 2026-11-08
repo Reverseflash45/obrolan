@@ -1,0 +1,256 @@
+# Masa Depan — pasangan, aku/kamu
+s|Kalau kita punya rumah sendiri, kamu mau rumah gaya apa?
+s|Kota atau negara mana yang ingin kamu kunjungi bareng aku?
+s|Kalau punya hewan peliharaan bareng, kamu mau hewan apa?
+s|Nanti di rumah kita, ruangan mana yang paling penting buatmu?
+s|Kamu mau rumah dekat pantai, gunung, atau di tengah kota?
+s|Apa mobil atau kendaraan impianmu untuk keluarga nanti?
+s|Kamu mau ulang tahun ke-40 dirayakan seperti apa?
+s|Apa makanan yang ingin kamu masak rutin di rumah kita nanti?
+s|Kalau kita buka usaha bareng, usaha apa yang cocok?
+s|Kamu ingin pensiun di umur berapa?
+s|Kalau sudah tua nanti, kamu mau tinggal di mana?
+s|Apa tradisi tahunan yang ingin kita buat berdua?
+s|Kalau kita bikin kanal YouTube bareng, isinya apa?
+s|Warna cat dinding kamar kita nanti apa?
+s|Apa hobi yang ingin kamu tekuni saat pensiun?
+s|Kalau kita punya kebun, kamu mau menanam apa?
+s|Liburan impian kita sepuluh tahun lagi seperti apa?
+s|Kalau menang undian satu miliar, apa hal pertama yang kita lakukan?
+s|Apa gaya dekorasi rumah yang paling kamu suka?
+s|Kamu ingin punya perpustakaan kecil di rumah?
+s|Kalau kita punya dapur impian, isinya apa saja?
+s|Kamu ingin belajar bahasa asing apa di masa depan?
+s|Kalau kita ikut lomba pasangan, lomba apa yang bisa kita menangkan?
+s|Kamu mau kita punya kebiasaan pagi apa nanti?
+s|Kalau bisa tinggal setahun di luar negeri, negara mana yang kamu pilih?
+s|Apa alat musik yang ingin kamu kuasai suatu hari?
+s|Kamu mau anniversary kesepuluh kita dirayakan dengan cara apa?
+s|Kalau kita punya kafe, menu andalannya apa?
+s|Apa olahraga yang ingin kita lakukan bareng saat tua nanti?
+s|Kamu ingin rumah kita ramai tamu atau tenang?
+s|Apa barang mahal yang ingin kamu beli suatu hari nanti?
+s|Kalau kita road trip keliling Indonesia, kota pertama yang kita datangi apa?
+s|Apa acara rutin bulanan yang ingin kita jalankan berdua?
+s|Kamu ingin punya kamar kerja sendiri di rumah nanti?
+s|Kalau kita tua, kamu bayangkan kita jadi kakek-nenek yang seperti apa?
+s|Apa konser atau festival yang ingin kita datangi bareng?
+s|Kalau kita bisa punya satu ruangan aneh di rumah, ruangan apa itu?
+s|Apa kebiasaan lucu yang menurutmu akan kita punya saat tua?
+s|Kamu ingin kita pernah tinggal di kota lain dulu sebelum menetap?
+s|Apa jenis kendaraan yang ingin kita pakai untuk jalan-jalan nanti?
+s|Kamu ingin punya halaman belakang atau balkon?
+s|Apa keterampilan rumah tangga yang ingin kamu kuasai?
+s|Kalau kita bikin buku bareng, judulnya apa?
+s|Apa yang ingin kamu pajang di dinding ruang tamu kita?
+s|Kamu ingin rumah kita punya aroma khas apa?
+s|Apa menu sarapan andalan keluarga kita nanti?
+s|Kalau kita punya kapal kecil, kita namai apa?
+s|Kamu lebih suka rumah minimalis atau penuh barang kenangan?
+s|Apa yang ingin kita lakukan di malam tahun baru sepuluh tahun lagi?
+s|Kalau kita jadi tetangga yang terkenal di kompleks, terkenal karena apa?
+s|Apa kebiasaan hari Minggu yang ingin kita pertahankan selamanya?
+s|Kamu ingin kita naik gunung atau menyelam bareng suatu hari?
+s|Apa kegiatan sosial yang ingin kita ikuti bareng nanti?
+s|Kalau kita punya peliharaan, siapa yang paling sering merawatnya?
+s|Kamu ingin kita punya mobil atau cukup transportasi umum?
+s|Apa resep keluarga yang ingin kita wariskan nanti?
+s|Kalau bisa memilih tetangga, kamu mau tetangga seperti apa?
+s|Kamu ingin rumah kita punya taman bermain kecil?
+s|Apa kota yang menurutmu cocok untuk membesarkan keluarga?
+s|Kalau kita jadi orang tua, panggilan apa yang ingin dipakai anak untuk kita?
+s|Apa yang ingin kamu lakukan di ulang tahun pernikahan ke-25?
+s|Kamu mau punya rumah satu lantai atau bertingkat?
+s|Apa kebiasaan sehat yang ingin kita mulai bareng?
+s|Kalau kita bikin usaha online, jualan apa?
+s|Kamu ingin kita punya mesin kopi sendiri di rumah?
+s|Apa yang ingin kamu coba sebelum umur 35?
+s|Apa negara yang ingin kita kunjungi saat bulan madu kedua?
+s|Kalau kita punya podcast berdua, topiknya apa?
+s|Kamu ingin kamar tidur kita bernuansa apa?
+s|Apa jenis liburan yang ingin kita jadikan kebiasaan tahunan?
+s|Kalau kita tua dan pikun, kamu ingin aku selalu ingat hal apa tentangmu?
+s|Apa hal pertama yang ingin kamu beli untuk rumah kita?
+s|Kamu ingin rumah kita dekat dengan keluarga siapa?
+s|Kalau kita punya hari libur khusus berdua, kita namai apa?
+s|Apa kebiasaan baru yang ingin kamu mulai tahun depan?
+s|Kalau kita membuat kapsul waktu, apa yang kamu masukkan?
+s|Kamu ingin kita bisa memasak masakan negara mana dengan jago?
+s|Apa tempat yang ingin kamu jadikan tempat kencan rutin kita nanti?
+s|Kamu ingin rumah kita penuh tanaman atau cukup beberapa saja?
+s|Apa yang ingin kamu lakukan pertama kali setelah kita tinggal bersama?
+s|Kalau kita punya satu hari tanpa ponsel tiap minggu, mau ngapain?
+s|Apa tantangan seru yang ingin kita taklukkan bareng?
+s|Kalau kamu bisa melihat foto kita dua puluh tahun lagi, kamu harap kita sedang di mana?
+s|Kamu ingin punya studio atau ruang hobi di rumah?
+s|Apa kebiasaan malam yang ingin kita punya sebagai pasangan?
+s|Kalau kita tinggal di desa, apa yang paling ingin kamu lakukan?
+m|Seperti apa kehidupan ideal kita lima tahun lagi menurutmu?
+m|Apa target terbesar yang ingin kamu capai sebelum usia 30?
+m|Bagaimana kamu membayangkan pembagian pekerjaan rumah kita nanti?
+m|Apa yang ingin kamu pertahankan dari hubungan kita sampai tua?
+m|Bagaimana pendapatmu tentang tinggal dekat atau jauh dari orang tua setelah menikah?
+m|Berapa anak yang kamu bayangkan, atau kamu belum ingin punya anak?
+m|Bagaimana kamu ingin kita mengatur keuangan bersama nanti?
+m|Apa yang perlu kita siapkan sebelum melangkah ke jenjang berikutnya?
+m|Bagaimana kamu membayangkan karier kita berjalan berdampingan?
+m|Kalau salah satu dari kita dapat kerja di kota lain, apa yang sebaiknya kita lakukan?
+m|Apa mimpi pribadi yang ingin kamu kejar walau nanti sudah berkeluarga?
+m|Bagaimana kamu ingin kita merayakan pencapaian satu sama lain?
+m|Apa nilai yang ingin kita tanamkan di rumah tangga kita?
+m|Bagaimana kamu membayangkan hubungan kita dengan keluarga besar masing-masing?
+m|Apa yang menurutmu akan jadi tantangan terbesar kita di masa depan?
+m|Bagaimana kamu ingin kita menghabiskan hari raya nanti, di keluarga siapa?
+m|Apa yang ingin kamu ubah dari kebiasaan kita sebelum hidup bersama?
+m|Bagaimana pendapatmu soal tinggal di rumah sewa dulu atau langsung beli?
+m|Apa rencana tabunganmu untuk lima tahun ke depan?
+m|Bagaimana kamu ingin kita menjaga waktu berdua saat nanti sudah sibuk?
+m|Kalau kita punya anak, bagaimana kamu membayangkan perayaan ulang tahun mereka?
+m|Apa yang kamu harapkan dariku saat kita sudah tua nanti?
+m|Bagaimana kamu ingin kita menjaga kesehatan bersama sampai tua?
+m|Apa yang ingin kamu pelajari sebelum menjadi orang tua?
+m|Apa pekerjaan impianmu sepuluh tahun lagi?
+m|Bagaimana cara kita tetap punya teman dan kehidupan sosial setelah menikah?
+m|Apa yang menurutmu penting disepakati sebelum tinggal serumah?
+m|Bagaimana kamu membayangkan pembagian waktu antara kerja, keluarga, dan diri sendiri?
+m|Apa rencana cadangan kita kalau mimpi besar tidak berjalan sesuai harapan?
+m|Bagaimana kamu ingin kita merawat orang tua kita saat mereka sepuh?
+m|Apa jenis pernikahan atau acara yang kamu bayangkan untuk kita?
+m|Bagaimana kita akan memutuskan hal besar seperti pindah rumah atau ganti kerja?
+m|Apa yang ingin kamu capai bersama aku sebelum kita punya anak?
+m|Kalau kita sudah sukses, bagaimana cara kita tetap rendah hati?
+m|Apa pendapatmu tentang punya asisten rumah tangga nanti?
+m|Bagaimana kamu ingin hari kerja biasa kita terlihat sepuluh tahun lagi?
+m|Apa hal yang ingin kamu jaga agar tidak berubah saat kita bertambah tua?
+m|Bagaimana pendapatmu soal kerja dari rumah untuk jangka panjang?
+m|Apa yang kamu bayangkan saat kita merayakan pensiun bersama?
+m|Apa jenis rumah tangga yang ingin kita hindari?
+m|Bagaimana kamu ingin kita mendidik diri sendiri soal investasi?
+m|Apa mimpi yang ingin kamu wujudkan untuk orang tuamu?
+m|Bagaimana kamu ingin kita menghadapi masa krisis keuangan nanti?
+m|Apa yang menurutmu akan membuat kita tetap saling jatuh cinta setelah puluhan tahun?
+m|Apa yang ingin kamu tinggalkan untuk dunia suatu hari nanti?
+m|Bagaimana pendapatmu soal sekolah anak, negeri atau swasta?
+m|Apa yang paling kamu nantikan dari tinggal bersamaku?
+m|Apa yang paling bikin kamu deg-degan dari tinggal bersamaku?
+m|Bagaimana kamu membayangkan pembagian peran saat kita punya bayi?
+m|Apa rencana pendidikan lanjutan yang masih ingin kamu tempuh?
+m|Bagaimana kita akan menghadapi perbedaan keinginan soal tempat tinggal?
+m|Apa yang kamu harapkan dari tahun depan untuk hubungan kita?
+m|Apa jenis pasangan tua yang ingin kita tiru dari orang yang kamu kenal?
+m|Bagaimana kamu ingin kita mengatur waktu dengan keluarga besar setiap bulan?
+m|Apa yang ingin kamu sudah miliki sebelum menikah?
+m|Bagaimana kamu ingin kita merayakan hari biasa supaya tidak terasa monoton?
+m|Kalau suatu hari kita bangkrut, apa yang akan kita lakukan pertama kali?
+m|Bagaimana cara kita membagi tanggung jawab finansial ke orang tua masing-masing?
+m|Apa ketakutanmu soal menjadi orang tua?
+m|Apa kebiasaan kita sekarang yang ingin kita bawa sampai menikah?
+m|Bagaimana kamu ingin kita menghadapi masa paruh baya nanti?
+m|Apa yang ingin kamu lakukan untuk merayakan sepuluh tahun bersamaku?
+m|Bagaimana kamu ingin kita menjaga privasi rumah tangga dari orang luar?
+m|Kalau kamu harus pindah kerja ke luar negeri, apakah kamu ingin aku ikut?
+m|Apa pendapatmu soal tinggal bersama sebelum menikah atau sesudahnya saja?
+m|Apa rencanamu kalau suatu saat ingin ganti karier total?
+m|Bagaimana kamu membayangkan rutinitas kita di hari tua?
+m|Apa rencana kita kalau ternyata sulit punya anak?
+m|Bagaimana kita akan menentukan nama anak kalau punya?
+m|Apa yang ingin kamu siapkan agar kita tidak membebani anak saat tua nanti?
+m|Apa mimpi bersama yang harus kita mulai dari sekarang?
+d|Apa ketakutan terbesarmu tentang masa depan kita?
+d|Kalau kita tidak berakhir bersama, apa yang paling kamu sesali?
+d|Apa yang membuatmu yakin ingin menghabiskan masa depan denganku?
+d|Apa yang membuatmu ragu tentang masa depan kita?
+d|Bagaimana kamu ingin dikenang oleh anak cucu kita nanti?
+d|Apa yang akan kamu lakukan kalau aku sakit parah suatu hari?
+d|Kalau salah satu dari kita pergi lebih dulu, apa yang ingin kamu sampaikan sekarang?
+d|Apa janji yang ingin kamu buat untuk masa depan kita?
+d|Apa yang tidak bisa kamu kompromikan dalam rencana masa depan kita?
+d|Bagaimana kamu ingin kita bertumbuh agar tidak saling meninggalkan secara perlahan?
+d|Apa yang akan membuatmu menyerah pada hubungan ini?
+d|Apa yang kamu bayangkan saat kita duduk berdua di umur tujuh puluh?
+d|Apa yang ingin kamu pastikan tidak pernah hilang dari hubungan kita?
+d|Apa yang kamu takutkan akan berubah dariku seiring waktu?
+d|Bagian dirimu mana yang paling kamu harap tetap sama meski waktu terus berjalan?
+d|Bagaimana kamu ingin kita menghadapi kehilangan orang tua kita nanti?
+d|Apa arti rumah buatmu di masa depan, selain bangunan?
+d|Apa yang perlu kita sembuhkan dulu sebelum melangkah lebih jauh?
+d|Kalau masa depan tidak sesuai rencana, apa yang membuatmu tetap memilih aku?
+d|Apa mimpi yang rela kamu lepaskan demi kita, dan apakah itu adil?
+d|Apa mimpi yang tidak ingin kamu lepaskan walau demi kita?
+d|Bagaimana kamu ingin kita tetap jujur satu sama lain sampai tua?
+d|Apa yang paling kamu harapkan dariku saat kamu tidak lagi muda dan cantik atau tampan?
+d|Bagaimana kamu ingin kita menghadapi masa ketika cinta terasa biasa saja?
+d|Apa yang kamu ingin anak kita pelajari dari cara kita saling mencintai?
+d|Apa luka masa lalu yang tidak ingin kamu wariskan ke keluarga kita nanti?
+d|Kalau kamu bisa melihat masa depan kita sekilas, apa yang paling ingin kamu ketahui?
+d|Apa yang membuatmu takut berkomitmen seumur hidup?
+d|Apa arti setia buatmu di masa depan, saat godaan makin banyak?
+d|Bagaimana kamu ingin kita menghadapi masa ketika salah satu dari kita berubah drastis?
+d|Apa warisan nilai yang ingin kita tinggalkan sebagai pasangan?
+d|Apa yang ingin kamu katakan pada aku yang berumur enam puluh?
+d|Bagaimana kamu ingin akhir hidupmu nanti, dan siapa yang ada di sana?
+d|Apa yang kamu harapkan dari kita saat salah satu kehilangan pekerjaan?
+d|Apa yang kamu butuhkan dariku agar berani bermimpi lebih besar?
+d|Apa yang membuatmu yakin kita bisa melewati masa sulit di depan?
+d|Bagaimana kita akan tetap memilih satu sama lain setiap hari?
+d|Apa hal yang ingin kamu selesaikan dengan dirimu sendiri sebelum menikah?
+d|Kalau kita punya anak yang sangat berbeda dari harapan kita, bagaimana kamu ingin menyikapinya?
+d|Apa ketakutanmu kalau kita jadi seperti orang tua kita?
+d|Apa yang ingin kamu ubah dari pola keluargamu di rumah tangga kita nanti?
+d|Bagaimana kamu ingin kita merawat satu sama lain saat sakit di hari tua?
+d|Apa yang membuatmu bersemangat menua bersamaku?
+d|Kalau suatu hari kita kehilangan semuanya, apa yang tetap kamu punya?
+d|Apa yang perlu aku tahu tentang mimpimu agar bisa mendukungmu dengan benar?
+d|Bagaimana kamu ingin kita menghadapi perbedaan keyakinan atau prinsip yang muncul nanti?
+d|Apa definisi sukses buat kita berdua, bukan buat orang lain?
+d|Apa yang ingin kamu dengar dariku di hari pernikahan kita, kalau itu terjadi?
+d|Kalau masa depan menuntut kita berpisah sementara, apa yang membuatmu tetap bertahan?
+d|Apa yang kamu harapkan tetap sama dari aku sampai kapan pun?
+d|Apa yang paling kamu takutkan tentang kehilangan kebebasan pribadi saat berkomitmen?
+d|Bagaimana kamu ingin kita menjaga mimpi masing-masing tetap hidup?
+d|Apa arti keluarga yang utuh buatmu di masa depan?
+d|Apa yang akan kamu lakukan kalau kita mulai saling bosan?
+d|Apa satu harapan untuk kita yang belum pernah kamu ucapkan?
+d|Bagaimana kamu ingin kita meminta maaf satu sama lain dua puluh tahun lagi?
+d|Apa yang kamu harapkan dari dirimu sebagai pasangan sepuluh tahun lagi?
+d|Kalau hanya satu hal yang bisa kita bawa ke masa depan, kamu ingin itu apa?
+d|Apa yang membuatmu percaya cinta bisa bertahan lama?
+d|Apa yang membuatmu takut cinta tidak bisa bertahan lama?
+d|Apa yang akan kamu lakukan agar aku tidak pernah merasa sendirian di masa tua?
+d|Bagaimana kamu ingin kita menulis cerita kita untuk diceritakan nanti?
+d|Apa satu keputusan besar yang menurutmu akan menentukan masa depan kita?
+d|Apa arti menua dengan anggun buatmu?
+d|Bagaimana kamu ingin kita tetap saling penasaran satu sama lain?
+d|Apa yang membuatmu yakin kita tumbuh ke arah yang sama?
+d|Apa yang ingin kamu berikan padaku di masa depan yang belum bisa kamu berikan sekarang?
+d|Kalau kita sudah tua dan lupa banyak hal, kenangan mana yang ingin tetap kamu ingat?
+d|Apa yang ingin kamu dengar dari anak kita tentang kita sebagai orang tua?
+s|Kalau kita punya grup arisan keluarga, siapa yang paling heboh?
+s|Kamu mau rumah kita punya rak sepatu atau rak buku paling besar?
+s|Apa makanan yang wajib ada di meja makan kita setiap Lebaran atau Natal?
+s|Kalau kita bikin taman di atap rumah, isinya apa?
+s|Kalau kita punya kucing dan anjing sekaligus, siapa nama mereka?
+s|Apa jenis musik yang ingin selalu terdengar di rumah kita?
+s|Kalau kita jalan-jalan keliling Eropa naik kereta, kota mana yang wajib disinggahi?
+s|Apa yang ingin kamu pelajari bareng aku tahun depan?
+s|Kalau kita jadi pemilik penginapan kecil, konsepnya seperti apa?
+s|Kamu ingin rumah kita punya jendela besar atau suasana yang teduh?
+s|Apa hadiah yang ingin kamu berikan ke dirimu sendiri saat umur 50?
+m|Bagaimana kita akan menentukan siapa yang memegang pengeluaran harian?
+m|Apa yang ingin kamu tunjukkan ke orang tuamu tentang kita lima tahun lagi?
+m|Bagaimana pendapatmu soal pindah kota demi kualitas hidup yang lebih baik?
+m|Apa kebiasaan kecil yang ingin kita ajarkan ke anak kalau punya?
+m|Apa rencana kita kalau salah satu orang tua harus tinggal bersama kita?
+m|Bagaimana kamu ingin kita merayakan ulang tahun pernikahan setiap tahun?
+m|Apa jenis pekerjaan sampingan yang ingin kamu coba di masa depan?
+m|Apa yang perlu kita pelajari soal asuransi dan dana darurat?
+m|Kalau kita sudah mapan, berapa persen penghasilan yang ingin kita sedekahkan atau donasikan?
+m|Bagaimana kamu ingin kita menghadapi kritik keluarga besar soal pilihan hidup kita?
+m|Apa hal yang ingin kita kuasai bersama sebelum punya rumah sendiri?
+d|Apa yang paling kamu harapkan dariku saat kamu gagal nanti?
+d|Kalau kita tidak pernah kaya, apakah kamu tetap merasa cukup bersamaku?
+d|Apa yang membuatmu ingin menjadi orang yang lebih baik di masa depan karena kita?
+d|Kalau kamu bisa memberi satu nasihat untuk kita yang sudah menikah lima tahun, apa itu?
+d|Apa yang kamu takutkan dari kesepian di masa tua?
+d|Bagaimana kamu ingin kita membicarakan kematian dan wasiat suatu hari nanti?
+d|Apa arti cukup buatmu untuk masa depan kita?

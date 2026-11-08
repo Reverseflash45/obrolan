@@ -1,0 +1,257 @@
+# Masa Sekarang — pasangan, aku/kamu
+s|Lagu apa yang paling sering kamu putar minggu ini?
+s|Apa makanan yang lagi kamu idam-idamkan akhir-akhir ini?
+s|Apa hal kecil yang bikin harimu menyenangkan hari ini?
+s|Kalau besok libur mendadak, kamu mau ngapain?
+s|Apa tontonan yang lagi bikin kamu penasaran sekarang?
+s|Aplikasi apa yang paling sering kamu buka belakangan ini?
+s|Apa minuman favoritmu bulan ini?
+s|Kamu lagi suka warna apa akhir-akhir ini?
+s|Apa barang yang lagi pengin banget kamu beli?
+s|Apa jam paling produktif buatmu sekarang?
+s|Kalau harus pilih satu tempat makan buat malam ini, kamu pilih yang mana?
+s|Apa hal lucu yang kamu lihat di media sosial minggu ini?
+s|Apa hobi baru yang lagi pengin kamu coba?
+s|Apa kebiasaan baru yang lagi kamu bangun?
+s|Kamu lagi baca, nonton, atau dengar apa sebelum tidur?
+s|Apa outfit favoritmu sekarang?
+s|Siapa orang yang paling sering kamu chat minggu ini selain aku?
+s|Apa hal yang bikin kamu ketawa paling keras minggu ini?
+s|Apa rencana akhir pekanmu yang paling ideal sekarang?
+s|Kalau hari ini punya judul, judulnya apa?
+s|Apa emoji yang paling menggambarkan perasaanmu hari ini?
+s|Apa camilan yang wajib ada di rumah saat ini?
+s|Apa podcast atau kanal YouTube yang lagi kamu ikuti?
+s|Apa tempat di kota ini yang lagi pengin kamu datangi?
+s|Kamu lagi tim tidur cepat atau begadang?
+s|Apa hal yang lagi kamu tunggu-tunggu bulan ini?
+s|Apa skill yang lagi kamu pelajari sekarang?
+s|Apa yang terakhir kali bikin kamu kagum?
+s|Apa resep yang pengin kamu coba masak minggu ini?
+s|Kalau sekarang bisa teleport ke mana saja selama satu jam, kamu ke mana?
+s|Apa playlist yang menemani kerjamu sekarang?
+s|Apa hal paling enak yang kamu makan minggu ini?
+s|Apa yang lagi jadi wallpaper ponselmu dan kenapa?
+s|Apa yang paling kamu suka dari cuaca hari ini?
+s|Apa olahraga yang lagi kamu nikmati atau pengin kamu mulai?
+s|Kamu lagi butuh pelukan, makanan, atau tidur?
+s|Apa kata yang paling sering kamu ucapkan minggu ini?
+s|Apa hal yang lagi kamu koleksi sekarang?
+s|Apa barang yang paling sering kamu bawa ke mana-mana sekarang?
+s|Apa film terakhir yang kamu tonton dan kamu kasih nilai berapa?
+s|Kalau kita jalan sore ini, kamu mau ke mana?
+s|Apa hal paling random yang kamu cari di internet minggu ini?
+s|Apa rutinitas pagimu sekarang?
+s|Kamu lagi suka aroma parfum atau sabun yang mana?
+s|Apa grup chat yang paling ramai di ponselmu sekarang?
+s|Apa kebiasaan kecilku yang lagi kamu perhatikan akhir-akhir ini?
+s|Apa game yang lagi kamu mainkan sekarang?
+s|Apa tanaman, hewan, atau benda yang lagi kamu rawat?
+s|Kalau kamu bisa libur seminggu mulai besok, kamu mau ke mana?
+s|Apa jajanan pinggir jalan favoritmu belakangan ini?
+s|Apa hal yang paling bikin kamu malas sekarang?
+s|Apa tujuan kecilmu minggu ini?
+s|Apa lagu yang lagi nyangkut di kepalamu?
+s|Apa topik yang lagi seru kamu obrolin sama teman-temanmu?
+s|Apa yang bikin kamu bangga pada dirimu minggu ini?
+s|Apa sudut favoritmu di rumah atau kamar sekarang?
+s|Apa yang lagi kamu tabung untuk dibeli?
+s|Kalau hari ini bisa diulang, bagian mana yang mau kamu ulang?
+s|Apa kata-kata atau kutipan yang lagi kamu suka?
+s|Apa kebiasaan malammu sebelum tidur sekarang?
+s|Apa hal yang kamu syukuri pagi ini?
+s|Apa fitur ponsel yang paling kamu andalkan sekarang?
+s|Apa makanan yang lagi kamu hindari dan kenapa?
+s|Siapa kreator atau seleb yang lagi sering muncul di beranda kamu?
+s|Apa tempat ngopi favoritmu saat ini?
+s|Apa hal yang lagi bikin kamu penasaran banget?
+s|Apa yang paling sering kamu pikirkan saat di perjalanan sekarang?
+s|Apa tanda kecil bahwa harimu bakal bagus?
+s|Kalau aku masak malam ini, kamu mau request apa?
+s|Apa barang yang baru kamu beli dan ternyata berguna banget?
+s|Apa trend sekarang yang menurutmu aneh tapi lucu?
+s|Apa trend sekarang yang diam-diam kamu ikuti?
+s|Apa yang lagi jadi kebiasaan kita berdua akhir-akhir ini?
+s|Apa jadwal paling padatmu minggu ini?
+s|Apa hal kecil yang bisa aku bantu minggu ini?
+s|Kalau kamu bisa hapus satu tugas dari daftarmu sekarang, tugas apa itu?
+s|Apa yang paling kamu nantikan dari akhir pekan ini?
+s|Apa versi dirimu sekarang dalam tiga kata?
+s|Apa tontonan yang ingin kamu tonton bareng aku sekarang?
+s|Apa yang lagi bikin kamu bersemangat bangun pagi?
+s|Kalau mood kamu hari ini cuaca, cuacanya apa?
+s|Apa barang di kamarmu yang paling ingin kamu ganti sekarang?
+s|Apa hal kecil yang bikin kamu kesal minggu ini?
+s|Apa tempat yang paling bikin kamu tenang sekarang?
+s|Apa yang paling kamu suka dari umurmu yang sekarang?
+s|Apa kebiasaan baik yang berhasil kamu pertahankan bulan ini?
+s|Apa makanan rumahan yang lagi kamu rindukan?
+s|Apa kabar terbaik yang kamu dengar minggu ini?
+s|Siapa teman yang paling sering kamu temui sekarang?
+s|Apa yang lagi kamu pelajari dari pekerjaan atau kuliahmu?
+m|Bagaimana perasaanmu tentang hidupmu sekarang, dari satu sampai sepuluh?
+m|Apa hal yang paling menguras energimu akhir-akhir ini?
+m|Apa yang paling kamu syukuri dari hubungan kita sekarang?
+m|Apa yang sedang kamu perjuangkan diam-diam saat ini?
+m|Apa yang membuatmu merasa paling dihargai belakangan ini?
+m|Bagian mana dari hidupmu yang terasa paling stabil sekarang?
+m|Bagian mana dari hidupmu yang terasa paling berantakan sekarang?
+m|Apa yang ingin kamu ubah dari rutinitasmu sekarang?
+m|Apa yang sedang membuatmu cemas akhir-akhir ini?
+m|Apa yang membuatmu merasa paling dekat denganku minggu ini?
+m|Kapan terakhir kali kamu merasa benar-benar istirahat?
+m|Apa yang sedang kamu pelajari tentang dirimu sendiri belakangan ini?
+m|Apa hal yang kamu butuhkan dariku tapi belum sempat kamu bilang?
+m|Apa yang sedang kamu nikmati dari fase hidupmu sekarang?
+m|Apa yang ingin kamu lakukan lebih sering bersamaku?
+m|Bagaimana kondisi kesehatanmu belakangan ini, jujur saja?
+m|Apa keputusan kecil yang sedang kamu pertimbangkan sekarang?
+m|Apa yang sedang kamu tunda dan kenapa?
+m|Siapa orang yang paling membantumu bulan ini?
+m|Apa yang ingin kamu dengar dariku hari ini?
+m|Apa hal yang sedang kamu rindukan tapi tidak bisa dilakukan sekarang?
+m|Bagaimana perasaanmu tentang pekerjaan atau kuliahmu saat ini?
+m|Apa hal yang membuatmu merasa tumbuh tahun ini?
+m|Apa yang paling sulit dari menjadi dirimu saat ini?
+m|Apa hal yang ingin kamu katakan ke keluargamu tapi belum sempat?
+m|Bagaimana kualitas tidurmu belakangan ini dan apa yang memengaruhinya?
+m|Apa hal yang sedang membuatmu merasa kurang percaya diri?
+m|Apa yang sedang membuatmu merasa cukup?
+m|Apa yang ingin kamu kurangi dari hidupmu sekarang?
+m|Apa yang ingin kamu tambah dari hidupmu sekarang?
+m|Kalau aku bisa menggantikan satu tugasmu minggu ini, kamu pilih yang mana?
+m|Apa yang membuatmu merasa kita kompak akhir-akhir ini?
+m|Apa yang membuatmu merasa kita agak jauh akhir-akhir ini?
+m|Apa yang sedang kamu syukuri dari tubuhmu saat ini?
+m|Bagaimana hubunganmu dengan media sosial sekarang?
+m|Apa yang paling sering kamu khawatirkan sebelum tidur?
+m|Apa yang sedang kamu banggakan tapi belum kamu ceritakan?
+m|Apa batas yang sedang kamu belajar tegakkan sekarang?
+m|Apa hal kecil dariku yang paling menolongmu belakangan ini?
+m|Bagaimana keadaan pertemananmu sekarang?
+m|Apa hal yang sedang kamu pura-pura baik-baik saja padahal tidak?
+m|Apa yang sedang membuatmu merasa hidup?
+m|Apa yang ingin kamu rayakan bulan ini, sekecil apa pun?
+m|Bagaimana caramu menenangkan diri akhir-akhir ini?
+m|Apa yang ingin kamu pelajari bersama aku tahun ini?
+m|Apa hal yang membuatmu merasa terburu-buru sekarang?
+m|Apa yang membuatmu merasa tertinggal dari orang lain akhir-akhir ini?
+m|Apa yang sedang kamu lepaskan pelan-pelan?
+m|Apa yang ingin kamu prioritaskan bulan depan?
+m|Bagaimana perasaanmu tentang keuanganmu saat ini?
+m|Apa yang membuatmu tersenyum saat memikirkan aku hari ini?
+m|Apa yang sedang kamu nikmati dari kesendirianmu?
+m|Apa yang sedang menguji kesabaranmu akhir-akhir ini?
+m|Apa yang membuat hari burukmu jadi lebih baik belakangan ini?
+m|Apa yang sedang kamu harapkan dari minggu depan?
+m|Bagaimana hubunganmu dengan orang tuamu sekarang?
+m|Apa yang sedang membuatmu merasa kurang didengar?
+m|Kalau hidupmu sekarang adalah satu bab buku, judul babnya apa?
+m|Apa yang paling kamu suka dari versi kita yang sekarang?
+m|Apa hal yang kamu ingin aku pahami tentang kesibukanmu sekarang?
+m|Apa yang ingin kamu rapikan dalam hidupmu sebelum tahun ini berakhir?
+m|Apa yang sedang kamu perbaiki dari dirimu?
+m|Apa yang sedang membuatmu merasa beruntung?
+m|Apa kebiasaan kita yang ingin kamu ubah mulai minggu ini?
+m|Apa yang membuatmu merasa lelah secara emosi akhir-akhir ini?
+m|Seberapa puas kamu dengan cara kita menghabiskan waktu sekarang?
+m|Apa hal yang sedang kamu jaga baik-baik saat ini?
+m|Apa yang sedang kamu pertanyakan tentang hidupmu?
+m|Apa yang sedang kamu syukuri dari tempat tinggalmu sekarang?
+m|Bagaimana cara kita bisa lebih saling membantu bulan ini?
+m|Apa hal yang sedang membuatmu kewalahan?
+m|Apa hal yang membuatmu bangga menjadi pasanganku saat ini?
+m|Apa rencana kecil yang ingin kamu wujudkan bersamaku bulan ini?
+m|Apa yang sedang kamu lakukan untuk menjaga kesehatan mentalmu?
+m|Kapan kamu merasa paling jadi dirimu sendiri minggu ini?
+m|Apa yang paling sering mengganggu fokusmu sekarang?
+m|Apa yang sedang kamu pelajari dari kesalahan terakhirmu?
+m|Apa hal yang ingin kamu ucapkan terima kasih padaku minggu ini?
+m|Apa yang sedang kamu jalani dengan setengah hati?
+m|Apa yang sedang kamu jalani dengan sepenuh hati?
+m|Apa yang membuatmu merasa sudah dewasa saat ini?
+m|Bagaimana kamu menilai keseimbangan kerja dan istirahatmu sekarang?
+m|Apa yang membuat rumah atau kamarmu terasa nyaman sekarang?
+d|Apa yang sebenarnya sedang kamu rasakan tapi belum sempat kamu beri nama?
+d|Apa yang paling kamu takutkan dari hidupmu saat ini?
+d|Apa yang membuatmu merasa sendirian walau ada aku?
+d|Apa beban yang sedang kamu pikul diam-diam?
+d|Kalau kamu jujur sepenuhnya, apa yang sedang tidak baik-baik saja?
+d|Apa yang kamu butuhkan dariku agar merasa lebih aman sekarang?
+d|Apa yang kamu khawatirkan tentang hubungan kita saat ini?
+d|Apa yang membuatmu merasa tidak cukup belakangan ini?
+d|Apa yang kamu sesali dari bulan ini?
+d|Bagian dirimu mana yang sedang butuh dipeluk?
+d|Apa yang sedang kamu korbankan demi orang lain sekarang?
+d|Apakah kamu bahagia dengan arah hidupmu sekarang?
+d|Apa yang sedang kamu pertahankan karena takut, bukan karena ingin?
+d|Kapan terakhir kali kamu menangis dan apa sebabnya?
+d|Apa yang membuatmu sulit bercerita kepadaku akhir-akhir ini?
+d|Apa yang paling ingin kamu ubah dari dirimu sekarang?
+d|Apa yang sedang kamu cari dalam hidup ini?
+d|Apa yang membuatmu merasa hilang arah belakangan ini?
+d|Apa yang kamu harap aku sadari tanpa kamu harus bilang?
+d|Bagaimana perasaanmu tentang dirimu ketika sedang sendirian?
+d|Apa yang membuatmu merasa tidak dilihat oleh orang di sekitarmu?
+d|Apa luka baru yang kamu dapat tahun ini?
+d|Apa yang membuatmu bertahan di minggu terberatmu bulan ini?
+d|Apa yang sedang kamu maafkan dari dirimu sendiri?
+d|Apa ketakutan yang sedang kamu hadapi sekarang?
+d|Kalau ada satu hal yang bisa aku ubah untukmu hari ini, apa itu?
+d|Apa yang kamu rasakan saat melihat hubungan kita sekarang?
+d|Apa yang membuatmu merasa paling dicintai olehku sekarang?
+d|Apa yang membuatmu ragu pada dirimu belakangan ini?
+d|Apa yang sedang kamu tangisi diam-diam?
+d|Apa yang ingin kamu katakan padaku tapi takut menyakitiku?
+d|Apa yang sedang kamu syukuri walau hidup sedang berat?
+d|Kalau aku bertanya bagaimana kabarmu sekarang, apa jawaban jujurmu?
+d|Apa yang kamu rasakan tentang dirimu ketika melihat cermin hari ini?
+d|Apa yang sedang membuat hatimu penuh?
+d|Apa yang sedang membuat hatimu kosong?
+d|Apa yang ingin kamu lepaskan tapi belum sanggup?
+d|Apa yang membuatmu merasa tidak pantas istirahat?
+d|Bagaimana aku bisa menemanimu dengan lebih baik di fase hidupmu sekarang?
+d|Apa yang paling kamu butuhkan dari dirimu sendiri saat ini?
+d|Apa hal yang sedang kamu hadapi yang ingin kamu hadapi bersamaku?
+d|Apa yang membuatmu yakin kita akan baik-baik saja?
+d|Apa yang membuatmu ragu kita akan baik-baik saja?
+d|Apa yang sedang kamu sembunyikan dari dunia karena takut dinilai?
+d|Apa arti bahagia buatmu hari ini, bukan dulu atau nanti?
+d|Kalau kamu bisa jujur tentang satu rasa lelah, rasa lelah yang mana?
+d|Apa yang sedang membuatmu merasa terjebak?
+d|Apa yang kamu harap orang lain tahu tentang perjuanganmu sekarang?
+d|Apa yang membuatmu merasa paling rapuh minggu ini?
+d|Apa yang membuatmu merasa paling kuat minggu ini?
+d|Apa yang ingin kamu dengar dari dirimu sendiri sekarang?
+d|Apa yang membuatmu merasa aku benar-benar ada untukmu?
+d|Apa hal yang ingin kamu ubah dari caramu memperlakukan dirimu?
+d|Apa yang membuatmu masih berharap meski keadaan sulit?
+d|Apa yang sedang kamu doakan atau harapkan paling dalam saat ini?
+d|Apa yang membuatmu merasa perlu terlihat kuat di depanku?
+d|Bagaimana rasanya menjadi dirimu hari ini, dengan jujur?
+d|Apa yang kamu harapkan dari aku saat kamu sedang di titik terendah?
+d|Apa yang membuatmu memilih untuk tetap di sini, bersamaku, hari ini?
+d|Apa yang belum kamu ceritakan ke siapa pun tentang minggu ini?
+d|Apa yang sedang kamu pelajari tentang cinta dari hubungan kita sekarang?
+d|Apa yang kamu rasakan saat kita diam berdua tanpa bicara?
+d|Apa yang membuatmu merasa damai dengan hidupmu sekarang?
+d|Apa yang membuat hari ini layak diingat?
+d|Apa satu hal yang ingin kamu ubah dari cara kita berkomunikasi saat ini?
+d|Kalau hidupmu berhenti di titik ini, apa yang paling kamu syukuri?
+d|Apa perasaan yang sedang kamu hindari untuk dirasakan?
+d|Apa yang membuatmu merasa diterima apa adanya olehku?
+d|Apa yang sedang kamu butuhkan, tapi kamu merasa tidak boleh memintanya?
+d|Apa yang sedang membuatmu merasa tidak sabar pada dirimu sendiri?
+d|Kalau aku bisa merasakan harimu, apa yang akan paling mengejutkanku?
+s|Apa menu makan siang andalanmu minggu ini?
+s|Apa hal yang terakhir kali bikin kamu salah tingkah?
+s|Kamu lagi pengin liburan ke tempat dingin atau yang panas?
+s|Apa notifikasi yang paling kamu tunggu sekarang?
+s|Apa singkatan atau istilah baru yang lagi kamu pakai?
+m|Apa hal sederhana yang ingin kita lakukan bareng sebelum bulan ini habis?
+m|Apa yang sedang membuatmu merasa kurang tidur selain kerjaan?
+m|Kalau harus menilai minggumu, apa bagian terbaik dan terburuknya?
+m|Apa yang sedang kamu tunggu kabarnya dengan deg-degan?
+d|Apa yang membuatmu merasa perlu minta maaf pada dirimu minggu ini?
+d|Apa yang sedang kamu syukuri dari dirimu yang tidak dilihat orang lain?
+d|Apa yang kamu harap tetap kamu ingat dari fase hidupmu sekarang sepuluh tahun lagi?

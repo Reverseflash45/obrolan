@@ -1,0 +1,261 @@
+# Masa Lalu — pasangan, aku/kamu
+s|Apa jajanan masa kecil yang paling kamu kangenin sampai sekarang?
+s|Kartun apa yang dulu wajib kamu tonton tiap Minggu pagi?
+s|Waktu kecil, kamu pengin jadi apa kalau sudah besar?
+s|Mainan apa yang dulu paling kamu sayang?
+s|Siapa nama sahabat pertamamu yang masih kamu ingat?
+s|Lagu apa yang langsung bikin kamu teringat masa SMP?
+s|Dulu kamu anak yang pendiam atau yang paling berisik di kelas?
+s|Apa permainan tradisional yang paling sering kamu mainkan waktu kecil?
+s|Kamu pernah punya hewan peliharaan waktu kecil, namanya siapa?
+s|Apa potongan rambut paling aneh yang pernah kamu punya?
+s|Uang jajan pertamamu berapa dan biasanya habis buat apa?
+s|Kamu dulu takut sama apa waktu masih kecil?
+s|Apa julukan masa kecilmu dan dari mana asalnya?
+s|Siapa artis yang dulu poster atau fotonya kamu simpan?
+s|Apa acara TV yang dulu bikin kamu rela begadang?
+s|Kamu pernah ikut lomba apa waktu tujuh belasan?
+s|Apa ponsel pertamamu dan game apa yang ada di dalamnya?
+s|Liburan sekolah paling seru yang pernah kamu jalani itu ke mana?
+s|Kamu dulu paling suka pelajaran apa di SD?
+s|Apa makanan buatan rumah yang paling kamu ingat dari kecil?
+s|Siapa guru yang paling kamu ingat sampai sekarang, dan kenapa?
+s|Apa hal paling nakal yang pernah kamu lakukan waktu SD?
+s|Kamu pernah dihukum di sekolah gara-gara apa?
+s|Apa hobi masa kecilmu yang sekarang sudah tidak kamu lakukan lagi?
+s|Kamu dulu tim bangun pagi atau susah dibangunin buat sekolah?
+s|Baju atau gaya apa yang dulu kamu anggap paling keren?
+s|Apa kebiasaan lucu kamu waktu kecil yang sering diceritakan keluarga?
+s|Kamu pernah nyasar atau hilang di tempat ramai waktu kecil?
+s|Apa film pertama yang kamu tonton di bioskop?
+s|Siapa tokoh kartun yang dulu pengin banget kamu jadi?
+s|Kamu pernah punya teman khayalan waktu kecil?
+s|Apa luka atau bekas jatuh paling bersejarah di badanmu?
+s|Kamu dulu koleksi apa, misalnya stiker, tazos, atau perangko?
+s|Rumah masa kecilmu itu seperti apa?
+s|Apa aroma yang langsung membawamu kembali ke masa kecil?
+s|Kamu dulu paling sering main di mana sepulang sekolah?
+s|Apa kejadian paling memalukan di masa SMP-mu?
+s|Kamu dulu ikut ekskul apa di sekolah?
+s|Apa hadiah ulang tahun paling berkesan waktu kamu kecil?
+s|Siapa saudara atau sepupu yang paling dekat denganmu waktu kecil?
+s|Kamu dulu pernah bolos sekolah, dan ke mana perginya?
+s|Apa lagu yang dulu kamu hafal di luar kepala?
+s|Apa makanan yang dulu kamu benci tapi sekarang malah suka?
+s|Kamu pernah jualan sesuatu waktu sekolah?
+s|Bagaimana suasana Lebaran atau hari raya di rumahmu waktu kecil?
+s|Apa video game pertama yang bikin kamu ketagihan?
+s|Kamu dulu takut gelap atau tidak?
+s|Apa kebiasaan keluargamu tiap akhir pekan waktu kamu kecil?
+s|Kamu pernah naik panggung waktu sekolah, untuk acara apa?
+s|Apa hal kecil dari masa kecilmu yang bikin kamu senyum kalau diingat?
+s|Kamu dulu paling sering dimarahi karena apa?
+s|Siapa cinta monyet pertamamu dan bagaimana ceritanya?
+s|Apa surat atau catatan paling lucu yang pernah kamu tulis waktu sekolah?
+s|Apa nama akun media sosial pertamamu?
+s|Kamu dulu pakai warnet buat apa saja?
+s|Apa kendaraan pertama yang kamu pelajari, sepeda atau motor?
+s|Pernah ikut kemah atau pramuka, dan apa yang paling diingat?
+s|Apa kebiasaan anehmu waktu remaja?
+s|Waktu kecil kamu pernah percaya mitos apa?
+s|Apa makanan kantin sekolah favoritmu dulu?
+s|Kamu pernah menang lomba apa, sekecil apa pun itu?
+s|Apa pengalaman pertama kamu naik pesawat, kapal, atau kereta?
+s|Siapa yang dulu paling sering menjemputmu sekolah?
+s|Apa kata-kata gaul zaman remajamu yang sekarang terdengar lucu?
+s|Kamu dulu punya diary atau buku harian?
+s|Apa acara keluarga yang paling kamu tunggu tiap tahun waktu kecil?
+s|Kamu dulu paling jago main apa di antara teman-temanmu?
+s|Apa barang lama yang masih kamu simpan sampai sekarang?
+s|Kamu pernah pindah rumah waktu kecil, bagaimana rasanya?
+s|Apa foto masa kecilmu yang paling kamu suka?
+s|Kamu dulu penggemar band atau grup apa?
+s|Apa salah paham lucu yang pernah kamu alami waktu kecil?
+s|Siapa tetangga masa kecil yang paling kamu ingat?
+s|Kamu dulu pernah kabur dari rumah walau cuma sebentar?
+s|Apa cita-cita teraneh yang pernah kamu punya?
+s|Apa mimpi buruk masa kecil yang masih kamu ingat?
+s|Kamu dulu sering main hujan-hujanan atau dilarang?
+s|Apa pengalaman pertama kamu masak sendiri?
+s|Apa hal yang dulu kamu kira hanya ada di keluargamu?
+s|Lomba atau pertandingan apa yang dulu bikin kamu nangis karena kalah?
+s|Apa tempat nongkrong favoritmu waktu SMA?
+s|Kamu dulu pernah ikut les apa saja?
+s|Siapa nama wali kelas yang paling kamu sukai?
+s|Kamu pernah dapat surat cinta atau titipan salam waktu sekolah?
+s|Apa hal pertama yang kamu beli dengan uangmu sendiri?
+s|Apa kebiasaan bapak atau ibumu yang dulu bikin kamu malu di depan teman?
+s|Kamu dulu sering dibandingkan dengan siapa?
+s|Apa pengalaman pertamamu menginap di rumah teman?
+s|Apa acara sekolah yang paling kamu tunggu tiap tahun?
+s|Kalau bisa mengulang satu hari di masa kecil, hari apa yang kamu pilih?
+m|Siapa orang yang paling berpengaruh membentuk dirimu waktu kecil?
+m|Apa nasihat orang tua yang dulu kamu abaikan tapi sekarang kamu pahami?
+m|Momen apa yang membuatmu merasa sudah bukan anak kecil lagi?
+m|Apa kegagalan pertama yang benar-benar terasa berat buatmu?
+m|Bagaimana keluargamu dulu menunjukkan rasa sayang?
+m|Apa hal yang paling kamu syukuri dari cara kamu dibesarkan?
+m|Apa yang paling kamu ingat dari hubungan pertamamu, tanpa perlu sebut nama?
+m|Apa pelajaran terbesar dari masa remajamu?
+m|Pernahkah kamu merasa tidak cocok dengan teman-teman sebayamu, kapan itu?
+m|Apa keputusan masa lalu yang ternyata mengubah arah hidupmu?
+m|Siapa teman lama yang sekarang hilang kontak dan masih kamu pikirkan?
+m|Apa hal yang dulu kamu banggakan tapi sekarang terasa biasa saja?
+m|Bagaimana keluargamu menghadapi masa-masa sulit dulu?
+m|Apa yang dulu kamu pelajari tentang cinta dari melihat orang tuamu?
+m|Pernah merasa iri dengan kehidupan teman waktu kecil, karena apa?
+m|Kapan pertama kali kamu merasa benar-benar dipercaya orang dewasa?
+m|Apa aturan di rumahmu dulu yang menurutmu paling tidak adil?
+m|Apa masa paling bahagia di hidupmu sebelum kita kenal?
+m|Apa hal tentang dirimu di masa SMA yang belum pernah aku tahu?
+m|Siapa yang dulu jadi tempatmu cerita kalau sedang sedih?
+m|Pernahkah kamu merasa jadi anak yang dilupakan di keluarga?
+m|Apa peristiwa besar di luar rumah yang kamu ingat sangat jelas dari kecil?
+m|Apa yang dulu bikin kamu merasa paling percaya diri?
+m|Apa hal yang dulu sangat kamu inginkan tapi tidak pernah kamu dapatkan?
+m|Bagaimana caramu dulu menghadapi perundungan, kalau pernah mengalaminya?
+m|Apa kebiasaan baik yang kamu bawa dari rumah sampai sekarang?
+m|Kapan terakhir kali kamu menangis karena kangen masa kecil?
+m|Apa yang paling berubah dari dirimu dibanding lima tahun lalu?
+m|Siapa orang yang dulu kamu kagumi dan sekarang tidak lagi?
+m|Apa hal paling berani yang pernah kamu lakukan di masa remaja?
+m|Pernahkah kamu kehilangan seseorang di masa kecil, dan bagaimana kamu melewatinya?
+m|Apa kebiasaan keluargamu yang ingin kamu teruskan ke keluarga kita nanti?
+m|Apa kebiasaan keluargamu yang tidak ingin kamu ulangi?
+m|Apa mimpi lamamu yang diam-diam masih kamu simpan?
+m|Bagaimana dulu kamu membayangkan pasangan idealmu waktu remaja?
+m|Apa yang kamu pelajari dari hubungan-hubungan sebelum aku?
+m|Apa momen yang membuatmu bangga pada dirimu di masa lalu?
+m|Siapa yang dulu paling percaya pada kemampuanmu?
+m|Apa yang dulu kamu sembunyikan dari orang tuamu?
+m|Apa perubahan besar di keluargamu yang memengaruhi masa kecilmu?
+m|Kalau bisa bicara dengan dirimu yang berumur sepuluh tahun, apa yang ingin kamu sampaikan?
+m|Apa hal yang dulu kamu yakini benar tapi sekarang kamu ragukan?
+m|Siapa teman masa kecil yang paling membentuk selera humormu?
+m|Apa yang dulu bikin kamu sering merasa kesepian?
+m|Pernahkah kamu merasa harus jadi dewasa lebih cepat dari umurmu?
+m|Bagaimana kamu dulu merayakan keberhasilan kecil?
+m|Apa masa tersulit di sekolah dan siapa yang menolongmu?
+m|Apa kenangan bersama kakek atau nenekmu yang paling berharga?
+m|Apa kata-kata dari orang lain yang dulu sangat melukaimu?
+m|Apa kata-kata dari orang lain yang dulu sangat menguatkanmu?
+m|Pernahkah kamu merasa salah jurusan atau salah jalan, dan bagaimana kamu menghadapinya?
+m|Apa hal yang dulu kamu lakukan hanya untuk menyenangkan orang tua?
+m|Bagaimana kamu dulu memandang pernikahan waktu masih kecil?
+m|Apa tradisi kecil di rumahmu dulu yang sekarang sudah hilang?
+m|Apa yang paling kamu rindukan dari kota atau kampung tempatmu tumbuh?
+m|Kapan pertama kali kamu merasa jatuh cinta, dan seperti apa rasanya?
+m|Apa yang dulu orang salah pahami tentang dirimu?
+m|Siapa yang dulu kamu anggap pahlawan dalam hidupmu?
+m|Apa hal paling spontan yang pernah kamu lakukan sebelum kenal aku?
+m|Apa yang kamu pelajari dari patah hati pertamamu?
+m|Pernahkah kamu menyesal tidak mengatakan sesuatu kepada seseorang di masa lalu?
+m|Apa rasa takut masa kecil yang ternyata masih ada sampai sekarang?
+m|Bagaimana kamu dulu menghadapi pertengkaran orang tuamu, kalau pernah ada?
+m|Apa hal yang paling sering kamu lakukan sendirian waktu remaja?
+m|Apa hal dari masa lalu yang membuatmu jadi orang yang lebih sabar?
+m|Apa keputusan masa remaja yang kamu syukuri sampai hari ini?
+m|Apa titik balik hidupmu sebelum kita bertemu?
+m|Apa yang kamu ingat tentang dirimu sehari sebelum kita pertama kali bertemu?
+m|Siapa yang dulu mengajarimu arti setia kawan?
+m|Pernahkah kamu merasa tidak dihargai oleh guru atau orang dewasa lain?
+m|Apa kebiasaan masa kecil yang tanpa sadar masih kamu lakukan?
+m|Bagaimana kamu dulu menyikapi uang ketika keluargamu sedang susah atau senang?
+m|Apa kebohongan kecil masa kecil yang sampai sekarang belum ketahuan?
+m|Apa yang paling kamu ingat dari hari kelulusanmu?
+m|Pernahkah kamu berjanji pada diri sendiri waktu kecil, dan sudah kamu tepati?
+m|Apa hal tentang keluargamu yang dulu sulit kamu ceritakan ke teman?
+m|Kapan kamu pertama kali merasa benar-benar mandiri?
+m|Apa yang paling kamu syukuri dari masa-masa sulit yang pernah kamu lewati?
+m|Siapa orang asing yang pernah berbuat baik dan tidak bisa kamu lupakan?
+m|Apa versi dirimu di masa lalu yang paling kamu rindukan?
+m|Apa yang kamu pelajari tentang dirimu saat pertama kali tinggal jauh dari rumah?
+m|Apa yang dulu jadi pelarianmu saat stres sekolah?
+m|Apa cerita masa lalu keluargamu yang paling sering diulang-ulang?
+m|Apa salah satu momen ketika kamu merasa benar-benar didengarkan?
+m|Pernahkah kamu kecewa pada dirimu sendiri di masa lalu, karena apa?
+m|Apa hal yang dulu kamu anggap tabu dibicarakan di rumah?
+m|Apa pengalaman yang membuatmu lebih menghargai orang tuamu?
+m|Bagaimana hubunganmu dengan saudaramu berubah dari kecil sampai sekarang?
+d|Luka masa kecil apa yang masih kamu bawa sampai hari ini?
+d|Apa yang paling ingin kamu ubah dari masa lalumu kalau bisa?
+d|Kapan kamu merasa paling sendirian dalam hidupmu?
+d|Apa yang belum pernah kamu ceritakan ke siapa pun tentang masa kecilmu?
+d|Bagian mana dari masa lalumu yang masih sering kamu sesali?
+d|Apa yang kamu butuhkan waktu kecil tapi tidak kamu dapatkan?
+d|Siapa yang perlu kamu maafkan dari masa lalumu, termasuk dirimu sendiri?
+d|Bagaimana masa lalumu memengaruhi caramu mencintai aku sekarang?
+d|Apa ketakutan dari hubungan lamamu yang kadang muncul di hubungan kita?
+d|Kapan terakhir kali kamu merasa malu pada masa lalumu, dan kenapa?
+d|Apa pengalaman yang membuatmu sulit percaya pada orang lain?
+d|Kalau masa kecilmu jadi film, adegan mana yang paling menyedihkan?
+d|Apa hal yang ingin kamu dengar dari orang tuamu tapi belum pernah terucap?
+d|Bagaimana kamu bertahan di masa paling gelap dalam hidupmu?
+d|Apa luka yang sudah sembuh dan kamu syukuri pernah ada?
+d|Pernahkah kamu merasa tidak cukup baik untuk keluargamu?
+d|Apa yang paling kamu takutkan akan terulang dari masa lalumu?
+d|Bagian mana dari dirimu yang terbentuk karena rasa sakit?
+d|Apa yang ingin kamu sampaikan pada orang yang pernah menyakitimu?
+d|Kapan kamu berhenti jadi anak-anak, dan apa yang memaksamu?
+d|Apa kenangan yang ingin kamu lupakan tapi tidak bisa?
+d|Bagaimana kamu ingin aku memperlakukan luka lamamu?
+d|Apa yang dulu kamu korbankan demi keluarga atau orang lain?
+d|Siapa orang dari masa lalu yang paling ingin kamu peluk lagi?
+d|Apa rahasia keluarga yang memengaruhi caramu melihat dunia?
+d|Pernahkah kamu merasa dicintai dengan syarat, kapan itu?
+d|Apa yang membuatmu memilih untuk tidak menyerah di masa sulit dulu?
+d|Bagaimana masa lalumu membentuk caramu marah?
+d|Apa hal tentang mantanmu yang tanpa sadar masih kamu bandingkan denganku?
+d|Kalau bisa menghapus satu kenangan, apakah kamu mau, dan kenangan yang mana?
+d|Apa yang belum selesai dari masa lalumu dan masih ingin kamu bereskan?
+d|Bagaimana perasaanmu terhadap dirimu yang dulu?
+d|Apa yang kamu pelajari tentang rasa aman dari rumahmu dulu?
+d|Kapan kamu merasa paling tidak terlihat oleh orang yang kamu sayang?
+d|Apa yang membuatmu masih percaya pada cinta setelah semua yang terjadi?
+d|Momen apa dari masa lalu yang membuatmu merasa layak dicintai?
+d|Apa beban dari masa lalu yang ingin kamu letakkan bersamaku?
+d|Apa pola keluargamu yang paling ingin kamu putus?
+d|Kapan pertama kali kamu sadar orang tuamu juga manusia biasa yang bisa salah?
+d|Apa hal yang dulu membuatmu merasa tidak pantas bahagia?
+d|Bagaimana kamu ingin anak-anak kita nanti mengingat masa kecil mereka?
+d|Apa yang membuatmu merasa paling rapuh saat membicarakan masa lalu?
+d|Apa yang kamu harap aku tahu tentang masa lalumu tanpa perlu kamu jelaskan panjang?
+d|Siapa dirimu sebelum dunia mengajarimu untuk berhati-hati?
+d|Apa penyesalan terbesar dalam hubungan keluargamu?
+d|Bagaimana kamu berdamai dengan hal-hal yang tidak bisa diubah?
+d|Kapan kamu merasa masa lalumu justru jadi kekuatan?
+d|Apa yang ingin kamu katakan pada dirimu di hari tersulit dulu?
+d|Hal apa dari masa lalu yang membuatmu takut kehilangan aku?
+d|Apa yang dulu kamu yakini tentang dirimu yang ternyata salah?
+d|Apa yang kamu pelajari dari orang yang pernah meninggalkanmu?
+d|Kalau masa lalumu bisa bicara, apa yang akan ia minta darimu?
+d|Bagaimana caramu memaafkan tanpa melupakan?
+d|Pernahkah kamu menyakiti seseorang di masa lalu dan belum sempat minta maaf?
+d|Apa yang paling kamu banggakan dari caramu bangkit setelah jatuh?
+d|Apa yang dari masa lalumu ingin kamu jaga supaya tidak hilang?
+d|Kapan kamu merasa keluargamu benar-benar utuh?
+d|Bagaimana kamu memaknai kehilangan terbesar dalam hidupmu?
+d|Apa kebiasaan bertahan dari masa sulit yang sekarang sudah tidak kamu perlukan lagi?
+d|Bagaimana rasanya menceritakan masa lalumu kepadaku sekarang?
+d|Apa satu hal dari masa lalumu yang ingin kamu tunjukkan langsung padaku suatu hari?
+d|Kalau kamu bisa memeluk dirimu yang dulu, umur berapa yang paling membutuhkannya?
+d|Bagaimana masa lalumu mengajarkanmu arti pulang?
+d|Apa hal dari masa lalu yang membuatmu memilih aku?
+d|Pernahkah kamu merasa harus berpura-pura bahagia di depan keluarga?
+d|Apa yang paling kamu rindukan dari seseorang yang sudah tiada?
+d|Bagian masa lalu mana yang kamu harap bisa kita ceritakan ke anak cucu?
+d|Apa yang membuatmu yakin kamu bukan lagi orang yang sama seperti dulu?
+d|Kalau hari ini kamu bisa mengirim surat ke masa lalu, untuk siapa surat itu?
+d|Apa luka lama yang ternyata sembuh karena hubungan kita?
+s|Apa sinetron yang dulu ditonton satu rumah bareng-bareng?
+s|Kamu dulu duduk sebangku sama siapa paling lama?
+s|Apa jenis hukuman dari orang tua yang dulu paling kamu takuti?
+s|Waktu kecil, kamu lebih suka main di dalam rumah atau di luar?
+s|Apa barang di rumah yang dulu pernah kamu pecahkan diam-diam?
+m|Siapa orang yang dulu kamu tiru gaya bicaranya atau gayanya?
+m|Apa hal kecil dari masa kecilmu yang ingin kamu berikan juga untuk anak kita nanti?
+m|Apa masa ketika kamu merasa paling dekat dengan ayah atau ibumu?
+m|Apa kenangan pertama yang bisa kamu ingat dalam hidupmu?
+d|Apa yang membuatmu bertahan menjadi orang baik meski dulu sering diperlakukan tidak adil?
+d|Kalau aku bisa menemani satu hari tersulit di masa lalumu, hari apa itu?
+d|Apa yang paling kamu harapkan dari dirimu yang dulu kalau dia melihatmu sekarang?
