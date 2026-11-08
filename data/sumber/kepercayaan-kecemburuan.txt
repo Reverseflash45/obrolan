@@ -1,0 +1,253 @@
+# Kepercayaan & Kecemburuan — pasangan, aku/kamu
+s|Seberapa cemburuan kamu dari skala satu sampai sepuluh?
+s|Apa hal paling lucu yang pernah bikin kamu cemburu?
+s|Kamu cemburu sama artis idolaku atau biasa saja?
+s|Apa emoji yang menurutmu terlalu akrab untuk dikirim ke lawan jenis?
+s|Kamu keberatan kalau aku punya sahabat beda jenis kelamin?
+s|Apa reaksi pertamamu kalau melihat aku mengobrol akrab dengan orang lain?
+s|Kamu tipe yang suka cek ponsel pasangan atau tidak peduli?
+s|Apa password ponselmu boleh aku tahu?
+s|Kamu nyaman kalau kita berbagi lokasi di ponsel?
+s|Apa hal yang menurutmu wajar dirahasiakan dari pasangan?
+s|Siapa teman yang paling sering bikin kamu penasaran tentang aku?
+s|Kamu suka kalau aku cemburu sedikit atau tidak sama sekali?
+s|Apa yang biasanya kamu lakukan saat cemburu tapi gengsi bilang?
+s|Kamu keberatan kalau aku masih berteman dengan mantan?
+s|Apa jenis like atau komentar di media sosial yang bikin kamu cemburu?
+s|Kamu nyaman kalau aku jalan berdua dengan teman lama?
+s|Apa reaksimu kalau ada yang menggoda aku di depanmu?
+s|Kamu suka mengunggah foto kita di media sosial atau tidak?
+s|Apa status atau bio media sosial yang menurutmu menunjukkan komitmen?
+s|Kamu cemburu sama hobi atau pekerjaanku yang menyita waktu?
+s|Apa kebiasaanku yang bikin kamu tenang soal kesetiaan?
+s|Kamu lebih suka aku cerita setiap ada yang mendekati atau tidak perlu?
+s|Apa hal paling kecil yang bisa bikin kamu cemburu?
+s|Siapa artis yang menurutmu paling bikin aku salah tingkah?
+s|Kamu cemburu sama karakter fiksi yang aku suka?
+s|Apa kode rahasia kita kalau salah satu sedang cemburu?
+s|Kamu keberatan kalau aku menyimpan foto mantan?
+s|Apa reaksimu kalau aku lupa membalas pesan seharian?
+s|Kamu keberatan kalau aku main game online dengan orang yang tidak kamu kenal?
+s|Apa jenis pujian ke orang lain yang membuatmu cemburu?
+s|Kamu tipe cemburu yang diam atau langsung bilang?
+s|Apa makanan yang bisa meredakan cemburumu?
+s|Kamu keberatan kalau aku curhat ke teman tentang hubungan kita?
+s|Apa hal yang pernah kamu kira mencurigakan tapi ternyata lucu?
+s|Siapa di antara kita yang lebih gampang cemburu?
+s|Kamu nyaman kalau aku berteman dengan rekan kerja di luar jam kantor?
+s|Apa kebiasaan media sosialku yang membuatmu penasaran?
+s|Kamu keberatan kalau aku mengikuti akun orang yang menarik?
+s|Apa hal yang bisa aku lakukan agar kamu tidak cemburu saat aku pergi dengan teman?
+s|Kamu keberatan kalau aku nonton konser dengan teman tanpa kamu?
+s|Apa reaksi lucumu saat cemburu yang pernah aku lihat?
+s|Kamu lebih suka aku menunjukkan cemburu atau menyembunyikannya?
+s|Apa jenis teman yang menurutmu terlalu dekat untuk ukuran teman?
+s|Kamu nyaman kalau aku berbagi kamar hotel dengan teman sejenis saat liburan?
+s|Apa hal yang kamu pikirkan saat aku senyum-senyum melihat ponsel?
+s|Kamu keberatan kalau aku memakai foto bareng teman sebagai foto profil?
+s|Apa reaksimu kalau aku memuji penampilan orang lain di depanmu?
+s|Kamu nyaman kalau kita saling tahu isi chat?
+s|Apa jenis rahasia kecil yang boleh kita simpan masing-masing?
+s|Kamu cemburu kalau aku lebih akrab dengan saudaramu daripada kamu?
+s|Apa hal yang membuatmu langsung percaya padaku?
+s|Kamu lebih percaya kata-kata atau tindakan?
+s|Apa hal kecil yang menunjukkan bahwa seseorang bisa dipercaya?
+s|Kamu keberatan kalau aku bercerita tentang masa laluku?
+s|Apa hal yang kamu lakukan saat penasaran tapi tidak mau terlihat curiga?
+s|Kamu pernah kepo akun media sosial teman-temanku?
+s|Siapa teman di sekitarku yang paling kamu percaya?
+s|Kamu lebih suka aku memberi kabar setiap pindah tempat atau seperlunya saja?
+s|Apa yang biasanya kamu lakukan untuk menenangkan diri saat cemburu?
+s|Kamu keberatan kalau aku pergi ke acara reuni tanpa kamu?
+s|Apa hal lucu yang kamu lakukan saat cemburu di awal pacaran?
+s|Kamu cemburu sama kucing atau peliharaanku?
+s|Apa hal yang menurutmu terlalu posesif?
+s|Apa hal yang menurutmu terlalu cuek?
+s|Kamu keberatan kalau aku punya grup chat yang tidak ada kamunya?
+s|Apa reaksimu kalau ada yang mengirimiku pesan larut malam?
+s|Kamu lebih tenang kalau kenal semua temanku atau tidak perlu?
+s|Apa hal yang membuatmu bangga punya pasangan yang setia?
+s|Kamu keberatan kalau aku menonton film romantis dengan teman?
+s|Apa hal yang ingin kamu lakukan saat aku digoda orang di depan umum?
+s|Kamu tipe yang mengunggah status sindiran saat cemburu?
+s|Apa julukan lucu untuk kamu saat sedang cemburu?
+s|Kamu keberatan kalau aku punya rekan kerja yang sangat menarik?
+s|Apa hal yang membuatmu merasa aku tidak menyembunyikan apa pun?
+s|Kamu suka aku memperkenalkanmu sebagai apa di depan orang baru?
+s|Apa reaksimu kalau aku lupa mengenalkanmu ke temanku?
+s|Kamu lebih suka kita punya akun pasangan bersama atau akun masing-masing?
+s|Apa hal yang membuatmu merasa aman saat aku pergi jauh?
+s|Siapa orang yang menurutmu diam-diam suka padaku?
+s|Siapa orang yang menurutku diam-diam suka padamu, coba tebak?
+s|Apa hal yang membuat kita sama-sama cemburu?
+s|Kamu keberatan kalau aku memakai baju pemberian mantan?
+s|Apa hal yang pernah membuatmu cemburu tapi tidak pernah kamu katakan?
+s|Kamu lebih suka aku jujur walau menyakitkan atau sedikit berbohong demi menjaga perasaan?
+m|Apa yang membuatmu sulit percaya pada pasangan sebelumnya?
+m|Apa batas pertemanan dengan lawan jenis yang menurutmu sehat?
+m|Bagaimana cara terbaik menyampaikan rasa cemburu tanpa menuduh?
+m|Apa yang kamu butuhkan dariku saat kamu sedang cemburu?
+m|Apa yang membuatmu merasa aku menjaga hubungan ini di depan orang lain?
+m|Bagaimana pendapatmu tentang mengecek ponsel pasangan?
+m|Apa yang menurutmu termasuk selingkuh secara emosional?
+m|Apa yang menurutmu termasuk selingkuh secara fisik?
+m|Apakah menyukai foto orang lain di media sosial termasuk masalah bagimu?
+m|Bagaimana kamu ingin aku menanggapi saat ada orang yang mendekatiku?
+m|Apa yang membuatmu curiga walau tidak ada bukti?
+m|Bagaimana kamu menenangkan pikiran buruk tentang hubungan kita?
+m|Apa rahasia yang menurutmu boleh disimpan demi menjaga perasaan orang lain?
+m|Bagaimana pendapatmu tentang tetap berteman dengan mantan setelah punya pasangan baru?
+m|Apa yang membuatmu merasa aku terlalu tertutup?
+m|Apa yang membuatmu merasa aku terlalu terbuka pada orang lain?
+m|Bagaimana pendapatmu tentang curhat soal hubungan ke sahabat beda jenis?
+m|Apa yang perlu kita sepakati soal media sosial?
+m|Bagaimana kamu ingin aku membuktikan kesetiaanku tanpa merasa diawasi?
+m|Apa pengalaman yang membuatmu menjadi pencemburu atau justru santai?
+m|Bagaimana kamu membedakan cemburu sehat dan cemburu yang mengekang?
+m|Apa yang biasanya memicu rasa tidak aman dalam dirimu?
+m|Apa yang ingin kamu ubah dari caramu menghadapi cemburu?
+m|Bagaimana perasaanmu saat aku terlihat bahagia bersama teman-temanku tanpa kamu?
+m|Apa yang membuatmu merasa diprioritaskan di antara banyak orang di hidupku?
+m|Bagaimana pendapatmu tentang berbagi kata sandi akun?
+m|Apa yang perlu kita lakukan setelah salah satu dari kita merasa dibohongi?
+m|Bagaimana pendapatmu tentang kebohongan kecil seperti merahasiakan harga barang?
+m|Apa jenis kejujuran yang paling kamu hargai?
+m|Bagaimana cara aku bisa menenangkan rasa curigamu tanpa merasa diinterogasi?
+m|Apa yang membuatmu merasa cemburumu tidak dianggap serius?
+m|Bagaimana kamu ingin kita menghadapi gosip tentang hubungan kita?
+m|Apa yang membuatmu merasa aman dengan teman-temanku?
+m|Apa yang membuatmu waspada pada teman-temanku tertentu?
+m|Bagaimana pendapatmu tentang mantan yang masih menghubungi?
+m|Apa yang kamu lakukan kalau mantanmu menghubungi lagi?
+m|Bagaimana pendapatmu tentang pergi berdua dengan teman lawan jenis untuk urusan pekerjaan?
+m|Apa yang membuatmu merasa perlu bertanya terus-menerus tentang kegiatanku?
+m|Bagaimana kita bisa memberi ruang pribadi tanpa membuat yang lain cemas?
+m|Apa yang ingin kamu ketahui dari masa laluku untuk merasa lebih tenang?
+m|Apa yang sebaiknya tidak aku ceritakan tentang masa laluku agar tidak menyakitimu?
+m|Bagaimana kamu ingin kita membicarakan ketertarikan sesaat pada orang lain?
+m|Apakah wajar merasa tertarik pada orang lain saat sudah berkomitmen?
+m|Bagaimana pendapatmu tentang komentar genit di media sosial?
+m|Apa yang membuatmu merasa kita saling menjaga di depan umum?
+m|Bagaimana kamu ingin aku menanggapi saat kamu cemburu pada hal yang tidak masuk akal?
+m|Apa hal yang membuatmu merasa aku jujur bahkan saat itu sulit?
+m|Apa yang membuatmu merasa perlu menyembunyikan sesuatu dariku?
+m|Bagaimana perasaanmu ketika aku lebih banyak bercerita kepada sahabatku daripada kepadamu?
+m|Apa yang membuatmu merasa tenang meski aku jarang mengunggah foto kita?
+m|Bagaimana pendapatmu soal pasangan yang selalu ingin ikut ke mana pun?
+m|Apa tanda bahwa kepercayaan di antara kita sedang menurun?
+m|Bagaimana kita bisa memulihkan kepercayaan setelah salah paham kecil?
+m|Apa yang membuatmu merasa kehilangan privasi dalam hubungan?
+m|Bagaimana pendapatmu soal membaca pesan pasangan yang sedang terbuka di layar?
+m|Apa yang ingin kamu dengar dariku saat kamu merasa tidak aman?
+m|Bagaimana kita sebaiknya bersikap pada orang yang terang-terangan menyukai salah satu dari kita?
+m|Apa yang membuatmu merasa lebih tenang setelah kita membicarakan rasa cemburu?
+m|Apa yang perlu aku tahu tentang pemicu cemburumu?
+m|Bagaimana pendapatmu soal memberi tahu pasangan saat ada yang menyatakan suka padamu?
+m|Apa yang kamu rasakan saat aku mengatakan tidak perlu khawatir?
+m|Bagaimana pendapatmu tentang teman yang sering membandingkan hubungan kita?
+m|Apa yang membuatmu merasa aku bangga memilikimu di depan orang lain?
+m|Apa hal yang ingin kamu sepakati soal kebiasaan bercanda dengan lawan jenis?
+d|Pernahkah kamu dikhianati, dan bagaimana itu memengaruhimu sekarang?
+d|Pernahkah kamu mengkhianati seseorang, dan apa yang kamu pelajari?
+d|Apa yang akan kamu lakukan kalau aku berselingkuh?
+d|Apa yang membuatmu takut aku akan meninggalkanmu untuk orang lain?
+d|Apa yang membuatmu merasa tidak cukup untukku?
+d|Apa luka lama yang membuatmu sulit percaya sepenuhnya?
+d|Apa yang membuatmu yakin aku setia?
+d|Apa yang membuatmu kadang ragu aku setia?
+d|Apa yang kamu butuhkan untuk bisa memaafkan pengkhianatan?
+d|Apakah ada hal yang tidak bisa dimaafkan dalam hubungan menurutmu?
+d|Apa yang kamu rasakan saat membandingkan dirimu dengan orang yang dekat denganku?
+d|Bagaimana kamu ingin aku menjaga hatimu saat kamu sedang merasa rapuh?
+d|Apa yang membuatmu merasa kehilangan harga diri saat cemburu?
+d|Pernahkah rasa cemburu membuatmu melakukan sesuatu yang kamu sesali?
+d|Apa rahasia yang pernah kamu simpan dariku dan kenapa?
+d|Apa yang kamu takutkan kalau aku tahu semua tentang masa lalumu?
+d|Bagaimana kamu ingin kita memperbaiki kepercayaan kalau suatu hari rusak parah?
+d|Apa yang membuatmu merasa layak untuk dipilih setiap hari?
+d|Apa yang membuatmu takut menjadi orang yang terlalu bergantung padaku?
+d|Apa yang terjadi di dalam dirimu saat aku tidak bisa dihubungi lama?
+d|Apa yang membuatmu merasa aku menyembunyikan sesuatu walau aku tidak?
+d|Bagaimana kamu ingin aku membantu menyembuhkan rasa tidak amanmu?
+d|Apa hal yang membuatmu merasa sedang dibandingkan dengan masa laluku?
+d|Apa yang ingin kamu katakan tentang orang yang pernah membuatmu sulit percaya?
+d|Apa yang kamu rasakan saat aku memilih menghabiskan waktu dengan orang lain?
+d|Apa yang membuatmu merasa kepercayaan adalah pilihan, bukan perasaan?
+d|Bagaimana kamu ingin kita tetap jujur saat kejujuran itu bisa menyakiti?
+d|Apa kebenaran yang paling sulit kamu katakan padaku sejauh ini?
+d|Apa yang membuatmu merasa cemburumu adalah tanda cinta atau tanda takut?
+d|Apa yang membuatmu merasa terlalu banyak memberi kepercayaan sebelumnya?
+d|Apa yang ingin kamu dengar dariku saat kamu merasa diabaikan?
+d|Bagaimana kamu ingin aku menegurmu kalau kecemburuanmu mulai menyakitiku?
+d|Apa yang kamu harapkan dariku saat aku merasa tidak percaya padamu?
+d|Apa yang membuatmu yakin hubungan ini aman untuk perasaanmu yang paling rapuh?
+d|Apa yang membuatmu merasa aku memilihmu meski banyak pilihan lain?
+d|Apa yang kamu rasakan saat membayangkan aku jatuh cinta pada orang lain?
+d|Apa arti setia buatmu di dunia yang penuh godaan?
+d|Bagaimana kamu ingin kita menjaga kesetiaan saat hubungan sedang membosankan?
+d|Apa yang membuatmu yakin aku akan jujur kalau perasaanku berubah?
+d|Apakah kamu ingin aku jujur kalau suatu hari aku tertarik pada orang lain?
+d|Apa yang membuatmu takut kehilangan kepercayaanku?
+d|Apa yang ingin kamu perbaiki dari dirimu agar lebih bisa dipercaya?
+d|Apa yang membuatmu merasa curiga adalah cara melindungi diri?
+d|Bagaimana kamu ingin kita membicarakan rasa tidak aman tanpa saling menyalahkan?
+d|Apa yang membuatmu merasa aku menghargai kepercayaanmu?
+d|Apa yang membuatmu merasa kepercayaan kita sudah tumbuh dibanding awal pacaran?
+d|Apa yang kamu harapkan dari dirimu saat aku sedang dekat dengan orang lain untuk urusan penting?
+d|Apa hal yang membuatmu merasa dikhianati walau bukan perselingkuhan?
+d|Bagaimana rasanya saat aku meyakinkanmu tanpa kamu minta?
+d|Apa yang kamu harap aku lakukan kalau aku melihatmu sedang ragu pada dirimu sendiri?
+d|Apa yang membuatmu merasa kecemburuanku membuatmu terkekang?
+d|Apa yang membuatmu merasa layak dipercaya, bahkan setelah pernah membuat kesalahan?
+d|Apa yang membuatmu yakin kita bisa saling jujur sampai tua?
+d|Apa yang membuatmu merasa takut kehilangan kebebasan karena kepercayaan yang diberikan?
+d|Apa yang ingin kamu sampaikan pada aku yang sedang cemburu berlebihan?
+d|Apa yang membuatmu bisa melepaskan kecurigaan dan memilih percaya?
+d|Apa yang kamu pelajari tentang dirimu dari rasa cemburu?
+d|Apa yang membuatmu merasa perlu mengendalikan sesuatu dalam hubungan ini?
+d|Apa yang kamu harapkan dari kita saat kepercayaan diuji oleh jarak, waktu, atau orang lain?
+d|Apa satu janji tentang kejujuran yang ingin kamu buat padaku?
+d|Apa yang membuatmu merasa sudah benar-benar aman dalam hubungan ini?
+d|Apa yang kamu rasakan tentang dirimu ketika kecemburuanmu ternyata keliru?
+d|Bagaimana kamu ingin kita merayakan kepercayaan yang sudah kita bangun?
+s|Apa jenis hadiah dari orang lain untukku yang bikin kamu penasaran?
+s|Kamu keberatan kalau aku ikut kelas dansa dengan pasangan dansa orang lain?
+s|Apa jenis panggilan sayang yang menurutmu hanya boleh untuk pasangan?
+s|Kamu keberatan kalau aku curhat ke teman sekantor yang sudah menikah?
+s|Apa reaksimu kalau aku menolong orang asing yang menarik?
+s|Kamu tipe yang suka bertanya ke teman soal kegiatanku?
+s|Apa hal kecil yang membuatmu langsung tenang saat cemburu?
+s|Kamu keberatan kalau aku menyimpan pesan lama dari orang yang pernah dekat?
+s|Apa jenis foto yang menurutmu tidak pantas diunggah saat sudah punya pasangan?
+s|Kamu keberatan kalau aku punya teman kencan makan siang di kantor?
+s|Apa yang biasanya kamu tanyakan kalau aku pulang larut?
+s|Kamu nyaman kalau ponselku dikunci dengan sidik jariku saja?
+m|Bagaimana pendapatmu tentang teman yang suka bercanda menggoda pasangan orang?
+m|Apa yang perlu kita lakukan jika ada orang ketiga yang terus mengganggu?
+m|Bagaimana kita bisa saling memberi kabar tanpa terasa seperti melapor?
+m|Apa yang membuatmu merasa kebebasanmu dihormati dalam hubungan ini?
+m|Bagaimana pendapatmu tentang menyimpan hadiah dari mantan?
+m|Apa yang ingin kamu lakukan agar aku tidak perlu bertanya soal keberadaanmu?
+m|Bagaimana kita sebaiknya menghadapi pesan dari nomor tidak dikenal yang mencurigakan?
+m|Apa yang membuatmu merasa aku terlalu banyak bertanya?
+m|Bagaimana pendapatmu tentang ikut campur dalam pertemanan pasangan?
+m|Apa pengalaman temanmu yang membuatmu lebih waspada dalam hubungan?
+m|Bagaimana kita membedakan menjaga privasi dan menyembunyikan sesuatu?
+m|Apa yang perlu aku lakukan kalau aku melihatmu cemburu tapi diam saja?
+m|Bagaimana pendapatmu soal pasangan yang membalas pesan orang lain lebih cepat?
+d|Apa yang membuatmu takut terlihat lemah saat mengaku cemburu?
+d|Apa yang kamu rasakan saat orang lain memuji pasanganmu di depanmu?
+d|Apa yang membuatmu merasa aku bisa dipercaya bahkan dengan rahasia terdalammu?
+d|Apa yang ingin kamu dengar dariku setelah aku membuatmu cemburu tanpa sengaja?
+d|Apa yang membuatmu yakin kepercayaan yang hilang bisa tumbuh lagi?
+d|Bagaimana kamu ingin kita menjaga satu sama lain dari godaan tanpa saling mengekang?
+d|Apa yang kamu harap kamu tahu lebih awal tentang cemburu dan cinta?
+d|Apa yang membuatmu merasa kecemburuan tidak lagi menguasai dirimu?
+d|Apa yang membuatmu merasa kita sudah saling mengenal cukup dalam untuk saling percaya?
+d|Bagaimana kamu ingin aku menunjukkan bahwa hatiku tidak ke mana-mana?
+d|Apa yang membuatmu berani memberi kepercayaan setelah dulu pernah dikecewakan?
+d|Apa yang kamu rasakan saat aku memilih jujur walau itu membuat kita bertengkar?
+d|Apa yang membuatmu takut kehilangan dirimu saat sedang cemburu berat?
+s|Apa lagu yang cocok diputar saat salah satu dari kita sedang cemburu?
+m|Bagaimana kamu ingin aku bersikap saat bertemu mantanmu tanpa sengaja?
+d|Apa yang membuatmu merasa cukup tenang untuk tidak lagi memeriksa apa pun?

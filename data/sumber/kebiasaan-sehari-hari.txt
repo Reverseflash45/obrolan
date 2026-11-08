@@ -1,0 +1,252 @@
+# Kebiasaan Sehari-hari — pasangan, aku/kamu
+s|Kamu tim mandi pagi atau mandi malam?
+s|Apa hal pertama yang kamu lakukan setelah bangun tidur?
+s|Berapa kali kamu menekan tombol tunda alarm setiap pagi?
+s|Kamu tidur dengan kipas, AC, atau tanpa keduanya?
+s|Kamu lebih suka tidur di sisi kanan atau kiri kasur?
+s|Apa posisi tidur favoritmu?
+s|Kamu suka tidur dengan banyak bantal atau satu saja?
+s|Kamu tim selimut tebal atau tipis?
+s|Apa sarapan favoritmu di hari kerja?
+s|Kamu suka sarapan atau langsung makan siang?
+s|Berapa gelas air yang kamu minum setiap hari?
+s|Kamu lebih suka mandi air hangat atau air dingin?
+s|Berapa lama kamu biasanya mandi?
+s|Kamu menyikat gigi sebelum atau sesudah sarapan?
+s|Apa rutinitas perawatan wajah atau tubuhmu?
+s|Kamu tipe yang merapikan kasur setiap pagi?
+s|Apa barang yang selalu kamu cari setiap mau berangkat?
+s|Kamu suka berangkat mepet atau datang lebih awal?
+s|Apa lagu atau podcast yang menemani perjalananmu?
+s|Kamu lebih suka makan siang sendiri atau bersama orang lain?
+s|Apa camilan sore favoritmu?
+s|Kamu suka tidur siang atau tidak?
+s|Apa yang biasanya kamu lakukan sepulang kerja atau kuliah?
+s|Kamu langsung mandi sepulang beraktivitas atau rebahan dulu?
+s|Apa makan malam yang paling sering kamu pilih?
+s|Kamu tim makan di meja atau di depan TV?
+s|Apa kebiasaanmu sebelum tidur?
+s|Jam berapa biasanya kamu tidur?
+s|Kamu suka main ponsel sebelum tidur?
+s|Kamu suka mendengarkan musik atau suara alam saat tidur?
+s|Kamu tipe yang mencuci piring langsung atau menumpuk dulu?
+s|Kamu lebih suka mencuci baju sendiri atau di laundry?
+s|Kamu lebih suka menyetrika atau baju lecek tidak masalah?
+s|Apa tugas rumah yang paling cepat kamu selesaikan?
+s|Apa tugas rumah yang paling sering kamu tunda?
+s|Kamu suka memasak atau lebih suka beli makanan jadi?
+s|Apa menu masakan andalanmu yang paling sering kamu buat?
+s|Kamu tipe yang menyimpan barang di tempatnya atau di mana saja?
+s|Kamu lebih suka kamar terang atau remang-remang?
+s|Kamu lebih suka jendela terbuka atau tertutup?
+s|Berapa sering kamu membersihkan kamar?
+s|Apa aroma pengharum ruangan favoritmu?
+s|Kamu suka sandal rumah atau bertelanjang kaki?
+s|Kamu tipe yang menaruh handuk di kasur atau di gantungan?
+s|Apa kebiasaanmu saat menunggu makanan matang?
+s|Kamu suka menonton serial sambil makan?
+s|Kamu suka mengemil tengah malam?
+s|Kamu lebih suka belanja bulanan sekaligus atau sedikit-sedikit?
+s|Kamu tipe yang membaca semua notifikasi atau membiarkannya menumpuk?
+s|Berapa tab browser yang biasanya terbuka di ponselmu?
+s|Kamu suka mengisi baterai ponsel sampai penuh atau seadanya?
+s|Kamu suka menyalakan TV hanya untuk suara latar?
+s|Apa kebiasaanmu saat hari Minggu pagi?
+s|Kamu lebih suka olahraga pagi atau sore?
+s|Kamu suka berjemur pagi atau tidak?
+s|Apa kebiasaanmu saat hujan turun di rumah?
+s|Kamu suka mendengarkan radio atau podcast di rumah?
+s|Kamu tipe yang suka bernyanyi saat memasak?
+s|Apa kebiasaan anehmu saat mandi?
+s|Kamu suka menaruh ponsel di mana saat tidur?
+s|Apa kebiasaan lucumu saat sedang bekerja di rumah?
+s|Kamu lebih suka bekerja di meja atau di kasur?
+s|Apa minuman yang selalu kamu buat saat bekerja?
+s|Kamu tipe yang makan cepat atau pelan?
+s|Kamu suka nasi hangat atau nasi dingin?
+s|Apa lauk yang selalu ada di kulkasmu?
+s|Kamu tipe yang menghabiskan makanan atau sering tersisa?
+s|Kamu suka sambal di setiap makanan?
+s|Apa jajanan malam favoritmu?
+s|Kamu lebih suka tidur dengan kaos kaki atau tanpa?
+s|Kamu suka mengatur jadwal di kalender atau mengingat saja?
+s|Apa aplikasi yang pertama kamu buka setiap pagi?
+s|Kamu tipe yang membuat daftar belanja atau spontan saja?
+s|Kamu suka merapikan lemari setiap berapa lama?
+s|Apa kebiasaanmu di perjalanan pulang kerja?
+s|Kamu lebih suka pesan antar makanan atau ambil sendiri?
+s|Kamu suka membersihkan rumah sambil mendengarkan musik apa?
+s|Apa kebiasaan kecilmu yang sering bikin aku senyum?
+s|Kamu tipe yang menyalakan lampu semua atau seperlunya?
+s|Kamu suka ruangan wangi atau tanpa aroma?
+s|Apa jenis piyama favoritmu?
+s|Kamu lebih suka bangun dengan alarm atau sinar matahari?
+s|Apa kebiasaan saat makan yang menurutmu wajib?
+s|Kamu suka makan sambil bicara atau fokus makan dulu?
+s|Kamu tipe yang suka pergi ke pasar pagi?
+s|Apa hal di rumah yang paling sering kamu perbaiki sendiri?
+s|Kamu suka merawat tanaman di rumah?
+s|Apa kebiasaanmu sebelum keluar rumah selain cek dompet dan kunci?
+s|Kamu tipe yang mengunci pintu dua kali?
+s|Kamu suka membiarkan piring kotor semalaman?
+s|Apa kebiasaan malam Jumat atau malam Minggu di rumahmu?
+s|Kamu suka tidur dengan rambut basah?
+s|Apa sabun atau sampo yang tidak pernah kamu ganti?
+s|Kamu tipe yang mencatat pengeluaran harian?
+m|Kebiasaanku yang mana yang paling sulit kamu terima?
+m|Kebiasaanmu yang mana yang kamu tahu menggangguku?
+m|Bagaimana kita membagi pekerjaan rumah dengan adil?
+m|Apa kebiasaan kecil yang ingin kamu ubah demi hidup lebih sehat?
+m|Bagaimana pendapatmu soal tidur di kamar berbeda kalau salah satu mendengkur?
+m|Apa kebiasaan bersih yang menurutmu tidak bisa ditawar?
+m|Bagaimana kita menyesuaikan jam tidur yang berbeda?
+m|Apa kebiasaan rumah orang tuamu yang ingin kamu bawa ke rumah kita?
+m|Bagaimana kita menghadapi perbedaan standar kerapian?
+m|Apa rutinitas harian yang ingin kita lakukan bersama?
+m|Apa yang membuat harimu terasa berantakan sejak pagi?
+m|Bagaimana pendapatmu soal makan malam bersama setiap hari?
+m|Apa waktu dalam sehari yang paling kamu butuhkan untuk sendirian?
+m|Bagaimana kita mengatur waktu memakai kamar mandi di pagi hari?
+m|Apa kebiasaanmu saat sedang sakit yang perlu aku tahu?
+m|Apa kebiasaan kecilku yang ternyata membuatmu merasa disayang?
+m|Bagaimana pendapatmu soal menunda pekerjaan rumah sampai akhir pekan?
+m|Apa kebiasaan digital yang ingin kita kurangi berdua?
+m|Bagaimana kita mengatur penggunaan ponsel saat sedang bersama?
+m|Apa kebiasaan makan yang ingin kita perbaiki bersama?
+m|Bagaimana kita sebaiknya mengatur belanja kebutuhan rumah?
+m|Apa kebiasaanmu saat stres yang perlu aku pahami?
+m|Bagaimana pendapatmu soal menerima tamu di rumah tanpa pemberitahuan?
+m|Apa kebiasaan pagi yang membuatmu merasa siap menghadapi hari?
+m|Bagaimana kita menyesuaikan suhu ruangan yang ideal untuk kita berdua?
+m|Apa kebiasaan yang membuatmu merasa rumah adalah tempat istirahat?
+m|Bagaimana kita sebaiknya menangani cucian yang menumpuk?
+m|Apa kebiasaan malam yang membuat tidurmu lebih nyenyak?
+m|Bagaimana kita mengatur siapa yang memasak dan siapa yang mencuci piring?
+m|Apa kebiasaan baik yang ingin kamu pelajari dariku?
+m|Apa kebiasaanmu yang menurutmu layak aku tiru?
+m|Bagaimana pendapatmu tentang menonton TV di kamar tidur?
+m|Apa kebiasaan keuangan harian yang ingin kita jaga bersama?
+m|Bagaimana kita mengatur waktu olahraga di tengah kesibukan?
+m|Apa kebiasaan yang membuatmu merasa produktif?
+m|Bagaimana kamu ingin kita menghabiskan malam di hari kerja?
+m|Rutinitas berdua mana yang perlu kita beri sentuhan baru?
+m|Bagaimana kita bisa membuat rutinitas harian terasa lebih menyenangkan?
+m|Apa kebiasaan yang ingin kamu mulai setiap pagi tapi selalu gagal?
+m|Bagaimana kita menghadapi hari ketika kita sama-sama lelah?
+m|Apa kebiasaan saat makan yang menurutmu tidak sopan?
+m|Bagaimana pendapatmu soal hewan peliharaan tidur di kasur?
+m|Apa kebiasaanku saat tidur yang menurutmu lucu atau mengganggu?
+m|Bagaimana kita mengatur barang pribadi supaya tidak saling mengganggu?
+m|Apa kebiasaan yang membuatmu merasa dewasa?
+m|Bagaimana kita sebaiknya menghabiskan Minggu pagi?
+m|Apa kebiasaan kecil yang bisa membuat hubungan kita lebih hangat setiap hari?
+m|Bagaimana kita menyeimbangkan waktu kerja di rumah dan waktu santai?
+m|Apa kebiasaan yang menurutmu menunjukkan rasa hormat di rumah?
+m|Bagaimana pendapatmu soal makan di luar setiap akhir pekan?
+m|Apa kebiasaan yang ingin kamu tinggalkan sebelum kita tinggal bersama?
+m|Bagaimana kita menanggapi kebiasaan buruk satu sama lain tanpa mengomel?
+m|Apa kebiasaan sehari-hari yang paling menguras energimu?
+m|Bagaimana kita mengatur waktu menelepon keluarga setiap minggu?
+m|Apa kebiasaan yang membuatmu merasa jadi diri sendiri?
+m|Bagaimana pendapatmu soal mematikan ponsel setelah jam tertentu?
+m|Apa kebiasaanmu yang paling ingin kamu pertahankan selamanya?
+m|Bagaimana kita mengatur jadwal ketika ada yang sakit di rumah?
+m|Apa kebiasaan kecil yang membuat pagi kita lebih damai?
+m|Bagaimana kita menentukan menu makan setiap minggu?
+m|Apa kebiasaan saat liburan yang berbeda dengan hari biasa?
+m|Bagaimana kita menyikapi kebiasaan begadang salah satu dari kita?
+m|Apa kebiasaan merawat diri yang ingin kita lakukan bersama?
+d|Kebiasaan apa yang kamu lakukan untuk bertahan di hari-hari berat?
+d|Apa kebiasaan lama yang muncul lagi saat kamu sedang tidak baik-baik saja?
+d|Apa kebiasaan yang membuatmu merasa malu tapi belum bisa kamu hentikan?
+d|Bagaimana kamu ingin aku menegur kebiasaan burukmu?
+d|Apa rutinitas yang membuatmu merasa hidupmu terkendali?
+d|Apa kebiasaan kecil dariku yang akan paling kamu rindukan kalau aku tidak ada?
+d|Apa kebiasaan yang kamu lakukan untuk menyembunyikan rasa lelah?
+d|Apa kebiasaan yang kamu warisi dari keluarga dan ingin kamu ubah?
+d|Apa yang terjadi pada rutinitasmu saat kamu sedih?
+d|Bagaimana kamu ingin kita saling menjaga saat salah satu kehilangan semangat menjalani hari?
+d|Apa kebiasaan yang membuatmu merasa aman saat masih kecil?
+d|Apa kebiasaan kita yang menurutmu paling menunjukkan cinta?
+d|Apa yang kamu rasakan saat rutinitasmu terganggu tiba-tiba?
+d|Apa kebiasaan yang membuatmu merasa berharga setiap hari?
+d|Apa kebiasaan yang ingin kamu bangun agar menjadi orang yang lebih baik untuk kita?
+d|Apa kebiasaan yang membuatmu merasa sepi walau sedang di rumah?
+d|Bagaimana kamu ingin hari-hari biasa kita terasa bermakna?
+d|Apa kebiasaan kecil yang ingin kamu lakukan untukku seumur hidup?
+d|Apa yang kamu rasakan saat hari berjalan sama setiap hari?
+d|Apa kebiasaan yang membuatmu merasa sedang melarikan diri dari sesuatu?
+d|Apa kebiasaan yang menurutmu bisa menyelamatkan hubungan kita di masa sulit?
+d|Bagaimana kamu ingin kita merawat kebiasaan baik saat hidup sedang kacau?
+d|Apa rutinitas yang ingin kamu ciptakan agar kita tidak saling menjauh?
+d|Apa kebiasaan yang membuatmu merasa diperhatikan tanpa kata-kata?
+d|Apa kebiasaan yang kamu lakukan saat merasa tidak dicintai?
+d|Apa kebiasaan yang ingin kamu pertahankan agar tetap menjadi dirimu sendiri dalam hubungan?
+d|Apa yang membuatmu sulit memulai hari, dan bagaimana aku bisa membantu?
+d|Ritual kecil apa yang membuat pikiranmu tenang sebelum tidur?
+d|Apa yang kamu harapkan dari rumah kita setiap kali kamu pulang dalam keadaan lelah?
+d|Apa kebiasaan yang membuatmu merasa terhubung dengan Tuhan atau sesuatu yang lebih besar?
+d|Apa kebiasaan kecil yang menurutmu menunjukkan rasa hormat di antara kita?
+d|Apa yang membuatmu merasa rumah adalah tempat yang aman setiap hari?
+d|Apa kebiasaan yang membuatmu merasa sudah cukup berusaha hari ini?
+d|Apa kebiasaan yang kamu harap tetap kita lakukan saat kita sudah tua?
+d|Apa yang membuatmu merasa kehilangan dirimu dalam rutinitas?
+d|Bagaimana kamu ingin kita menjaga kebiasaan saling bertanya kabar walau tinggal serumah?
+d|Apa kebiasaan yang kamu lakukan diam-diam untuk menjaga kesehatan mentalmu?
+d|Apa kata-kata yang paling sering kamu ucapkan pada dirimu sendiri setiap pagi?
+d|Apa kebiasaan yang kamu lakukan untuk merasa dekat dengan orang yang sudah tiada?
+d|Apa yang membuatmu merasa hari-hari biasa bersama aku adalah hadiah?
+d|Apa kebiasaanmu yang paling ingin aku pahami alasannya?
+d|Apa yang kamu harapkan dari kebiasaan kita saat salah satu dari kita sakit lama?
+d|Apa kebiasaan yang ingin kamu ajarkan pada anak kita kalau kita punya?
+d|Apa yang membuatmu merasa rutinitas kita sudah menjadi bahasa cinta kita sendiri?
+d|Apa kebiasaan yang ingin kamu tinggalkan karena mengingatkanmu pada masa sulit?
+d|Bagaimana kamu ingin menutup setiap hari bersamaku?
+d|Apa kebiasaan yang membuatmu merasa kamu sedang bertumbuh?
+d|Apa yang membuatmu bersyukur setiap kali bangun di sampingku, atau membayangkannya?
+d|Apa kebiasaan kecil yang membuatmu merasa kita adalah keluarga?
+d|Apa kebiasaan yang kamu lakukan saat merasa tidak cukup baik?
+d|Apa yang kamu harapkan tetap sama dari rutinitas kita meski banyak hal berubah?
+d|Apa kebiasaan yang ingin kamu ubah agar aku tidak merasa sendirian di rumah?
+d|Apa kebiasaan yang membuatmu merasa dihargai sebagai pasangan?
+d|Apa yang membuatmu merasa hidup sehari-hari bersamaku tidak membosankan?
+d|Apa kebiasaan yang ingin kamu ciptakan untuk merayakan hal kecil setiap hari?
+d|Apa yang kamu rasakan saat pulang dan melihat aku sudah menunggu?
+d|Apa kebiasaan yang menurutmu akan kita ceritakan sambil tertawa saat tua nanti?
+d|Apa yang membuatmu merasa rutinitas sederhana bisa menyembuhkan?
+d|Apa satu kebiasaan baru yang ingin kamu mulai besok demi kita?
+s|Kamu tipe yang memakai jam tangan setiap hari?
+s|Apa kebiasaanmu saat menunggu ojek atau kendaraan datang?
+s|Kamu suka memotong kuku setiap minggu atau saat ingat saja?
+s|Kamu suka minum teh atau kopi sambil melihat ke luar jendela?
+s|Kamu tipe yang membiarkan lampu menyala saat tidur siang?
+s|Apa makanan yang selalu kamu stok untuk keadaan darurat lapar?
+s|Kamu tipe yang suka bernyanyi saat mandi?
+s|Kamu suka menyapa tetangga setiap pagi?
+s|Berapa kali dalam sehari kamu mengecek cuaca?
+s|Kamu tipe yang mencuci sepatu sendiri?
+s|Apa kebiasaan kecil yang selalu kamu lakukan di hari Jumat?
+s|Kamu lebih suka mengepel atau menyapu?
+m|Bagaimana kita sebaiknya membagi tugas saat ada acara di rumah?
+m|Apa kebiasaanku saat bekerja di rumah yang kadang mengganggumu?
+m|Bagaimana pendapatmu soal jadwal bersih-bersih mingguan yang tertulis?
+m|Apa kebiasaan pagi orang tuamu yang ingin kamu tiru?
+m|Bagaimana kita sebaiknya menyimpan barang bersama seperti charger dan kunci?
+m|Apa kebiasaan kecil yang bisa kita mulai untuk mengurangi sampah di rumah?
+m|Bagaimana kita sebaiknya mengatur waktu saat salah satu harus bangun jauh lebih pagi?
+m|Apa kebiasaan yang menurutmu membuat rumah terasa seperti rumah, bukan hanya tempat tinggal?
+m|Bagaimana pendapatmu soal makan di kamar tidur?
+m|Apa kebiasaan saat akhir bulan yang ingin kita jadikan tradisi?
+d|Apa yang kamu rasakan saat pulang ke rumah yang kosong?
+d|Apa rutinitas yang membuatmu merasa dekat denganku walau kita sedang sibuk?
+d|Apa kebiasaan yang membuatmu merasa tidak sendirian menghadapi hari?
+d|Apa yang ingin kamu ucapkan padaku setiap malam sebelum tidur, walau sedang kesal?
+d|Apa kebiasaan yang kamu harap aku lakukan saat kamu sedang terpuruk?
+d|Apa yang membuat hari biasa terasa istimewa bersamaku?
+d|Apa kebiasaan yang menurutmu akan paling menguji kesabaran kita saat tinggal bersama?
+d|Apa satu rutinitas yang ingin kamu jaga agar tidak hilang saat hidup makin sibuk?
+s|Apa kebiasaanmu saat mati lampu di malam hari?
+s|Kamu suka menaruh camilan di dekat tempat tidur?
+m|Apa kebiasaan saat belanja bulanan yang sering bikin kita beda pendapat?
+d|Apa kebiasaan yang membuatmu merasa kita sedang menua bersama dengan baik?
+d|Apa rutinitas kecil yang ingin kamu lakukan untuk merawat dirimu tanpa merasa bersalah?
