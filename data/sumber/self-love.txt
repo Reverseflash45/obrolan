@@ -158,7 +158,7 @@ s|Apa kebiasaan yang membuat matamu beristirahat dari layar?
 s|Apa jenis tempat duduk favoritmu untuk bersantai?
 s|Apa jenis musik yang membuatmu ingin menari sendirian?
 s|Apa hal yang kamu lakukan untuk merayakan gajian atau uang jajan pertama setiap bulan?
-s|Apa jenis tantangan olahraga ringan yang ingin kamu coba?
+s|Berapa langkah kaki per hari yang menurutmu target realistis buatmu?
 s|Apa kebiasaan yang membuatmu lebih dekat dengan sinar matahari?
 s|Apa jenis catatan atau jurnal yang membuatmu merasa lega?
 s|Apa jenis aksesori yang membuatmu merasa menjadi diri sendiri?

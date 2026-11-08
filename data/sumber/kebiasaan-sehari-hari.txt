@@ -25,7 +25,7 @@ s|Apa yang biasanya kamu lakukan sepulang kerja atau kuliah?
 s|Kamu langsung mandi sepulang beraktivitas atau rebahan dulu?
 s|Apa makan malam yang paling sering kamu pilih?
 s|Kamu tim makan di meja atau di depan TV?
-s|Apa kebiasaanmu sebelum tidur?
+s|Apa hal terakhir yang kamu lihat sebelum memejamkan mata?
 s|Jam berapa biasanya kamu tidur?
 s|Kamu suka main ponsel sebelum tidur?
 s|Kamu suka mendengarkan musik atau suara alam saat tidur?

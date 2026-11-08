@@ -165,7 +165,7 @@ d|Apa rahasia yang pernah kamu simpan dariku dan kenapa?
 d|Apa yang kamu takutkan kalau aku tahu semua tentang masa lalumu?
 d|Bagaimana kamu ingin kita memperbaiki kepercayaan kalau suatu hari rusak parah?
 d|Apa yang membuatmu merasa layak untuk dipilih setiap hari?
-d|Apa yang membuatmu takut menjadi orang yang terlalu bergantung padaku?
+d|Apa yang terjadi pada rasa percayamu saat kamu merasa terlalu membutuhkan kehadiranku?
 d|Apa yang terjadi di dalam dirimu saat aku tidak bisa dihubungi lama?
 d|Apa yang membuatmu merasa aku menyembunyikan sesuatu walau aku tidak?
 d|Bagaimana kamu ingin aku membantu menyembuhkan rasa tidak amanmu?

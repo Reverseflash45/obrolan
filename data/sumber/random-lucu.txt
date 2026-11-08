@@ -105,7 +105,7 @@ m|Apa hal yang dulu kamu anggap keren tapi sekarang memalukan?
 m|Apa lelucon yang selalu berhasil membuatmu tertawa walau sudah sering didengar?
 m|Apa hal teraneh yang pernah kamu lakukan karena gengsi?
 m|Apa cerita lucu tentang dirimu yang selalu diceritakan ulang oleh keluarga?
-m|Apa kebiasaan anehmu saat sedang gugup?
+m|Gerakan atau ucapan konyol apa yang keluar sendiri saat kamu grogi?
 m|Apa hal konyol yang kamu lakukan demi mendapatkan perhatian seseorang?
 m|Apa kejadian lucu yang terjadi saat kamu mencoba terlihat keren?
 m|Apa hal yang kamu lakukan saat salah masuk ruangan atau salah sapa orang?

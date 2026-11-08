@@ -58,7 +58,7 @@ s|Lo pernah ganti jurusan atau ganti kerjaan?
 s|Apa ruangan favorit di kampus atau kantor lo?
 s|Lo pernah kena tegur karena hal sepele?
 s|Apa acara outing atau study tour yang paling seru?
-s|Siapa yang paling sering curhat soal kerjaan ke lo?
+s|Siapa rekan yang paling sering ngajak lo ngeluh bareng soal deadline?
 s|Lo tim ngerjain tugas sambil denger musik atau harus sunyi?
 s|Apa kebiasaan rapat yang menurut lo buang waktu?
 s|Lo pernah salah panggil nama atasan atau dosen?

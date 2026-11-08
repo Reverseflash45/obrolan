@@ -92,7 +92,7 @@ m|Apa yang ingin kamu ketahui tentang masa muda orang tua?
 m|Apa yang ingin kamu ketahui tentang kehidupan anak di luar rumah?
 m|Bentuk perhatian apa yang paling sering muncul di rumah ini tanpa diucapkan?
 m|Apa kebiasaan keluarga yang ingin kamu pertahankan selamanya?
-m|Apa kebiasaan keluarga yang ingin kamu ubah?
+m|Aturan rumah mana yang menurutmu sudah waktunya diperbarui?
 m|Apa yang paling kamu syukuri dari keluarga ini?
 m|Apa hal yang membuatmu merasa didengarkan di rumah?
 m|Pendapat siapa yang menurutmu paling jarang didengar di rumah ini?
@@ -178,7 +178,7 @@ s|Apa tempat duduk favorit setiap anggota keluarga di rumah?
 s|Siapa yang paling sering pulang membawa cerita lucu?
 s|Apa kebiasaan orang tua saat masih pacaran yang pernah diceritakan?
 s|Siapa yang paling suka membaca di keluarga ini?
-s|Apa hal yang selalu dibawa saat keluarga piknik?
+s|Ke mana tempat piknik keluarga yang paling sering didatangi?
 s|Siapa yang paling sering menasihati soal kesehatan?
 s|Apa acara keluarga yang paling sering bikin heboh grup chat?
 s|Siapa yang paling cepat panik kalau ada barang hilang?

@@ -193,7 +193,7 @@ d|Apa yang membuatmu merasa kosong walau semuanya terlihat baik?
 d|Apa hal yang kamu syukuri dari luka yang pernah kamu alami?
 d|Bagaimana kamu menghadapi rasa takut ditinggalkan?
 d|Apa yang membuatmu merasa layak bahagia?
-d|Apa yang kamu harap orang lain tahu tentang perjuanganmu menjadi dirimu sekarang?
+d|Bagian mana dari perjalanan hidupmu yang paling jarang diapresiasi orang?
 d|Apa sisi gelap dirimu yang sedang kamu belajar terima?
 d|Apa yang ingin kamu maafkan dari dirimu, tapi belum bisa?
 d|Kapan kamu merasa paling rapuh di depanku?

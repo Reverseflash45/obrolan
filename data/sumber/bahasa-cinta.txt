@@ -86,7 +86,7 @@ s|Apa tindakan kecil yang bagimu lebih bermakna dari kata cinta?
 s|Kamu suka kalau aku membelamu di depan orang lain?
 s|Apa hal yang paling ingin kamu terima dariku di hari biasa?
 s|Kamu lebih senang aku hadir di acaramu atau memberimu hadiah?
-s|Apa hal yang langsung bikin kamu merasa kangen padaku?
+s|Kebiasaanku yang mana yang paling kamu cari saat kita lama tak bertemu?
 s|Kamu suka kalau aku menjadwalkan kencan rutin?
 s|Apa bentuk sayang dariku yang paling sering kamu ceritakan ke teman?
 m|Apa bahasa cinta utamamu, dan apakah aku sudah memenuhinya?

@@ -31,7 +31,7 @@ s|Apa resep turun-temurun dari nenek atau kakek yang masih dibuat?
 s|Apa tradisi keluarga saat ada yang pindah rumah?
 s|Siapa yang biasanya memimpin doa saat kumpul keluarga?
 s|Apa tradisi foto keluarga yang selalu dilakukan?
-s|Apa kebiasaan keluarga saat hari Minggu?
+s|Apa menu sarapan khas keluarga kita di hari libur?
 s|Apa lagu daerah yang dikenal semua anggota keluarga?
 s|Apa tradisi keluarga saat malam takbiran, malam Natal, atau malam pergantian tahun?
 s|Siapa yang paling heboh menyiapkan dekorasi hari raya?
@@ -47,7 +47,7 @@ s|Apa kebiasaan keluarga saat menonton pertandingan atau acara besar?
 s|Apa jajanan khas yang selalu dibeli saat mudik?
 s|Siapa yang selalu bercerita kisah masa lalu saat kumpul?
 s|Apa tradisi keluarga yang unik dan jarang ada di keluarga lain?
-s|Apa kebiasaan keluarga saat ada anggota yang sakit?
+s|Siapa yang paling sigap merawat kalau ada anggota keluarga yang sakit?
 s|Apa acara arisan keluarga yang rutin diadakan?
 s|Apa permainan kartu atau papan yang selalu dimainkan saat libur?
 s|Siapa yang selalu membuat kue untuk acara keluarga?

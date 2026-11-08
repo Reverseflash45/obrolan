@@ -90,14 +90,14 @@ m|Apa kelemahan yang paling sering menghambatmu?
 m|Apa hal yang kamu lakukan karena takut, bukan karena ingin?
 m|Apa hal yang kamu lakukan karena ingin, walau orang lain tidak setuju?
 m|Bagaimana kamu biasanya menanggapi kritik?
-m|Apa hal yang paling sulit kamu terima dari dirimu?
+m|Kenyataan apa tentang hidupmu yang masih ingin kamu tolak?
 m|Apa keputusan yang sedang kamu hindari?
 m|Bagaimana kamu menilai caramu mengatur waktu belakangan ini?
 m|Apa hal yang sedang kamu kejar, dan untuk siapa?
 m|Apa hal yang membuatmu iri, dan apa yang bisa kamu pelajari dari rasa iri itu?
 m|Bagaimana kamu menghadapi kegagalan terakhirmu?
 m|Apa hal yang ingin kamu lepaskan dari dirimu tahun ini?
-m|Apa hal yang membuatmu merasa tidak sabar pada dirimu?
+m|Proses apa dalam hidupmu yang ingin kamu percepat padahal butuh waktu?
 m|Apa kebiasaan berpikir yang paling sering membuatmu cemas?
 m|Bagaimana kamu memperlakukan dirimu saat melakukan kesalahan?
 m|Apa hal yang ingin kamu lakukan lebih berani?
@@ -213,7 +213,7 @@ m|Apa yang paling sering kamu tunda untuk dirimu sendiri?
 m|Apa kebiasaan yang membuatmu merasa hidup terlalu cepat?
 m|Bagaimana kamu ingin menjalani hari ulang tahunmu berikutnya?
 m|Bagaimana kamu menentukan garis antara berusaha keras dan memaksakan diri?
-m|Apa hal yang membuatmu merasa sedang melarikan diri?
+m|Tanggung jawab apa yang sedang kamu hindari dengan menyibukkan diri?
 m|Bagaimana kamu memaknai kegagalan kecil dalam keseharian?
 m|Apa hal yang ingin kamu ubah dari caramu bereaksi saat marah?
 m|Apa yang ingin kamu pelajari dari dirimu yang dulu?

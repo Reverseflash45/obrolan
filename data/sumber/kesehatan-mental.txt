@@ -133,7 +133,7 @@ d|Di keramaian seperti apa kamu justru merasa paling terasing?
 d|Pertarungan batin apa yang tidak terlihat dari senyummu?
 d|Apa yang membuatmu bisa berdamai dengan hari-hari yang buruk?
 d|Apa yang ingin kamu ubah dari caramu berbicara kepada dirimu saat sedih?
-d|Apa yang membuatmu merasa layak beristirahat tanpa harus menjelaskan?
+d|Apa yang membuatmu masih merasa perlu izin untuk sekadar rebahan?
 d|Apa yang ingin kamu lakukan jika kamu tahu tidak ada yang menghakimi?
 d|Apa yang membuatmu merasa sudah melangkah jauh dari masa tersulitmu?
 d|Apa yang membuatmu ingin mencari bantuan ketika semuanya terlalu berat?
@@ -166,7 +166,7 @@ s|Apa jenis permainan teka-teki yang membuat pikiranmu fokus dan tenang?
 s|Apa jenis pesan yang ingin kamu terima saat sedang lelah?
 s|Apa hal kecil yang membuatmu merasa sedang dihargai di rumah?
 s|Apa jenis aktivitas sore yang membuatmu merasa rileks?
-s|Apa hal yang bisa kamu lakukan dalam lima menit untuk menenangkan diri?
+s|Trik napas atau cara kecil apa yang paling cepat meredakan panikmu?
 s|Apa jenis kenangan yang membuatmu merasa hangat saat cemas?
 s|Apa hal yang membuatmu merasa sedang pulih dari minggu yang berat?
 s|Apa yang kamu lakukan agar antrean panjang tidak merusak mood-mu?

@@ -125,7 +125,7 @@ d|Apa yang kamu takutkan akan kamu sesali di akhir hidup?
 d|Apa yang kamu harapkan untuk dirimu yang paling rapuh?
 d|Apa ketakutan yang membuatmu menjauh dari orang lain?
 d|Apa harapan yang membuatmu bertahan di masa tersulit?
-d|Apa yang kamu takutkan tentang dirimu sendiri?
+d|Sifat mana dalam dirimu yang paling kamu khawatirkan akan makin parah?
 d|Apa yang kamu harapkan berubah dari dirimu dalam setahun?
 d|Apa ketakutan yang muncul saat kamu membayangkan menua?
 d|Apa harapan yang ingin kamu titipkan untuk anak cucu?

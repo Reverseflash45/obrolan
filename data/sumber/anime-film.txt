@@ -242,7 +242,7 @@ d|Kalau hidupmu adalah film, siapa yang menjadi tokoh penyelamat di babak tersul
 d|Apa adegan film yang mengingatkanmu pada seseorang yang sudah pergi?
 d|Karakter mana yang menunjukkan cara bangkit yang ingin kamu tiru?
 d|Apa film yang membuatmu merasa rapuh sekaligus kuat?
-d|Kalau kamu bisa memberi judul untuk bab hidupmu sekarang, judul apa?
+d|Kalau hidupmu sekarang adalah trailer film, adegan apa yang ditampilkan?
 d|Karakter mana yang paling mencerminkan harapan terbesarmu?
 d|Apa film yang membuatmu ingin memaafkan orang tuamu?
 d|Kalau kamu bisa memutar ulang satu adegan bersama seseorang, adegan apa dan bersama siapa?
