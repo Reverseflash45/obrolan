@@ -1,0 +1,254 @@
+# Pernikahan & Keluarga — pasangan, aku/kamu
+s|Kalau kita menikah, kamu mau konsep acara seperti apa?
+s|Apa lagu yang ingin diputar saat kita masuk ke pelaminan?
+s|Kamu lebih suka nikahan di gedung, taman, atau rumah?
+s|Berapa tamu yang ideal untuk pernikahan impianmu?
+s|Apa warna tema pernikahan yang paling kamu suka?
+s|Makanan apa yang wajib ada di prasmanan pernikahan kita?
+s|Kamu lebih suka pakai adat lengkap atau gaya modern?
+s|Siapa yang ingin kamu jadikan pengiring atau saksi?
+s|Apa suvenir pernikahan yang menurutmu berguna?
+s|Kamu ingin foto prewedding di mana?
+s|Apa konsep undangan yang paling kamu suka, cetak atau digital?
+s|Bulan madu impianmu ke mana?
+s|Kamu ingin cincin pernikahan yang polos atau berhias?
+s|Siapa yang menurutmu akan paling heboh di hari pernikahan kita?
+s|Apa tradisi pernikahan keluargamu yang paling unik?
+s|Kamu lebih suka resepsi siang atau malam?
+s|Apa hal pertama yang ingin kamu lakukan setelah ijab kabul atau pemberkatan selesai?
+s|Kamu ingin ada acara dansa atau hiburan khusus di pernikahan kita?
+s|Siapa yang ingin kamu minta untuk memberi sambutan?
+s|Apa makanan penutup favoritmu untuk acara pernikahan?
+s|Kamu ingin video pernikahan bergaya film atau dokumenter?
+s|Apa kebiasaan keluargamu saat ada acara besar?
+s|Siapa saudara yang paling kamu dekat di keluarga besar?
+s|Apa panggilan untuk mertua yang menurutmu paling nyaman?
+s|Kamu ingin rumah pertama kita di dekat keluargamu atau keluargaku?
+s|Apa hidangan keluargamu yang ingin kamu ajarkan padaku?
+s|Apa acara keluarga besar yang paling sering kamu datangi?
+s|Kamu lebih suka kumpul keluarga besar atau keluarga inti saja?
+s|Apa hal yang menurutmu wajib dibawa saat berkunjung ke rumah mertua?
+s|Siapa anggota keluarga yang paling lucu di keluargamu?
+s|Siapa anggota keluarga yang paling rajin kirim pesan berantai di grup?
+s|Kamu ingin hari Minggu bersama keluarga besar sebulan sekali?
+s|Apa hal yang paling kamu suka dari keluargaku?
+s|Apa makanan buatan ibumu yang ingin aku pelajari?
+s|Apa hobi ayahmu yang ingin kamu ikuti suatu hari?
+s|Kalau keluarga kita liburan bareng, ke mana enaknya?
+s|Apa nama grup chat keluarga kita nanti?
+s|Kamu ingin tradisi foto keluarga setiap tahun?
+s|Apa kebiasaan saat Lebaran atau hari raya di keluargamu?
+s|Kamu ingin punya meja makan besar untuk kumpul keluarga?
+s|Apa hal yang membuatmu gugup saat bertemu keluargaku?
+s|Siapa di keluargaku yang paling cepat akrab denganmu?
+s|Apa tradisi keluargaku yang menurutmu unik?
+s|Kamu ingin acara lamaran yang ramai atau sederhana?
+s|Apa seragam keluarga yang lucu untuk acara pernikahan?
+s|Kamu ingin kita menulis janji pernikahan sendiri?
+s|Apa doa atau harapan yang ingin kamu ucapkan di hari pernikahan?
+s|Kamu ingin ada kue pernikahan bertingkat?
+s|Apa lagu dangdut, pop, atau daerah yang wajib ada di acara kita?
+s|Siapa teman yang paling mungkin menangis di pernikahan kita?
+s|Apa hal pertama yang kamu bayangkan saat mendengar kata pernikahan?
+s|Kamu ingin rumah tangga kita punya peliharaan sejak awal?
+s|Apa tugas rumah yang paling kamu sukai?
+s|Apa tugas rumah yang paling kamu hindari?
+s|Kamu ingin kita bergantian masak atau satu orang saja?
+s|Apa ruangan yang ingin kamu dekorasi sendiri di rumah kita?
+s|Kamu ingin rumah tangga kita punya jadwal bersih-bersih bersama?
+s|Apa kebiasaan pagi keluarga kita nanti?
+s|Kamu lebih suka sarapan bersama atau masing-masing sesuai jadwal?
+s|Apa acara televisi atau film yang ingin kita tonton bersama keluarga?
+s|Apa permainan keluarga yang ingin kita mainkan saat kumpul?
+s|Kamu ingin punya tradisi makan malam tanpa ponsel?
+s|Apa kebiasaan keluargamu saat ada yang ulang tahun?
+s|Kamu ingin rayakan ulang tahun mertua dengan cara apa?
+s|Apa nama panggilan untuk kakek-nenek di keluargamu?
+s|Kamu ingin rumah kita punya kamar tamu untuk keluarga?
+s|Apa hidangan andalan yang ingin kamu sajikan saat keluarga datang?
+s|Siapa sepupu yang paling ingin kamu kenalkan padaku?
+s|Apa kenangan masa kecil di rumah nenek yang ingin kamu ceritakan?
+s|Kamu ingin kita mudik bergantian setiap tahun?
+s|Apa oleh-oleh khas yang wajib dibawa saat mudik ke keluargamu?
+s|Apa acara arisan keluarga yang paling kamu ingat?
+s|Kamu suka foto keluarga yang formal atau yang santai dan lucu?
+s|Apa hal yang ingin kamu tunjukkan dari kampung halamanmu?
+s|Kamu ingin rumah kita dekat sekolah, kantor, atau tempat ibadah?
+s|Apa hadiah pernikahan yang paling kamu harapkan dari teman?
+s|Kamu ingin daftar kado pernikahan atau tidak perlu?
+s|Apa kebiasaan kecil yang ingin kamu lakukan setiap ulang tahun pernikahan?
+s|Kamu ingin kita foto di tempat yang sama setiap tahun?
+s|Apa nama yang cocok untuk rumah kita nanti?
+s|Kamu ingin cincin kita diukir tulisan apa?
+s|Apa makanan pertama yang ingin kamu masak di rumah kita?
+s|Kamu ingin malam pertama setelah menikah dihabiskan di mana?
+s|Apa hal kecil dari pernikahan orang lain yang ingin kita tiru?
+s|Apa hal dari pernikahan orang lain yang tidak ingin kita tiru?
+s|Kamu ingin pernikahan kita ramah lingkungan?
+s|Apa hal lucu yang mungkin terjadi di hari pernikahan kita?
+s|Kamu ingin tamu memakai dress code tertentu?
+s|Siapa yang akan paling repot mengurus persiapan pernikahan kita?
+s|Apa acara keluarga yang ingin kita adakan di rumah kita setiap tahun?
+m|Apa arti pernikahan buatmu?
+m|Apa yang perlu kita siapkan sebelum menikah, selain biaya?
+m|Bagaimana pendapatmu tentang tinggal bersama mertua?
+m|Bagaimana kamu ingin kita membagi waktu antara keluargamu dan keluargaku?
+m|Apa peran suami dan istri menurutmu, dan seberapa fleksibel?
+m|Bagaimana kita menghadapi campur tangan keluarga dalam keputusan kita?
+m|Apa yang membuatmu siap menikah, atau belum siap?
+m|Apa yang kamu pelajari dari pernikahan orang tuamu?
+m|Bagaimana pendapatmu tentang pernikahan sederhana demi menabung?
+m|Apa nilai keluarga yang ingin kamu pertahankan dalam rumah tangga kita?
+m|Bagaimana kita akan memutuskan tempat tinggal setelah menikah?
+m|Bagaimana pendapatmu tentang bekerja setelah menikah untuk kita berdua?
+m|Bagaimana kita akan membagi tugas rumah dengan adil?
+m|Apa yang ingin kamu tahu tentang keluargaku sebelum kita menikah?
+m|Bagaimana cara terbaik memperkenalkan dirimu ke keluarga besarku?
+m|Apa kebiasaan keluargaku yang mungkin sulit kamu terima?
+m|Kebiasaan rumahmu mana yang perlu aku pahami supaya tidak kaget?
+m|Bagaimana kita menghadapi pertanyaan keluarga soal kapan menikah atau kapan punya anak?
+m|Apa batas yang perlu kita jaga dengan keluarga besar?
+m|Bagaimana pendapatmu soal membantu biaya pendidikan adik atau keponakan?
+m|Bagaimana kamu ingin kita merayakan hari raya bila keyakinan keluarga kita berbeda?
+m|Apa yang perlu kita sepakati soal tradisi adat dalam pernikahan?
+m|Bagaimana kita akan menyelesaikan perbedaan keinginan antara keluargamu dan keluargaku?
+m|Apa harapanmu tentang hubungan kita dengan saudara ipar?
+m|Bagaimana pendapatmu soal menikah muda dibanding menunda?
+m|Apa yang membuatmu ragu tentang pernikahan secara umum?
+m|Apa yang membuatmu yakin tentang pernikahan secara umum?
+m|Bagaimana kamu ingin kita menjaga romantisme setelah menikah?
+m|Apa yang ingin kamu ubah dari dinamika keluargamu saat kita berkeluarga nanti?
+m|Bagaimana kita akan merawat orang tua saat mereka sakit?
+m|Apa pendapatmu soal kursus atau konseling pranikah?
+m|Bagaimana pendapatmu soal perjanjian pranikah?
+m|Apa yang perlu kita bicarakan dengan orang tua sebelum lamaran?
+m|Bagaimana kamu ingin acara lamaran berjalan?
+m|Bagaimana kita akan mengatur keuangan rumah tangga setelah menikah?
+m|Apa yang ingin kamu pertahankan dari kehidupan lajangmu setelah menikah?
+m|Bagaimana pendapatmu soal waktu pribadi setelah menikah?
+m|Bagaimana kita akan menjaga persahabatan masing-masing setelah menikah?
+m|Apa yang paling kamu khawatirkan tentang hari pernikahan?
+m|Apa yang paling kamu nantikan dari tahun pertama pernikahan?
+m|Bagaimana kamu ingin kita menghadapi perbedaan kebiasaan saat mulai tinggal serumah?
+m|Apa yang menurutmu membuat pernikahan bertahan lama?
+m|Siapa pasangan menikah yang kamu kagumi, dan kenapa?
+m|Bagaimana pendapatmu soal pernikahan beda suku atau budaya?
+m|Apa yang perlu kita pelajari tentang budaya keluarga masing-masing?
+m|Bagaimana kita akan menentukan nama keluarga atau marga, kalau relevan?
+m|Bagaimana pendapatmu soal pesta besar yang dibiayai orang tua?
+m|Apa hal yang ingin kamu dengar dari orang tuaku tentang dirimu?
+m|Bagaimana kita akan menghadapi saudara yang suka ikut campur?
+m|Momen apa yang membuatmu merasa sudah jadi bagian keluargaku?
+m|Apa yang membuatmu merasa canggung dengan keluargaku?
+m|Bagaimana kita akan merayakan ulang tahun pernikahan pertama?
+m|Apa yang ingin kamu lakukan agar orang tuamu bangga dengan pernikahan kita?
+m|Bagaimana pendapatmu tentang tinggal jauh dari keluarga demi pekerjaan setelah menikah?
+m|Bagaimana kamu ingin kita membagi peran saat ada acara keluarga besar?
+m|Apa yang ingin kamu sampaikan ke orang tuamu tentang aku?
+m|Apa yang kamu harapkan dariku saat keluargamu sedang berselisih?
+m|Bagaimana kita akan menjaga privasi rumah tangga dari keluarga besar?
+m|Apa yang membuatmu merasa kita sudah seperti keluarga?
+m|Bagaimana pendapatmu tentang punya anak segera setelah menikah atau menunggu?
+m|Apa yang perlu kita siapkan untuk hidup bersama di tahun pertama?
+m|Bagaimana pendapatmu soal mengundang mantan ke pernikahan?
+m|Apa pertanyaan yang ingin kamu ajukan ke orang tuaku tentang pernikahan mereka?
+m|Apa tradisi pernikahan yang ingin kamu tinggalkan karena tidak relevan lagi?
+m|Bagaimana kita akan menghadapi tekanan untuk menggelar pesta yang melebihi kemampuan?
+m|Apa hal sederhana yang membuat rumah tangga terasa hangat menurutmu?
+d|Apa ketakutan terbesarmu tentang pernikahan?
+d|Apa yang kamu takutkan akan terulang dari pernikahan orang tuamu?
+d|Apa janji pernikahan yang paling ingin kamu tepati seumur hidup?
+d|Bagaimana kamu ingin kita menghadapi masa ketika pernikahan terasa hambar?
+d|Apa yang akan membuatmu tetap bertahan dalam pernikahan saat semuanya sulit?
+d|Apa yang tidak bisa kamu toleransi dalam pernikahan?
+d|Bagaimana pendapatmu tentang perceraian, dan kapan menurutmu itu pilihan yang tepat?
+d|Apa yang kamu harapkan dariku saat keluargamu tidak setuju dengan kita?
+d|Apa yang akan kamu lakukan kalau orang tuamu tidak merestui hubungan kita?
+d|Apa luka keluarga yang ingin kamu sembuhkan sebelum kita menikah?
+d|Bagaimana kamu ingin aku memperlakukan orang tuamu saat mereka menua?
+d|Apa yang membuatmu yakin aku adalah orang yang ingin kamu nikahi?
+d|Apa yang membuatmu ragu aku adalah orang yang tepat untuk dinikahi?
+d|Apa yang ingin kamu katakan pada orang tuamu sebelum kamu menikah?
+d|Apa yang membuatmu merasa takut kehilangan dirimu dalam pernikahan?
+d|Bagaimana kamu ingin kita tetap menjadi dua orang yang utuh dalam satu pernikahan?
+d|Apa arti setia dalam pernikahan menurutmu, selain tidak berselingkuh?
+d|Apa yang membuatmu yakin kita bisa menghadapi keluarga besar tanpa kehilangan satu sama lain?
+d|Apa yang kamu rasakan saat membayangkan aku menjadi bagian dari keluargamu?
+d|Apa yang ingin kamu ubah dari dirimu sebelum menjadi suami atau istri?
+d|Apa yang kamu harap aku tahu tentang keluargamu yang tidak terlihat dari luar?
+d|Bagaimana kamu ingin kita menjaga hubungan bila salah satu orang tua kita tiada?
+d|Apa yang membuatmu merasa pernikahan adalah keputusan yang menakutkan?
+d|Bagian mana dari membayangkan menikah denganku yang membuat hatimu tenang?
+d|Bagaimana kamu ingin kita memperlakukan satu sama lain di depan anak-anak nanti?
+d|Apa yang kamu pelajari dari pernikahan yang gagal di sekitarmu?
+d|Apa yang ingin kamu dengar dariku di malam sebelum kita menikah?
+d|Apa yang kamu harapkan dari keluargaku untuk membuatmu merasa di rumah?
+d|Bagaimana kita akan memilih satu sama lain saat keluarga meminta kita memilih?
+d|Apa yang membuatmu yakin cinta kita cukup kuat untuk sebuah pernikahan?
+d|Apa yang kamu rasakan tentang menyatukan dua keluarga yang berbeda?
+d|Apa yang ingin kamu sembuhkan dari hubunganmu dengan orang tua sebelum membangun keluarga sendiri?
+d|Bagaimana kamu ingin kita membicarakan keputusan besar yang menyangkut keluarga besar?
+d|Apa yang kamu takutkan dari peran barumu setelah menikah?
+d|Apa yang ingin kamu berikan untuk keluargaku sebagai bentuk cintamu padaku?
+d|Apa yang membuatmu merasa pantas untuk dicintai dalam pernikahan?
+d|Apa yang membuatmu merasa siap menjadi rumah untuk seseorang?
+d|Bagaimana kamu ingin kita merawat cinta setelah anak-anak tumbuh dan pergi?
+d|Apa yang membuatmu yakin kita bisa saling memaafkan dalam pernikahan panjang?
+d|Apa satu hal yang ingin kamu katakan pada aku sebagai pasangan menikah dua puluh tahun lagi?
+d|Apa yang kamu harapkan dari pernikahan yang belum pernah kamu lihat contohnya?
+d|Bagaimana kamu ingin kita menghadapi keluarga yang tidak bisa menerima perubahan kita?
+d|Apa yang membuatmu ingin membangun keluarga, bukan hanya hubungan?
+d|Apa yang membuatmu merasa keluargamu sudah memberimu cukup untuk membangun keluarga sendiri?
+d|Apa yang ingin kamu wariskan dari keluargamu untuk keluarga kita?
+d|Apa yang ingin kamu putuskan untuk tidak diwariskan dari keluargamu?
+d|Bagaimana kamu ingin kita mengatasi perbedaan keyakinan dalam keluarga besar?
+d|Apa yang membuatmu merasa pernikahan adalah persahabatan seumur hidup?
+d|Apa yang ingin kamu ucapkan kepada orang tuaku tentang aku suatu hari nanti?
+d|Apa yang membuatmu yakin aku akan melindungimu dari tekanan keluargaku?
+d|Apa yang kamu harapkan dariku saat kamu merasa sendirian di tengah keluargaku?
+d|Apa yang membuatmu merasa pernikahan tidak akan mengubah cinta kita menjadi kewajiban?
+d|Apa yang ingin kamu pastikan tetap ada dalam pernikahan kita apa pun yang terjadi?
+d|Bagaimana kamu ingin kita bertumbuh bersama sebagai suami dan istri?
+d|Apa yang ingin kamu katakan pada anak kita tentang arti pernikahan?
+d|Apa yang membuatmu yakin kita akan menjadi keluarga yang saling menguatkan?
+d|Apa yang membuatmu tenang membayangkan menua dalam pernikahan bersamaku?
+d|Apa satu ketakutan tentang keluarga yang ingin kamu titipkan padaku untuk dijaga bersama?
+d|Apa yang kamu harapkan dariku saat kamu tidak lagi bisa menjadi anak yang sempurna untuk orang tuamu?
+d|Apa yang kamu rasakan tentang meninggalkan rumah orang tuamu untuk membangun rumah bersamaku?
+d|Apa arti keluarga yang sehat menurutmu?
+d|Apa yang membuatmu merasa layak membangun keluarga meski masa lalumu tidak sempurna?
+d|Apa yang ingin kamu katakan pada dirimu di hari pernikahan, kalau bisa melihatnya sekarang?
+s|Apa jenis bunga yang ingin menghiasi pelaminan kita?
+s|Kamu ingin ada photobooth di acara pernikahan kita?
+s|Siapa MC yang cocok untuk acara pernikahan kita?
+s|Apa makanan ringan yang ingin kamu sajikan saat lamaran?
+s|Kamu ingin ada sesi foto bersama teman sekolah di pernikahan kita?
+s|Apa hal pertama yang ingin kamu beli bersama setelah menikah?
+s|Kamu ingin kita punya jadwal kencan rutin setelah menikah?
+s|Apa hidangan yang biasa disajikan keluargamu saat ada tamu penting?
+s|Siapa kerabat yang paling sering memberi nasihat di acara keluarga?
+s|Apa kebiasaan keluarga besarmu saat menyambut menantu baru?
+s|Kamu ingin rumah pertama kita rumah tapak, apartemen, atau kontrakan?
+s|Apa sebutan untuk kita berdua yang ingin kamu dengar dari keponakan?
+m|Apa yang perlu kita siapkan agar tidak kaget saat pertama kali tinggal serumah?
+m|Bagaimana pendapatmu soal pesta yang mengundang semua kenalan orang tua?
+m|Apa kebiasaan pribadi yang ingin kamu jaga walau sudah menikah?
+m|Bagaimana kita akan memutuskan pembagian kamar mandi, lemari, dan ruang pribadi?
+m|Apa yang ingin kamu lakukan untuk lebih dekat dengan orang tuaku?
+m|Apa yang perlu aku lakukan untuk lebih dekat dengan orang tuamu?
+m|Bagaimana pendapatmu tentang pernikahan tanpa resepsi?
+m|Apa hal yang ingin kamu ketahui dari pengalaman teman yang sudah menikah?
+m|Bagaimana kita akan merawat hubungan dengan keluarga yang tinggal jauh?
+m|Apa yang perlu kita bicarakan tentang pembagian hari raya setiap tahun?
+m|Bagaimana pendapatmu soal kumpul keluarga yang terlalu sering?
+m|Apa harapanmu untuk hubungan kita dengan kakek-nenek dari kedua pihak?
+d|Apa yang kamu harap orang tuamu katakan kepadamu di hari pernikahanmu?
+d|Apa yang membuatmu merasa akan merindukan rumah orang tuamu setelah menikah?
+d|Apa yang membuatmu yakin kita akan saling membela di hadapan keluarga besar?
+d|Apa yang ingin kamu sampaikan kepada keluargaku tentang caramu mencintaiku?
+d|Bagaimana kamu ingin kita menghadapi masa ketika orang tua mulai bergantung pada kita?
+d|Apa yang kamu harapkan berubah dalam hubunganmu dengan orang tuamu setelah menikah?
+d|Apa yang membuatmu merasa kita sedang membangun keluarga, bukan hanya mengikuti tradisi?
+d|Apa yang ingin kamu katakan pada aku yang sedang gugup di hari pernikahan?
+d|Apa yang membuatmu yakin kamu siap meninggalkan masa lajang?
+d|Bagaimana kamu ingin pernikahan kita dikenang oleh orang-orang yang hadir?

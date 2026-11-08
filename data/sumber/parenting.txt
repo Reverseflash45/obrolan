@@ -1,0 +1,254 @@
+# Parenting — pasangan, aku/kamu (rencana jadi orang tua)
+s|Kalau punya anak, kamu ingin anak laki-laki, perempuan, atau tidak masalah?
+s|Nama anak apa yang pernah terlintas di pikiranmu?
+s|Lagu pengantar tidur apa yang ingin kamu nyanyikan untuk anak kita?
+s|Dongeng apa yang ingin kamu ceritakan pertama kali ke anak kita?
+s|Mainan apa yang ingin kamu belikan untuk anak kita?
+s|Kamu ingin anak kita punya hewan peliharaan sejak kecil?
+s|Kartun atau film apa yang ingin kamu tonton bareng anak kita?
+s|Makanan apa yang ingin kamu masakkan untuk bekal sekolah anak kita?
+s|Kamu ingin kamar anak kita bertema apa?
+s|Olahraga apa yang ingin kamu kenalkan ke anak kita?
+s|Alat musik apa yang ingin kamu ajarkan ke anak kita?
+s|Kamu ingin anak kita memanggil kita apa, Ayah-Ibu, Papa-Mama, atau yang lain?
+s|Permainan tradisional apa yang ingin kamu ajarkan ke anak kita?
+s|Kamu ingin anak kita belajar bahasa daerah kita?
+s|Tempat liburan keluarga pertama yang ingin kamu ajak anak kita ke sana?
+s|Hobi apa darimu yang ingin kamu tularkan ke anak?
+s|Kamu ingin anak kita sekolah dekat rumah atau di sekolah favorit walau jauh?
+s|Apa cerita masa kecilmu yang ingin kamu ceritakan ke anak kita?
+s|Kamu ingin merayakan ulang tahun anak dengan pesta atau sederhana?
+s|Apa buku anak yang paling ingin kamu bacakan?
+s|Siapa di antara kita yang bakal lebih memanjakan anak?
+s|Siapa di antara kita yang bakal lebih tegas ke anak?
+s|Apa makanan yang ingin kamu kenalkan pertama kali saat anak mulai makan?
+s|Kamu ingin foto anak kita diunggah ke media sosial atau tidak?
+s|Apa tradisi akhir pekan yang ingin kamu buat bersama anak?
+s|Kamu ingin anak kita ikut les apa?
+s|Apa permainan papan yang ingin kita mainkan bersama anak?
+s|Kamu ingin anak kita belajar memasak sejak kecil?
+s|Apa tugas rumah pertama yang ingin kamu ajarkan ke anak?
+s|Siapa di antara kita yang lebih jago membuat anak tertawa?
+s|Siapa di antara kita yang lebih sabar menghadapi anak menangis?
+s|Apa kebiasaan sebelum tidur yang ingin kita lakukan bersama anak?
+s|Kamu ingin anak kita punya kakak atau adik?
+s|Berapa jarak umur yang ideal antar anak menurutmu?
+s|Apa nama panggilan lucu yang ingin kamu berikan ke anak?
+s|Kamu ingin anak kita memakai seragam keluarga saat hari raya?
+s|Apa karakter kartun yang ingin kamu jadikan tema ulang tahun anak?
+s|Kamu ingin anak kita belajar berenang sejak umur berapa?
+s|Apa tempat bermain favoritmu waktu kecil yang ingin kamu ajak anak ke sana?
+s|Kamu ingin anak kita punya celengan sejak kecil?
+s|Apa jajanan yang ingin kamu larang untuk anak, kalau ada?
+s|Kamu ingin anak kita main gawai mulai umur berapa?
+s|Apa acara TV yang menurutmu cocok untuk anak?
+s|Kamu ingin anak kita punya taman kecil untuk ditanami?
+s|Apa kegiatan kreatif yang ingin kamu lakukan bersama anak?
+s|Kamu ingin anak kita ikut kegiatan pramuka atau organisasi?
+s|Apa kata pertama yang kamu harap diucapkan anak kita?
+s|Siapa yang lebih mungkin bangun tengah malam saat bayi menangis?
+s|Apa lagu anak-anak yang masih kamu hafal sampai sekarang?
+s|Kamu ingin anak kita belajar naik sepeda dengan siapa?
+s|Apa hal pertama yang ingin kamu lakukan saat anak kita lahir?
+s|Kamu ingin mendokumentasikan tumbuh kembang anak dalam buku atau video?
+s|Apa makanan khas keluarga yang ingin kamu wariskan ke anak?
+s|Kamu ingin anak kita mengenal kampung halaman kita sejak kecil?
+s|Apa hadiah ulang tahun pertama yang ingin kamu berikan untuk anak kita?
+s|Kamu ingin anak kita belajar mengaji, ke sekolah minggu, atau kegiatan keagamaan lain?
+s|Apa permainan yang ingin kamu mainkan bersama anak saat hujan?
+s|Siapa di antara kita yang akan jadi tukang dongeng di rumah?
+s|Kamu ingin anak kita sekolah di sekolah negeri, swasta, atau homeschooling?
+s|Apa kebiasaan sarapan yang ingin kita terapkan untuk anak?
+s|Kamu ingin anak kita punya kamar sendiri sejak umur berapa?
+s|Apa kegiatan liburan sekolah yang ingin kita lakukan bersama anak?
+s|Kamu ingin anak kita kenal kakek-neneknya sedekat apa?
+s|Apa cerita tentang kita berdua yang ingin kamu ceritakan ke anak suatu hari?
+s|Kamu ingin anak kita punya sahabat pena atau teman dari luar kota?
+s|Apa kebiasaan membaca yang ingin kita tanamkan ke anak?
+s|Kamu ingin anak kita belajar bahasa asing sejak kecil?
+s|Apa sikap sopan santun yang paling ingin kamu ajarkan?
+s|Lomba Agustusan apa yang menurutmu paling seru untuk diikuti anak-anak?
+s|Apa makanan sehat yang ingin kamu biasakan untuk anak?
+s|Kamu ingin rumah kita punya rak buku khusus anak?
+s|Apa lagu yang ingin kita jadikan lagu keluarga?
+s|Kamu ingin anak kita punya pekerjaan rumah yang dibayar sebagai uang saku?
+s|Apa hal yang paling kamu nantikan dari menjadi orang tua?
+s|Siapa di antara kita yang akan menangis di hari pertama anak sekolah?
+s|Apa olahraga keluarga yang ingin kita lakukan bersama anak tiap minggu?
+s|Kamu ingin anak kita punya tradisi menulis surat ke dirinya di masa depan?
+s|Apa film keluarga yang ingin kita tonton bersama setiap Natal, Lebaran, atau tahun baru?
+s|Kamu ingin anak kita belajar menabung dengan cara apa?
+s|Apa kegiatan sosial yang ingin kita ajak anak ikut serta?
+s|Siapa di antara kita yang lebih cocok membantu PR matematika?
+s|Siapa di antara kita yang lebih cocok membantu PR menggambar?
+s|Apa kebiasaan lucu orang tuamu yang ingin kamu tiru untuk anak kita?
+s|Kamu ingin anak kita mengenal alam lewat kemah atau naik gunung?
+s|Apa jenis hewan yang ingin kamu ajak anak lihat di kebun binatang?
+m|Apa nilai paling penting yang ingin kamu tanamkan pada anak kita?
+m|Bagaimana pendapatmu tentang hukuman fisik dalam mendidik anak?
+m|Bagaimana kita akan membagi tugas mengurus anak?
+m|Apa gaya pengasuhan orang tuamu yang ingin kamu tiru?
+m|Apa gaya pengasuhan orang tuamu yang tidak ingin kamu ulangi?
+m|Bagaimana kita akan menghadapi anak yang tantrum di tempat umum?
+m|Bagaimana kamu ingin kita mendisiplinkan anak tanpa membuatnya takut?
+m|Bagaimana pendapatmu tentang anak yang memilih jalan hidup berbeda dari harapan kita?
+m|Bagaimana kita akan mengajarkan anak soal agama atau keyakinan?
+m|Bagaimana kita akan mengenalkan anak pada pendidikan seks yang sesuai umur?
+m|Apa pendapatmu soal anak memakai media sosial?
+m|Bagaimana kita akan membagi peran saat anak sakit di tengah jam kerja?
+m|Apa pendapatmu soal menitipkan anak di daycare atau pada kakek-nenek?
+m|Bagaimana pendapatmu tentang salah satu dari kita berhenti bekerja untuk mengurus anak?
+m|Bagaimana kita akan menghadapi perbedaan pendapat soal pola asuh di depan anak?
+m|Apa yang perlu kita siapkan secara finansial sebelum punya anak?
+m|Bagaimana kamu ingin anak kita memandang kegagalan?
+m|Bagaimana kamu ingin kita mengajarkan anak soal uang?
+m|Bagaimana kita akan menjaga waktu berdua setelah punya anak?
+m|Bagaimana pendapatmu soal membandingkan anak dengan anak lain?
+m|Apa yang ingin kamu lakukan saat anak kita dirundung di sekolah?
+m|Apa yang ingin kamu lakukan kalau anak kita yang merundung temannya?
+m|Bagaimana kita akan merespons kalau anak kita berbohong?
+m|Bagaimana kamu ingin kita mengajarkan anak mengungkapkan emosi?
+m|Bagaimana pendapatmu soal anak laki-laki yang menangis?
+m|Bagaimana pendapatmu soal pembagian tugas rumah antara anak laki-laki dan perempuan?
+m|Bagaimana kita akan menentukan batas waktu layar untuk anak?
+m|Apa yang perlu kita lakukan agar anak dekat dengan kita berdua, bukan hanya salah satu?
+m|Bagaimana kita akan menghadapi saran keluarga besar yang tidak cocok dengan pola asuh kita?
+m|Bagaimana pendapatmu tentang memberi anak kebebasan memilih jurusan atau cita-cita?
+m|Bagaimana kita akan merespons saat anak remaja mulai pacaran?
+m|Apa aturan rumah yang menurutmu wajib ada untuk anak?
+m|Bagaimana kita akan mengajarkan anak soal tanggung jawab?
+m|Bagaimana kamu ingin kita merayakan prestasi anak tanpa membuatnya merasa ditekan?
+m|Bagaimana pendapatmu tentang anak yang belum ingin berprestasi akademik?
+m|Bagaimana kita akan mengajarkan anak tentang keberagaman dan toleransi?
+m|Apa yang ingin kamu ajarkan ke anak tentang tubuh dan batasan pribadi?
+m|Bagaimana kita akan menjelaskan kematian kepada anak kecil?
+m|Bagaimana kita akan menjelaskan pertengkaran kita kepada anak?
+m|Bagaimana pendapatmu soal anak tidur bersama orang tua?
+m|Apa yang ingin kamu lakukan untuk menjaga kesehatan mental anak?
+m|Bagaimana kita akan menghadapi anak yang sulit makan?
+m|Bagaimana kita akan memilih sekolah untuk anak?
+m|Bagaimana pendapatmu soal les tambahan yang berlebihan?
+m|Keterampilan merawat bayi apa yang ingin kamu kuasai lebih dulu?
+m|Bagaimana kita akan menjaga hubungan baik dengan guru anak?
+m|Bagaimana kamu ingin kita menanggapi pertanyaan anak yang sulit dijawab?
+m|Apa pendapatmu soal anak memiliki uang saku?
+m|Bagaimana kita akan mengatasi kelelahan saat merawat bayi?
+m|Bagaimana pendapatmu soal meminta bantuan pengasuh?
+m|Apa hal yang membuatmu merasa siap menjadi orang tua?
+m|Apa yang masih perlu kamu bereskan dari dirimu sebelum punya anak?
+m|Bagaimana kita akan memastikan anak tidak merasa dibeda-bedakan dengan saudaranya?
+m|Bagaimana kamu ingin anak kita belajar meminta maaf?
+m|Bagaimana pendapatmu soal anak yang ingin berhenti dari kegiatan yang sudah dibayar mahal?
+m|Bagaimana kita akan menyikapi anak yang punya minat tidak biasa?
+m|Bagaimana pendapatmu tentang anak yang memilih keyakinan berbeda saat dewasa?
+m|Apa yang ingin kamu lakukan agar anak kita berani bercerita apa pun kepada kita?
+m|Bagaimana kita akan mengajarkan anak menghargai pekerjaan rumah tangga?
+m|Bagaimana pendapatmu soal pesta ulang tahun yang mahal untuk anak?
+m|Apa hal yang ingin kita sepakati sebelum anak pertama lahir?
+m|Bagaimana kita akan membagi cuti setelah anak lahir?
+m|Bagaimana pendapatmu soal anak yang ingin kuliah jauh dari rumah?
+m|Bagaimana kamu ingin kita menghadapi masa remaja anak yang memberontak?
+d|Apa ketakutan terbesarmu tentang menjadi orang tua?
+d|Apa luka masa kecilmu yang tidak ingin kamu wariskan kepada anak kita?
+d|Bagaimana kalau ternyata kita tidak bisa punya anak?
+d|Apa pendapatmu tentang adopsi?
+d|Bagaimana kalau anak kita lahir dengan kebutuhan khusus?
+d|Bagaimana perasaanmu kalau suatu hari kita memutuskan tidak punya anak?
+d|Apa yang membuatmu ingin, atau tidak ingin, menjadi orang tua?
+d|Bagaimana kamu ingin dikenang oleh anakmu saat dia dewasa?
+d|Apa yang ingin kamu katakan pada anakmu di hari pertama dia lahir?
+d|Apa yang akan kamu lakukan kalau anak kita membencimu di masa remajanya?
+d|Bagaimana kamu ingin anak kita melihat hubungan kita sebagai contoh?
+d|Apa yang kamu takutkan akan kamu ulangi dari ayah atau ibumu?
+d|Apa yang ingin kamu minta maaf kepada dirimu yang kecil sebelum mengasuh anak sendiri?
+d|Bagaimana kita akan tetap menjadi pasangan, bukan hanya orang tua?
+d|Apa yang akan kamu lakukan kalau kita berbeda pendapat besar soal masa depan anak?
+d|Apa arti menjadi orang tua yang cukup baik menurutmu?
+d|Bagaimana kamu ingin anak kita mengingat rumah masa kecilnya?
+d|Apa yang membuatmu yakin aku akan menjadi orang tua yang baik?
+d|Apa yang membuatmu khawatir tentang aku sebagai orang tua?
+d|Bagaimana kamu ingin kita merawat diri sendiri agar tidak kehilangan diri saat menjadi orang tua?
+d|Apa yang ingin kamu ajarkan pada anak tentang cinta?
+d|Apa yang ingin kamu ajarkan pada anak tentang kehilangan?
+d|Bagaimana kamu ingin kita menghadapi saat anak kita sakit parah?
+d|Apa yang akan kamu katakan kalau anak kita bertanya apakah kita pernah gagal?
+d|Bagaimana kamu ingin anak kita belajar memaafkan kita sebagai orang tua yang tidak sempurna?
+d|Apa yang membuatmu yakin kita bisa menjadi tim saat menghadapi kelelahan mengasuh?
+d|Apa yang kamu harap anak kita tidak pernah rasakan seperti yang kamu rasakan dulu?
+d|Bagaimana kamu ingin kita mendampingi anak saat dia patah hati pertama kali?
+d|Apa yang ingin kamu lakukan kalau anak kita memilih hidup yang sangat berbeda dari kita?
+d|Apa yang membuatmu takut kehilangan kebebasan karena menjadi orang tua?
+d|Bagaimana kamu ingin kita bercerita pada anak tentang masa lalu kita yang tidak sempurna?
+d|Apa yang kamu harapkan dariku saat kamu merasa gagal sebagai orang tua?
+d|Apa yang ingin kamu lakukan untuk menjaga hubunganmu dengan anak saat dia dewasa?
+d|Apa yang kamu harapkan anak kita katakan tentang kita di hari tua kita?
+d|Bagaimana kita akan memastikan anak merasa dicintai tanpa syarat?
+d|Apa yang membuatmu yakin kamu mampu mencintai anak tanpa mengekangnya?
+d|Apa yang membuatmu ragu kamu mampu sabar sebagai orang tua?
+d|Bagaimana perasaanmu tentang mengorbankan mimpi pribadi demi anak?
+d|Apa yang akan kamu lakukan kalau anak kita merasa tidak cukup baik di mata kita?
+d|Bagaimana kamu ingin anak kita belajar menghadapi dunia yang tidak adil?
+d|Apa yang ingin kamu tulis dalam surat untuk anak kita di ulang tahunnya yang ke-17?
+d|Apa yang membuatmu ingin menjadi orang tua yang berbeda dari orang tuamu?
+d|Apa yang membuatmu bersyukur pada orang tuamu saat membayangkan menjadi orang tua?
+d|Bagaimana kamu ingin kita menghadapi anak yang tumbuh dan meninggalkan rumah?
+d|Apa yang ingin kamu ajarkan pada anak tentang kejujuran saat kebenaran itu menyakitkan?
+d|Bagaimana kamu ingin kita meminta maaf kepada anak saat kita salah?
+d|Apa yang membuatmu takut anak kita akan mengalami hal buruk di dunia luar?
+d|Bagaimana kamu ingin anak kita mengenal Tuhan atau makna hidup?
+d|Apa yang ingin kamu ajarkan pada anak tentang tubuhnya dan harga dirinya?
+d|Apa yang akan kamu lakukan kalau anak kita memberitahu hal yang sangat sulit kamu terima?
+d|Apa yang ingin kamu pastikan tidak pernah kamu katakan pada anak saat marah?
+d|Apa yang membuatmu yakin rumah kita akan menjadi tempat aman bagi anak?
+d|Bagaimana kamu ingin kita membesarkan anak yang baik, bukan hanya pintar?
+d|Apa yang kamu rasakan saat membayangkan menggendong anak kita pertama kali?
+d|Apa yang kamu harapkan dari dirimu sebagai orang tua saat anak kita menjadi orang tua?
+d|Bagaimana kamu ingin kita mewariskan cerita keluarga kepada anak?
+d|Apa yang membuatmu merasa layak menjadi orang tua meski punya banyak kekurangan?
+d|Bagaimana kamu ingin kita menjaga pernikahan tetap sehat demi anak dan demi kita sendiri?
+d|Apa yang akan kamu katakan pada anak kalau suatu hari kita harus berpisah?
+d|Apa yang ingin kamu pelajari dari anak kita nanti?
+d|Apa yang membuatmu yakin cinta orang tua bisa menyembuhkan banyak hal?
+d|Apa yang membuatmu takut anak kita akan merasa kesepian di rumahnya sendiri?
+d|Bagaimana kamu ingin kita hadir untuk anak tanpa membuatnya merasa diawasi?
+d|Apa yang ingin kamu katakan pada dirimu di hari tersulit menjadi orang tua nanti?
+d|Apa yang membuatmu merasa menjadi orang tua adalah cara memahami orang tuamu sendiri?
+s|Apa nama tengah yang menurutmu bagus untuk anak?
+s|Siapa di antara kita yang akan lebih sering mengganti popok?
+s|Apa kostum lucu yang ingin kamu pakaikan ke anak saat karnaval?
+s|Kamu ingin anak kita punya hobi mengoleksi sesuatu?
+s|Apa resep makanan bayi yang ingin kamu coba buat sendiri?
+s|Siapa yang akan jadi fotografer utama momen-momen anak?
+s|Kamu ingin anak kita ikut kegiatan seni seperti menari atau teater?
+s|Apa tempat wisata edukasi yang ingin kamu kunjungi bersama anak?
+s|Kamu ingin rumah kita punya dinding khusus untuk anak mencoret-coret?
+s|Apa sarapan andalan yang ingin kamu siapkan saat anak ujian?
+s|Siapa di antara kita yang akan lebih sering mengantar sekolah?
+s|Apa lagu kebangsaan atau lagu daerah yang ingin kamu ajarkan pertama?
+m|Bagaimana kita akan menjelaskan kepada anak tentang perbedaan keluarga kita dengan keluarga temannya?
+m|Bagaimana pendapatmu tentang memberi anak gawai sendiri?
+m|Apa yang ingin kamu lakukan saat anak kita mendapat nilai jelek?
+m|Bagaimana kita akan mengajarkan anak merawat barang miliknya?
+m|Bagaimana pendapatmu soal menitipkan anak pada tetangga atau saudara?
+m|Bagaimana kamu ingin kita menanggapi anak yang mengucapkan kata kasar?
+m|Apa yang ingin kamu ajarkan pada anak soal pertemanan yang sehat?
+m|Bagaimana kita akan membiasakan anak tidur teratur?
+m|Bagaimana pendapatmu soal anak ikut kegiatan berbahaya seperti panjat tebing?
+m|Bagaimana kita akan merawat diri saat kelelahan mengurus bayi baru lahir?
+m|Apa yang ingin kamu lakukan agar anak kita mengenal kerja keras sejak kecil?
+m|Bagaimana pendapatmu soal anak yang ingin bekerja paruh waktu saat remaja?
+d|Apa yang membuatmu takut anak kita akan mewarisi sifat burukmu?
+d|Bagaimana perasaanmu kalau anak kita lebih dekat denganku dibanding denganmu?
+d|Apa yang ingin kamu sampaikan pada orang tuamu setelah kamu sendiri menjadi orang tua?
+d|Apa yang membuatmu yakin kamu bisa memaafkan anak atas kesalahan besarnya?
+d|Bagaimana kamu ingin kita menjaga harapan agar tidak menjadi beban untuk anak?
+d|Apa yang ingin kamu ajarkan pada anak tentang menjaga dirinya saat kita tidak ada?
+d|Apa yang membuatmu merasa menjadi orang tua akan mengubah cara kita saling mencintai?
+d|Apa yang ingin kamu katakan kepada anak di hari pernikahannya kelak?
+d|Apa pesan hidup yang ingin kamu titipkan untuk anak kita jika kamu pergi lebih dulu?
+d|Bagaimana kamu ingin kita merayakan anak apa adanya, bukan sesuai mimpi kita?
+s|Apa nama boneka atau mainan pertama yang ingin kamu siapkan untuk bayi kita?
+s|Kamu ingin anak kita punya album foto cetak atau cukup digital?
+s|Siapa di antara kita yang akan lebih cerewet soal pakai jaket saat dingin?
+m|Bagaimana kita akan mengajarkan anak berbagi mainan dengan saudara atau teman?
+d|Apa yang membuatmu yakin kita akan tetap saling menghargai sebagai orang tua walau lelah?
