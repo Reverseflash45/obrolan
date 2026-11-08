@@ -1,0 +1,253 @@
+# Keintiman & Romansa — 18+, pasangan dewasa, aku/kamu. Tidak vulgar; fokus keinginan, kenyamanan, batasan.
+s|Apa momen paling romantis yang pernah kita alami berdua?
+s|Lagu apa yang menurutmu paling cocok untuk malam romantis kita?
+s|Kamu lebih suka kencan romantis di rumah atau di luar?
+s|Apa aroma lilin atau parfum yang menurutmu paling romantis?
+s|Bagian mana dari diriku yang paling kamu suka untuk dipeluk?
+s|Kamu lebih suka ciuman pelan atau spontan?
+s|Apa pakaian yang menurutmu membuatku terlihat paling menarik?
+s|Apa pakaian yang membuatmu merasa paling percaya diri di depanku?
+s|Kamu suka berpelukan sebelum tidur atau setelah bangun?
+s|Apa kencan malam impianmu bersamaku?
+s|Kamu lebih suka suasana remang-remang atau terang?
+s|Apa jenis musik yang membuatmu merasa romantis?
+s|Kapan terakhir kali kamu merasa sangat tertarik padaku?
+s|Apa hal kecil yang membuatmu merasa ingin dekat denganku?
+s|Kamu suka dipijat sebagai bagian dari waktu romantis kita?
+s|Apa film romantis yang adegannya ingin kamu tiru bersamaku?
+s|Kamu suka mandi air hangat berdua atau lebih suka sendiri?
+s|Apa kata manis yang paling membuatmu berdebar?
+s|Kamu suka berdansa pelan berdua di rumah?
+s|Apa hal dari penampilanku yang paling sering kamu perhatikan diam-diam?
+s|Kamu lebih suka kejutan romantis atau rencana yang dibicarakan bersama?
+s|Apa tempat paling romantis yang ingin kita datangi berdua?
+s|Kamu lebih suka sentuhan di tangan, rambut, atau punggung?
+s|Apa jam favoritmu untuk bermesraan?
+s|Kamu suka pesan genit di tengah hari kerja?
+s|Apa julukan mesra yang ingin kamu dengar dariku saat berdua?
+s|Kamu suka kalau aku menatapmu lama-lama?
+s|Apa makanan yang menurutmu cocok untuk malam romantis?
+s|Kamu suka kalau aku memelukmu dari belakang saat kamu memasak?
+s|Apa hal romantis yang ingin kamu lakukan saat hujan?
+s|Kamu suka menghabiskan pagi malas di tempat tidur bersamaku?
+s|Apa hal paling romantis yang pernah aku katakan padamu?
+s|Kamu suka kalau aku mencium keningmu di depan umum?
+s|Apa jenis sentuhan yang paling menenangkan buatmu?
+s|Kamu lebih suka pelukan erat atau pelukan lembut?
+s|Apa suasana kamar yang menurutmu paling nyaman untuk berdua?
+s|Kamu suka kalau kita bergandengan tangan saat tidur?
+s|Apa hal kecil yang membuatmu merasa diinginkan olehku?
+s|Kamu suka kalau aku membisikkan sesuatu di telingamu?
+s|Apa liburan romantis berdua yang paling ingin kamu jalani?
+s|Kamu suka mengirim foto diri yang manis untukku?
+s|Apa hal yang membuatmu merasa aku sedang menggoda?
+s|Kamu suka kalau aku memujimu saat kamu baru bangun tidur?
+s|Apa hal yang langsung membuat suasana jadi romantis buatmu?
+s|Kamu suka kencan dengan dress code khusus berdua?
+s|Apa malam paling hangat yang pernah kita habiskan berdua?
+s|Kamu suka menonton film berdua sambil berpelukan di sofa?
+s|Apa kebiasaan kecil kita yang menurutmu diam-diam romantis?
+s|Kamu suka kalau aku menyiapkan kejutan di kamar?
+s|Apa jenis ciuman yang paling kamu suka?
+s|Kamu suka kalau aku mengusap rambutmu sampai kamu tertidur?
+s|Apa lagu yang ingin kamu putar saat kita berdansa berdua?
+s|Kamu lebih suka romantis yang manis atau yang sedikit nakal?
+s|Apa hal yang membuatmu tersipu saat aku melakukannya?
+s|Kamu suka kalau kita mandi hujan berdua?
+s|Apa malam kencan yang ingin kita jadikan rutin setiap bulan?
+s|Kamu suka surat cinta yang romantis atau yang lucu?
+s|Apa bagian dari tubuhmu yang paling kamu sukai?
+s|Kamu suka kalau aku menyentuh wajahmu saat berbicara?
+s|Apa aroma tubuhku yang paling kamu suka?
+s|Kamu suka kalau aku mengajakmu kencan tanpa alasan khusus?
+s|Apa suasana menginap romantis impianmu, vila, hotel, atau kemah?
+s|Kamu suka berbagi selimut atau masing-masing selimut sendiri?
+s|Apa hal yang membuatmu merasa aku masih jatuh cinta padamu?
+s|Kamu suka momen tenang berdua tanpa kata-kata?
+s|Apa hal romantis yang pernah kamu lihat dan ingin kita coba?
+s|Kamu suka kalau aku memakai parfum tertentu saat kita bertemu?
+s|Apa kencan sederhana yang paling membuatmu merasa dekat secara fisik?
+s|Kamu suka dipeluk saat sedang sedih atau ingin diberi ruang dulu?
+s|Apa hal yang membuatmu merasa cantik atau tampan di mataku?
+s|Kamu suka kalau aku menggandeng pinggangmu saat berjalan?
+s|Apa hal romantis yang membuatmu malu tapi senang?
+s|Kamu lebih suka foto berdua yang mesra atau yang lucu?
+s|Apa momen saat kamu paling ingin menciumku tapi menahan diri?
+s|Kamu suka kalau aku meneleponmu sebelum tidur dengan suara pelan?
+s|Apa kencan romantis yang murah tapi berkesan bagimu?
+s|Kamu suka kalau aku tiba-tiba memelukmu tanpa alasan?
+s|Apa malam spesial yang ingin kita rencanakan untuk ulang tahunmu?
+s|Kamu suka menghabiskan waktu berdua sambil mendengarkan hujan?
+s|Apa jenis lampu atau dekorasi kamar yang menurutmu romantis?
+s|Kamu suka kalau aku menyiapkan sarapan di tempat tidur untukmu?
+s|Apa ekspresiku yang menurutmu paling menggemaskan saat bermesraan?
+s|Kamu suka kalau aku mengatakan aku merindukan tubuhmu?
+s|Apa tempat di rumah yang menurutmu paling nyaman untuk bermanja-manja?
+s|Kamu suka kalau aku menciummu saat kamu sedang serius bekerja?
+s|Apa hal romantis yang ingin kamu lakukan saat kita bulan madu?
+m|Apa yang membuatmu merasa paling dekat secara emosional sebelum dekat secara fisik?
+m|Bagaimana caramu memberi tahu aku bahwa kamu sedang ingin bermesraan?
+m|Bagaimana caramu memberi tahu aku bahwa kamu sedang tidak ingin disentuh?
+m|Apa yang membuatmu merasa nyaman untuk membicarakan keintiman denganku?
+m|Seberapa sering kamu ingin kita punya waktu intim berdua?
+m|Apa yang biasanya membuat suasana hatimu tidak siap untuk bermesraan?
+m|Bagaimana stres memengaruhi keinginanmu untuk dekat secara fisik?
+m|Apa yang ingin kamu coba untuk membuat hubungan kita lebih romantis?
+m|Apa yang membuatmu merasa dihargai setelah momen intim kita?
+m|Bagaimana kamu ingin kita membicarakan keinginan yang berbeda tanpa merasa ditolak?
+m|Apa kebiasaan setelah bermesraan yang paling kamu suka?
+m|Apa yang membuatmu merasa tidak percaya diri dalam momen intim?
+m|Bagaimana aku bisa membuatmu merasa lebih nyaman dengan tubuhmu?
+m|Apa yang membuatmu merasa diinginkan, bukan hanya dibutuhkan?
+m|Bagaimana pendapatmu tentang menjadwalkan waktu intim saat sedang sibuk?
+m|Apa yang membuatmu merasa terburu-buru dalam momen berdua?
+m|Apa jenis perhatian sebelum momen intim yang paling kamu suka?
+m|Bagaimana kamu ingin aku menanggapi saat kamu menolak dengan lembut?
+m|Apa yang perlu kita jaga agar keintiman tidak terasa seperti kewajiban?
+m|Bagaimana kita bisa tetap romantis setelah bertahun-tahun bersama?
+m|Apa yang membuatmu merasa canggung membicarakan keinginanmu?
+m|Bagaimana kamu ingin kita membicarakan kesehatan reproduksi dan kontrasepsi?
+m|Apa yang membuatmu merasa aman untuk mencoba hal baru bersamaku?
+m|Apa yang membuatmu merasa tidak didengarkan dalam hal keintiman?
+m|Bagaimana pendapatmu tentang keintiman tanpa harus selalu berujung pada hubungan seksual?
+m|Apa bentuk keintiman non-fisik yang paling kamu butuhkan?
+m|Bagaimana caramu menunjukkan bahwa kamu tertarik padaku di depan orang lain tanpa berlebihan?
+m|Apa yang membuatmu kehilangan mood dengan cepat?
+m|Bagaimana kita bisa saling memberi masukan dengan lembut tentang apa yang kita suka?
+m|Apa yang membuatmu merasa dihormati saat kita bermesraan?
+m|Bagaimana perubahan tubuh seiring waktu memengaruhi perasaanmu tentang keintiman?
+m|Apa yang ingin kamu dengar dariku setelah momen intim?
+m|Bagaimana kamu ingin kita menghadapi masa ketika gairah sedang turun?
+m|Apa yang membuatmu merasa dekat walau kita sedang tidak bisa bersentuhan?
+m|Bagaimana pendapatmu soal membaca buku atau ikut kelas tentang hubungan intim yang sehat?
+m|Apa yang membuatmu merasa momen berdua kita spesial dibanding rutinitas biasa?
+m|Bagaimana kita bisa membuat ruang tidur terasa lebih intim?
+m|Apa hal sederhana yang bisa langsung meningkatkan keintiman kita minggu ini?
+m|Bagaimana perasaanmu tentang berbicara jujur soal fantasi ringan?
+m|Apa yang membuatmu merasa lelah secara fisik dan bagaimana itu memengaruhi keintiman kita?
+m|Bagaimana kamu ingin kita merawat keintiman saat ada anak atau orang lain di rumah?
+m|Apa pengalaman masa lalu yang membuatmu lebih berhati-hati soal keintiman?
+m|Bagaimana pendapatmu tentang saling memeriksa kesehatan bersama secara rutin?
+m|Apa yang membuatmu merasa aku memperhatikan reaksimu?
+m|Apa jenis kencan yang menurutmu paling membangun gairah?
+m|Bagaimana kita bisa lebih sering bercanda dan tertawa dalam momen intim?
+m|Apa yang membuatmu merasa lebih santai sebelum kita bermesraan?
+m|Bagaimana kamu ingin kita membicarakan hal yang tidak kamu sukai setelah momen intim?
+m|Apa kata atau isyarat sederhana yang bisa kita pakai untuk bilang berhenti atau jeda?
+m|Apa yang membuatmu merasa keintiman kita seimbang untuk kita berdua?
+m|Bagaimana pengaruh kurang tidur terhadap keinginanmu untuk dekat denganku?
+m|Apa hal romantis yang dulu sering kita lakukan dan ingin kamu ulangi?
+m|Bagaimana kamu ingin kita merayakan hari jadi dengan cara yang lebih intim?
+m|Apa yang membuatmu merasa tertarik padaku di luar penampilan fisik?
+m|Bagaimana kita bisa menjaga keintiman tetap hangat saat sedang LDR?
+m|Apa hal yang ingin kamu tanyakan tentang keinginanku tapi selama ini ragu?
+m|Bagaimana perasaanmu tentang membicarakan keintiman di siang hari, bukan saat suasana sedang panas?
+m|Apa yang membuatmu merasa kita tim, bahkan dalam hal keintiman?
+m|Bagaimana kamu ingin aku mengungkapkan rasa tertarikku padamu sehari-hari?
+m|Apa yang membuatmu merasa perlu waktu lebih lama untuk merasa siap?
+d|Apa yang paling kamu butuhkan untuk merasa benar-benar aman saat intim denganku?
+d|Apa ketakutan terbesarmu tentang keintiman dalam hubungan kita?
+d|Apa yang membuatmu sulit merasa nyaman dengan tubuhmu sendiri?
+d|Pernahkah kamu merasa tertekan untuk melakukan sesuatu yang tidak kamu inginkan dalam hubungan?
+d|Apa yang kamu harapkan dariku saat kamu sedang merasa tidak menarik?
+d|Apa arti keintiman bagimu, selain hal fisik?
+d|Apa yang membuatmu merasa terhubung secara jiwa saat kita berdua?
+d|Apa yang belum pernah kamu katakan tentang keinginanmu karena takut dinilai?
+d|Bagaimana masa lalu memengaruhi caramu menikmati keintiman sekarang?
+d|Apa yang membuatmu merasa rapuh setelah momen yang sangat dekat?
+d|Bagaimana kamu ingin aku memperlakukanmu saat kamu sedang tidak ingin disentuh sama sekali?
+d|Apa yang membuatmu merasa dicintai sepenuhnya, termasuk tubuh dan perasaanmu?
+d|Apa yang kamu harap aku pahami tentang naik turunnya keinginanmu?
+d|Bagaimana kita bisa membicarakan ketidakpuasan tanpa melukai harga diri satu sama lain?
+d|Apa yang membuatmu takut ditolak saat mengungkapkan keinginanmu?
+d|Bagaimana perasaanmu saat aku menolak dengan alasan lelah?
+d|Apa yang membuatmu merasa keintiman kita tumbuh seiring waktu?
+d|Apa yang membuatmu merasa keintiman kita perlu dirawat lebih serius?
+d|Bagaimana kamu ingin kita menjaga keintiman saat salah satu dari kita sakit atau sedang berduka?
+d|Apa yang membuatmu merasa bebas menjadi dirimu sendiri saat bersamaku?
+d|Apa yang ingin kamu sembuhkan dari dirimu agar bisa menikmati keintiman dengan lebih tenang?
+d|Apa yang membuatmu merasa keintiman kita adalah tempat pulang?
+d|Bagaimana kamu ingin kita menghormati batasan yang berubah seiring waktu?
+d|Apa yang kamu rasakan saat aku benar-benar memperhatikan kenyamananmu?
+d|Apa yang membuatmu merasa keintiman kita lebih dari sekadar gairah?
+d|Bagaimana kamu ingin kita menghadapi perbedaan besar dalam kebutuhan keintiman?
+d|Apa yang membuatmu merasa malu, dan bagaimana aku bisa membuatmu lebih tenang?
+d|Apa yang kamu harapkan dari keintiman kita saat kita sudah menua?
+d|Apa yang membuatmu yakin aku menghormati tubuhmu sepenuhnya?
+d|Apa yang ingin kamu ucapkan padaku setelah momen paling dekat kita?
+d|Apa yang membuatmu merasa kehilangan koneksi meski kita masih bermesraan?
+d|Bagaimana kamu ingin kita tetap jujur jika suatu hari keinginan kita berubah?
+d|Apa yang membuatmu merasa paling dihargai sebagai pasangan dalam keintiman?
+d|Apa yang membuatmu bisa melepaskan rasa cemas saat bersamaku?
+d|Apa hal yang ingin kamu pelajari bersamaku tentang keintiman yang sehat?
+d|Apa yang kamu harap tidak pernah hilang dari cara kita saling menyentuh?
+d|Apa yang membuatmu merasa keintiman kita adalah bentuk kepercayaan tertinggi?
+d|Bagaimana kamu ingin aku menghiburmu saat kamu merasa kecewa pada dirimu dalam keintiman?
+d|Apa yang membuatmu yakin kita bisa membicarakan apa saja soal keintiman?
+d|Apa yang membuatmu merasa keintiman kita membantu menyembuhkan luka lamamu?
+d|Bagaimana kamu ingin kita merawat gairah tanpa membandingkan dengan masa lalu?
+d|Apa yang kamu rasakan tentang dirimu setelah kita melewati malam yang hangat?
+d|Apa yang membuatmu merasa siap untuk lebih terbuka secara fisik dan emosional denganku?
+d|Apa yang membuatmu merasa keintiman adalah bahasa cinta yang penting atau tidak terlalu penting?
+d|Apa yang kamu harapkan dariku saat kamu ingin dekat tapi tidak tahu cara memulainya?
+d|Apa yang membuatmu merasa keintiman kita sudah menjadi ruang aman untuk tertawa dan menangis?
+d|Bagaimana kamu ingin kita membicarakan topik ini tanpa merasa canggung bertahun-tahun ke depan?
+d|Apa yang kamu harap aku tahu tentang tubuhmu yang tidak pernah kamu ceritakan pada siapa pun?
+d|Apa yang membuatmu merasa diterima tanpa syarat di saat paling dekat kita?
+d|Apa satu janji yang ingin kamu buat tentang cara kita menjaga keintiman?
+d|Apa yang membuatmu yakin keintiman kita didasari rasa hormat, bukan tuntutan?
+d|Apa yang kamu rasakan saat membayangkan kita tetap saling menginginkan di usia tua?
+d|Apa yang membuatmu merasa keintiman kita membuat hubungan ini lebih kuat?
+d|Bagaimana kamu ingin kita menyikapi masa ketika tubuh tidak lagi seperti dulu?
+d|Apa yang kamu harapkan dari kita saat salah satu dari kita merasa tidak diinginkan?
+s|Apa hal romantis yang ingin kamu lakukan di malam tahun baru bersamaku?
+s|Kamu suka kalau aku menyiapkan mandi air hangat untukmu?
+s|Apa jenis pijatan yang paling membuatmu rileks?
+s|Kamu lebih suka kencan makan malam dengan lilin atau piknik di bawah bintang?
+s|Apa warna pakaian tidur yang menurutmu paling manis?
+s|Kamu suka kalau aku memujimu dengan suara pelan saat kita berdua?
+s|Apa hal kecil dariku yang membuatmu merasa ingin dipeluk lebih lama?
+s|Kamu suka kalau kita saling menyuapi makanan?
+s|Apa tempat menginap berdua yang menurutmu paling romantis di Indonesia?
+s|Kamu suka kalau aku mengingat dan mengulang momen romantis pertama kita?
+s|Apa jenis kejutan romantis yang paling membuatmu terharu?
+s|Kamu suka kalau aku mengajakmu berdansa tanpa musik?
+s|Apa kata-kata yang ingin kamu dengar saat aku memelukmu?
+s|Kamu lebih suka romansa yang lembut dan pelan atau yang penuh semangat?
+s|Apa hal yang menurutmu membuat suasana jadi tidak romantis?
+m|Apa yang ingin kamu ubah dari kebiasaan kita sebelum tidur agar lebih dekat?
+m|Bagaimana pendapatmu soal waktu berdua tanpa ponsel sebagai ritual mingguan?
+m|Apa yang membuatmu merasa aku sedang benar-benar hadir saat kita berdekatan?
+m|Bagaimana kamu ingin kita membicarakan perubahan selera seiring waktu?
+m|Apa yang membuatmu merasa canggung setelah lama tidak bermesraan?
+m|Bagaimana kita bisa memulai lagi keintiman setelah pertengkaran?
+m|Apa yang membuatmu merasa siap secara emosional untuk dekat lagi setelah bertengkar?
+m|Bagaimana pendapatmu soal liburan berdua khusus untuk menyegarkan hubungan?
+m|Apa yang membuatmu merasa romantis di tengah kesibukan pekerjaan?
+m|Apa yang ingin kamu ketahui tentang hal-hal yang membuatku nyaman?
+m|Bagaimana kamu ingin kita menjaga privasi keintiman dari orang lain?
+m|Apa yang membuatmu merasa kita perlu lebih banyak sentuhan kecil di siang hari?
+m|Bagaimana kita bisa saling memberi ruang saat salah satu sedang tidak mood?
+m|Apa yang membuatmu merasa aku memahami bahasa tubuhmu?
+m|Bagaimana kamu ingin aku menunjukkan rasa tertarik saat kamu sedang lelah?
+m|Apa yang perlu kita sepakati soal kesehatan dan kebersihan sebagai bentuk saling menghormati?
+m|Bagaimana pendapatmu tentang membicarakan keintiman dengan konselor kalau suatu hari dibutuhkan?
+m|Apa yang membuatmu merasa kita sudah cukup terbuka satu sama lain?
+d|Apa yang membuatmu merasa takut kehilangan daya tarik di mataku?
+d|Apa yang kamu harapkan dariku saat kamu merasa tubuhmu berubah?
+d|Apa yang membuatmu merasa keintiman kita jujur, bukan pura-pura?
+d|Apa yang ingin kamu sampaikan kepadaku tentang momen yang pernah membuatmu tidak nyaman?
+d|Bagaimana kamu ingin aku meminta maaf jika aku melewati batasmu tanpa sadar?
+d|Apa yang membuatmu yakin aku akan berhenti saat kamu meminta?
+d|Apa yang membuatmu merasa bebas mengatakan tidak kepadaku?
+d|Apa yang membuatmu merasa terhubung lagi setelah lama sibuk masing-masing?
+d|Apa yang membuatmu merasa keintiman kita menghargai perasaanmu, bukan hanya tubuhmu?
+d|Apa yang kamu rasakan saat aku memelukmu tanpa mengharapkan apa pun?
+d|Apa yang membuatmu merasa sedang dicintai dengan penuh perhatian?
+d|Bagaimana kamu ingin kita menghadapi masa ketika keintiman terasa sulit karena kesehatan?
+d|Apa yang ingin kamu pelajari tentang dirimu lewat keintiman kita?
+d|Apa yang membuatmu merasa keintiman kita berbeda dari pengalaman sebelumnya?
+d|Apa yang kamu harapkan tetap kita lakukan untuk saling mendekat walau sudah puluhan tahun?
+s|Apa hal romantis kecil yang ingin kamu terima saat hari ulang tahun kita?
+s|Kamu suka kalau aku menyalakan lagu favoritmu saat kita berdua?
+m|Bagaimana kamu ingin kita menjaga rasa penasaran satu sama lain tetap hidup?

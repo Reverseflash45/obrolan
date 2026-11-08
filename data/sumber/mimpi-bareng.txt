@@ -1,0 +1,253 @@
+# Mimpi Bareng — pasangan, aku/kamu (bucket list, petualangan, proyek berdua)
+s|Apa satu hal gila yang ingin kita lakukan berdua sebelum umur 30?
+s|Negara mana yang paling ingin kamu jelajahi bareng aku?
+s|Kalau kita naik balon udara, kamu ingin terbang di atas kota mana?
+s|Apa festival dunia yang ingin kita datangi bersama?
+s|Kalau kita ikut maraton bareng, kamu yakin bisa sampai garis akhir?
+s|Gunung mana yang ingin kita daki bersama suatu hari?
+s|Pulau mana di Indonesia yang ingin kita jelajahi berdua?
+s|Apa makanan dari negara lain yang ingin kita cicipi langsung di tempat asalnya?
+s|Kalau kita bisa melihat aurora, kamu mau melihatnya di mana?
+s|Apa olahraga ekstrem yang berani kamu coba bersamaku?
+s|Kalau kita membuat film pendek berdua, ceritanya tentang apa?
+s|Apa keterampilan baru yang ingin kita pelajari bersama tahun ini?
+s|Kalau kita ikut kelas memasak di luar negeri, masakan apa yang dipelajari?
+s|Apa konser band atau penyanyi yang ingin kita tonton bareng sebelum mereka pensiun?
+s|Kalau kita naik kereta lintas negara, rute mana yang kamu pilih?
+s|Apa tempat menyelam atau snorkeling yang ingin kita datangi?
+s|Kalau kita tinggal sebulan di desa terpencil, desa mana yang menarik?
+s|Apa tantangan tiga puluh hari yang ingin kita coba bersama?
+s|Kalau kita membuat lagu bersama, judulnya apa?
+s|Apa bahasa asing yang ingin kita kuasai berdua?
+s|Kalau kita membuka toko kecil, toko apa yang paling cocok?
+s|Apa keajaiban dunia yang ingin kita lihat langsung?
+s|Kalau kita ikut kompetisi memasak pasangan, menu andalan kita apa?
+s|Apa kota yang ingin kita jelajahi hanya dengan berjalan kaki?
+s|Kalau kita bisa bertemu satu tokoh terkenal bersama, siapa yang kamu pilih?
+s|Apa pengalaman berkemah impianmu bersama aku?
+s|Kalau kita menulis buku perjalanan, judulnya apa?
+s|Apa hewan langka yang ingin kita lihat di habitat aslinya?
+s|Kalau kita ikut kelas dansa, jenis dansa apa yang dipilih?
+s|Apa taman nasional yang ingin kita kunjungi?
+s|Kalau kita naik kapal pesiar, ke mana tujuannya?
+s|Apa kegiatan sukarela yang ingin kita lakukan bersama di tempat jauh?
+s|Kalau kita bersepeda keliling satu pulau, pulau mana yang kamu pilih?
+s|Apa makanan yang ingin kita buat dari nol, misalnya roti atau keju?
+s|Kalau kita membuat kanal video bersama, konsepnya apa?
+s|Apa pantai paling indah yang ingin kita datangi saat matahari terbenam?
+s|Kalau kita belajar alat musik bersama, kita pilih apa?
+s|Apa rekor pribadi yang ingin kita pecahkan berdua?
+s|Kalau kita bisa tinggal di rumah pohon semalam, kamu mau?
+s|Apa museum dunia yang ingin kamu kunjungi bersamaku?
+s|Kalau kita menanam pohon bersama setiap tahun, pohon apa yang pertama?
+s|Apa acara olahraga besar yang ingin kita tonton langsung?
+s|Kalau kita ikut lomba lari warna-warni, kostum apa yang kita pakai?
+s|Apa kafe atau restoran legendaris yang ingin kita datangi?
+s|Kalau kita membuat kebun bersama, apa yang ingin kita panen pertama?
+s|Apa perjalanan darat terjauh yang ingin kita tempuh berdua?
+s|Kalau kita bisa tidur di bawah bintang, kamu mau di gurun atau di gunung?
+s|Apa karya seni yang ingin kita buat bersama untuk rumah?
+s|Kalau kita ikut kelas keramik, benda apa yang ingin kamu buat?
+s|Apa tempat bersejarah di Indonesia yang ingin kita datangi?
+s|Kalau kita bisa melihat gerhana matahari total, kamu mau melihatnya di mana?
+s|Apa kegiatan musim dingin yang ingin kamu coba bersamaku?
+s|Kalau kita membuat podcast pasangan, episode pertamanya membahas apa?
+s|Apa makanan jalanan dunia yang ingin kita coba satu per satu?
+s|Kalau kita membuat jurnal perjalanan bergambar, siapa yang menggambar?
+s|Apa jenis pesta yang ingin kita adakan suatu hari untuk teman-teman?
+s|Kalau kita bisa memiliki satu kendaraan petualangan, kamu pilih karavan atau perahu?
+s|Apa hal yang ingin kita coba pertama kali bersama minggu depan?
+s|Kalau kita ikut kelas fotografi, objek apa yang paling ingin kamu potret?
+s|Apa tempat di kota kita sendiri yang belum pernah kita datangi?
+s|Kalau kita ikut kelas bela diri bersama, kita pilih apa?
+s|Apa resep warisan dunia yang ingin kita kuasai berdua?
+s|Kalau kita bisa membuat satu hari libur nasional versi kita, merayakan apa?
+s|Apa air terjun yang ingin kita datangi bersama?
+s|Kalau kita membuat permainan papan sendiri, temanya apa?
+s|Apa toko buku legendaris yang ingin kita jelajahi?
+s|Kalau kita bisa bermalam di kastel, kastel di negara mana?
+s|Apa kegiatan relawan hewan yang ingin kita ikuti?
+s|Kalau kita menulis surat untuk diri kita sepuluh tahun lagi, apa kalimat pertamanya?
+s|Apa jenis kencan ekstrem yang mungkin kita lakukan suatu hari?
+s|Kalau kita bisa melihat satu fenomena alam bersama, fenomena apa itu?
+s|Apa kebiasaan baru yang ingin kita mulai berdua sebagai tantangan?
+s|Kalau kita membuat koleksi bersama, koleksi apa yang menarik?
+s|Apa hal yang ingin kita coba di setiap kota yang kita kunjungi?
+s|Kalau kita membuka usaha makanan, nama tokonya apa?
+s|Apa lomba yang ingin kita menangkan bersama?
+s|Kalau kita jadi tuan rumah acara besar, acara apa yang kamu bayangkan?
+s|Apa tempat yang ingin kita datangi saat hari jadi kita yang kesepuluh?
+s|Kalau kita membuat peta mimpi di dinding, apa gambar pertama yang ditempel?
+s|Apa kegiatan malam hari yang ingin kita coba, seperti melihat bintang atau berburu kunang-kunang?
+s|Kalau kita bisa menghabiskan satu tahun berkeliling, berapa negara targetnya?
+s|Apa kegiatan budaya lokal yang ingin kita pelajari bersama?
+s|Kalau kita membuat taman rahasia, isinya apa saja?
+s|Apa kendaraan unik yang ingin kita coba naiki bersama?
+s|Kalau kita bisa memiliki satu hewan unik, hewan apa?
+s|Apa piknik impianmu bersama aku?
+s|Kalau kita membuat koleksi magnet kulkas dari setiap kota, target kita berapa?
+s|Apa jalan setapak atau jalur pendakian yang ingin kita taklukkan?
+s|Kalau kita ikut acara kuis pasangan di TV, berapa poin yang bisa kita dapat?
+s|Apa matahari terbit paling indah yang ingin kita tonton bersama?
+m|Apa mimpi terbesar yang ingin kita wujudkan bersama?
+m|Apa mimpi pribadimu yang ingin aku dukung sepenuhnya?
+m|Bagaimana kita membagi waktu antara mimpi pribadi dan mimpi bersama?
+m|Apa mimpi yang menurutmu terlalu besar, tapi tetap ingin kita coba?
+m|Apa langkah kecil yang bisa kita mulai minggu ini untuk mimpi bersama?
+m|Bagaimana kita menabung untuk perjalanan impian kita?
+m|Apa mimpi yang kamu simpan karena takut dianggap tidak realistis?
+m|Bagaimana kamu ingin aku mendukungmu saat mimpimu terasa jauh?
+m|Apa mimpi yang dulu kamu tinggalkan dan ingin kamu hidupkan lagi?
+m|Apa yang perlu kita korbankan untuk mewujudkan mimpi bersama?
+m|Bagaimana kita memutuskan mimpi mana yang diprioritaskan lebih dulu?
+m|Apa mimpi yang ingin kamu wujudkan untuk keluargamu bersama aku?
+m|Bagaimana pendapatmu soal mengambil cuti panjang untuk berpetualang?
+m|Apa pekerjaan impian yang ingin kamu coba walau hanya setahun?
+m|Bagaimana kita menghadapi saat mimpi kita bertentangan?
+m|Apa mimpi bersama yang menurutmu akan membuat kita semakin dekat?
+m|Bagaimana kamu ingin kita merayakan setiap mimpi kecil yang tercapai?
+m|Apa mimpi sosial yang ingin kita jalankan, seperti membantu komunitas?
+m|Apa mimpi yang ingin kamu capai sebelum punya anak?
+m|Apa mimpi yang ingin kamu capai setelah anak-anak dewasa?
+m|Bagaimana kita menjaga semangat saat mimpi berjalan lambat?
+m|Apa mimpi yang menurutmu lebih seru dikejar berdua daripada sendiri?
+m|Apa mimpi yang ingin kamu kejar sendirian, tanpa aku?
+m|Bagaimana perasaanmu kalau mimpiku membuat kita harus berjauhan sementara?
+m|Apa mimpi yang ingin kita capai dalam lima tahun?
+m|Apa mimpi yang ingin kita capai dalam dua puluh tahun?
+m|Bagaimana kita menuliskan rencana mimpi agar tidak hanya jadi angan-angan?
+m|Apa hambatan terbesar untuk mimpi kita saat ini?
+m|Bagaimana kamu ingin aku mengingatkanmu saat kamu mulai menyerah pada mimpi?
+m|Apa mimpi yang ingin kamu wujudkan untuk membanggakan orang tuamu?
+m|Apa mimpi yang ingin kamu wujudkan hanya untuk kebahagiaanmu sendiri?
+m|Bagaimana kita membagi peran dalam mewujudkan usaha impian bersama?
+m|Apa mimpi yang ingin kamu tunjukkan kepada anak-anak kita kelak?
+m|Bagaimana kita menghadapi orang yang meremehkan mimpi kita?
+m|Apa mimpi yang menurutmu akan mengubah hidup kita sepenuhnya?
+m|Apa yang membuatmu bersemangat setiap kali membicarakan mimpi bersamaku?
+m|Bagaimana pendapatmu soal pindah ke luar negeri demi mimpi?
+m|Apa mimpi kreatif yang ingin kita kerjakan bersama?
+m|Apa mimpi yang membutuhkan keberanian lebih dari yang kamu punya sekarang?
+m|Bagaimana kita menyeimbangkan mimpi dan tanggung jawab sehari-hari?
+m|Apa mimpi yang ingin kamu coba walau mungkin gagal?
+m|Apa mimpi bersama yang paling mungkin kita capai tahun depan?
+m|Bagaimana kamu ingin kita mendokumentasikan perjalanan mimpi kita?
+m|Apa mimpi yang ingin kamu tukar dengan mimpi yang lebih sederhana?
+m|Apa mimpi yang membuatmu merasa hidup ini layak dijalani?
+m|Bagaimana kita akan merayakan kalau mimpi terbesar kita tercapai?
+m|Apa mimpi yang ingin kamu wujudkan untuk kota atau desamu?
+m|Bagaimana kita membuat mimpi kita tetap realistis tanpa mematikan semangat?
+m|Apa mimpi yang ingin kita bagi dengan sahabat-sahabat kita?
+m|Apa mimpi kecil yang bisa kita capai bulan ini?
+m|Bagaimana kamu ingin kita saling mendukung saat salah satu sedang mengejar gelar atau sertifikasi?
+m|Apa mimpi tentang rumah yang paling ingin kamu wujudkan?
+m|Bagaimana perasaanmu saat aku menceritakan mimpi yang belum pernah kamu dengar?
+m|Apa mimpi yang ingin kamu wujudkan sebelum orang tuamu menua?
+m|Bagaimana kita menentukan tabungan untuk mimpi dibanding kebutuhan?
+m|Apa mimpi lucu yang tetap ingin kamu wujudkan walau kedengarannya konyol?
+m|Apa mimpi yang ingin kita capai bersama sebagai bentuk syukur?
+m|Bagaimana kita menghadapi rasa iri saat melihat orang lain mewujudkan mimpi lebih cepat?
+m|Apa mimpi yang membuatmu ingin menjadi orang yang lebih disiplin?
+m|Bagaimana kita akan memilih kota impian untuk menetap?
+m|Apa mimpi yang ingin kita wujudkan untuk anak-anak di sekitar kita?
+m|Apa hal yang harus kita pelajari dulu sebelum mengejar mimpi terbesar kita?
+m|Bagaimana kamu ingin kita bangkit kalau mimpi bersama kita gagal?
+m|Apa mimpi yang ingin kamu ceritakan pada orang tuaku suatu hari?
+d|Apa mimpi yang paling kamu takutkan tidak akan pernah terwujud?
+d|Apa mimpi yang kamu korbankan demi orang lain dan masih kamu sesali?
+d|Apa yang kamu rasakan kalau mimpiku lebih dulu terwujud daripada mimpimu?
+d|Apa yang akan kamu lakukan kalau aku memutuskan berhenti mengejar mimpiku?
+d|Apa yang membuatmu yakin aku mendukung mimpimu dengan tulus?
+d|Apa yang membuatmu ragu untuk bermimpi besar bersamaku?
+d|Apa mimpi yang ingin kamu wujudkan agar hidupmu terasa bermakna?
+d|Bagaimana kamu ingin kita menghadapi kenyataan kalau sebagian mimpi harus dilepaskan?
+d|Apa mimpi yang ingin kamu wujudkan untuk menyembuhkan luka masa lalumu?
+d|Apa yang membuatmu merasa tidak pantas bermimpi?
+d|Apa mimpi yang tetap ingin kamu kejar walau tidak ada yang percaya?
+d|Apa yang kamu harapkan dariku saat kamu memilih mimpi yang berisiko?
+d|Apa yang membuatmu yakin kita akan tetap bersama saat mimpi membawa kita ke arah berbeda?
+d|Apa yang ingin kamu dengar dariku saat mimpimu hancur?
+d|Apa arti sukses bersama bagimu, bukan sukses masing-masing?
+d|Apa mimpi yang ingin kamu wujudkan sebelum hidupmu berakhir?
+d|Apa yang membuatmu takut bermimpi terlalu tinggi?
+d|Apa mimpi yang ingin kamu titipkan padaku kalau kamu tidak sempat mewujudkannya?
+d|Bagaimana kamu ingin kita tetap bersyukur meski mimpi belum tercapai?
+d|Apa yang membuatmu yakin mimpi kita lebih kuat dari ketakutan kita?
+d|Apa mimpi yang kamu simpan karena takut aku tidak ikut di dalamnya?
+d|Apa mimpi yang hanya bisa terwujud karena kita bersama?
+d|Apa yang membuatmu merasa mimpi kita adalah cara kita mencintai dunia?
+d|Apa yang kamu harapkan dari dirimu saat mimpi kita diuji?
+d|Apa yang ingin kamu katakan pada dirimu yang masih kecil tentang mimpi-mimpinya?
+d|Apa yang membuatmu merasa sudah cukup tanpa mewujudkan semua mimpi?
+d|Apa mimpi yang membuatmu ingin hidup lebih lama?
+d|Apa yang membuatmu yakin aku tidak akan menahan mimpimu?
+d|Kalau mimpiku menuntut pengorbanan darimu, sampai mana kamu sanggup menemani?
+d|Apa mimpi yang ingin kamu wujudkan untuk menebus waktu yang hilang?
+d|Bagaimana kamu ingin kita menghormati mimpi yang tidak lagi ingin kita kejar?
+d|Apa yang kamu rasakan saat membayangkan kita berhasil mewujudkan mimpi terbesar?
+d|Kalau mimpi terbesar kita kandas, apa yang tetap ingin kamu syukuri?
+d|Apa mimpi yang membuatmu merasa terhubung dengan sesuatu yang lebih besar dari kita?
+d|Apa mimpi yang ingin kamu wariskan kepada anak-anak kita?
+d|Apa yang membuatmu yakin perjalanan menuju mimpi sama berharganya dengan mimpi itu sendiri?
+d|Apa yang ingin kamu ubah dari dirimu agar layak mewujudkan mimpi bersama?
+d|Apa yang kamu harap aku pahami tentang mimpi yang paling rahasia milikmu?
+d|Apa yang membuatmu bertahan saat mimpi terasa mustahil?
+d|Apa mimpi yang tidak lagi kamu inginkan karena kamu sudah berubah?
+d|Bagaimana kamu ingin kita bermimpi lagi setelah kehilangan sesuatu yang besar?
+d|Apa yang membuatmu merasa hidup bersamaku adalah salah satu mimpi yang terwujud?
+d|Apa mimpi yang paling ingin kamu wujudkan demi aku?
+d|Apa mimpi yang menurutmu perlu kita lepaskan demi kesehatan hubungan kita?
+d|Apa yang ingin kamu ingat tentang masa ketika kita masih bermimpi tanpa batas?
+d|Apa yang membuatmu yakin kita bisa bermimpi bersama sampai tua?
+d|Apa mimpi yang ingin kamu wujudkan untuk dunia setelah kita tiada?
+d|Apa yang membuatmu merasa mimpimu dianggap remeh, dan bagaimana aku bisa memperbaikinya?
+d|Apa yang membuatmu yakin mimpi kita bukan pelarian dari kenyataan?
+d|Apa mimpi yang ingin kamu wujudkan meski hanya untuk satu hari?
+d|Bagaimana kamu ingin kita menulis kisah mimpi kita untuk dibaca anak cucu?
+d|Apa yang kamu rasakan saat aku bilang aku percaya pada mimpimu?
+d|Apa mimpi yang ingin kamu bagi denganku tapi belum pernah kamu ucapkan?
+d|Apa yang membuatmu merasa mimpi bersama kita sedang tumbuh?
+d|Apa yang kamu takutkan akan hilang dari kita saat mimpi tercapai?
+d|Apa yang ingin kamu janjikan untuk mimpi-mimpi kita ke depan?
+d|Apa mimpi yang ingin kamu wujudkan supaya aku bangga padamu?
+d|Apa mimpi yang ingin kamu wujudkan supaya kamu bangga pada dirimu sendiri?
+d|Apa yang membuatmu yakin mimpi terbaik kita belum kita temukan?
+d|Apa yang membuatmu merasa cukup berani untuk bermimpi lagi bersamaku hari ini?
+s|Apa kegiatan yang ingin kita coba di setiap ulang tahun masing-masing?
+s|Kalau kita ikut kelas melukis, apa yang ingin kamu lukis pertama?
+s|Apa resep yang ingin kita sempurnakan berdua sampai jadi andalan?
+s|Kalau kita membuat rumah mungil di atas mobil, kamu mau ke mana dulu?
+s|Apa kota di Asia yang paling ingin kamu jelajahi bersama aku?
+s|Kalau kita bisa naik kereta gantung terpanjang di dunia, kamu berani?
+s|Apa kegiatan yang ingin kita coba di bawah laut?
+s|Kalau kita menginap di rumah warga lokal di luar negeri, negara mana yang menarik?
+s|Apa kafe kucing, perpustakaan, atau tempat unik yang ingin kita datangi?
+s|Kalau kita bikin tantangan satu kota satu minggu, kota mana dulu?
+s|Apa olahraga air yang ingin kita pelajari bersama?
+s|Kalau kita membuat buku resep keluarga, resep pertama apa?
+s|Apa tempat yang ingin kita datangi ulang sepuluh tahun lagi untuk mengenang?
+s|Kalau kita ikut kelas meracik kopi, siapa yang lebih berbakat?
+s|Apa hal kecil yang ingin kita coba setiap akhir pekan bulan ini?
+m|Apa mimpi tentang pekerjaan yang ingin kita jalani bersama suatu hari?
+m|Bagaimana kita bisa menyisihkan waktu khusus untuk mimpi setiap minggu?
+m|Apa mimpi yang menurutmu perlu kita tunda dulu demi stabilitas?
+m|Apa mimpi yang membuatmu ingin belajar lebih giat?
+m|Bagaimana pendapatmu soal mengajak keluarga besar ikut dalam mimpi kita?
+m|Apa mimpi yang menurutmu perlu dibicarakan dengan orang tua kita lebih dulu?
+m|Bagaimana kita menanggapi kalau mimpi kita berubah seiring bertambahnya umur?
+m|Apa mimpi yang bisa kita wujudkan dengan biaya hampir nol?
+m|Bagaimana kamu ingin kita mencatat mimpi-mimpi kecil yang sudah tercapai?
+m|Apa mimpi yang menurutmu akan membuat orang tua kita ikut bahagia?
+m|Apa mimpi yang bisa membuat kita lebih dekat dengan alam?
+m|Bagaimana kamu ingin kita membagi peran saat merencanakan perjalanan besar?
+d|Apa mimpi yang membuatmu merasa tidak sendirian di dunia ini?
+d|Apa yang membuatmu yakin aku akan menemanimu walau mimpimu berubah total?
+d|Apa yang ingin kamu sampaikan kepada aku yang sedang ragu mengejar mimpi?
+d|Apa mimpi yang ingin kamu wujudkan untuk membalas kebaikan orang lain?
+d|Apa yang membuatmu merasa perjalanan kita sendiri sudah merupakan mimpi yang terwujud?
+d|Apa yang kamu takutkan dari keberhasilan, bukan dari kegagalan?
+d|Apa mimpi yang ingin kamu ceritakan pada dirimu di usia tua sambil tersenyum?
+d|Bagaimana kamu ingin kita menjaga mimpi tetap hidup di tengah kesedihan?
+s|Apa tempat yang ingin kita datangi hanya untuk mencicipi satu makanan legendaris?
+s|Kalau kita membuat daftar seratus mimpi, apa nomor satunya?
+m|Apa mimpi yang ingin kamu wujudkan bersama sahabat-sahabatku juga?
