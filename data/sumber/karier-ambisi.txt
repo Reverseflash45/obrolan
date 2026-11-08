@@ -1,0 +1,250 @@
+# Karier & Ambisi — diri sendiri, semua mode, "kamu"
+s|Pekerjaan impianmu waktu kecil apa?
+s|Kalau bisa mencoba satu pekerjaan sehari, pekerjaan apa yang kamu pilih?
+s|Apa keterampilan yang paling ingin kamu kuasai tahun ini?
+s|Siapa tokoh yang kariernya paling kamu kagumi?
+s|Kalau kamu membuka usaha, usaha apa yang paling cocok denganmu?
+s|Apa pencapaian kecil yang kamu banggakan bulan ini?
+s|Kamu lebih suka kerja tim atau kerja sendiri?
+s|Apa alat atau aplikasi kerja favoritmu?
+s|Kamu lebih produktif di pagi atau malam hari?
+s|Apa ruang kerja impianmu?
+s|Kalau bisa bekerja dari mana saja, kota mana yang kamu pilih?
+s|Apa jenis kantor yang paling cocok denganmu, formal atau santai?
+s|Apa buku atau podcast yang membantumu berkembang?
+s|Kalau kamu menjadi bos, aturan pertama apa yang kamu buat?
+s|Apa hal yang paling kamu suka dari pekerjaan atau studimu sekarang?
+s|Apa hal yang paling membosankan dari rutinitas kerja atau belajarmu?
+s|Kalau kamu bisa membuat jabatan sendiri, apa namanya?
+s|Apa kursus online yang ingin kamu ikuti?
+s|Siapa mentor yang ingin kamu ajak minum kopi?
+s|Apa bahasa asing yang ingin kamu kuasai untuk karier?
+s|Kalau kamu menulis buku tentang pekerjaanmu, judulnya apa?
+s|Apa hal kecil yang membuat hari kerjamu menyenangkan?
+s|Apa perusahaan atau tempat kerja impianmu?
+s|Kalau kamu bisa membuat tim impian, siapa saja anggotanya?
+s|Apa jenis proyek yang paling membuatmu bersemangat?
+s|Apa kebiasaan produktif favoritmu?
+s|Kamu lebih suka gaji besar dengan jam panjang atau gaji cukup dengan waktu luang?
+s|Apa jenis pujian di tempat kerja yang paling kamu suka?
+s|Kalau kamu bisa pensiun dini, apa yang kamu lakukan setelahnya?
+s|Apa ide usaha sampingan yang pernah terlintas di pikiranmu?
+s|Apa hal pertama yang kamu lakukan saat mendapat bonus?
+s|Apa pakaian kerja yang membuatmu merasa profesional?
+s|Kalau kamu menjadi pembicara seminar, topik apa yang kamu bawakan?
+s|Apa jenis rapat yang menurutmu paling efektif?
+s|Apa kebiasaan rekan kerja atau teman belajar yang ingin kamu tiru?
+s|Kalau kamu bisa belajar dari tokoh mana pun, siapa yang kamu pilih?
+s|Apa hal yang ingin kamu capai sebelum umur 30, 40, atau 50?
+s|Apa jenis pekerjaan yang tidak akan pernah kamu pilih?
+s|Kalau kamu menjadi pengajar, mata pelajaran apa yang kamu ajarkan?
+s|Apa hobi yang mungkin bisa menjadi penghasilan?
+s|Apa alat tulis atau gawai yang selalu menemanimu bekerja?
+s|Kamu lebih suka target jangka pendek atau jangka panjang?
+s|Apa jenis tantangan kerja yang paling kamu nikmati?
+s|Kalau kamu memenangkan penghargaan, penghargaan apa yang paling kamu inginkan?
+s|Apa playlist yang menemanimu fokus?
+s|Kalau kamu bisa magang di tempat mana saja, tempat apa?
+s|Apa hal yang kamu pelajari dari pekerjaan pertamamu?
+s|Kalau kamu menjadi kreator konten, kontenmu tentang apa?
+s|Apa pencapaian orang lain yang membuatmu terinspirasi minggu ini?
+s|Apa jenis lingkungan kerja yang membuatmu betah?
+s|Kalau kamu harus memilih bekerja di kota besar atau desa, kamu pilih mana?
+s|Apa hal yang membuatmu bangga dari bidang yang kamu tekuni?
+s|Kalau kamu membuat produk, produk apa yang dibutuhkan banyak orang?
+s|Apa hal yang ingin kamu pelajari dari orang yang lebih muda?
+s|Apa kebiasaan belajar yang paling efektif buatmu?
+s|Kalau kamu bisa memiliki satu keahlian instan, keahlian apa?
+s|Apa jenis tugas yang paling cepat kamu selesaikan?
+s|Apa jenis tugas yang paling sering kamu tunda?
+s|Kalau kamu menjadi pemimpin komunitas, komunitas apa?
+s|Apa hal yang ingin kamu tunjukkan dalam portofolio atau CV-mu?
+s|Apa acara atau konferensi yang ingin kamu hadiri?
+s|Kalau kamu bisa membuat startup, masalah apa yang ingin kamu selesaikan?
+s|Apa jenis kolaborasi yang ingin kamu coba?
+s|Apa target belajarmu minggu ini?
+s|Kalau kamu menulis surat lamaran untuk pekerjaan impian, kalimat pertamamu apa?
+s|Apa hal yang membuatmu semangat memulai minggu?
+s|Apa jenis kegagalan kerja yang lucu kalau diingat sekarang?
+s|Kalau kamu menjadi juri kompetisi, kompetisi apa yang cocok?
+s|Apa kebiasaan kecil yang membuatmu lebih rapi dalam bekerja?
+s|Apa hal yang ingin kamu pelajari dari orang tuamu soal kerja?
+s|Kalau kamu menjadi atlet, cabang olahraga apa yang cocok dengan ambisimu?
+s|Apa hal yang ingin kamu capai dalam satu tahun ke depan?
+s|Apa kebiasaan istirahat yang membuatmu lebih produktif?
+s|Kalau kamu bisa mendapat beasiswa ke mana saja, kampus mana yang kamu pilih?
+m|Apa arti sukses buatmu saat ini?
+m|Apa yang membuatmu memilih jalur karier atau studi sekarang?
+m|Apa ambisi terbesarmu yang jarang kamu ceritakan?
+m|Bagaimana kamu menghadapi rasa takut gagal saat mengejar target?
+m|Apa yang membuatmu bertahan saat pekerjaan terasa berat?
+m|Bagaimana kamu menyeimbangkan ambisi dan kesehatan?
+m|Apa kompromi yang pernah kamu buat dalam karier?
+m|Apa hal yang ingin kamu ubah dari cara kerjamu?
+m|Bagaimana kamu menanggapi saat orang lain lebih cepat sukses?
+m|Apa jenis pemimpin yang ingin kamu jadi?
+m|Apa hal yang membuatmu merasa salah tempat dalam pekerjaan?
+m|Bagaimana kamu menentukan prioritas saat semua terasa penting?
+m|Apa kegagalan karier yang paling banyak mengajarimu?
+m|Apa hal yang ingin kamu pelajari dari pesaingmu?
+m|Bagaimana kamu menghadapi kritik terhadap hasil kerjamu?
+m|Apa yang membuatmu ingin berhenti dari pekerjaan atau studi?
+m|Apa yang membuatmu ingin tetap bertahan di pekerjaan atau studi?
+m|Bagaimana kamu menjaga semangat saat hasil belum terlihat?
+m|Apa hal yang membuatmu merasa dihargai sebagai pekerja atau pelajar?
+m|Bagaimana pendapatmu tentang bekerja demi passion dibanding demi stabilitas?
+m|Apa langkah kecil yang bisa kamu ambil minggu ini untuk ambisimu?
+m|Bagaimana kamu menghadapi rasa jenuh dalam pekerjaan?
+m|Apa jenis tekanan yang membuatmu justru berkembang?
+m|Apa jenis tekanan yang membuatmu runtuh?
+m|Bagaimana kamu menilai kemajuan kariermu sejauh ini?
+m|Apa yang ingin kamu katakan kepada atasan atau dosenmu tapi belum berani?
+m|Bagaimana kamu menghadapi pekerjaan yang tidak sesuai harapan?
+m|Apa hal yang membuatmu merasa sedang membangun sesuatu yang berarti?
+m|Bagaimana kamu menjaga hubungan baik dengan rekan kerja yang sulit?
+m|Apa hal yang ingin kamu tinggalkan dari kebiasaan kerjamu tahun ini?
+m|Bagaimana kamu membagi waktu antara karier dan orang-orang tersayang?
+m|Apa yang membuatmu ragu untuk mengambil peluang besar?
+m|Bagaimana pendapatmu tentang berpindah kerja demi gaji lebih tinggi?
+m|Apa hal yang ingin kamu capai untuk membanggakan orang tua?
+m|Apa hal yang ingin kamu capai hanya untuk dirimu sendiri?
+m|Bagaimana kamu menghadapi rasa tidak percaya diri di tempat kerja atau kampus?
+m|Apa hal yang membuatmu merasa kurang berkembang akhir-akhir ini?
+m|Bagaimana kamu ingin karier dan kehidupan pribadimu terlihat lima tahun lagi?
+m|Apa yang biasanya membuatmu kehilangan fokus dari tujuanmu?
+m|Bagaimana kamu memulihkan diri setelah proyek yang melelahkan?
+d|Apa yang kamu korbankan demi ambisimu, dan apakah itu sepadan?
+d|Apa yang kamu kejar sebenarnya: uang, pengakuan, keamanan, atau makna?
+d|Skenario terburuk apa tentang pekerjaanmu yang sering muncul di kepala saat malam?
+d|Apa mimpi karier yang kamu lepaskan dan masih kamu pikirkan?
+d|Apa yang membuatmu merasa tidak cukup pintar atau mampu?
+d|Siapa yang ingin kamu buat bangga lewat pencapaianmu, dan kenapa?
+d|Apa yang membuatmu merasa harus terus membuktikan diri?
+d|Apa yang terjadi pada dirimu saat ambisi mengambil alih hidup?
+d|Apa yang ingin kamu ingat tentang dirimu saat kamu sudah sukses nanti?
+d|Kalau kariermu berhenti besok, apa yang tetap membuatmu berharga?
+d|Apa yang membuatmu takut beristirahat dari mengejar target?
+d|Apa luka dari dunia kerja atau sekolah yang masih membekas?
+d|Apa yang ingin kamu katakan kepada dirimu yang dulu ditolak berkali-kali?
+d|Apa yang membuatmu yakin jalan yang kamu pilih adalah jalanmu sendiri?
+d|Apa ambisi yang sebenarnya warisan harapan orang lain?
+d|Apa yang membuatmu merasa sukses itu sepi?
+d|Apa yang ingin kamu tinggalkan untuk dunia lewat pekerjaanmu?
+d|Kapan kamu merasa pekerjaanmu benar-benar berarti bagi seseorang?
+d|Apa yang membuatmu merasa tertinggal walau sudah berusaha keras?
+d|Apa yang ingin kamu ubah jika kamu tahu tidak akan gagal?
+d|Apa yang membuatmu merasa harus memilih antara mimpi dan keluarga?
+d|Apa yang kamu harapkan dari dirimu saat ambisi tidak lagi menyala?
+d|Apa yang membuatmu bisa berdamai dengan karier yang tidak sesuai rencana?
+d|Apa yang membuatmu bersemangat walau tidak ada yang memperhatikan kerjamu?
+d|Apa yang ingin kamu katakan kepada anak muda yang takut memulai?
+d|Apa yang membuatmu merasa layak sukses?
+d|Apa yang membuatmu merasa sudah cukup berhasil hari ini?
+d|Apa yang ingin kamu pastikan tidak hilang dari dirimu dalam perjalanan meraih ambisi?
+d|Apa yang membuatmu yakin kegagalan hari ini bukan akhir cerita?
+d|Apa definisi pencapaian yang ingin kamu ajarkan kepada generasi berikutnya?
+s|Apa jenis meja kerja yang membuatmu betah lama?
+s|Apa hal yang membuatmu bangga dari CV atau portofoliomu?
+s|Kalau kamu bisa bekerja di luar negeri setahun, negara mana yang kamu pilih?
+s|Apa jenis seminar atau pelatihan yang pernah sangat berguna buatmu?
+s|Apa tokoh fiksi yang kariernya ingin kamu miliki?
+s|Apa jenis kerja sampingan yang menurutmu seru?
+s|Apa kebiasaan pagi orang sukses yang ingin kamu coba?
+s|Kalau kamu menjadi penemu, penemuan apa yang kamu buat?
+s|Apa keterampilan lama yang ingin kamu asah lagi?
+s|Apa jenis pekerjaan yang membuatmu lupa waktu?
+s|Kalau kamu bisa memiliki asisten pribadi, tugas apa yang paling sering kamu berikan?
+s|Apa jenis klien atau pelanggan yang paling menyenangkan untuk dilayani?
+s|Apa pengalaman kerja kelompok terbaik yang pernah kamu alami?
+s|Apa jenis pekerjaan yang ingin kamu coba saat pensiun?
+s|Kalau kamu menjadi pengusaha kuliner, menu andalanmu apa?
+s|Apa alat kerja yang ingin kamu beli untuk menunjang produktivitas?
+s|Apa jenis pekerjaan yang menurutmu paling dibutuhkan di masa depan?
+s|Apa kebiasaan yang membuatmu lebih cepat belajar hal baru?
+s|Kalau kamu bisa memberi pelatihan gratis, apa yang kamu ajarkan?
+s|Apa hal yang membuatmu bangga bekerja di bidangmu?
+s|Apa jenis pekerjaan yang ingin kamu tunjukkan kepada anak-anak?
+s|Kalau kamu bisa mengubah satu hal di kantor atau kampusmu, apa itu?
+s|Apa jenis kesempatan yang langsung kamu ambil tanpa pikir panjang?
+s|Apa jenis hadiah yang ingin kamu berikan untuk dirimu setelah naik jabatan atau lulus?
+s|Kalau kamu bisa bekerja sama dengan merek terkenal, merek apa?
+s|Apa kegiatan organisasi yang paling membentuk kemampuan kerjamu?
+s|Apa jenis tugas yang membuatmu merasa ahli?
+s|Kalau kamu menjadi penulis, buku pertama yang kamu tulis tentang apa?
+s|Apa kebiasaan yang membantumu menyelesaikan tugas besar sedikit demi sedikit?
+s|Apa hal yang membuatmu ingin belajar setiap hari?
+s|Kalau kamu bisa mendapat satu nasihat dari orang paling sukses di bidangmu, apa yang ingin kamu tanyakan?
+s|Apa jenis kegiatan networking yang paling nyaman buatmu?
+s|Apa hal yang ingin kamu kuasai sebelum pindah ke tahap karier berikutnya?
+s|Kalau kamu menjadi pemilik toko buku, buku apa yang kamu pajang di depan?
+s|Apa jenis pekerjaan rumah yang ternyata melatih kemampuan kerjamu?
+s|Apa hal yang membuatmu merasa siap menghadapi wawancara?
+s|Kalau kamu bisa memulai karier dari nol di bidang lain, bidang apa?
+s|Apa kebiasaan yang ingin kamu bangun untuk menjadi lebih teratur?
+s|Apa jenis pencapaian yang ingin kamu pajang di dinding?
+s|Kalau kamu bisa mengikuti kelas master dari siapa pun, kelas siapa?
+s|Apa hal kecil yang bisa kamu tingkatkan dari pekerjaanmu minggu ini?
+s|Apa jenis kesuksesan yang ingin kamu rayakan bersama keluarga?
+m|Bagaimana kamu menentukan kapan harus bertahan dan kapan harus pindah?
+m|Apa hal yang membuatmu ragu meminta kenaikan gaji atau kesempatan?
+m|Bagaimana kamu ingin dikenal oleh rekan kerja atau teman belajarmu?
+m|Apa hal yang ingin kamu pelajari tentang mengatur keuangan dari penghasilanmu?
+m|Bagaimana kamu menanggapi kesempatan yang datang di waktu yang tidak tepat?
+m|Apa hal yang membuatmu sulit mendelegasikan tugas?
+m|Bagaimana kamu membangun kepercayaan diri sebelum presentasi penting?
+m|Apa hal yang ingin kamu ubah dari caramu menghadapi tenggat waktu?
+m|Bagaimana pendapatmu tentang bekerja di perusahaan keluarga?
+m|Apa hal yang membuatmu merasa sedang dikejar waktu dalam karier?
+m|Bagaimana kamu menanggapi rekan yang lebih muda tapi lebih sukses?
+m|Apa hal yang ingin kamu lakukan agar timmu lebih bahagia?
+m|Bagaimana kamu menjaga integritas saat ada jalan pintas yang menggoda?
+m|Apa hal yang membuatmu merasa sudah layak dipromosikan?
+m|Bagaimana kamu mencari arti dalam pekerjaan yang terasa biasa?
+m|Apa hal yang ingin kamu ketahui tentang bidang lain untuk memperluas peluang?
+m|Bagaimana kamu menghadapi masa menganggur atau masa jeda?
+m|Apa hal yang membuatmu bangga walau kariermu berjalan lambat?
+m|Bagaimana kamu memastikan ambisimu tidak merusak hubungan pribadi?
+m|Apa hal yang membuatmu memilih belajar sambil bekerja atau fokus satu hal?
+m|Bagaimana kamu memilih mentor yang tepat?
+m|Apa hal yang ingin kamu lakukan untuk membuka jalan bagi orang lain?
+m|Bagaimana kamu menghadapi perubahan teknologi yang memengaruhi pekerjaanmu?
+d|Apa yang membuatmu merasa gagal walau orang lain menganggapmu sukses?
+d|Apa yang ingin kamu lepaskan dari ambisi lamamu agar hidup lebih ringan?
+d|Apa yang membuatmu merasa harus selalu menjadi yang terbaik?
+d|Apa yang membuatmu bangga pada dirimu yang dulu hampir menyerah pada karier?
+d|Apa yang ingin kamu dengar dari atasan atau guru yang dulu meremehkanmu?
+d|Apa yang membuatmu yakin pekerjaanmu bukan satu-satunya identitasmu?
+d|Apa yang membuatmu ingin bekerja dengan hati, bukan hanya dengan tenaga?
+d|Apa yang membuatmu bertahan saat kariermu sedang di titik terendah?
+d|Apa yang ingin kamu ubah dari caramu menilai diri lewat pencapaian?
+d|Apa yang membuatmu merasa ambisimu masih sejalan dengan nilai hidupmu?
+d|Apa yang ingin kamu katakan kepada dirimu di hari pertama kamu bekerja atau kuliah?
+d|Apa yang membuatmu yakin kamu masih punya waktu untuk mewujudkan ambisi?
+s|Apa jenis kopi atau minuman yang menemanimu saat lembur?
+s|Apa hal yang membuatmu bangga dengan cara kerjamu yang unik?
+s|Kalau kamu menjadi kurator museum, pameran apa yang kamu buat?
+s|Apa jenis teman kerja yang paling kamu butuhkan di setiap tim?
+s|Apa kebiasaan yang membuatmu lebih kreatif saat bekerja?
+s|Kalau kamu bisa memilih rekan kerja dari tokoh terkenal, siapa yang kamu pilih?
+s|Apa hal yang ingin kamu pamerkan dari hasil kerjamu tahun ini?
+s|Apa jenis kegiatan belajar yang paling menyenangkan buatmu?
+s|Kalau kamu menjadi kepala sekolah, perubahan pertama apa yang kamu buat?
+s|Apa jenis pekerjaan tangan yang ingin kamu kuasai?
+s|Kalau kamu bisa mendirikan yayasan, fokusnya pada apa?
+s|Apa hal yang ingin kamu pelajari dari pekerja lapangan atau buruh?
+m|Bagaimana kamu menghadapi pekerjaan yang membosankan tapi penting?
+m|Apa hal yang membuatmu merasa diremehkan di tempat kerja?
+m|Bagaimana kamu menghargai kerja keras orang di sekitarmu?
+m|Apa hal yang ingin kamu ubah dari cara kamu menetapkan target?
+m|Bagaimana kamu menjaga semangat belajar setelah lulus?
+m|Apa hal yang membuatmu merasa pekerjaanmu tidak dihargai keluarga?
+m|Bagaimana kamu menghadapi kegagalan tim yang bukan salahmu?
+m|Apa hal yang ingin kamu pastikan saat memimpin orang lain?
+d|Apa yang membuatmu merasa pekerjaanmu adalah bentuk ibadah atau pengabdian?
+d|Apa yang ingin kamu sampaikan kepada orang yang dulu percaya pada kemampuanmu?
+d|Apa yang membuatmu merasa ambisimu sebenarnya untuk membahagiakan orang lain?
+d|Apa yang membuatmu ingin memperlambat langkah dalam mengejar karier?
+d|Apa yang membuatmu merasa tetap bernilai walau tidak punya jabatan?
+d|Apa yang ingin kamu ingat dari perjuangan kariermu saat sudah tua nanti?
+d|Apa yang membuatmu yakin keberhasilan juga bisa dicapai dengan cara yang lembut?
+d|Apa yang membuatmu ingin membantu orang lain menapaki jalan yang pernah kamu lalui?

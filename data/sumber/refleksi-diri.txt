@@ -235,7 +235,7 @@ d|Apa yang membuatmu merasa hidupmu adalah milikmu sendiri?
 s|Apa hal yang membuatmu merasa sedang dihargai di tempat kerja atau sekolah?
 s|Apa kebiasaan yang membuatmu merasa lebih percaya diri saat keluar rumah?
 s|Apa hal yang ingin kamu kurangi dari daftar tugasmu?
-s|Apa hal yang membuatmu merasa sedang menjadi teman yang baik?
+s|Kapan terakhir kali kamu menemani teman tanpa diminta?
 s|Apa kebiasaan kecil yang membuatmu merasa sedang merawat hubungan?
 s|Apa jenis musik yang menemanimu saat sedang berpikir?
 m|Apa hal yang membuatmu merasa sedang mengecewakan dirimu sendiri?

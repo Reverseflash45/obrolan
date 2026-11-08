@@ -1,0 +1,251 @@
+# Self Love — diri sendiri, semua mode, "kamu"
+s|Apa bagian dari penampilanmu yang paling kamu sukai?
+s|Apa kebiasaan merawat diri favoritmu?
+s|Apa hadiah kecil yang biasa kamu berikan untuk dirimu?
+s|Apa pakaian yang membuatmu merasa paling nyaman jadi diri sendiri?
+s|Apa kegiatan yang membuatmu merasa sedang memanjakan diri?
+s|Apa makanan yang kamu nikmati tanpa rasa bersalah?
+s|Apa lagu yang membuatmu merasa percaya diri?
+s|Apa kata pujian yang paling ingin kamu dengar setiap hari?
+s|Apa ritual mandi atau skincare yang membuatmu merasa segar?
+s|Apa hobi yang kamu lakukan hanya untuk kesenangan sendiri?
+s|Apa tempat yang membuatmu merasa tenang saat sendirian?
+s|Apa kebiasaan tidur yang membuatmu bangun lebih bahagia?
+s|Apa hal yang kamu lakukan saat ingin memanjakan diri tanpa biaya?
+s|Apa sifatmu yang paling sering dipuji orang?
+s|Apa keterampilan yang kamu banggakan dari dirimu?
+s|Apa jenis olahraga yang membuat tubuhmu terasa senang, bukan tersiksa?
+s|Apa hal yang membuatmu merasa cantik atau tampan tanpa perlu berdandan?
+s|Apa foto dirimu yang paling kamu suka dan kenapa?
+s|Apa hal kecil yang membuatmu bangga pada dirimu hari ini?
+s|Apa kebiasaan pagi yang membuatmu merasa dihargai oleh dirimu sendiri?
+s|Apa jenis kencan dengan diri sendiri yang ingin kamu coba?
+s|Apa kafe atau tempat favoritmu untuk menikmati waktu sendiri?
+s|Apa film yang kamu tonton untuk menghibur diri?
+s|Apa aroma yang membuatmu merasa sedang dirawat?
+s|Apa hal yang membuatmu tersenyum saat melihat dirimu di cermin?
+s|Apa kebiasaan yang membuat tubuhmu merasa berterima kasih?
+s|Apa minuman hangat favoritmu saat butuh kenyamanan?
+s|Apa jenis bacaan yang membuatmu merasa lebih baik?
+s|Apa hal yang kamu tulis saat ingin menyemangati diri?
+s|Apa playlist yang kamu putar saat butuh pelukan?
+s|Apa kebiasaan yang membuatmu merasa siap menghadapi dunia?
+s|Apa barang kecil yang membuat harimu lebih menyenangkan?
+s|Apa hal yang membuatmu merasa unik dari orang lain?
+s|Apa hal yang kamu sukai dari suaramu atau caramu bicara?
+s|Kebaikan kecil apa yang kamu lakukan minggu ini tanpa diketahui siapa pun?
+s|Apa tempat liburan impian yang ingin kamu datangi sendirian?
+s|Apa jenis istirahat yang paling kamu nikmati?
+s|Apa hal yang kamu lakukan saat ingin menjauh dari ponsel?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang merawat kesehatan?
+s|Apa makanan sehat yang ternyata kamu sukai?
+s|Apa hal yang kamu syukuri dari tubuhmu hari ini?
+s|Apa hal lucu tentang dirimu yang kamu sukai?
+s|Apa kebiasaan yang membuat kamarmu terasa seperti tempat aman?
+s|Apa jenis pelukan yang paling kamu butuhkan?
+s|Apa hal yang membuatmu merasa sedang menikmati hidup sepenuhnya?
+s|Apa kebiasaan sederhana yang membuatmu merasa sedang mencintai diri?
+s|Apa hal yang ingin kamu lakukan di hari ulang tahunmu khusus untuk dirimu?
+s|Apa hal yang membuatmu merasa kuat secara fisik?
+s|Permainan bocah apa yang masih diam-diam bikin kamu girang?
+s|Apa jenis tanaman atau benda hidup yang ingin kamu rawat sebagai teman?
+s|Apa kebiasaan yang membuatmu merasa lebih ringan setiap minggu?
+s|Apa jenis tulisan atau kutipan yang ingin kamu tempel di cermin?
+s|Apa kegiatan kreatif yang membuatmu merasa bebas?
+s|Apa hal yang ingin kamu ucapkan terima kasih kepada dirimu hari ini?
+s|Apa kebiasaan yang membuatmu merasa sedang menghormati waktu luangmu?
+s|Apa jenis hiburan yang membuatmu tertawa tanpa beban?
+s|Apa hal yang membuatmu merasa cukup dengan apa yang ada?
+s|Apa hal yang membuatmu merasa sedang bertumbuh dengan lembut?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang menepati janji pada diri sendiri?
+s|Apa jenis perawatan rambut atau tubuh yang paling kamu nikmati?
+s|Apa hal yang ingin kamu pelajari hanya karena kamu ingin, bukan karena harus?
+s|Apa tempat terbaik untuk menikmati matahari terbenam sendirian?
+s|Apa jenis camilan yang kamu siapkan untuk menemani waktu santai?
+s|Apa hal yang membuatmu merasa dihargai oleh dirimu sendiri?
+s|Apa hal yang kamu lakukan untuk merayakan hari biasa?
+s|Apa warna yang membuatmu merasa percaya diri saat dipakai?
+s|Apa hal yang membuatmu ingin menjaga diri lebih baik?
+s|Apa kegiatan yang membuatmu merasa terhubung dengan tubuhmu?
+s|Apa hal yang ingin kamu lakukan saat hari sedang sangat cerah?
+s|Apa hal yang ingin kamu lakukan saat hari sedang hujan dan kamu sendirian?
+s|Apa hal yang membuatmu merasa sedang menjadi teman terbaik untuk dirimu?
+s|Apa kebiasaan yang membuat hatimu tenang sebelum tidur?
+s|Apa jenis tantangan kecil yang membuatmu bangga menyelesaikannya?
+s|Apa pujian untuk dirimu yang bisa kamu ucapkan dengan lantang sekarang?
+s|Investasi kecil apa untuk dirimu yang sedang kamu jalankan pelan-pelan?
+s|Apa hal yang ingin kamu lakukan untuk dirimu akhir pekan ini?
+s|Apa hal yang membuat hari burukmu bisa kamu tutup dengan baik?
+m|Bagaimana caramu berbicara pada dirimu saat melakukan kesalahan?
+m|Apa reaksimu yang biasa saat dipuji, dan kenapa begitu?
+m|Apa batasan yang perlu kamu buat demi menjaga dirimu?
+m|Apa hal yang kamu lakukan untuk orang lain tapi lupa lakukan untuk dirimu?
+m|Bagaimana kamu menunjukkan kasih sayang kepada dirimu saat sedang sedih?
+m|Apa kebiasaan membandingkan diri yang ingin kamu hentikan?
+m|Apa yang membuatmu merasa bersalah saat memprioritaskan diri?
+m|Bagaimana kamu membedakan merawat diri dan memanjakan diri berlebihan?
+m|Apa hal yang ingin kamu katakan kepada orang yang meremehkanmu?
+m|Apa hal yang membuatmu merasa perlu terlihat sempurna?
+m|Bagaimana caramu menghibur diri setelah ditolak?
+m|Apa kebiasaan media sosial yang membuatmu merasa kurang?
+m|Apa hal yang membuatmu sulit beristirahat tanpa merasa malas?
+m|Bagaimana kamu ingin diperlakukan oleh orang-orang terdekatmu?
+m|Apa hal yang membuatmu merasa layak meminta lebih?
+m|Apa yang perlu kamu lepaskan agar bisa lebih menyayangi dirimu?
+m|Bagaimana caramu menghargai tubuhmu yang terus berubah?
+m|Apa hal yang ingin kamu ubah dari caramu memandang penampilanmu?
+m|Apa yang membuatmu sulit berkata tidak demi dirimu sendiri?
+m|Bagaimana kamu merawat dirimu saat sedang sangat sibuk?
+m|Apa hal yang membuatmu merasa harus selalu berguna bagi orang lain?
+m|Bagaimana kamu menghadapi komentar buruk tentang penampilanmu?
+m|Apa hal yang ingin kamu lakukan untuk dirimu yang selama ini kamu tunda?
+m|Apa hal yang membuatmu merasa bangga tapi kamu kecilkan di depan orang lain?
+m|Bagaimana caramu menenangkan diri setelah hari yang memalukan?
+m|Apa yang membuatmu merasa cukup tanpa validasi dari orang lain?
+m|Apa yang ingin kamu ubah dari caramu menghadapi kesalahan kecil?
+m|Bagaimana kamu merayakan kemajuan dirimu tanpa menunggu pencapaian besar?
+m|Apa hal yang ingin kamu maafkan dari dirimu minggu ini?
+m|Bagaimana kamu menjaga energi saat dikelilingi orang yang menguras tenaga?
+m|Apa hal yang ingin kamu katakan kepada dirimu setiap kali merasa tidak cukup?
+m|Bagaimana kamu ingin menyikapi kekurangan yang tidak bisa diubah?
+m|Apa hal yang membuatmu merasa terlalu keras pada tubuhmu?
+m|Bagaimana kamu bisa lebih sabar dengan proses belajarmu?
+m|Kebahagiaan kecil apa yang hari ini kamu izinkan untuk dirimu?
+m|Bagaimana kamu memperlakukan dirimu saat sedang tidak produktif?
+m|Apa hal yang membuatmu merasa sedang mengkhianati dirimu sendiri?
+m|Bagaimana kamu menjaga dirimu dari hubungan yang tidak sehat?
+m|Apa hal yang ingin kamu dengar dari orang lain tapi bisa kamu katakan sendiri?
+m|Bagaimana kamu menghadapi rasa malu tanpa membenci diri?
+d|Kapan kamu mulai merasa tidak cukup baik?
+d|Apa yang membuatmu sulit mencintai dirimu sepenuhnya?
+d|Apa luka yang membuatmu meragukan nilai dirimu?
+d|Apa yang ingin kamu katakan kepada dirimu yang dulu merasa tidak berharga?
+d|Apa yang membuatmu masih memilih untuk merawat dirimu walau sedang lelah?
+d|Sifat mana dalam dirimu yang sedang belajar kamu rangkul?
+d|Apa yang kamu butuhkan untuk merasa aman di dalam dirimu sendiri?
+d|Apa yang membuatmu merasa harus mendapatkan cinta dengan cara bekerja keras?
+d|Apa kata-kata kasar dari masa lalu yang masih kamu ucapkan pada dirimu?
+d|Apa yang membuatmu takut terlihat egois saat menjaga diri?
+d|Kapan terakhir kali kamu benar-benar bangga pada dirimu?
+d|Apa yang membuatmu merasa layak dicintai bahkan saat sedang gagal?
+d|Apa yang ingin kamu sembuhkan dari hubunganmu dengan tubuhmu?
+d|Apa yang membuatmu terus menunda kebahagiaan untuk dirimu?
+d|Apa yang membuatmu merasa perlu meminta maaf atas keberadaanmu?
+d|Apa yang ingin kamu tinggalkan dari pola menyenangkan semua orang?
+d|Apa yang membuatmu merasa utuh walau tidak dipilih orang lain?
+d|Apa yang ingin kamu katakan pada dirimu setiap pagi selama setahun?
+d|Apa yang membuatmu bisa menerima dirimu di hari-hari terburukmu?
+d|Apa yang membuatmu yakin kamu pantas mendapatkan hal baik?
+d|Apa yang membuatmu terus mencoba menjadi orang lain?
+d|Apa yang ingin kamu ubah dari caramu mencintai dirimu dibanding dulu?
+d|Apa yang membuatmu merasa sulit memeluk dirimu sendiri?
+d|Apa yang membuatmu merasa sudah cukup tanpa harus membuktikan apa pun?
+d|Apa yang ingin kamu janjikan kepada dirimu tentang cara memperlakukannya?
+d|Apa yang membuatmu merasa layak beristirahat tanpa alasan?
+d|Apa yang ingin kamu dengar dari dirimu saat semua orang pergi?
+d|Apa yang membuatmu bisa melihat dirimu dengan lebih lembut?
+d|Apa bagian hidupmu yang membuatmu ingin berterima kasih pada dirimu?
+d|Apa yang membuatmu merasa tidak perlu menjadi sempurna untuk dicintai?
+s|Apa jenis teh, kopi, atau cokelat yang menjadi teman setiamu?
+s|Apa kebiasaan yang membuat rambut, kulit, atau tubuhmu terasa dihargai?
+s|Apa jenis jalan-jalan sendirian yang paling kamu nikmati?
+s|Apa hal yang ingin kamu beli untuk dirimu sebagai hadiah tahun ini?
+s|Apa jenis piyama atau pakaian rumah yang membuatmu merasa dimanja?
+s|Apa jenis kegiatan seni yang menenangkanmu?
+s|Apa makanan buatan sendiri yang paling kamu banggakan?
+s|Apa hal yang membuatmu merasa sedang berada di versi terbaik penampilanmu?
+s|Apa kebiasaan yang membuat matamu beristirahat dari layar?
+s|Apa jenis tempat duduk favoritmu untuk bersantai?
+s|Apa jenis musik yang membuatmu ingin menari sendirian?
+s|Apa hal yang kamu lakukan untuk merayakan gajian atau uang jajan pertama setiap bulan?
+s|Apa jenis tantangan olahraga ringan yang ingin kamu coba?
+s|Apa kebiasaan yang membuatmu lebih dekat dengan sinar matahari?
+s|Apa jenis catatan atau jurnal yang membuatmu merasa lega?
+s|Apa jenis aksesori yang membuatmu merasa menjadi diri sendiri?
+s|Apa kebiasaan merapikan kamar yang membuat hatimu ikut rapi?
+s|Apa jenis permainan yang kamu mainkan untuk mengistirahatkan pikiran?
+s|Apa hal yang membuatmu merasa sedang menghargai waktu tidurmu?
+s|Apa jenis pemandangan yang ingin kamu lihat setiap pagi?
+s|Apa kebiasaan yang membuatmu merasa ringan setelah bangun tidur?
+s|Apa hal yang membuatmu bangga dari perjalanan belajarmu?
+s|Apa jenis kegiatan alam yang membuatmu merasa segar?
+s|Apa hal yang ingin kamu lakukan untuk merayakan tubuhmu yang sehat?
+s|Apa kebiasaan kecil yang membuatmu merasa lebih percaya diri saat bertemu orang baru?
+s|Apa jenis kata sayang yang ingin kamu ucapkan untuk dirimu?
+s|Apa jenis kegiatan sukarela yang membuatmu merasa berarti?
+s|Apa hal yang membuatmu merasa sedang menikmati masa sekarang tanpa terburu-buru?
+s|Apa kebiasaan yang membuat sore harimu terasa menyenangkan?
+s|Apa hal yang ingin kamu ubah dari kamarmu agar lebih mencerminkan dirimu?
+s|Apa jenis hadiah yang ingin kamu terima dari dirimu saat berhasil?
+s|Apa kebiasaan yang membuatmu merasa sedang berbaik hati pada dirimu?
+s|Apa jenis tontonan yang membuatmu merasa ditemani?
+s|Apa hal yang membuatmu merasa kuat secara mental minggu ini?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang memprioritaskan kesehatan?
+s|Apa jenis kegiatan yang membuatmu merasa ringan dan tidak dinilai?
+s|Apa hal kecil yang ingin kamu rayakan dari dirimu malam ini?
+s|Apa jenis kalimat penyemangat yang paling cocok untukmu?
+s|Apa kebiasaan yang membuatmu merasa sedang mendengarkan tubuhmu?
+s|Apa hal yang ingin kamu lakukan agar hari Senin terasa lebih ramah?
+s|Apa jenis tempat yang membuatmu merasa diterima tanpa harus berpura-pura?
+s|Apa kebiasaan yang membuatmu merasa sedang menabung kebahagiaan?
+s|Apa jenis kegiatan pagi yang membuatmu merasa siap menyayangi diri?
+s|Apa hal yang membuatmu merasa sedang tumbuh dengan caramu sendiri?
+s|Apa kebiasaan yang membuatmu bisa tertawa pada kesalahan kecil?
+m|Bagaimana kamu menghadapi standar kecantikan atau ketampanan di media sosial?
+m|Apa hal yang ingin kamu ubah dari caramu berbelanja untuk menyenangkan diri?
+m|Bagaimana kamu ingin menyikapi bagian tubuh yang dulu kamu benci?
+m|Apa hal yang membuatmu merasa terlalu sering mengalah?
+m|Bagaimana kamu menjaga dirimu dari rasa iri yang melelahkan?
+m|Apa hal yang ingin kamu katakan kepada orang yang pernah mengomentari tubuhmu?
+m|Bagaimana kamu menunjukkan bahwa kamu menghargai waktumu sendiri?
+m|Apa hal yang membuatmu merasa tidak enakan berlebihan?
+m|Bagaimana kamu belajar menerima bantuan dari orang lain?
+m|Apa hal yang membuatmu merasa sedang memperlakukan diri dengan adil?
+m|Bagaimana kamu ingin menyikapi kegagalan tanpa menghukum diri?
+m|Apa hal yang membuatmu ingin menjadi lebih lembut pada dirimu?
+m|Bagaimana kamu menghargai dirimu saat tidak ada yang memuji?
+m|Apa hal yang membuatmu merasa sedang menjaga batas dengan baik?
+m|Bagaimana kamu menyeimbangkan merawat orang lain dan merawat diri?
+m|Apa hal yang ingin kamu ubah dari caramu menanggapi kesalahan orang lain terhadapmu?
+m|Bagaimana kamu menghadapi perasaan tidak menarik di hari tertentu?
+m|Apa hal yang membuatmu merasa perlu meminta izin untuk bahagia?
+m|Bagaimana kamu ingin merayakan dirimu saat ulang tahun nanti?
+m|Apa hal yang ingin kamu pelajari tentang mencintai diri dari orang yang kamu kagumi?
+d|Siapa dirimu kalau suatu hari kamu tidak bisa menolong siapa pun?
+d|Apa yang ingin kamu katakan pada tubuhmu setelah semua yang dia lewati?
+d|Apa yang membuatmu sulit menunjukkan sisi rapuhmu pada dirimu sendiri?
+d|Apa yang membuatmu yakin kamu tetap berharga walau gagal berkali-kali?
+d|Apa yang ingin kamu sembuhkan dari cara orang tuamu memandangmu dulu?
+d|Apa yang membuatmu merasa pantas menerima kasih sayang tanpa membalas apa pun?
+d|Apa yang membuatmu takut melihat dirimu dengan jujur?
+d|Apa yang ingin kamu katakan pada dirimu yang dulu menyembunyikan diri?
+d|Apa yang membuatmu bisa tersenyum pada bekas luka hidupmu?
+d|Apa yang membuatmu merasa sudah pulang ke dalam dirimu sendiri?
+s|Apa kebiasaan kecil yang membuat kamar mandimu terasa seperti spa?
+s|Apa jenis makanan yang kamu masak khusus untuk menghibur diri?
+s|Apa jenis tanaman yang membuatmu senang merawatnya?
+s|Apa hal yang membuatmu merasa lucu dan menggemaskan pada dirimu?
+s|Apa jenis perjalanan singkat yang membuatmu merasa segar kembali?
+s|Apa kebiasaan yang membuatmu merasa berterima kasih pada hari ini?
+s|Apa jenis buku yang kamu baca untuk menyenangkan diri?
+s|Apa hal yang ingin kamu coba agar lebih menikmati waktu sendiri?
+s|Apa jenis aktivitas yang membuatmu merasa sedang bermain lagi seperti anak kecil?
+s|Apa jenis lilin, minyak, atau wewangian yang menenangkanmu?
+s|Apa hal yang membuatmu merasa layak berdandan walau tidak ke mana-mana?
+s|Apa kebiasaan yang membuatmu merasa lebih dekat dengan dirimu sendiri?
+m|Bagaimana kamu menyikapi rasa malas tanpa menghakimi dirimu?
+m|Apa hal yang membuatmu merasa sedang menjadi pendukung terbaik untuk dirimu?
+m|Bagaimana kamu menghadapi hari ketika merasa tidak disukai siapa pun?
+m|Apa hal yang ingin kamu pelajari tentang menerima tubuh yang menua?
+m|Bagaimana kamu menjaga dirimu saat sedang patah hati?
+m|Apa hal yang membuatmu merasa sedang menghormati perasaanmu sendiri?
+m|Bagaimana kamu memberi ruang untuk sedih tanpa tenggelam di dalamnya?
+m|Apa hal yang membuatmu merasa perlu mengurangi waktu bersama orang tertentu?
+d|Apa yang membuatmu yakin kamu adalah rumah yang layak untuk dirimu sendiri?
+d|Apa yang membuatmu ingin mengucapkan maaf pada dirimu atas semua tuntutan selama ini?
+d|Apa yang membuatmu merasa cukup kuat untuk mencintai dirimu apa adanya?
+d|Apa yang ingin kamu tulis di surat cinta untuk dirimu sendiri?
+d|Apa yang membuatmu merasa sudah layak bahagia tanpa menunggu syarat apa pun?
+d|Apa yang membuatmu ingin terus menjaga dirimu meski tidak ada yang melihat?
+d|Apa yang ingin kamu katakan pada dirimu di usia tua tentang caramu merawatnya hari ini?
+d|Apa satu hal yang ingin kamu berhenti lakukan karena menyakiti dirimu?
