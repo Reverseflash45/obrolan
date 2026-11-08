@@ -57,7 +57,7 @@ obrolan/
 ```bash
 npm install
 npm run dev        # http://localhost:5173
-npm run build      # susun + validasi data, cek tipe, build ke dist/
+npm run build      # susun + validasi data, cek tipe, build ke dist/, prerender beranda
 npm run preview    # coba hasil build (termasuk service worker)
 ```
 
