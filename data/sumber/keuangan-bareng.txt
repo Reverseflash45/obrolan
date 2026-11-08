@@ -1,0 +1,252 @@
+# Keuangan Bareng — pasangan, aku/kamu
+s|Apa barang termahal yang pernah kamu beli untuk dirimu sendiri?
+s|Kamu tipe yang suka bayar tunai atau semua serba digital?
+s|Apa jajanan murah yang selalu bikin kamu bahagia?
+s|Kalau dapat uang kaget satu juta, mau kamu pakai buat apa?
+s|Apa langganan bulanan yang paling tidak bisa kamu lepaskan?
+s|Kamu lebih suka belanja saat diskon atau kapan pun butuh?
+s|Apa barang yang selalu kamu beli walau sedang hemat?
+s|Apa aplikasi keuangan yang kamu pakai sekarang?
+s|Kamu tipe yang suka menawar atau malu menawar?
+s|Apa hadiah paling hemat tapi berkesan yang pernah kamu berikan?
+s|Kalau kita punya celengan bareng, celengannya bentuk apa?
+s|Apa pembelian impulsif paling lucu yang pernah kamu lakukan?
+s|Kamu lebih suka makan di luar atau masak di rumah untuk berhemat?
+s|Apa barang bekas yang pernah kamu beli dan ternyata bagus?
+s|Kamu suka mengecek saldo setiap hari atau jarang sekali?
+s|Apa diskon terbaik yang pernah kamu dapatkan?
+s|Kamu lebih suka beli barang bermerek atau yang penting fungsinya?
+s|Apa uang pertama yang kamu hasilkan dan dari mana?
+s|Kalau kita bikin tantangan hemat sebulan, aturannya apa?
+s|Apa barang yang pernah kamu sesali karena dibeli?
+s|Kamu tipe yang suka menyimpan uang di dompet atau di rekening saja?
+s|Apa liburan murah yang menurutmu tetap seru?
+s|Apa trik hemat yang paling kamu banggakan?
+s|Kamu suka ikut promo cashback atau malas ribet?
+s|Apa barang yang menurutmu layak dibeli mahal?
+s|Barang apa yang menurutmu cuma buang-buang uang kalau beli versi mahal?
+s|Kamu lebih sering jajan kopi atau jajan makanan?
+s|Kalau kita jualan sesuatu bareng, kita jual apa?
+s|Apa keranjang belanja online yang paling lama kamu biarkan?
+s|Kamu tipe yang suka mencatat pengeluaran atau mengandalkan feeling?
+s|Apa hadiah ulang tahun yang menurutmu terlalu mahal untuk dibeli?
+s|Kalau dapat bonus besar, berapa persen yang mau kamu tabung?
+s|Apa pengeluaran kecil yang ternyata menumpuk banyak tiap bulan?
+s|Kamu lebih suka beli baju sering atau jarang tapi bagus?
+s|Apa cara paling seru buat merayakan gajian?
+s|Kamu suka arisan atau tidak?
+s|Apa jasa yang menurutmu layak dibayar demi menghemat waktu?
+s|Kamu lebih suka transportasi umum atau kendaraan pribadi demi hemat?
+s|Apa hobi yang paling menguras dompetmu?
+s|Apa hobi murah yang ingin kita coba bareng?
+s|Kamu suka membandingkan harga di banyak toko sebelum membeli?
+s|Apa barang yang kamu beli karena racun media sosial?
+s|Kalau kita menang undian, apa hal pertama yang kita bayar?
+s|Kamu suka meminjamkan barang ke teman atau tidak?
+s|Apa kebiasaan belanja keluargamu yang terbawa sampai sekarang?
+s|Apa pengeluaran yang paling bikin kamu bahagia bulan ini?
+s|Kamu lebih suka hadiah berupa uang atau barang?
+s|Apa tempat makan enak dan murah favoritmu?
+s|Kalau kita bikin anggaran kencan bulanan, berapa yang masuk akal?
+s|Apa barang yang kamu pakai sampai benar-benar rusak?
+s|Kamu suka belanja bulanan ke pasar atau ke supermarket?
+s|Apa strategi kamu supaya tidak boros saat tanggal tua?
+s|Apa menu tanggal tua andalanmu?
+s|Kamu suka berbagi tagihan sama rata dengan teman atau sesuai pesanan?
+s|Apa barang mewah kecil yang kamu izinkan untuk dirimu sesekali?
+s|Kalau kita bisa memotong satu pengeluaran bersama, pengeluaran apa?
+s|Apa kebiasaanku soal uang yang menurutmu lucu?
+s|Kamu suka investasi atau masih sebatas menabung?
+s|Apa pelajaran soal uang dari film atau buku yang kamu suka?
+s|Kamu lebih suka membeli pengalaman atau barang?
+s|Apa barang di rumah yang paling sering kamu beli ulang?
+s|Kalau kita buka rekening bersama, namanya apa?
+s|Kemewahan sederhana apa yang membuat harimu terasa berlimpah?
+s|Kamu tipe yang suka membayar tagihan tepat waktu atau mepet?
+s|Apa langganan yang sebenarnya jarang kamu pakai?
+s|Kalau kita bikin tantangan menabung receh, kapan kita buka celengannya?
+s|Apa barang yang ingin kamu beli tahun ini?
+s|Kamu suka belanja sendirian atau ditemani?
+s|Apa yang kamu lakukan pertama kali saat menerima gaji?
+s|Apa jenis kencan gratis favoritmu?
+s|Kamu suka menyimpan struk belanja atau langsung buang?
+s|Apa hadiah kecil yang bisa kita berikan satu sama lain tanpa keluar uang?
+s|Apa pengeluaran yang menurutmu wajar untuk dirahasiakan?
+s|Kamu lebih suka menyewa atau membeli barang yang jarang dipakai?
+s|Apa jenis tabungan yang paling kamu percaya?
+s|Kamu lebih suka bayar sekaligus atau cicilan?
+s|Apa barang elektronik yang paling ingin kamu ganti?
+s|Apa hal paling hemat yang pernah kita lakukan bareng?
+s|Kamu suka bawa bekal ke sekolah, kampus, atau kantor?
+s|Apa pengeluaran yang ingin kamu kurangi bulan depan?
+s|Kalau bisa membayar seseorang untuk satu pekerjaan rumah, pekerjaan apa itu?
+s|Apa tempat liburan impian yang harus kita tabung dari sekarang?
+s|Kamu suka membeli barang untuk orang lain lebih sering dari untuk diri sendiri?
+s|Apa pengeluaran yang paling sering kamu lupakan?
+s|Apa barang yang kamu beli dengan menabung lama dan rasanya puas sekali?
+s|Kamu suka membeli tiket konser atau acara jauh-jauh hari?
+m|Bagaimana orang tuamu mengatur uang, dan apa yang kamu pelajari dari mereka?
+m|Apa arti hidup berkecukupan menurutmu?
+m|Bagaimana kamu ingin kita membagi biaya kencan?
+m|Bagaimana pendapatmu soal rekening bersama dan rekening pribadi?
+m|Apa tujuan keuangan pribadimu lima tahun ke depan?
+m|Berapa persen penghasilan yang menurutmu ideal untuk ditabung?
+m|Apa jenis utang yang menurutmu masih wajar?
+m|Apa jenis utang yang menurutmu harus dihindari?
+m|Bagaimana pendapatmu soal paylater dan cicilan online?
+m|Apa yang membuatmu cemas soal uang saat ini?
+m|Bagaimana kita sebaiknya membicarakan pembelian besar sebelum membeli?
+m|Berapa batas pengeluaran yang perlu didiskusikan dulu menurutmu?
+m|Bagaimana pendapatmu soal memberi uang bulanan ke orang tua?
+m|Bagaimana kita membagi biaya hidup kalau penghasilan kita berbeda jauh?
+m|Apa pendapatmu soal dana darurat, berapa yang ideal?
+m|Apa pengeluaran yang menurutmu termasuk kebutuhan, tapi menurut orang lain keinginan?
+m|Apa kebiasaan belanja burukmu yang ingin kamu ubah?
+m|Bagaimana perasaanmu saat aku membeli sesuatu yang mahal untuk diriku sendiri?
+m|Apa pendapatmu soal membantu keuangan saudara atau teman?
+m|Bagaimana kita menentukan siapa yang mengurus tagihan rumah?
+m|Apa yang membuatmu merasa aman secara finansial?
+m|Bagaimana pendapatmu tentang asuransi kesehatan dan jiwa?
+m|Bagaimana kita akan menabung untuk rumah atau tempat tinggal?
+m|Apa investasi yang ingin kamu pelajari?
+m|Apa yang membuatmu ragu untuk berinvestasi?
+m|Bagaimana kamu ingin kita merencanakan biaya pernikahan, kalau nanti ada?
+m|Bagaimana pendapatmu soal pesta besar dibanding tabungan untuk masa depan?
+m|Apa yang ingin kamu sepakati soal hadiah untuk keluarga besar?
+m|Bagaimana kita akan merencanakan dana pendidikan anak kalau punya anak?
+m|Apa yang biasanya membuatmu belanja untuk menghibur diri?
+m|Bagaimana pendapatmu tentang pasangan yang saling tahu gaji?
+m|Bagaimana pendapatmu tentang pasangan yang saling tahu kata sandi rekening?
+m|Apa pengeluaran pribadi yang ingin tetap kamu kelola sendiri?
+m|Bagaimana kita sebaiknya merayakan saat salah satu dari kita naik gaji?
+m|Bagaimana kita menghadapi saat salah satu dari kita kehilangan penghasilan?
+m|Apa pendapatmu soal tinggal di rumah mertua untuk menghemat biaya?
+m|Apa yang perlu kita siapkan sebelum memutuskan menikah dari sisi keuangan?
+m|Bagaimana kita sebaiknya mengatur uang hadiah atau angpau?
+m|Bagaimana pendapatmu soal sedekah atau donasi rutin?
+m|Apa barang yang menurutmu perlu dibeli berkualitas walau mahal?
+m|Bagaimana kamu ingin kita menabung untuk liburan tahunan?
+m|Apa yang membuatmu merasa bersalah saat menghabiskan uang?
+m|Bagaimana pendapatmu tentang meminjam uang kepada keluarga?
+m|Apa pendapatmu tentang membeli rumah dengan KPR?
+m|Bagaimana kita akan memutuskan membeli kendaraan atau tidak?
+m|Apa kebiasaan keuanganku yang membuatmu kagum?
+m|Apa kebiasaan keuanganku yang membuatmu khawatir?
+m|Bagaimana kita bisa saling mengingatkan soal pengeluaran tanpa menyinggung?
+m|Apa target menabung bersama yang realistis untuk tahun ini?
+m|Bagaimana kamu ingin kita membicarakan keuangan, rutin atau saat perlu saja?
+m|Apa yang membuatmu malu membicarakan uang?
+m|Bagaimana pendapatmu tentang bekerja sampingan demi tujuan bersama?
+m|Bagaimana pendapatmu soal salah satu dari kita tidak bekerja demi mengurus rumah?
+m|Apa yang ingin kamu ketahui tentang kondisi keuanganku tapi sungkan bertanya?
+m|Bagaimana kita akan menyikapi gaya hidup teman-teman yang lebih mewah?
+m|Apa pengeluaran yang menurutmu boleh dilakukan tanpa izin pasangan?
+m|Bagaimana kita sebaiknya mencatat pengeluaran bersama?
+m|Apa yang ingin kamu ubah dari caramu menabung sekarang?
+m|Bagaimana pendapatmu soal membeli barang mahal secara patungan?
+m|Bagaimana kamu ingin kita menghadapi tekanan sosial untuk pamer harta?
+m|Apa tujuan keuangan yang ingin kita capai sebelum punya anak?
+m|Bagaimana kita akan menyiapkan dana pensiun?
+m|Apa jenis usaha yang ingin kamu bangun suatu hari nanti?
+m|Bagaimana pendapatmu soal mengambil risiko besar demi usaha impian?
+m|Apa yang membuatmu merasa uang sudah mengatur hidupmu?
+d|Apa ketakutan terbesarmu tentang uang?
+d|Apa pengalaman masa kecil tentang uang yang masih memengaruhimu?
+d|Pernahkah kamu merasa minder karena kondisi keuangan keluargamu?
+d|Apa yang membuatmu merasa tidak berharga saat sedang tidak punya uang?
+d|Apa rahasia keuangan yang belum pernah kamu ceritakan padaku?
+d|Apa utang atau kewajiban yang membuatmu kepikiran sampai sekarang?
+d|Bagaimana perasaanmu kalau suatu hari aku menghasilkan jauh lebih banyak darimu?
+d|Bagaimana perasaanmu kalau suatu hari kamu harus menanggung hidupku sementara?
+d|Apa arti uang bagimu, keamanan, kebebasan, atau harga diri?
+d|Apa yang membuatmu sulit jujur tentang pengeluaranmu?
+d|Pernahkah uang membuatmu merasa tidak dicintai?
+d|Apa yang kamu harapkan dariku saat keuangan kita sedang sangat sulit?
+d|Bagaimana kamu ingin kita bertanggung jawab pada keluarga besar tanpa mengorbankan rumah tangga sendiri?
+d|Apa yang membuatmu takut berbagi keuangan sepenuhnya denganku?
+d|Apa batas yang tidak boleh dilanggar soal uang dalam hubungan kita?
+d|Apa yang akan kamu lakukan kalau aku diam-diam punya utang?
+d|Apa yang membuatmu merasa cukup, walau tidak kaya?
+d|Apa mimpi yang tertunda karena alasan uang?
+d|Apa yang ingin kamu berikan kepada orang tuamu sebelum terlambat?
+d|Apa yang kamu rasakan saat melihat orang tuamu kesulitan uang dulu?
+d|Bagaimana uang pernah merusak hubungan di sekitarmu, dan apa yang kamu pelajari?
+d|Apa yang membuatmu merasa uang tidak boleh menjadi alasan kita bertengkar?
+d|Bagaimana kamu ingin kita menghadapi kebangkrutan, kalau itu terjadi?
+d|Apa yang kamu sesali dari keputusan keuanganmu di masa lalu?
+d|Apa yang ingin kamu katakan kepada dirimu yang dulu soal uang?
+d|Bagaimana kamu ingin anak kita nanti memandang uang?
+d|Apa yang membuatmu merasa harus selalu terlihat mampu?
+d|Apa yang membuatmu merasa lega soal keuangan kita sejauh ini?
+d|Pernahkah kamu merasa aku menilai dirimu dari penghasilanmu?
+d|Apa yang membuatmu merasa diperlakukan tidak adil soal uang dalam keluarga?
+d|Apa yang membuatmu takut kehilangan kebebasan finansial jika menikah?
+d|Bagaimana kamu ingin kita saling menjaga harga diri saat salah satu sedang tidak berpenghasilan?
+d|Apa nilai hidup yang tidak ingin kamu tukar dengan uang berapa pun?
+d|Apa yang akan kamu lakukan kalau keluargamu meminta bantuan uang dalam jumlah besar?
+d|Apa yang membuatmu merasa kaya selain dari uang?
+d|Apa yang membuatmu yakin kita bisa melewati masa sulit finansial bersama?
+d|Bagaimana kamu ingin kita memutuskan warisan atau harta bersama suatu hari nanti?
+d|Apa yang kamu takutkan dari pembicaraan soal perjanjian pranikah?
+d|Apa yang ingin kamu ubah dari hubunganmu dengan uang?
+d|Apa yang membuatmu merasa gagal secara finansial?
+d|Apa yang membuatmu bangga dengan perjalanan keuanganmu sejauh ini?
+d|Bagaimana perasaanmu saat membandingkan kondisi keuanganmu dengan teman sebaya?
+d|Apa yang membuatmu ingin bekerja keras, selain uang?
+d|Apa yang paling kamu harapkan dariku soal kejujuran keuangan?
+d|Bagaimana kita menjaga agar uang tidak menjadi alat untuk saling mengendalikan?
+d|Apa yang kamu butuhkan agar merasa aman untuk membicarakan uang denganku?
+d|Kalau kita hanya punya sedikit, apa yang tetap ingin kita prioritaskan?
+d|Apa yang membuatmu merasa terbebani menjadi tulang punggung keluarga, kalau kamu mengalaminya?
+d|Apa pengorbanan finansial terbesar yang pernah kamu lakukan untuk orang lain?
+d|Apa yang membuatmu yakin kita punya nilai yang sama soal uang?
+d|Apa yang membuatmu khawatir kita punya nilai yang berbeda soal uang?
+d|Bagaimana rasanya membayangkan hidup sederhana bersamaku selamanya?
+d|Apa yang membuatmu merasa berhak menikmati hasil kerjamu tanpa rasa bersalah?
+d|Bagaimana kamu ingin kita merawat orang tua di masa tua mereka tanpa saling menyalahkan?
+d|Apa yang membuatmu takut meminta bantuan keuangan padaku?
+d|Apa satu kesepakatan uang yang ingin kita pegang seumur hidup?
+d|Apa yang kamu harapkan dari kita saat salah satu sakit dan biaya membengkak?
+d|Apa yang membuatmu yakin bahwa cinta kita lebih kuat dari tekanan ekonomi?
+d|Bagaimana kamu ingin kita merayakan saat akhirnya bebas dari utang?
+d|Apa yang membuatmu merasa sudah berhasil, walau angka di rekening tidak besar?
+d|Apa yang ingin kamu wariskan selain harta?
+d|Apa yang membuatmu iri secara finansial dan bagaimana kamu menghadapinya?
+d|Apa yang kamu harapkan dari dirimu sebagai pengelola uang dalam keluarga kita nanti?
+d|Apa yang membuatmu yakin aku tidak bersamamu karena uang?
+s|Apa nama toko langganan yang selalu kasih kamu harga baik?
+s|Kamu tim beli kopi sachet atau kopi kekinian?
+s|Apa jenis hadiah tukar kado yang paling kamu suka?
+s|Kalau kita bikin pasar loak di rumah, barang apa yang pertama dijual?
+s|Apa kebiasaan hemat orang tuamu yang menurutmu lucu?
+s|Kamu lebih suka nabung buat gawai baru atau buat jalan-jalan?
+s|Apa barang yang kamu beli patungan dengan teman dan masih kamu ingat?
+s|Kalau kita punya uang lebih seratus ribu tiap minggu, mau dipakai untuk apa?
+s|Apa fitur bank atau dompet digital favoritmu?
+s|Apa makanan yang menurutmu lebih hemat dibuat sendiri?
+m|Bagaimana kita sebaiknya mengatur pengeluaran saat hari raya?
+m|Apa yang perlu kita pertimbangkan sebelum meminjamkan uang ke teman dekat?
+m|Bagaimana pendapatmu tentang memberi uang jajan ke adik atau keponakan?
+m|Apa jenis pengeluaran yang sebaiknya kita bahas setiap bulan?
+m|Bagaimana pendapatmu soal membeli rumah kecil dulu atau menunggu yang ideal?
+m|Apa yang ingin kamu pelajari dari cara orang lain mengatur keuangan keluarga?
+m|Bagaimana kita sebaiknya memilih antara kerja di kota besar dengan gaji tinggi atau kota kecil yang tenang?
+m|Apa yang membuatmu merasa layak membeli sesuatu untuk menghadiahi diri sendiri?
+m|Bagaimana kamu ingin kita membagi biaya saat liburan bersama teman?
+m|Apa kebiasaan kecil yang bisa kita lakukan untuk menabung tanpa terasa?
+d|Apa yang kamu harap orang tuamu lakukan berbeda soal uang saat kamu kecil?
+d|Apa yang membuatmu merasa uang adalah topik yang menakutkan untuk dibicarakan?
+d|Apa yang kamu rasakan ketika harus menolak permintaan uang dari orang terdekat?
+d|Bagaimana kamu ingin kita membicarakan uang tanpa merasa dihakimi?
+d|Apa yang membuatmu merasa uang bisa membeli ketenangan, dan apa yang tidak bisa dibelinya?
+d|Apa yang ingin kamu ubah dari cara keluargamu membicarakan uang di rumah kita nanti?
+d|Apa yang membuatmu merasa cukup berani untuk bermimpi besar walau keuangan terbatas?
+d|Apa yang ingin kamu dengar dariku saat kamu merasa gagal mengelola uang?
+d|Apa pengalaman tentang uang yang membuatmu lebih menghargai hal-hal sederhana?
+d|Bagaimana kamu ingin kita bersyukur atas rezeki, besar atau kecil?
+s|Apa hal yang paling sering kamu beli di minimarket dekat rumah?
+s|Kamu tipe yang suka mengumpulkan poin belanja atau tidak peduli?
+s|Apa barang yang kamu beli karena kemasannya lucu?
+m|Bagaimana kita sebaiknya menanggapi teman yang sering meminjam uang tanpa mengembalikan?
+m|Apa pengeluaran tahunan yang perlu kita siapkan dari jauh hari?
+d|Apa yang membuatmu merasa damai soal uang walau masa depan tidak pasti?

@@ -1,0 +1,253 @@
+# Bahasa Cinta — pasangan, aku/kamu
+s|Kamu lebih senang dipeluk, dipuji, atau dibantu?
+s|Apa kata manis yang paling ingin kamu dengar setiap pagi?
+s|Hadiah kecil apa yang paling bikin kamu senang?
+s|Apa bentuk perhatian paling sederhana yang langsung bikin kamu meleleh?
+s|Kamu lebih suka kencan seharian atau pesan manis setiap jam?
+s|Apa panggilan sayang favoritmu dariku?
+s|Apa hal yang aku lakukan yang langsung bikin kamu merasa disayang?
+s|Kamu suka diberi kejutan di depan orang banyak atau berdua saja?
+s|Apa jenis sentuhan kecil yang paling kamu suka, misalnya gandeng tangan atau usap kepala?
+s|Apa makanan yang kalau aku bawakan langsung bikin kamu bahagia?
+s|Kamu lebih suka surat tulisan tangan atau pesan suara?
+s|Apa pujian dariku yang paling kamu ingat?
+s|Kamu lebih senang aku bantu pekerjaan rumah atau aku temani ngobrol?
+s|Apa lagu yang ingin kamu dengar aku nyanyikan?
+s|Apa hal kecil yang bisa aku lakukan setiap hari untukmu?
+s|Kamu suka dikirimi meme lucu atau kata-kata romantis?
+s|Apa kegiatan berdua yang membuatmu merasa paling dekat denganku?
+s|Kamu lebih suka bunga asli atau bunga buatan yang awet?
+s|Apa aroma dariku yang paling kamu suka?
+s|Kamu suka kalau aku memperhatikan detail kecil penampilanmu?
+s|Apa hadiah termurah yang paling berkesan untukmu?
+s|Apa cara aku menyapa yang paling kamu suka?
+s|Kamu lebih senang ditraktir makan atau dimasakkan?
+s|Apa kebiasaan kecilku yang membuatmu merasa diperhatikan?
+s|Kamu suka kalau aku pamer tentang kamu ke teman-temanku?
+s|Apa jenis kejutan yang justru bikin kamu tidak nyaman?
+s|Kamu suka kalau aku tiba-tiba datang tanpa memberi tahu?
+s|Apa hal kecil yang bisa membuat hari burukmu lebih ringan?
+s|Kamu lebih suka foto berdua atau video kenangan?
+s|Apa kata yang langsung membuatmu tersipu?
+s|Kamu lebih suka diajak jalan-jalan atau diajak rebahan bareng?
+s|Apa cara aku mengucapkan selamat tidur yang paling kamu suka?
+s|Kamu suka kalau aku menuliskan catatan kecil di barang-barangmu?
+s|Apa hadiah ulang tahun impianmu dariku?
+s|Kamu lebih suka dirayakan meriah atau sederhana saat ulang tahun?
+s|Apa playlist yang ingin kamu dapat dariku?
+s|Kamu suka dipijat atau diusap punggungnya saat lelah?
+s|Apa hal yang ingin kamu dengar dariku saat kamu sedang gugup?
+s|Kamu lebih suka aku memuji usahamu atau hasilmu?
+s|Apa kebiasaan kita yang terasa seperti bahasa cinta rahasia?
+s|Kamu suka kalau aku mengingat hal-hal kecil yang pernah kamu ceritakan?
+s|Apa makanan buatanku yang ingin kamu makan lagi?
+s|Kamu lebih suka aku jemput atau kita bertemu di tempat?
+s|Apa hal romantis dari film yang ingin kamu coba bersamaku?
+s|Kamu lebih suka mendapat pesan panjang sesekali atau pesan pendek sering-sering?
+s|Apa jenis waktu berkualitas yang paling kamu nikmati?
+s|Kamu lebih suka kita ngobrol sambil jalan atau sambil makan?
+s|Apa barang dariku yang selalu kamu bawa?
+s|Kamu suka kalau aku membantumu memilih baju?
+s|Apa hal yang ingin kamu lakukan bersamaku tanpa ponsel?
+s|Kamu suka dibangunkan dengan cara apa?
+s|Apa cara paling lucu aku menunjukkan sayang?
+s|Kamu lebih suka aku mengingat tanggal penting atau momen kecil?
+s|Apa jenis perhatian yang kamu suka saat sedang sakit?
+s|Kamu lebih suka dibelikan barang yang kamu mau atau kejutan yang tidak kamu duga?
+s|Apa hal kecil yang kamu lakukan untuk menunjukkan sayang padaku?
+s|Kamu suka kalau aku menyiapkan minuman favoritmu tanpa diminta?
+s|Apa hal yang kamu harap aku lakukan lebih sering?
+s|Kamu lebih suka kencan yang direncanakan atau yang spontan?
+s|Apa pujian yang menurutmu terdengar paling tulus?
+s|Kamu suka kalau aku menggenggam tanganmu di tempat umum?
+s|Apa jenis pelukan favoritmu?
+s|Kamu lebih senang aku dengarkan atau aku beri solusi?
+s|Apa hal yang membuatmu merasa aku bangga padamu?
+s|Kamu suka kalau aku ikut menemanimu mengerjakan tugas atau kerjaan?
+s|Apa kebiasaan pagi yang ingin kamu lakukan berdua?
+s|Kamu suka kalau aku mengirim lagu yang mengingatkanku padamu?
+s|Apa hal yang kamu rasakan saat aku memperkenalkanmu ke orang lain?
+s|Kamu lebih suka hadiah buatan tangan atau hadiah yang dibeli?
+s|Apa makanan atau minuman yang menurutmu melambangkan kita?
+s|Kamu suka kalau aku memotretmu diam-diam?
+s|Apa hal yang ingin kamu dengar dariku setelah kamu selesai bekerja keras?
+s|Kamu lebih suka aku mengungkapkan sayang dengan kata atau tindakan?
+s|Apa hal kecil yang membuatmu merasa diprioritaskan?
+s|Kamu suka kalau aku mengurus hal administrasi yang merepotkanmu?
+s|Apa ritual kecil kita yang paling ingin kamu jaga?
+s|Kamu suka duduk berdempetan atau duduk berhadapan saat ngobrol?
+s|Apa hal yang ingin kamu dengar dariku sebelum kamu tidur?
+s|Kamu lebih suka aku ingat makanan favoritmu atau lagu favoritmu?
+s|Apa jenis kencan murah yang tetap terasa mewah buatmu?
+s|Kamu suka kalau aku menulis puisi atau kata-kata untukmu?
+s|Apa hal yang membuatmu merasa aku memikirkanmu saat kita tidak bersama?
+s|Kamu suka kalau aku ikut merayakan hal kecil yang kamu capai?
+s|Apa tindakan kecil yang bagimu lebih bermakna dari kata cinta?
+s|Kamu suka kalau aku membelamu di depan orang lain?
+s|Apa hal yang paling ingin kamu terima dariku di hari biasa?
+s|Kamu lebih senang aku hadir di acaramu atau memberimu hadiah?
+s|Apa hal yang langsung bikin kamu merasa kangen padaku?
+s|Kamu suka kalau aku menjadwalkan kencan rutin?
+s|Apa bentuk sayang dariku yang paling sering kamu ceritakan ke teman?
+m|Apa bahasa cinta utamamu, dan apakah aku sudah memenuhinya?
+m|Bagaimana cara orang tuamu menunjukkan cinta, dan apakah itu memengaruhimu?
+m|Apa yang membuatmu merasa tidak dicintai walau aku sedang berusaha?
+m|Apa perbedaan cara kita menunjukkan sayang yang paling terasa?
+m|Kapan terakhir kali kamu merasa benar-benar disayang olehku?
+m|Apa bentuk perhatian yang kamu butuhkan saat sedang stres?
+m|Saat kamu menangis, kamu lebih ingin dipeluk, ditemani diam, atau diajak bicara?
+m|Apa yang membuatmu sulit menerima pujian dariku?
+m|Bagaimana caramu tahu aku sedang menunjukkan sayang dengan caraku sendiri?
+m|Apa hal yang aku lakukan dengan niat baik tapi tidak terasa sebagai cinta untukmu?
+m|Apa bahasa cinta yang paling sulit kamu berikan?
+m|Apa bahasa cinta yang paling mudah kamu berikan?
+m|Bagaimana kita bisa saling mengisi saat bahasa cinta kita berbeda?
+m|Apa bentuk sentuhan yang membuatmu merasa aman?
+m|Apa bentuk sentuhan yang kadang membuatmu tidak nyaman?
+m|Bagaimana caramu ingin dihargai atas hal-hal yang kamu lakukan untuk kita?
+m|Apa yang kamu rasakan saat aku lupa hal kecil yang penting bagimu?
+m|Bagaimana caramu ingin aku menunjukkan sayang di depan keluargamu?
+m|Apa jenis waktu berdua yang membuatmu merasa terisi kembali?
+m|Apa jenis hadiah yang membuatmu merasa aku tidak mengenalmu?
+m|Bagaimana perasaanmu saat aku sibuk dan perhatianku berkurang?
+m|Apa yang membuatmu merasa aku benar-benar hadir saat kita bersama?
+m|Apa yang membuatmu merasa aku hadir tapi pikiranku di tempat lain?
+m|Apa kebiasaan yang ingin kamu mulai untuk lebih sering menunjukkan sayang?
+m|Bagaimana caramu ingin aku menyayangimu saat kamu sedang tidak menyukai dirimu sendiri?
+m|Apa bentuk bantuan dariku yang paling terasa seperti cinta?
+m|Apa pujian yang ingin kamu dengar lebih sering, tapi malu memintanya?
+m|Bagaimana kamu ingin kita merayakan hari jadi kita?
+m|Apa yang membuatmu merasa aku memahami bahasa cintamu?
+m|Bagian mana dari caramu ingin disayang yang masih sering aku lewatkan?
+m|Bagaimana cara terbaik untuk mengingatkanku saat kamu butuh perhatian?
+m|Apa bentuk cinta yang menurutmu sering diremehkan orang?
+m|Apa yang kamu pelajari tentang cinta dari teman-temanmu?
+m|Apa yang membuatmu merasa cinta kita tidak membosankan?
+m|Apa bentuk kasih sayang yang ingin kamu pelajari dariku?
+m|Apa hal kecil dariku yang membuatmu merasa istimewa di antara banyak orang?
+m|Bagaimana kamu ingin aku menunjukkan cinta saat kita sedang bertengkar?
+m|Apa yang membuatmu merasa aku memilihmu setiap hari?
+m|Saat energimu habis, bentuk sayang apa yang masih sanggup kamu berikan?
+m|Apa yang paling sering kamu lakukan untukku tapi jarang aku sadari?
+m|Apa yang kamu rasakan saat cintamu tidak dibalas dengan cara yang sama?
+m|Apa yang membuatmu merasa cinta kita seimbang?
+m|Kapan kamu merasa memberi lebih banyak daripada menerima dalam hubungan ini?
+m|Bagaimana kita bisa tetap romantis saat hidup sedang sibuk?
+m|Apa hal kecil yang bisa kita lakukan setiap minggu agar tetap dekat?
+m|Apa yang kamu harapkan dariku di hari-hari biasa yang tidak spesial?
+m|Bagaimana kamu ingin aku mendukung mimpimu sebagai bentuk cinta?
+m|Apa bentuk cinta yang kamu berikan kepada dirimu sendiri?
+m|Apa bentuk cinta yang ingin kamu berikan kepada keluargaku?
+m|Apa bahasa cinta yang ingin kita ajarkan kepada anak kita nanti?
+m|Apa yang membuatmu merasa dihargai saat kamu mengalah?
+m|Bagaimana caramu menunjukkan bahwa kamu bangga padaku?
+m|Apa yang membuatmu merasa dicintai tanpa syarat?
+m|Bagaimana cara aku bisa menunjukkan sayang tanpa membuatmu merasa terbebani?
+m|Apa yang ingin kamu ubah dari caramu mengekspresikan cinta?
+m|Apa bentuk cinta yang paling kamu rindukan dari awal hubungan kita?
+m|Apa yang membuatmu merasa kita satu tim dalam hal-hal kecil?
+m|Apa yang paling ingin kamu dengar setelah kita bertengkar?
+m|Apa tindakan yang menurutmu menunjukkan rasa hormat dalam cinta?
+m|Bagaimana kamu ingin aku menunjukkan sayang saat kamu sedang di depan banyak orang?
+m|Apa hal yang membuatmu merasa diperhatikan tanpa harus diminta?
+m|Bagaimana caramu ingin kita saling menyemangati?
+m|Apa jenis kencan yang membuatmu merasa jatuh cinta lagi?
+m|Apa yang membuatmu merasa aku menghargai waktumu?
+m|Apa hal kecil yang bisa aku lakukan untuk membuat pagi harimu lebih baik?
+m|Bagaimana kamu ingin aku menunjukkan cinta saat kamu sedang gagal?
+d|Kapan kamu merasa paling tidak dicintai dalam hubungan kita?
+d|Apa yang membuatmu ragu untuk meminta cinta dengan cara yang kamu butuhkan?
+d|Apa bentuk cinta yang tidak pernah kamu dapatkan saat kecil?
+d|Apa yang membuatmu merasa layak menerima cinta?
+d|Apa yang membuatmu takut terlalu bergantung pada cintaku?
+d|Apa yang kamu rasakan saat aku mengatakan aku mencintaimu?
+d|Apa luka lama yang membuatmu sulit percaya pada kata-kata manis?
+d|Apa bentuk cinta yang ingin kamu berikan, tapi kamu takut ditolak?
+d|Apa yang membuatmu merasa dicintai bahkan saat kamu tidak menyukai dirimu sendiri?
+d|Apa yang paling ingin kamu dengar dariku saat kamu merasa tidak berharga?
+d|Apa cinta yang paling kamu butuhkan sekarang, bukan yang kamu inginkan?
+d|Apa yang membuatmu merasa cintaku tidak bersyarat?
+d|Pernahkah kamu merasa harus memenuhi syarat tertentu agar tetap aku sayangi?
+d|Bagaimana kamu ingin dicintai saat kamu sedang berubah menjadi orang yang berbeda?
+d|Apa yang kamu harap aku pahami tentang cara kamu mencintai?
+d|Apa yang membuatmu merasa cintamu tidak terlihat olehku?
+d|Apa yang ingin kamu sampaikan tentang cara kita mencintai yang belum pernah kamu katakan?
+d|Apa bentuk cinta yang menyembuhkan luka lamamu?
+d|Apa yang membuatmu yakin cinta kita tidak hanya sebatas perasaan?
+d|Apa yang membuatmu memilih untuk tetap mencintaiku di hari-hari sulit?
+d|Apa yang kamu rasakan saat cintamu ditolak di masa lalu?
+d|Bagaimana kamu ingin aku mencintai bagian dirimu yang paling sulit kamu terima?
+d|Apa arti cinta yang dewasa menurutmu?
+d|Apa perbedaan antara dicintai dan dimengerti bagimu?
+d|Apa yang membuatmu merasa cinta kita membuatmu tumbuh?
+d|Apa yang membuatmu merasa cinta kita kadang mengekangmu?
+d|Apa bentuk cinta yang ingin kamu berikan pada dirimu sendiri agar bisa mencintaiku dengan lebih baik?
+d|Apa yang membuatmu yakin aku mencintaimu bahkan saat aku diam?
+d|Apa hal yang kamu takutkan akan hilang dari cara kita saling mencintai?
+d|Bagaimana rasanya ketika aku memilihmu di depan orang lain?
+d|Apa yang kamu harapkan dariku saat cintamu sedang terasa lelah?
+d|Apa yang membuatmu merasa cinta ini aman untuk dirimu yang paling rapuh?
+d|Apa yang ingin kamu sampaikan kepada aku yang sedang merasa tidak dicintai?
+d|Apa cinta yang ingin kamu tinggalkan dalam hidupku walau suatu hari kita tiada?
+d|Apa yang membuatmu yakin cinta kita adalah pilihan, bukan sekadar perasaan?
+d|Apa bentuk cinta dariku yang paling mengubah hidupmu?
+d|Apa yang membuatmu merasa sulit mencintai tanpa takut kehilangan?
+d|Bagaimana kamu ingin aku menyayangimu saat kamu sedang menyakitiku tanpa sengaja?
+d|Apa yang membuatmu yakin aku melihat semua usahamu mencintaiku?
+d|Apa yang membuatmu merasa cinta kita berbeda dari cinta yang pernah kamu kenal?
+d|Apa hal yang ingin kamu dengar dariku setiap tahun di hari jadi kita?
+d|Apa yang kamu harapkan dari cinta kita saat kita tua dan tidak lagi bersemangat seperti dulu?
+d|Apa yang membuatmu merasa cinta itu cukup, walau tidak sempurna?
+d|Apa hal dariku yang membuatmu belajar mencintai dengan lebih lembut?
+d|Apa yang ingin kamu katakan pada dirimu yang dulu merasa tidak akan dicintai?
+d|Apa yang membuatmu merasa sedang dicintai dengan cara yang benar?
+d|Apa yang membuatmu merasa cinta kita perlu dirawat lebih serius sekarang?
+d|Apa satu kebiasaan cinta yang ingin kamu lakukan seumur hidup untukku?
+d|Apa yang membuatmu merasa terharu saat mengingat cara aku mencintaimu?
+d|Apa yang membuatmu merasa takut cinta kita menjadi kebiasaan semata?
+d|Bagaimana kamu ingin aku mencintai keluargamu sebagai bagian dari mencintaimu?
+d|Apa yang paling kamu syukuri dari cara kita saling mencintai sejauh ini?
+d|Apa yang membuatmu yakin cinta kita bisa melewati perubahan bahasa cinta seiring waktu?
+d|Apa yang membuatmu merasa harus membuktikan cintamu terus-menerus?
+d|Apa yang membuatmu bisa menerima cinta tanpa merasa berutang?
+d|Bagaimana kamu ingin aku mengingatkanmu bahwa kamu dicintai saat kamu lupa?
+d|Apa yang membuatmu merasa kehilangan cinta saat kita jauh secara emosi?
+d|Apa yang membuatmu yakin aku mencintaimu dengan utuh, bukan sebagian?
+d|Apa yang ingin kamu pelajari tentang caraku mencintai agar tidak salah paham lagi?
+d|Apa satu kalimat cinta yang ingin kamu dengar saat terakhir kali kita bertemu dalam hidup ini?
+d|Apa yang membuatmu merasa cinta kita juga memberi ruang untuk menjadi dirimu sendiri?
+d|Apa yang kamu rasakan saat aku memaafkanmu sebagai bentuk cinta?
+d|Apa yang membuatmu ingin mencintaiku lebih baik besok dibanding hari ini?
+d|Apa yang membuatmu merasa cinta kita sudah menjadi rumah?
+d|Apa bentuk cinta yang ingin kamu terima tanpa harus memintanya?
+d|Apa cinta yang kamu berikan padaku tanpa aku sadari, dan ingin aku tahu?
+d|Bagaimana kamu ingin kita menjaga cinta tetap hidup saat salah satu sedang kehilangan arah?
+s|Apa kebiasaan saat makan bareng yang bikin kamu merasa disayang?
+s|Kamu suka kalau aku mengingatkan minum air dan makan tepat waktu?
+s|Apa hal yang ingin kamu lakukan berdua di hari hujan?
+s|Kamu lebih suka aku cium kening atau peluk dari belakang?
+s|Apa stiker atau emoji yang terasa paling penuh cinta buatmu?
+s|Kamu suka kalau aku memilihkan menu untukmu di restoran?
+s|Apa barang sederhana yang ingin kamu dapat dariku tanpa alasan?
+s|Kamu suka kalau aku menelepon hanya untuk bilang kangen?
+s|Apa bentuk kejutan yang menurutmu terlalu berlebihan?
+s|Apa cara aku mendengarkan yang membuatmu merasa penting?
+m|Apa yang paling kamu hargai dari caraku menunjukkan sayang ke teman-temanmu?
+m|Bagaimana caramu ingin aku menunjukkan sayang saat kamu sedang sibuk sekali?
+m|Apa kata-kata dukungan yang paling ampuh untukmu sebelum ujian atau presentasi?
+m|Apa yang membuatmu merasa aku memperhatikan perubahan kecil dalam dirimu?
+m|Bagaimana kamu ingin kita menjaga sentuhan fisik tetap hangat di depan umum?
+m|Apa cara kita saling memanjakan yang ingin kamu jadikan rutinitas?
+m|Apa yang membuatmu merasa aku tidak sekadar menuruti, tapi benar-benar peduli?
+m|Apa bentuk bantuan yang ingin kamu tawarkan padaku tapi takut aku tolak?
+m|Bagaimana kamu ingin aku menyayangimu saat kamu sedang malu pada dirimu sendiri?
+m|Apa bahasa cinta dari keluargaku yang menurutmu menarik?
+d|Apa yang membuatmu merasa sudah benar-benar dicintai untuk pertama kalinya?
+d|Apa yang kamu rasakan saat cintamu tidak dibalas di masa lalu, dan apa bedanya sekarang?
+d|Apa yang kamu harapkan dari cintaku saat kamu sendiri sulit dicintai?
+d|Apa bentuk cinta yang kamu takut minta karena merasa terlalu banyak?
+d|Bagaimana rasanya ketika aku mengingat hal kecil yang bahkan kamu lupa?
+s|Apa kencan sederhana di rumah yang paling kamu suka?
+s|Kamu suka kalau aku menyisihkan suapan terakhir makanan untukmu?
+m|Apa yang membuatmu merasa aku sedang berusaha, walau hasilnya belum sempurna?
+d|Apa yang membuatmu merasa dicintai dengan sabar olehku?
