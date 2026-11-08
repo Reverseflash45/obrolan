@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 
 import { TOPIK_PER_ID, type Pertanyaan } from "../lib/jenis";
-import { MukaDepan } from "./Kartu";
+import { MukaDepan } from "./Muka";
 
 // Gambar 1080×1920 (ukuran story Instagram) berisi kartu, digambar di luar layar lalu diubah jadi PNG.
 function Panggung({ q }: { q: Pertanyaan }) {

@@ -2,7 +2,7 @@ import { useState, type ReactNode } from "react";
 import { TOPIK_PER_ID, type Pertanyaan } from "../lib/jenis";
 import { warnaKartu } from "../lib/tema";
 import { useToko } from "../lib/toko";
-import { KartuDiam } from "./Kartu";
+import { KartuDiam } from "./Muka";
 import { Ikon } from "./Ikon";
 import { useBagikan } from "./Bagikan";
 import { TombolKedua } from "./Tombol";

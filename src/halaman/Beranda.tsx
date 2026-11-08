@@ -1,7 +1,7 @@
 import { TOPIK, JUMLAH } from "../lib/jenis";
 import { pergi } from "../lib/rute";
 import { useToko } from "../lib/toko";
-import { MukaBelakang } from "../komponen/Kartu";
+import { MukaBelakang } from "../komponen/Muka";
 import { Ikon, type NamaIkon } from "../komponen/Ikon";
 import { Layar, TombolUtama } from "../komponen/Tombol";
 

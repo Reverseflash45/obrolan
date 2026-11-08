@@ -1,11 +1,12 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { AnimatePresence, m, useReducedMotion, type PanInfo } from "framer-motion";
+import { AnimatePresence, motion, useReducedMotion, type PanInfo } from "framer-motion";
 import { muatBanyak } from "../lib/data";
 import { LEVEL, TOPIK_PER_ID, type Pertanyaan } from "../lib/jenis";
 import { pergi } from "../lib/rute";
 import { buatSesi } from "../lib/sesi";
 import { namaPemain, useToko } from "../lib/toko";
-import { Kartu, MukaBelakang } from "../komponen/Kartu";
+import { Kartu } from "../komponen/Kartu";
+import { MukaBelakang } from "../komponen/Muka";
 import { Ikon } from "../komponen/Ikon";
 import { Timer } from "../komponen/Timer";
 import { useBagikan } from "../komponen/Bagikan";
@@ -182,7 +183,7 @@ export default function Main() {
         )}
         <AnimatePresence initial={false} custom={arah}>
           {q ? (
-            <m.div
+            <motion.div
               key={q.id}
               className="relative z-[1] touch-pan-y [grid-area:1/1]"
               custom={arah}
@@ -197,7 +198,7 @@ export default function Main() {
               onDragEnd={lepasGeser}
             >
               <Kartu q={q} terbuka={terbuka} onKetuk={() => setTerbuka(true)} />
-            </m.div>
+            </motion.div>
           ) : (
             <div key="memuat" className="kartu-wadah [grid-area:1/1]">
               <div className="grid aspect-[1.55] w-full place-items-center rounded-[6cqw] border-2 border-dashed border-garis text-lg text-redup">
