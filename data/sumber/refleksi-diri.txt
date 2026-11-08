@@ -1,0 +1,252 @@
+# Refleksi Diri — diri sendiri, semua mode, "kamu"
+s|Tiga kata apa yang paling menggambarkan dirimu hari ini?
+s|Apa hal yang membuatmu tersenyum pagi ini?
+s|Apa kebiasaan kecil yang paling kamu banggakan dari dirimu?
+s|Apa lagu yang paling menggambarkan perasaanmu minggu ini?
+s|Kalau harimu adalah cuaca, cuacanya seperti apa?
+s|Apa hal sederhana yang selalu berhasil menenangkanmu?
+s|Apa hal baru yang kamu pelajari minggu ini?
+s|Apa makanan yang selalu membuatmu merasa lebih baik?
+s|Apa hal yang paling kamu nantikan bulan ini?
+s|Kapan terakhir kali kamu tertawa lepas?
+s|Apa tempat yang membuatmu merasa paling jadi diri sendiri?
+s|Apa kegiatan yang membuatmu lupa waktu?
+s|Apa hal kecil yang kamu syukuri hari ini?
+s|Siapa orang yang terakhir membuatmu merasa dihargai?
+s|Apa kebiasaan baik yang ingin kamu mulai besok?
+s|Apa hal yang membuatmu merasa produktif?
+s|Kalau kamu bisa menghabiskan sehari tanpa kewajiban, apa yang kamu lakukan?
+s|Apa hobi yang ingin kamu tekuni lebih serius?
+s|Apa jam paling nyaman dalam harimu?
+s|Apa barang yang paling berarti di kamarmu?
+s|Apa hal yang membuatmu merasa segar kembali setelah lelah?
+s|Apa pujian terakhir yang kamu terima?
+s|Apa hal yang ingin kamu coba sebelum tahun ini berakhir?
+s|Apa warna yang paling mewakili suasana hatimu sekarang?
+s|Wangi apa yang langsung membawamu ke kenangan bahagia?
+s|Apa buku, film, atau lagu yang mengubah pandanganmu belakangan ini?
+s|Apa hal yang paling sering kamu pikirkan sebelum tidur?
+s|Apa keputusan kecil yang kamu syukuri minggu ini?
+s|Apa kebiasaan yang ingin kamu kurangi?
+s|Apa hal yang membuatmu merasa sedang tumbuh?
+s|Apa hal yang membuatmu merasa sedang jalan di tempat?
+s|Kalau kamu bisa memberi judul untuk bulan ini, judulnya apa?
+s|Apa hal yang membuatmu merasa cukup hari ini?
+s|Apa kebiasaan pagi yang paling membantumu?
+s|Apa kebiasaan malam yang paling membantumu?
+s|Apa keuntungan dari umurmu sekarang yang dulu tidak kamu punya?
+s|Apa hal kecil yang membuatmu merasa dewasa?
+s|Apa tempat yang ingin kamu datangi untuk menyendiri?
+s|Apa kegiatan yang membuatmu merasa hidup?
+s|Apa kebiasaan kecil yang membuatmu merasa terurus?
+s|Apa hal yang membuatmu merasa terhubung dengan orang lain minggu ini?
+s|Apa tontonan yang menemanimu belakangan ini?
+s|Apa hal yang kamu lakukan untuk merayakan dirimu?
+s|Apa kebiasaan yang membuatmu merasa disiplin?
+s|Apa tempat favoritmu untuk berpikir?
+s|Apa hal yang ingin kamu tulis di jurnal hari ini?
+s|Apa hal yang kamu tunggu-tunggu setiap minggu?
+s|Apa makanan yang ingin kamu pelajari cara membuatnya?
+s|Apa keterampilan kecil yang membuatmu bangga?
+s|Apa hal yang membuatmu merasa bebas?
+s|Apa kebiasaan digital yang ingin kamu ubah?
+s|Keberuntungan kecil apa yang mampir ke hidupmu belakangan ini?
+s|Apa suara yang membuatmu merasa nyaman?
+s|Apa kebiasaan yang membuat hari burukmu sedikit lebih baik?
+s|Apa hal yang ingin kamu kerjakan dengan tanganmu sendiri?
+s|Apa tempat di kotamu yang ingin kamu kenal lebih dekat?
+s|Momen apa minggu ini yang ingin kamu nikmati sekali lagi?
+s|Apa hal yang paling sering kamu tunda dan kenapa?
+s|Apa kebiasaan yang membuatmu merasa sehat?
+s|Apa hal yang membuatmu merasa kreatif?
+s|Apa kalimat yang ingin kamu tempel di dindingmu?
+s|Apa hal yang ingin kamu berikan kepada dirimu sebagai hadiah?
+s|Apa hal yang membuatmu merasa siap menghadapi minggu depan?
+s|Apa kebiasaan yang membuatmu merasa lebih dekat dengan alam?
+s|Apa hal yang membuatmu merasa ringan setelah melakukannya?
+s|Apa hal yang ingin kamu katakan kepada dirimu pagi ini?
+s|Apa hal yang membuatmu bersemangat pada pekerjaan atau belajarmu?
+s|Apa hal yang ingin kamu rapikan di sekitarmu?
+s|Apa kebiasaan yang ingin kamu pertahankan sampai tua?
+s|Apa jenis istirahat yang paling kamu butuhkan sekarang?
+s|Siapa yang menunjukkan kepedulian kepadamu hari ini, sekecil apa pun?
+s|Apa kebiasaan kecil yang membuat orang lain mengenalmu?
+s|Apa hal sederhana yang ingin kamu lakukan lebih sering?
+s|Apa pengalaman pertama yang ingin kamu rasakan tahun ini?
+s|Apa hal yang membuatmu bangga minggu ini, sekecil apa pun?
+s|Apa hal yang membuatmu ingin bangun pagi?
+s|Apa hal yang paling kamu nikmati dari kesendirian?
+s|Apa hal yang paling kamu nikmati dari kebersamaan?
+s|Apa kebiasaan yang membuatmu merasa terhubung dengan masa kecilmu?
+s|Apa hal yang ingin kamu pelajari dalam sebulan ke depan?
+s|Apa hal yang membuatmu merasa sedang dalam jalur yang benar?
+s|Apa hal yang membuatmu merasa lega hari ini?
+m|Apa yang sedang kamu pelajari tentang dirimu akhir-akhir ini?
+m|Bagian mana dari dirimu yang sedang berubah?
+m|Apa yang biasanya membuatmu kehilangan semangat?
+m|Apa pola dalam hidupmu yang terus berulang?
+m|Apa kekuatan yang paling sering kamu andalkan?
+m|Apa kelemahan yang paling sering menghambatmu?
+m|Apa hal yang kamu lakukan karena takut, bukan karena ingin?
+m|Apa hal yang kamu lakukan karena ingin, walau orang lain tidak setuju?
+m|Bagaimana kamu biasanya menanggapi kritik?
+m|Apa hal yang paling sulit kamu terima dari dirimu?
+m|Apa keputusan yang sedang kamu hindari?
+m|Bagaimana kamu menilai caramu mengatur waktu belakangan ini?
+m|Apa hal yang sedang kamu kejar, dan untuk siapa?
+m|Apa hal yang membuatmu iri, dan apa yang bisa kamu pelajari dari rasa iri itu?
+m|Bagaimana kamu menghadapi kegagalan terakhirmu?
+m|Apa hal yang ingin kamu lepaskan dari dirimu tahun ini?
+m|Apa hal yang membuatmu merasa tidak sabar pada dirimu?
+m|Apa kebiasaan berpikir yang paling sering membuatmu cemas?
+m|Bagaimana kamu memperlakukan dirimu saat melakukan kesalahan?
+m|Apa hal yang ingin kamu lakukan lebih berani?
+m|Apa hal yang kamu syukuri dari tahun lalu?
+m|Apa hal yang kamu sesali dari tahun lalu?
+m|Bagaimana kamu tahu bahwa kamu sedang tidak baik-baik saja?
+m|Apa hal yang membuatmu merasa kehilangan arah?
+m|Apa hal yang membuatmu merasa menemukan arah kembali?
+m|Apa yang paling sering kamu bandingkan antara dirimu dan orang lain?
+m|Bagaimana kamu menyeimbangkan kebutuhan dirimu dan kebutuhan orang lain?
+m|Apa batasan yang perlu kamu tegakkan untuk dirimu?
+m|Apa hal yang membuatmu merasa tidak autentik?
+m|Bagaimana kamu menggambarkan dirimu kepada orang asing tanpa menyebut pekerjaan?
+m|Apa yang biasanya kamu lakukan saat merasa tidak dihargai?
+m|Apa yang biasanya kamu lakukan saat merasa terlalu dibutuhkan?
+m|Apa keyakinan tentang dirimu yang mulai kamu pertanyakan?
+m|Apa hal yang ingin kamu ubah dari caramu berbicara pada dirimu sendiri?
+m|Bagaimana kamu memaknai waktu luang?
+m|Apa hal yang kamu pelajari dari orang yang tidak kamu sukai?
+m|Apa yang membuatmu bertahan dalam rutinitas yang berat?
+m|Apa hal yang membuatmu merasa terlalu keras pada diri sendiri?
+m|Bagaimana kamu tahu kapan harus berhenti dan istirahat?
+m|Apa hal yang kamu banggakan dari caramu menghadapi tahun ini?
+m|Apa hal yang ingin kamu perbaiki dari hubunganmu dengan orang terdekat?
+m|Apa hal yang membuatmu merasa sedang berpura-pura?
+m|Bagaimana kamu ingin menghabiskan sisa tahun ini?
+m|Apa hal yang membuatmu merasa layak beristirahat?
+m|Apa kebiasaan lama yang muncul lagi saat kamu stres?
+d|Siapa dirimu saat tidak ada yang melihat?
+d|Apa yang paling kamu takutkan tentang dirimu?
+d|Apa yang belum bisa kamu maafkan dari dirimu?
+d|Apa luka yang masih membentuk keputusanmu sampai hari ini?
+d|Apa yang sebenarnya kamu cari dalam hidup?
+d|Kapan terakhir kali kamu merasa benar-benar damai?
+d|Apa yang membuatmu merasa tidak cukup?
+d|Kalimat penyemangat apa yang paling jarang kamu ucapkan untuk dirimu?
+d|Apa yang kamu sembunyikan dari dunia agar terlihat baik-baik saja?
+d|Apa yang membuatmu terus bertahan di hari-hari terberat?
+d|Apa yang akan kamu sesali kalau hidupmu berakhir besok?
+d|Bagian dirimu mana yang paling butuh disayangi?
+d|Apa yang kamu harap orang lain tahu tentang dirimu yang sebenarnya?
+d|Apa yang membuatmu takut menjadi dirimu sepenuhnya?
+d|Apa yang ingin kamu sampaikan kepada dirimu lima tahun lalu?
+d|Surat seperti apa yang ingin kamu tulis untuk dirimu di ulang tahun berikutnya?
+d|Apa yang kamu korbankan selama ini yang ternyata terlalu mahal?
+d|Kapan pencapaianmu terasa hampa, dan apa yang sebenarnya kamu cari saat itu?
+d|Kapan kamu merasa paling bangga pada dirimu?
+d|Apa yang kamu pelajari dari masa paling gelap dalam hidupmu?
+d|Apa yang membuatmu masih berharap?
+d|Apa hal yang perlu kamu akui pada dirimu sendiri hari ini?
+d|Bukti apa yang kamu butuhkan untuk percaya bahwa kamu pantas disayangi?
+d|Apa yang kamu butuhkan untuk merasa utuh?
+d|Apa yang ingin kamu lepaskan agar bisa melangkah maju?
+d|Apa hal yang kamu lakukan untuk mendapatkan cinta orang lain yang menyakiti dirimu?
+d|Apa yang membuatmu sulit menerima bantuan?
+d|Apa makna hidupmu menurutmu sejauh ini?
+d|Apa yang membuatmu merasa takut gagal?
+d|Apa yang membuatmu merasa takut berhasil?
+d|Bagaimana kamu ingin dikenang?
+d|Apa kebenaran tentang hidupmu yang selama ini kamu hindari?
+d|Apa yang membuatmu merasa sedang menjalani hidup orang lain?
+d|Apa yang ingin kamu ubah kalau tidak ada lagi rasa takut?
+d|Apa yang kamu rasakan saat benar-benar sendirian dalam keheningan?
+d|Apa yang membuatmu memaafkan dirimu di masa lalu?
+d|Apa pelajaran hidup yang paling mahal yang pernah kamu bayar?
+d|Apa yang ingin kamu katakan pada dirimu yang sedang menangis dulu?
+d|Apa yang membuatmu yakin kamu tidak sendirian?
+d|Apa yang membuatmu merasa hidupmu berarti bagi orang lain?
+s|Apa hal yang membuatmu merasa sedang memegang kendali atas harimu?
+s|Apa kebiasaan yang ingin kamu ajarkan kepada dirimu sendiri dengan sabar?
+s|Apa hal kecil yang membuatmu merasa sedang berkembang?
+s|Apa kebiasaan yang membuatmu merasa siap sebelum tidur?
+s|Apa hal yang ingin kamu lakukan sendirian tanpa merasa bersalah?
+s|Apa tontonan atau bacaan yang membuatmu merasa lebih pintar?
+s|Apa kebiasaan kecil yang membuat ruanganmu terasa lebih nyaman?
+s|Apa hal yang ingin kamu lakukan untuk tubuhmu minggu ini?
+s|Apa hal yang ingin kamu katakan kepada orang yang membantumu hari ini?
+s|Apa kebiasaan yang membuatmu merasa lebih fokus?
+s|Apa pengalaman terbaik bulan ini yang ingin kamu ingat?
+s|Apa hal yang membuatmu merasa sedang menjadi orang baik?
+s|Apa hal yang ingin kamu pelajari dari temanmu?
+s|Apa kebiasaan kecil yang membuatmu merasa rapi?
+s|Apa hal yang membuatmu ingin berbagi dengan orang lain?
+s|Apa lagu yang ingin kamu dengar saat butuh semangat?
+s|Apa hal yang membuatmu merasa sedang berada di tempat yang tepat?
+s|Apa kebiasaan yang ingin kamu ganti dengan yang lebih sehat?
+s|Apa hal yang membuatmu bangga pada caramu memperlakukan orang lain?
+s|Apa kebiasaan yang membuatmu merasa lebih sabar?
+s|Apa hal yang membuatmu merasa sedang menjaga diri dengan baik?
+s|Apa hal yang membuatmu ingin mencoba lagi setelah gagal?
+s|Apa pemandangan yang ingin kamu lihat untuk menenangkan pikiran?
+s|Apa kebiasaan yang ingin kamu lakukan setiap hari Minggu?
+s|Apa hal yang membuatmu merasa lebih ringan setelah bercerita?
+s|Apa jenis olahraga yang membuat pikiranmu lebih jernih?
+s|Apa hal yang ingin kamu ucapkan terima kasih kepada tubuhmu?
+s|Apa hal yang membuatmu merasa sedang menikmati masa muda atau masa sekarang?
+s|Apa kebiasaan yang membuatmu merasa terhubung dengan keluarga?
+s|Apa hal yang ingin kamu lakukan saat sedang tidak punya rencana apa pun?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang merawat masa depan?
+m|Apa yang biasanya membuatmu menunda keputusan penting?
+m|Apa hal yang membuatmu merasa kamu terlalu banyak berpikir?
+m|Bagaimana kamu mengenali tanda-tanda kelelahan pada dirimu?
+m|Apa hal yang membuatmu merasa tidak didengar oleh dirimu sendiri?
+m|Apa hal yang ingin kamu ubah dari caramu menghabiskan uang?
+m|Apa hal yang membuatmu merasa bangga tapi jarang kamu akui?
+m|Bagaimana kamu menghadapi perasaan tertinggal dari teman seangkatan?
+m|Apa yang ingin kamu pelajari tentang cara mengatakan tidak?
+m|Apa hal yang membuatmu merasa bersalah saat beristirahat?
+m|Apa yang biasanya kamu lakukan saat semua rencana berantakan?
+m|Bagaimana kamu ingin memperlakukan dirimu saat sedang sakit?
+m|Apa hal yang membuatmu merasa perlu menjelaskan diri terus-menerus?
+m|Apa yang paling sering kamu tunda untuk dirimu sendiri?
+m|Apa kebiasaan yang membuatmu merasa hidup terlalu cepat?
+m|Bagaimana kamu ingin menjalani hari ulang tahunmu berikutnya?
+m|Bagaimana kamu menentukan garis antara berusaha keras dan memaksakan diri?
+m|Apa hal yang membuatmu merasa sedang melarikan diri?
+m|Bagaimana kamu memaknai kegagalan kecil dalam keseharian?
+m|Apa hal yang ingin kamu ubah dari caramu bereaksi saat marah?
+m|Apa yang ingin kamu pelajari dari dirimu yang dulu?
+d|Apa yang membuatmu merasa sulit memaafkan dirimu atas hal yang sudah lama berlalu?
+d|Apa yang kamu rasakan saat melihat dirimu di cermin tanpa menilai?
+d|Apa yang membuatmu terus mencari pengakuan dari orang lain?
+d|Apa bagian hidupmu yang paling ingin kamu tulis ulang?
+d|Apa yang membuatmu yakin kamu sudah melakukan yang terbaik dengan apa yang kamu punya?
+d|Apa yang membuatmu bertahan saat tidak ada yang tahu kamu sedang berjuang?
+d|Apa pertanyaan tentang hidup yang belum bisa kamu jawab sampai sekarang?
+d|Apa yang ingin kamu katakan pada versi dirimu yang paling lelah?
+d|Apa yang membuatmu merasa sedang kehilangan dirimu sendiri?
+d|Apa yang membuatmu merasa sedang kembali menjadi dirimu sendiri?
+d|Apa yang kamu harap bisa kamu lakukan lebih awal dalam hidup?
+d|Apa yang membuatmu bersyukur kamu tidak menyerah?
+d|Apa yang ingin kamu janjikan kepada dirimu mulai hari ini?
+d|Apa yang membuatmu merasa damai dengan masa lalumu?
+d|Apa yang membuatmu merasa hidupmu adalah milikmu sendiri?
+s|Apa hal yang membuatmu merasa sedang dihargai di tempat kerja atau sekolah?
+s|Apa kebiasaan yang membuatmu merasa lebih percaya diri saat keluar rumah?
+s|Apa hal yang ingin kamu kurangi dari daftar tugasmu?
+s|Apa hal yang membuatmu merasa sedang menjadi teman yang baik?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang merawat hubungan?
+s|Apa jenis musik yang menemanimu saat sedang berpikir?
+m|Apa hal yang membuatmu merasa sedang mengecewakan dirimu sendiri?
+m|Bagaimana kamu merayakan kemajuan kecil yang tidak dilihat orang?
+m|Apa hal yang ingin kamu pelajari tentang cara menerima pujian?
+m|Bagaimana kamu menghadapi hari ketika tidak ada yang berjalan sesuai rencana?
+m|Apa yang ingin kamu ubah dari caramu memulai hari?
+d|Apa yang membuatmu merasa takut untuk benar-benar bahagia?
+d|Apa yang ingin kamu tinggalkan di tahun ini agar tidak terbawa ke tahun depan?
+d|Apa yang membuatmu yakin kamu sedang menjadi versi yang lebih baik dari dirimu?
+d|Apa yang membuatmu merasa perlu berhenti sejenak dan mendengarkan dirimu?
+d|Apa yang ingin kamu maafkan dari tubuhmu?
+d|Apa yang membuatmu merasa cukup tanpa harus menjadi luar biasa?
+d|Apa yang membuatmu merasa sedang dipeluk oleh hidup?

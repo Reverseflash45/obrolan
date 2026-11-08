@@ -1,0 +1,252 @@
+# Tradisi Keluarga — keluarga, "kamu" netral
+s|Apa tradisi keluarga kita saat Lebaran, Natal, Imlek, Nyepi, atau hari raya lain?
+s|Makanan apa yang wajib ada di meja saat hari raya keluarga kita?
+s|Siapa yang biasanya memasak hidangan utama saat hari raya?
+s|Apa tradisi ulang tahun yang selalu dilakukan di keluarga kita?
+s|Apa lagu yang selalu dinyanyikan saat kumpul keluarga besar?
+s|Kebiasaan mudik apa yang paling kamu ingat?
+s|Apa permainan yang selalu dimainkan saat kumpul keluarga?
+s|Apa baju atau seragam yang dipakai keluarga saat acara besar?
+s|Siapa anggota keluarga yang selalu jadi tuan rumah acara?
+s|Apa tradisi tahun baru di keluarga kita?
+s|Apa kebiasaan keluarga kita saat bulan puasa atau masa ibadah khusus?
+s|Apa kue khas keluarga kita yang selalu dibuat setiap tahun?
+s|Siapa yang biasanya mengatur barisan saat foto keluarga besar?
+s|Apa tradisi tujuh belasan di lingkungan rumah kita?
+s|Apa kebiasaan keluarga saat menyambut bayi baru lahir?
+s|Apa tradisi keluarga saat ada pernikahan?
+s|Apa hal yang selalu dibawa saat berkunjung ke rumah kakek dan nenek?
+s|Apa makanan khas daerah asal keluarga kita?
+s|Apa bahasa daerah yang masih dipakai di keluarga kita?
+s|Siapa yang paling hafal silsilah keluarga?
+s|Apa tradisi keluarga saat ada anggota yang lulus sekolah?
+s|Apa kebiasaan keluarga saat musim liburan sekolah?
+s|Apa tempat liburan yang jadi langganan keluarga kita?
+s|Apa tradisi saling berkunjung yang masih dilakukan keluarga besar?
+s|Siapa yang selalu memberi angpau atau uang saku saat hari raya?
+s|Apa doa atau ucapan khas yang selalu diucapkan di keluarga kita?
+s|Apa tradisi makan bersama yang paling kamu suka?
+s|Apa kebiasaan keluarga saat ada tamu dari jauh?
+s|Apa resep turun-temurun dari nenek atau kakek yang masih dibuat?
+s|Apa tradisi keluarga saat ada yang pindah rumah?
+s|Siapa yang biasanya memimpin doa saat kumpul keluarga?
+s|Apa tradisi foto keluarga yang selalu dilakukan?
+s|Apa kebiasaan keluarga saat hari Minggu?
+s|Apa lagu daerah yang dikenal semua anggota keluarga?
+s|Apa tradisi keluarga saat malam takbiran, malam Natal, atau malam pergantian tahun?
+s|Siapa yang paling heboh menyiapkan dekorasi hari raya?
+s|Apa kebiasaan keluarga saat memasak bersama di dapur?
+s|Apa kerajinan atau keterampilan yang diturunkan di keluarga kita?
+s|Apa tradisi keluarga saat ada yang ulang tahun ke-17?
+s|Apa makanan yang wajib dimakan saat keluarga berkumpul di rumah nenek?
+s|Siapa yang selalu datang paling awal di acara keluarga?
+s|Apa kebiasaan bersih-bersih rumah menjelang hari raya?
+s|Apa tradisi tukar kado di keluarga kita, kalau ada?
+s|Apa tradisi menyambut anggota keluarga yang pulang merantau?
+s|Apa kebiasaan keluarga saat menonton pertandingan atau acara besar?
+s|Apa jajanan khas yang selalu dibeli saat mudik?
+s|Siapa yang selalu bercerita kisah masa lalu saat kumpul?
+s|Apa tradisi keluarga yang unik dan jarang ada di keluarga lain?
+s|Apa kebiasaan keluarga saat ada anggota yang sakit?
+s|Apa acara arisan keluarga yang rutin diadakan?
+s|Apa permainan kartu atau papan yang selalu dimainkan saat libur?
+s|Siapa yang selalu membuat kue untuk acara keluarga?
+s|Apa kebiasaan keluarga saat ziarah atau mengenang leluhur?
+s|Apa tradisi keluarga saat panen, hari pasar, atau acara kampung?
+s|Apa kebiasaan saat keluarga besar menginap di satu rumah?
+s|Apa tradisi pakaian adat yang masih dipakai keluarga kita?
+s|Apa kebiasaan keluarga saat memberi nama anak?
+s|Apa makanan yang wajib dibawa saat bertamu ke saudara?
+s|Siapa yang selalu jadi koordinator acara keluarga di grup chat?
+s|Apa tradisi pagi di hari raya keluarga kita?
+s|Apa kebiasaan keluarga saat ada yang menikah dengan orang dari daerah lain?
+s|Apa tarian, musik, atau seni daerah yang pernah dipelajari di keluarga kita?
+s|Apa tradisi kecil sebelum tidur yang turun dari orang tua?
+s|Apa kebiasaan keluarga saat hari ulang tahun pernikahan orang tua?
+s|Apa makanan yang selalu disiapkan untuk sarapan hari raya?
+s|Siapa yang selalu jadi juru bicara keluarga saat acara resmi?
+s|Apa kebiasaan keluarga saat libur panjang akhir tahun?
+s|Apa tradisi keluarga saat ada anggota yang mulai bekerja?
+s|Apa oleh-oleh yang selalu dibawa saat pulang kampung?
+s|Apa kebiasaan keluarga saat merayakan keberhasilan anggota keluarga?
+s|Apa permainan tradisional yang masih dimainkan anak-anak di keluarga kita?
+s|Apa kebiasaan memberi hadiah di keluarga kita?
+s|Siapa yang paling hafal semua tanggal penting keluarga?
+s|Apa tradisi keluarga yang dulu ada tapi sekarang sudah hilang?
+s|Apa kebiasaan keluarga saat menyambut bulan baru atau awal tahun ajaran?
+s|Apa makanan yang hanya muncul setahun sekali di rumah kita?
+s|Siapa yang selalu menyetel musik saat acara keluarga?
+s|Apa tradisi keluarga saat ada pemakaman atau duka?
+s|Apa kebiasaan keluarga untuk saling mengirim kabar setiap minggu?
+s|Apa kebiasaan keluarga besar saat berfoto di depan rumah nenek?
+s|Apa ucapan khas keluarga saat ada yang berangkat jauh?
+s|Apa tradisi keluarga yang paling kamu banggakan di depan teman?
+m|Tradisi keluarga mana yang paling bermakna buatmu?
+m|Tradisi keluarga mana yang menurutmu perlu diubah?
+m|Apa tradisi keluarga yang ingin kamu teruskan saat punya keluarga sendiri?
+m|Apa tradisi keluarga pasangan atau teman yang ingin kamu tiru?
+m|Bagaimana perasaanmu saat tradisi keluarga mulai jarang dilakukan?
+m|Apa cerita di balik tradisi keluarga kita yang ingin kamu ketahui?
+m|Bagaimana keluarga kita menyesuaikan tradisi saat ada anggota yang berbeda keyakinan?
+m|Apa tradisi yang menurutmu terasa terlalu memaksa?
+m|Bagaimana cara kita menjaga tradisi tetap hidup walau anggota keluarga tinggal berjauhan?
+m|Apa tradisi baru yang ingin kamu mulai di keluarga kita?
+m|Apa makna hari raya bagimu sekarang dibanding saat kecil?
+m|Bagaimana perasaanmu tentang pertanyaan basa-basi saat kumpul keluarga besar?
+m|Apa cara keluarga kita menghormati anggota keluarga yang sudah tiada?
+m|Apa yang paling kamu rindukan dari tradisi masa kecil?
+m|Bagaimana cara keluarga kita merayakan perbedaan pendapat soal adat?
+m|Apa nilai yang ingin diajarkan lewat tradisi keluarga kita?
+m|Apa tradisi yang menurutmu menyatukan keluarga besar?
+m|Apa tradisi yang menurutmu justru sering membuat keluarga tegang?
+m|Bagaimana pendapatmu soal biaya besar untuk acara adat?
+m|Apa tradisi daerah asal keluarga yang ingin kamu pelajari lebih dalam?
+m|Bagaimana kita bisa melibatkan generasi muda dalam tradisi keluarga?
+m|Apa yang ingin kamu ketahui tentang asal-usul nama keluarga atau marga kita?
+m|Bagaimana pendapatmu tentang menggabungkan dua tradisi keluarga yang berbeda?
+m|Apa hal kecil dalam tradisi keluarga yang selalu membuatmu tersenyum?
+m|Apa yang ingin kamu tanyakan kepada kakek atau nenek tentang tradisi zaman dulu?
+m|Bagaimana keluarga kita menyesuaikan tradisi selama masa sulit?
+m|Apa pengalaman lucu saat mengikuti adat keluarga?
+m|Bagaimana kamu ingin anak-anak di keluarga ini mengenal budaya leluhur?
+m|Apa tradisi yang kamu ikuti hanya karena tidak enak menolak?
+m|Apa yang membuat tradisi keluarga kita berbeda dari keluarga temanmu?
+m|Bagaimana pendapatmu tentang tradisi yang dilakukan lewat video call?
+m|Apa makanan tradisi yang ingin kamu pelajari resepnya sebelum terlambat?
+m|Bagaimana cara keluarga kita menyambut menantu atau anggota baru?
+m|Apa tradisi keluarga yang menurutmu akan hilang dalam sepuluh tahun?
+m|Bagaimana kamu ingin merayakan hari raya saat sudah tinggal jauh dari keluarga?
+d|Tradisi keluarga mana yang menyimpan kenangan paling menyentuh bagimu?
+d|Apa tradisi yang mengingatkanmu pada anggota keluarga yang sudah tiada?
+d|Apa yang ingin kamu wariskan kepada generasi berikutnya selain harta?
+d|Bagaimana perasaanmu saat hari raya pertama tanpa orang yang kamu sayangi?
+d|Apa tradisi yang pernah membuatmu merasa tidak menjadi bagian keluarga?
+d|Apa tradisi yang membuatmu merasa paling diterima di keluarga?
+d|Apa yang ingin kamu katakan kepada leluhur kita kalau bisa bertemu?
+d|Apa tradisi yang membantu keluarga kita bertahan di masa sulit?
+d|Apa yang membuatmu ingin menjaga tradisi walau dunia terus berubah?
+d|Apa tradisi keluarga yang menyembunyikan luka yang belum dibicarakan?
+d|Bagaimana kamu ingin dikenang di acara keluarga setelah kamu tiada?
+d|Apa tradisi yang mengajarkanmu arti bersyukur?
+d|Apa tradisi yang mengajarkanmu arti memaafkan?
+d|Apa yang membuatmu merasa terhubung dengan generasi sebelumnya?
+d|Apa tradisi yang ingin kamu ciptakan untuk menyembuhkan keluarga?
+d|Apa yang membuatmu bangga dengan akar keluargamu?
+d|Apa yang membuatmu ingin menjauh dari tradisi keluarga, kalau pernah?
+d|Apa kenangan hari raya yang paling ingin kamu ulang bersama orang yang sudah pergi?
+d|Apa yang kamu harapkan dari keluarga besar saat kamu sedang di titik terendah?
+d|Apa tradisi sederhana yang membuat keluarga kita tetap terasa seperti keluarga?
+d|Apa yang ingin kamu ucapkan kepada keluarga besar di hari raya tahun ini?
+d|Apa yang membuatmu merasa tradisi adalah cara keluarga menyampaikan cinta?
+d|Apa yang ingin kamu lepaskan dari tradisi keluarga demi kebaikan generasi berikutnya?
+d|Apa satu tradisi yang ingin kamu pastikan tidak pernah hilang?
+d|Apa yang membuatmu merasa pulang saat tradisi keluarga dilakukan?
+d|Apa yang kamu pelajari tentang dirimu dari tradisi keluargamu?
+d|Apa yang membuatmu ingin berdamai dengan anggota keluarga saat hari raya?
+d|Apa tradisi yang membuatmu merasa kecil di tengah keluarga besar?
+d|Apa yang ingin kamu ceritakan kepada cucumu tentang hari raya di masa kecilmu?
+d|Apa yang membuatmu merasa keluarga kita lebih kuat karena tradisinya?
+s|Apa kebiasaan keluarga saat ada kelahiran cucu pertama?
+s|Apa makanan khas yang selalu dibagikan ke tetangga saat hari raya?
+s|Siapa yang selalu membuat minuman untuk tamu di acara keluarga?
+s|Apa tradisi keluarga saat malam sebelum pernikahan?
+s|Apa kebiasaan keluarga saat ada anggota yang naik jabatan atau lulus?
+s|Siapa yang selalu memimpin acara bakar-bakar atau masak besar?
+s|Apa tradisi kecil saat menyambut tahun ajaran baru?
+s|Apa kebiasaan keluarga saat musim buah tertentu tiba?
+s|Siapa yang selalu membawa makanan paling banyak saat kumpul?
+s|Apa tradisi keluarga saat ada anggota yang sakit lama?
+s|Apa kebiasaan keluarga saat menyambut bulan suci atau masa doa?
+s|Siapa yang selalu membersihkan rumah nenek sebelum acara?
+s|Apa tradisi keluarga saat merayakan ulang tahun kakek atau nenek?
+s|Apa kebiasaan saat keluarga berkumpul di teras malam hari?
+s|Siapa yang selalu memasak nasi dalam jumlah besar saat acara?
+s|Apa tradisi pembagian tugas di dapur saat hari raya?
+s|Apa kebiasaan keluarga saat menyambut tahun baru Islam, Imlek, atau tahun baru lain?
+s|Siapa yang paling rajin mengikuti pengajian, kebaktian, atau acara ibadah keluarga?
+s|Apa makanan pembuka yang selalu ada di acara keluarga?
+s|Apa tradisi keluarga saat melepas anggota yang naik haji, umrah, atau perjalanan rohani?
+s|Siapa yang selalu bertugas mencuci piring setelah acara besar?
+s|Apa kebiasaan keluarga saat menonton kembang api?
+s|Apa tradisi keluarga saat anak pertama kali masuk sekolah?
+s|Siapa yang selalu mengirim kue ke rumah saudara?
+s|Apa kebiasaan keluarga saat liburan ke kampung halaman?
+s|Apa tradisi mendongeng yang pernah ada di keluarga kita?
+s|Siapa yang selalu membawa gitar atau alat musik saat kumpul?
+s|Apa kebiasaan keluarga saat merayakan Hari Ibu atau Hari Ayah?
+s|Apa tradisi keluarga saat ada anggota baru dari pernikahan?
+s|Siapa yang selalu menyiapkan amplop atau bingkisan untuk anak-anak?
+s|Apa kebiasaan keluarga saat arisan atau pertemuan rutin?
+s|Apa makanan yang selalu jadi rebutan saat kumpul keluarga?
+s|Apa tradisi keluarga saat panen raya atau syukuran rumah?
+s|Siapa yang selalu jadi juru masak sambal di acara keluarga?
+s|Apa kebiasaan keluarga saat menyiapkan bekal perjalanan jauh?
+s|Apa tradisi keluarga saat malam terakhir sebelum anggota keluarga merantau?
+s|Siapa yang selalu menyanyikan lagu ulang tahun paling keras?
+s|Apa kebiasaan keluarga saat menyambut hari kemerdekaan?
+s|Apa permainan lomba keluarga saat acara kumpul besar?
+s|Siapa yang selalu menghias kue atau tumpeng di acara keluarga?
+s|Apa tradisi keluarga saat memperingati hari wafat anggota keluarga?
+s|Apa kebiasaan keluarga untuk saling bermaafan?
+s|Siapa yang selalu membawa kamera atau tripod saat acara?
+s|Apa makanan yang selalu disajikan untuk anak-anak di acara keluarga?
+s|Apa tradisi keluarga saat ada anggota yang wisuda?
+s|Siapa yang paling sering berpidato di acara keluarga?
+s|Apa kebiasaan keluarga saat berwisata kuliner bersama?
+s|Apa tradisi keluarga saat mengunjungi makam leluhur?
+s|Siapa yang selalu bertugas menjemput keluarga di stasiun atau bandara?
+s|Apa kebiasaan keluarga saat malam minggu di rumah?
+s|Apa tradisi kecil saat menyambut bayi pulang dari rumah sakit?
+s|Siapa yang selalu membawa camilan untuk perjalanan mudik?
+s|Apa kebiasaan keluarga saat memasang hiasan rumah di hari raya?
+s|Apa tradisi keluarga saat menyambut anggota yang pulang dari luar negeri?
+m|Apa tradisi yang ingin kamu ajarkan kepada anak-anak di keluarga ini?
+m|Bagaimana pendapatmu tentang tradisi memberi uang saku saat hari raya?
+m|Apa yang membuat acara keluarga besar terasa menyenangkan bagimu?
+m|Apa yang membuat acara keluarga besar terasa melelahkan bagimu?
+m|Bagaimana pendapatmu tentang tradisi yang membedakan peran laki-laki dan perempuan?
+m|Apa cerita leluhur yang ingin kamu ketahui lebih banyak?
+m|Bagaimana keluarga kita bisa mencatat resep dan cerita agar tidak hilang?
+m|Apa tradisi dari daerah lain yang ingin kamu kenalkan ke keluarga?
+m|Bagaimana perasaanmu saat pertama kali merayakan hari raya jauh dari keluarga?
+m|Apa tradisi keluarga yang paling cocok untuk zaman sekarang?
+m|Bagaimana cara keluarga kita merayakan keberagaman di dalamnya?
+m|Apa yang ingin kamu ubah dari cara keluarga besar berkumpul?
+m|Bagaimana pendapatmu tentang tradisi perjodohan atau saran pasangan dari keluarga?
+m|Kebiasaan keluarga apa yang dulu membuatmu merasa sudah dianggap besar?
+m|Bagaimana kamu ingin tradisi hari raya di rumahmu sendiri nanti?
+m|Apa makanan tradisi yang menurutmu terlalu rumit dan perlu disederhanakan?
+m|Bagaimana keluarga kita bisa membuat tradisi yang lebih ramah lingkungan?
+m|Apa tradisi keluarga yang ingin kamu dokumentasikan dalam video atau foto?
+m|Bagaimana pendapatmu tentang tradisi kumpul keluarga setiap minggu?
+m|Apa yang ingin kamu tanyakan kepada orang tua tentang tradisi keluarga mereka dulu?
+d|Apa yang kamu rasakan saat tradisi keluarga dilakukan tanpa orang yang dulu memimpinnya?
+d|Apa tradisi yang ingin kamu teruskan sebagai bentuk hormat kepada orang tua?
+d|Apa yang membuatmu merasa tradisi keluarga memberi rasa aman?
+d|Apa yang ingin kamu ubah dari tradisi keluarga agar semua anggota merasa nyaman?
+d|Apa yang membuatmu merasa tradisi keluarga menjadi beban?
+d|Apa yang ingin kamu sampaikan kepada keluarga besar yang jarang kamu ungkapkan?
+d|Apa tradisi yang membuatmu menangis haru?
+d|Apa yang membuatmu merasa keluarga adalah akar yang menguatkanmu?
+d|Apa yang ingin kamu ceritakan tentang keluarga kita kepada orang yang belum mengenalnya?
+d|Apa tradisi yang membuatmu merasa menjadi bagian dari sesuatu yang lebih besar?
+s|Apa kebiasaan keluarga saat menyambut tamu dari keluarga calon menantu?
+s|Siapa yang selalu menyimpan foto-foto lama keluarga?
+s|Apa tradisi keluarga saat merayakan anniversary rumah atau usaha keluarga?
+s|Apa kebiasaan keluarga saat pergi ke pasar bersama menjelang hari raya?
+s|Siapa yang selalu menghafal lagu-lagu daerah keluarga?
+s|Apa tradisi keluarga saat makan di luar bersama?
+s|Apa kebiasaan keluarga saat menyiapkan kado untuk anggota keluarga?
+s|Siapa yang paling suka mengenakan pakaian adat saat acara?
+s|Apa tradisi keluarga saat malam hari sebelum keberangkatan mudik?
+s|Apa kebiasaan keluarga saat menerima kiriman makanan dari tetangga?
+m|Apa tradisi keluarga yang ingin kamu ceritakan kepada teman dari budaya berbeda?
+m|Bagaimana cara keluarga kita merayakan anggota keluarga yang berprestasi tanpa membandingkan?
+m|Apa tradisi keluarga yang menurutmu bisa dijadikan acara rutin bulanan?
+m|Bagaimana pendapatmu tentang tradisi keluarga yang memakan biaya besar?
+m|Apa hal yang ingin kamu tambahkan ke tradisi hari raya keluarga kita?
+d|Apa tradisi yang ingin kamu lakukan untuk mengenang orang tua suatu hari nanti?
+d|Apa yang membuatmu merasa tradisi keluarga adalah pelukan yang diwariskan?
+d|Apa yang ingin kamu katakan kepada generasi sebelum kita tentang cara mereka menjaga keluarga?
+d|Apa tradisi yang membuatmu merasa tetap dekat dengan keluarga walau jauh?
+d|Apa yang membuatmu bersyukur pada tradisi keluarga yang dulu kamu anggap merepotkan?
