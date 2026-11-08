@@ -1,0 +1,252 @@
+# Kesehatan Mental Ringan — diri sendiri, semua mode, "kamu". Suportif, bukan diagnosis.
+s|Bagian tubuh mana yang paling terasa tegang hari ini?
+s|Apa satu hal yang membuat suasana hatimu membaik hari ini?
+s|Apa lagu yang biasa kamu putar saat butuh ketenangan?
+s|Berapa jam kamu tidur semalam, dan apakah terasa cukup?
+s|Apa kegiatan kecil yang membuatmu merasa lebih tenang?
+s|Kapan terakhir kali kamu berjalan-jalan tanpa tujuan?
+s|Apa minuman hangat yang membuatmu merasa nyaman?
+s|Apa tempat yang membuat pikiranmu terasa lapang?
+s|Kapan terakhir kali kamu benar-benar beristirahat tanpa ponsel?
+s|Apa kebiasaan pagi yang membantumu memulai hari dengan tenang?
+s|Apa hal yang membuatmu tertawa minggu ini?
+s|Apa jenis gerakan tubuh yang membuatmu merasa lebih segar?
+s|Apa kebiasaan malam yang membantumu tidur lebih nyenyak?
+s|Apa aplikasi yang paling menguras energimu?
+s|Apa aplikasi atau akun yang membuatmu merasa lebih baik?
+s|Siapa orang yang bisa membuatmu tenang hanya dengan mengobrol?
+s|Apa jenis musik yang membantumu fokus?
+s|Hal biasa apa hari ini yang ternyata cukup menyenangkan?
+s|Apa makanan yang membuatmu merasa diperhatikan?
+s|Kapan terakhir kali kamu merasa benar-benar santai?
+s|Apa hobi yang membantumu melupakan stres sejenak?
+s|Apa tanaman, hewan, atau benda yang membuatmu merasa damai?
+s|Apa suara alam favoritmu?
+s|Berapa banyak air yang kamu minum hari ini?
+s|Apa jenis tontonan yang membuatmu merasa ringan?
+s|Kapan terakhir kali kamu merasakan sinar matahari pagi?
+s|Apa kebiasaan kecil yang membuat kamarmu terasa menenangkan?
+s|Apa kegiatan yang membuatmu merasa terhubung dengan orang lain?
+s|Apa permainan sederhana yang membantumu melepas penat?
+s|Apa jenis bacaan yang membantumu tidur?
+s|Apa hal yang ingin kamu kurangi dari jadwalmu minggu ini?
+s|Apa hal yang ingin kamu tambahkan ke jadwalmu untuk bersenang-senang?
+s|Apa aroma yang membantumu merasa rileks?
+s|Apa kebiasaan yang membuatmu merasa lebih teratur?
+s|Kapan terakhir kali kamu menangis karena terharu, bukan sedih?
+s|Apa kegiatan kreatif yang membuat pikiranmu tenang?
+s|Apa hal yang membuatmu merasa diterima hari ini?
+s|Apa jenis jalan-jalan yang membuat kepalamu lebih jernih?
+s|Apa hal yang ingin kamu katakan kepada tubuhmu yang sudah bekerja keras?
+s|Apa camilan sehat yang kamu suka saat stres?
+s|Apa kebiasaan yang membuatmu merasa lebih fokus saat bekerja atau belajar?
+s|Apa jenis istirahat singkat yang paling efektif buatmu?
+s|Apa hal yang membuatmu tersenyum saat mengingat masa kecil?
+s|Siapa yang ingin kamu hubungi untuk sekadar menanyakan kabar?
+s|Apa jenis olahraga ringan yang ingin kamu coba?
+s|Kalau energimu hari ini adalah baterai ponsel, berapa persen sisanya?
+s|Apa kebiasaan yang membantumu menenangkan napas?
+s|Apa hal yang ingin kamu tulis di jurnal malam ini?
+s|Apa jenis kegiatan di alam yang paling kamu sukai?
+s|Kepada siapa kamu paling lega setelah menumpahkan isi kepala?
+s|Apa jenis kegiatan bersama teman yang membuatmu bahagia?
+s|Kapan terakhir kali kamu mematikan notifikasi selama satu jam?
+s|Apa kebiasaan yang membuatmu merasa sedang merawat diri?
+s|Apa hal yang membuatmu merasa sedang berada di saat ini, bukan di masa lalu atau masa depan?
+s|Apa jenis pemandangan yang membuatmu tenang?
+s|Apa hal yang ingin kamu lakukan untuk merayakan istirahatmu?
+s|Apa jenis kegiatan yang membuatmu lupa sejenak pada masalah?
+s|Apa kebiasaan kecil yang membuat harimu lebih teratur?
+s|Apa hal yang ingin kamu lakukan untuk merapikan pikiranmu?
+s|Apa jenis pelukan atau sentuhan yang membuatmu merasa aman?
+s|Apa kebiasaan yang ingin kamu coba untuk mengurangi waktu layar?
+s|Apa hal yang membuatmu merasa tenang sebelum ujian atau rapat?
+s|Apa jenis permainan musik atau alat yang menenangkanmu?
+s|Apa kebiasaan yang membuat pagimu tidak terburu-buru?
+s|Apa hal yang membuatmu merasa bangga karena berhasil melewati hari?
+s|Apa jenis kegiatan sukarela yang membuat hatimu hangat?
+s|Apa kebiasaan makan yang membuat tubuhmu terasa lebih baik?
+s|Apa hal yang ingin kamu tinggalkan di tempat kerja atau sekolah sebelum pulang?
+s|Apa jenis hari libur yang paling memulihkan energimu?
+s|Apa kebiasaan yang membuatmu lebih sabar terhadap diri sendiri?
+s|Apa hal kecil yang bisa kamu lakukan sekarang untuk merasa sedikit lebih baik?
+s|Apa jenis kata penyemangat yang ingin kamu dengar hari ini?
+s|Apa hal yang membuatmu merasa sedang dijaga oleh orang lain?
+s|Apa kebiasaan yang membuatmu merasa lebih dekat dengan keluarga?
+s|Apa hal yang membuatmu merasa sedang menikmati waktu sendirian?
+s|Apa jenis kegiatan yang membuatmu merasa produktif tanpa merasa tertekan?
+s|Apa hal kecil yang bisa kamu lakukan untuk teman yang sedang lelah?
+m|Bagaimana kamu tahu kalau kamu sedang stres?
+m|Apa tanda-tanda bahwa kamu butuh istirahat?
+m|Apa yang biasanya kamu lakukan saat merasa cemas?
+m|Bagaimana kamu menghadapi pikiran yang terus berputar sebelum tidur?
+m|Kegiatan rutin mana yang diam-diam membuatmu paling capek secara emosi?
+m|Bagaimana kamu menjaga batas antara pekerjaan dan istirahat?
+m|Apa jenis dukungan yang paling kamu butuhkan saat sedang tidak baik-baik saja?
+m|Bagaimana kamu menghadapi hari ketika tidak ingin bertemu siapa pun?
+m|Apa hal yang membuatmu merasa kewalahan belakangan ini?
+m|Bagaimana kamu menenangkan diri setelah bertengkar dengan seseorang?
+m|Apa kebiasaan yang ingin kamu tinggalkan karena membuatmu cemas?
+m|Bagaimana kamu menghadapi rasa bersalah karena beristirahat?
+m|Bantuan seperti apa yang paling mudah kamu terima tanpa merasa merepotkan?
+m|Bagaimana kamu bisa mengenali suasana hatimu lebih awal?
+m|Topik apa yang paling sering membuat pikiranmu berputar tanpa ujung?
+m|Bagaimana kamu menghadapi kritik yang membuatmu terganggu berhari-hari?
+m|Apa yang biasanya membuatmu merasa kesepian?
+m|Bagaimana kamu mengatasi rasa bosan yang berkepanjangan?
+m|Apa jenis berita atau konten yang sebaiknya kamu batasi?
+m|Bagaimana kamu menjaga kesehatan mental saat sedang sibuk sekali?
+m|Apa yang ingin kamu katakan kepada teman yang terlihat sedang murung?
+m|Bagaimana kamu menghadapi rasa takut ketinggalan atau FOMO?
+m|Apa hal yang membuatmu merasa lebih stabil secara emosi?
+m|Bagaimana kamu mengatur napas atau pikiran saat panik?
+m|Apa hal yang ingin kamu pelajari tentang mengelola emosi?
+m|Bagaimana pendapatmu tentang pergi ke psikolog atau konselor?
+m|Apa yang membuatmu ragu bercerita tentang perasaanmu?
+m|Bagaimana kamu menghadapi hari ketika semuanya terasa berat tanpa alasan jelas?
+m|Apa kebiasaan media sosial yang membuat suasana hatimu turun?
+m|Bagaimana kamu membedakan lelah fisik dan lelah emosional?
+m|Target mana yang sebenarnya boleh kamu longgarkan demi kesehatanmu?
+m|Bagaimana kamu ingin orang lain menanggapi saat kamu bilang sedang tidak baik?
+m|Apa yang biasanya membantumu bangkit setelah hari yang buruk?
+m|Bagaimana kamu menjaga energimu saat berada di keramaian?
+m|Apa hal yang ingin kamu ubah dari pola tidurmu?
+m|Bagaimana kamu menghadapi perasaan tidak berguna?
+m|Apa hal yang membuatmu merasa terlalu dibebani harapan orang lain?
+m|Bagaimana kamu menjaga dirimu saat ada masalah keluarga?
+m|Apa hal yang membuatmu merasa perlu menjauh sementara dari media sosial?
+m|Bagaimana kamu menunjukkan kepedulian kepada dirimu saat cemas?
+d|Kapan terakhir kali kamu merasa benar-benar tidak baik-baik saja?
+d|Apa yang membuatmu bertahan di hari-hari paling berat?
+d|Apa beban yang sudah terlalu lama kamu pikul sendirian?
+d|Apa yang ingin kamu katakan kepada dirimu yang sedang kesulitan?
+d|Siapa orang yang paling ingin kamu ajak bicara saat sedang hancur?
+d|Apa yang membuatmu takut terlihat lemah?
+d|Apa luka yang masih memengaruhi suasana hatimu sampai sekarang?
+d|Apa yang membuatmu sulit percaya bahwa kamu layak ditolong?
+d|Apa yang kamu butuhkan untuk merasa aman secara emosional?
+d|Saat merasa tidak berharga, kebenaran apa yang perlu kamu ingat tentang dirimu?
+d|Apa hal yang ingin kamu maafkan dari dirimu karena pernah tidak kuat?
+d|Apa yang membuatmu masih memilih untuk bangun setiap pagi?
+d|Apa yang ingin kamu ceritakan tentang perasaanmu yang belum pernah kamu ucapkan?
+d|Di keramaian seperti apa kamu justru merasa paling terasing?
+d|Pertarungan batin apa yang tidak terlihat dari senyummu?
+d|Apa yang membuatmu bisa berdamai dengan hari-hari yang buruk?
+d|Apa yang ingin kamu ubah dari caramu berbicara kepada dirimu saat sedih?
+d|Apa yang membuatmu merasa layak beristirahat tanpa harus menjelaskan?
+d|Apa yang ingin kamu lakukan jika kamu tahu tidak ada yang menghakimi?
+d|Apa yang membuatmu merasa sudah melangkah jauh dari masa tersulitmu?
+d|Apa yang membuatmu ingin mencari bantuan ketika semuanya terlalu berat?
+d|Apa hal yang membuatmu merasa ditemani bahkan saat sendirian?
+d|Apa yang ingin kamu pastikan tetap kamu lakukan untuk kesehatan jiwamu?
+d|Apa yang membuatmu merasa harapan masih ada di hari yang mendung?
+d|Apa yang ingin kamu katakan kepada orang yang pernah menemanimu di masa tergelap?
+d|Apa yang membuatmu merasa cukup kuat untuk menghadapi minggu depan?
+d|Apa yang membuatmu ingin terus merawat dirimu dengan lembut?
+d|Apa yang ingin kamu sampaikan kepada orang lain yang sedang merasa sendirian?
+d|Apa satu hal yang bisa kamu lakukan malam ini agar besok sedikit lebih ringan?
+d|Apa yang membuatmu yakin perasaan berat ini tidak akan selamanya?
+s|Apa jenis teh atau minuman yang kamu minum saat ingin tenang?
+s|Apa hal yang membuatmu merasa lebih segar setelah mandi?
+s|Apa hal yang kamu lakukan saat istirahat makan siang untuk menyegarkan pikiran?
+s|Apa jenis kegiatan tangan yang menenangkanmu, seperti merajut atau menggambar?
+s|Apa jenis video yang membuatmu tertawa saat sedang suntuk?
+s|Apa tempat dekat rumah yang bisa kamu datangi untuk menghirup udara segar?
+s|Apa hal yang membuatmu merasa sedang diberi waktu untuk bernapas?
+s|Apa jenis hewan yang membuatmu merasa tenang saat melihatnya?
+s|Apa jenis lampu atau suasana ruangan yang membuatmu nyaman?
+s|Apa kebiasaan yang membuatmu merasa siap menghadapi Senin?
+s|Apa hal yang ingin kamu katakan kepada dirimu saat bangun tidur besok?
+s|Apa hal yang membuatmu merasa ringan setelah membereskan meja?
+s|Hobi apa yang membuat baterai sosialmu terisi lagi?
+s|Apa jenis makanan yang kamu kurangi karena membuatmu lesu?
+s|Apa hal yang membuatmu merasa sedang menikmati perjalanan pulang?
+s|Pesan atau sapaan siapa yang membuat harimu terasa ditemani?
+s|Apa jenis permainan teka-teki yang membuat pikiranmu fokus dan tenang?
+s|Apa jenis pesan yang ingin kamu terima saat sedang lelah?
+s|Apa hal kecil yang membuatmu merasa sedang dihargai di rumah?
+s|Apa jenis aktivitas sore yang membuatmu merasa rileks?
+s|Apa hal yang bisa kamu lakukan dalam lima menit untuk menenangkan diri?
+s|Apa jenis kenangan yang membuatmu merasa hangat saat cemas?
+s|Apa hal yang membuatmu merasa sedang pulih dari minggu yang berat?
+s|Apa yang kamu lakukan agar antrean panjang tidak merusak mood-mu?
+s|Apa hal yang membuatmu merasa bangga karena sudah menjaga dirimu minggu ini?
+s|Apa jenis cerita lucu yang selalu membuatmu tersenyum?
+s|Apa kebiasaan yang membuatmu merasa terhubung dengan teman lama?
+s|Apa hal yang membuatmu merasa sedang memberi ruang pada dirimu?
+s|Apa jenis waktu luang yang ingin kamu jadwalkan minggu depan?
+s|Apa hal yang membuatmu merasa damai saat mendengar hujan?
+s|Apa jenis gerakan peregangan yang membuat tubuhmu terasa lega?
+s|Apa hal yang membuatmu merasa sedang menjaga pikiran tetap jernih?
+s|Apa kebiasaan yang membantumu berhenti memikirkan pekerjaan di malam hari?
+s|Apa hal yang membuatmu merasa sedang menikmati masa kini?
+s|Apa jenis kegiatan yang ingin kamu lakukan bersama keluarga untuk melepas penat?
+s|Apa hal sederhana yang membuat hari ini layak disyukuri?
+m|Apa yang biasanya kamu lakukan saat merasa tidak termotivasi?
+m|Bagaimana kamu menghadapi rasa marah yang muncul tiba-tiba?
+m|Apa hal yang membuatmu merasa tidak cukup tidur walau sudah tidur lama?
+m|Bagaimana kamu menghadapi tekanan dari lingkungan pertemanan?
+m|Apa hal yang ingin kamu ubah dari caramu menghadapi kegagalan kecil?
+m|Bagaimana kamu menjaga semangat saat cuaca atau suasana sedang muram?
+m|Apa yang biasanya kamu lakukan saat rasa sedih datang tanpa alasan?
+m|Bagaimana kamu memberi tahu orang lain bahwa kamu butuh waktu sendiri?
+m|Apa hal yang membuatmu merasa terlalu banyak bersosialisasi?
+m|Bagaimana kamu menghadapi rasa iri yang membuatmu gelisah?
+m|Apa hal yang membuatmu merasa perlu mengatur ulang prioritas hidup?
+m|Bagaimana kamu menjaga kesehatan mental saat sedang sakit fisik?
+m|Apa hal yang ingin kamu sampaikan kepada keluarga tentang kebutuhan istirahatmu?
+m|Bagaimana kamu menghadapi perubahan besar yang membuatmu cemas?
+m|Apa hal yang membuatmu merasa terlalu fokus pada kesalahan orang lain?
+m|Bagaimana kamu menghadapi rasa malu setelah melakukan kesalahan di depan umum?
+m|Apa hal yang membuatmu merasa sudah waktunya meminta bantuan profesional?
+m|Bagaimana kamu menjaga dirimu saat teman dekat sedang dalam masa sulit?
+m|Apa hal yang membuatmu merasa sedang kehilangan kendali?
+m|Bagaimana kamu menghadapi pikiran negatif tentang masa depan?
+m|Apa hal yang ingin kamu pelajari dari orang yang terlihat tenang menghadapi masalah?
+m|Bagaimana kamu memastikan dirimu tetap makan dan minum saat sedang sibuk?
+m|Apa hal yang membuatmu merasa terlalu banyak tanggung jawab?
+d|Apa yang membuatmu merasa sedang memakai topeng setiap hari?
+d|Apa yang ingin kamu katakan kepada dirimu di malam ketika semuanya terasa terlalu banyak?
+d|Apa yang membuatmu bisa memaafkan dirimu karena tidak produktif?
+d|Apa yang membuatmu merasa sedang dalam proses pulih?
+d|Apa yang membuatmu merasa takut menjadi beban bagi orang lain?
+d|Apa yang membuatmu yakin orang di sekitarmu peduli walau tidak selalu terlihat?
+d|Apa yang ingin kamu ubah dari dirimu demi ketenangan jangka panjang?
+d|Apa yang membuatmu merasa berani mengakui bahwa kamu sedang tidak kuat?
+d|Apa yang ingin kamu ingat dari hari-hari baik saat hari buruk datang?
+d|Apa yang membuatmu merasa sedang membangun kembali dirimu sedikit demi sedikit?
+s|Apa kebiasaan yang membuat pikiranmu tenang saat menyetir atau di jalan?
+s|Apa jenis kegiatan di dapur yang membuatmu merasa rileks?
+s|Apa hal yang membuatmu merasa ringan setelah membuang barang yang tidak perlu?
+s|Apa jenis tontonan yang sebaiknya kamu hindari saat sedang cemas?
+s|Apa hal yang membuatmu merasa tenang saat melihat langit?
+s|Apa kebiasaan yang membuatmu merasa sedang merawat kesehatan mata dan tubuh?
+s|Apa hal yang membuatmu tersenyum saat melihat foto lama?
+s|Apa jenis kegiatan yang ingin kamu lakukan untuk menyambut hari libur?
+s|Apa hal yang membuatmu merasa sedang beristirahat dengan benar?
+s|Apa jenis udara atau suhu yang membuatmu paling nyaman?
+s|Apa hal yang membuatmu merasa sedang dihibur oleh hal-hal kecil?
+s|Apa kebiasaan yang membuatmu merasa lebih siap menghadapi orang yang sulit?
+s|Apa hal yang membuatmu merasa lega setelah menyelesaikan tugas kecil?
+s|Apa jenis permainan bersama keluarga yang membuatmu melupakan stres?
+s|Apa hal yang membuatmu merasa sedang menjaga keseimbangan hari ini?
+s|Apa kebiasaan yang membuatmu merasa sedang menyayangi dirimu tanpa biaya?
+s|Apa hal yang ingin kamu lakukan untuk merayakan kemajuan kecilmu?
+m|Bagaimana kamu menghadapi rasa takut akan penilaian orang lain di media sosial?
+m|Apa hal yang membuatmu merasa perlu bercerita kepada seseorang hari ini?
+m|Bagaimana kamu menjaga dirimu saat menghadapi kabar duka?
+m|Apa hal yang membuatmu merasa terlalu sering membandingkan pencapaian?
+m|Bagaimana kamu merayakan hari ketika kamu berhasil melewati rasa cemas?
+m|Apa hal yang ingin kamu katakan kepada orang yang meremehkan kesehatan mental?
+m|Bagaimana kamu memastikan waktu istirahatmu benar-benar memulihkan?
+m|Apa hal yang membuatmu merasa sedang terlalu memaksakan diri?
+d|Apa yang membuatmu merasa sudah lebih kuat dibanding setahun lalu?
+d|Apa yang ingin kamu ucapkan terima kasih kepada dirimu karena sudah bertahan?
+d|Apa yang membuatmu merasa layak hidup dengan tenang?
+d|Apa yang ingin kamu sampaikan kepada orang yang kamu sayangi tentang kesehatan jiwamu?
+d|Apa yang membuatmu yakin badai di kepalamu suatu hari akan reda?
+d|Apa yang ingin kamu pelajari dari masa-masa sulit yang sudah kamu lewati?
+s|Apa jenis selimut, bantal, atau boneka yang membuatmu merasa aman?
+s|Apa kebiasaan kecil yang membuatmu merasa sedang menyiapkan tidur yang baik?
+m|Bagaimana kamu menjaga dirimu saat jadwal sedang tidak menentu?
+d|Apa yang membuatmu merasa kamu tetap berharga di hari kamu tidak menghasilkan apa-apa?
