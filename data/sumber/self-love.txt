@@ -232,7 +232,7 @@ s|Apa hal yang ingin kamu coba agar lebih menikmati waktu sendiri?
 s|Apa jenis aktivitas yang membuatmu merasa sedang bermain lagi seperti anak kecil?
 s|Apa jenis lilin, minyak, atau wewangian yang menenangkanmu?
 s|Apa hal yang membuatmu merasa layak berdandan walau tidak ke mana-mana?
-s|Apa kebiasaan yang membuatmu merasa lebih dekat dengan dirimu sendiri?
+s|Ritual kecil apa yang membuatmu merasa sedang berkencan dengan dirimu sendiri?
 m|Bagaimana kamu menyikapi rasa malas tanpa menghakimi dirimu?
 m|Apa hal yang membuatmu merasa sedang menjadi pendukung terbaik untuk dirimu?
 m|Bagaimana kamu menghadapi hari ketika merasa tidak disukai siapa pun?

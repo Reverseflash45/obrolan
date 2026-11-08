@@ -247,5 +247,6 @@
 {"id":"karier-ambisi-0246","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"dalam","adult":false,"text":"Apa yang membuatmu merasa tetap bernilai walau tidak punya jabatan?"},
 {"id":"karier-ambisi-0247","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"dalam","adult":false,"text":"Apa yang ingin kamu ingat dari perjuangan kariermu saat sudah tua nanti?"},
 {"id":"karier-ambisi-0248","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"dalam","adult":false,"text":"Apa yang membuatmu yakin keberhasilan juga bisa dicapai dengan cara yang lembut?"},
-{"id":"karier-ambisi-0249","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"dalam","adult":false,"text":"Apa yang membuatmu ingin membantu orang lain menapaki jalan yang pernah kamu lalui?"}
+{"id":"karier-ambisi-0249","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"dalam","adult":false,"text":"Apa yang membuatmu ingin membantu orang lain menapaki jalan yang pernah kamu lalui?"},
+{"id":"karier-ambisi-0250","topic":"karier-ambisi","mode":["sendiri","pasangan","teman","keluarga"],"level":"santai","adult":false,"text":"Apa jenis tantangan baru yang ingin kamu ambil bulan depan?"}
 ]

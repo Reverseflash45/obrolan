@@ -248,3 +248,4 @@ d|Apa yang membuatmu merasa tetap bernilai walau tidak punya jabatan?
 d|Apa yang ingin kamu ingat dari perjuangan kariermu saat sudah tua nanti?
 d|Apa yang membuatmu yakin keberhasilan juga bisa dicapai dengan cara yang lembut?
 d|Apa yang membuatmu ingin membantu orang lain menapaki jalan yang pernah kamu lalui?
+s|Apa jenis tantangan baru yang ingin kamu ambil bulan depan?

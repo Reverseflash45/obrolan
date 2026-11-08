@@ -1,0 +1,251 @@
+# Ketakutan & Harapan — diri sendiri, semua mode, "kamu"
+s|Hewan apa yang paling kamu takuti?
+s|Apa film horor yang membuatmu paling takut?
+s|Apa hal sepele yang diam-diam kamu takuti?
+s|Kamu lebih takut ketinggian, kegelapan, atau tempat sempit?
+s|Apa mitos atau cerita hantu yang dulu membuatmu takut?
+s|Apa wahana taman bermain yang tidak berani kamu naiki?
+s|Apa harapan kecilmu untuk minggu ini?
+s|Apa hal yang kamu harap terjadi besok pagi?
+s|Apa doa atau harapan yang kamu ucapkan saat meniup lilin terakhir kali?
+s|Apa hal yang kamu harapkan dari liburan berikutnya?
+s|Apa hal yang membuatmu gugup sebelum tampil di depan umum?
+s|Apa suara yang membuatmu kaget atau takut di malam hari?
+s|Apa ketakutan masa kecil yang sekarang terasa lucu?
+s|Apa hal yang kamu harapkan dari ulang tahunmu berikutnya?
+s|Apa hal yang membuatmu panik di jalan raya?
+s|Apa hal yang membuatmu deg-degan saat membuka pesan?
+s|Apa harapan kecilmu untuk orang tuamu tahun ini?
+s|Apa harapan kecilmu untuk sahabatmu tahun ini?
+s|Apa hal yang ingin kamu coba walau sedikit menakutkan?
+s|Apa hal yang membuatmu takut saat naik pesawat atau kapal?
+s|Apa kebiasaan yang kamu lakukan saat sedang takut?
+s|Apa lagu yang membuatmu merasa berani?
+s|Apa hal yang kamu harapkan dari cuaca besok?
+s|Apa makanan yang kamu takut mencobanya?
+s|Apa hal yang kamu harap bisa kamu kuasai tanpa takut gagal?
+s|Apa olahraga yang membuatmu takut cedera?
+s|Apa hal yang membuatmu takut kehilangan barang?
+s|Apa harapanmu untuk kota tempat tinggalmu?
+s|Apa hal yang membuatmu takut berbicara dengan orang baru?
+s|Apa hal yang kamu harapkan dari tontonan berikutnya?
+s|Apa hal yang membuatmu takut ke dokter gigi?
+s|Apa hal yang ingin kamu lakukan sebelum rasa takutmu muncul?
+s|Apa harapan kecil yang membuatmu bangun dengan semangat?
+s|Apa hal yang membuatmu takut saat berenang di laut?
+s|Apa harapan kecilmu untuk hewan peliharaan atau tanamanmu?
+s|Apa tempat yang membuatmu merasa merinding?
+s|Apa hal yang membuatmu takut saat sendirian di rumah?
+s|Apa hal yang kamu harap tidak berubah dari hidupmu?
+s|Apa hal yang membuatmu takut saat menyetir?
+s|Apa harapan kecilmu untuk pekerjaan atau sekolahmu minggu ini?
+s|Apa film yang membuatmu penuh harapan setelah menontonnya?
+s|Apa hal yang membuatmu takut saat mencoba makanan pedas?
+s|Apa harapanmu untuk akhir pekan ini?
+s|Apa hal yang membuatmu takut saat bermain wahana air?
+s|Apa harapanmu untuk teman yang sedang kesulitan?
+s|Apa jenis berita yang membuatmu takut membacanya?
+s|Apa hal yang kamu harapkan dari teknologi di masa depan?
+s|Apa hal yang membuatmu takut saat hujan petir?
+s|Apa harapanmu untuk generasi anak-anak sekarang?
+s|Apa hal yang membuatmu takut saat menelepon orang yang tidak kamu kenal?
+s|Apa harapanmu untuk dunia tahun depan?
+s|Apa hal yang membuatmu ragu untuk mengunggah sesuatu di media sosial?
+s|Apa harapanmu untuk dirimu satu bulan lagi?
+s|Apa hal kecil yang membuatmu merasa aman saat takut?
+s|Apa hal yang membuatmu takut saat menunggu hasil ujian?
+s|Apa harapan yang kamu tulis di kertas tapi belum kamu tunjukkan ke siapa pun?
+s|Apa hal yang membuatmu takut kehabisan baterai ponsel?
+s|Apa harapanmu untuk keluargamu di hari raya berikutnya?
+s|Apa hal yang membuatmu takut saat harus bernyanyi di depan orang?
+s|Apa harapanmu untuk dirimu saat bangun tidur besok?
+s|Apa hal yang membuatmu takut saat naik lift sendirian?
+s|Apa harapanmu untuk hubungan pertemananmu tahun ini?
+s|Apa jenis kejutan yang membuatmu takut alih-alih senang?
+s|Apa harapan yang membuatmu tersenyum saat memikirkannya?
+s|Apa hal yang membuatmu takut saat berada di keramaian?
+s|Apa harapanmu untuk tempat kerjamu atau sekolahmu?
+s|Apa hal yang membuatmu takut saat pertama kali mencoba hal baru?
+s|Apa harapanmu untuk tetangga atau lingkungan sekitar?
+s|Apa hal yang membuatmu takut lupa sesuatu yang penting?
+s|Apa harapanmu untuk kesehatanmu tahun ini?
+s|Apa hal yang membuatmu takut saat menonton film thriller?
+s|Apa harapanmu untuk hobimu ke depan?
+s|Apa hal yang membuatmu takut saat ditinggal sendiri di tempat baru?
+s|Apa harapanmu untuk perjalanan berikutnya?
+m|Apa ketakutan yang paling sering menghentikan langkahmu?
+m|Apa harapan yang membuatmu tetap berusaha?
+m|Bagaimana kamu menghadapi rasa cemas sebelum hal penting?
+m|Apa ketakutan yang muncul saat kamu memikirkan masa depan?
+m|Apa harapan yang sedang kamu jaga diam-diam?
+m|Bagaimana kamu membedakan rasa takut yang melindungi dan yang menghambat?
+m|Apa ketakutan yang ingin kamu taklukkan tahun ini?
+m|Apa harapan yang dulu kamu punya dan sekarang berubah?
+m|Bagaimana kamu bangkit saat harapanmu tidak terwujud?
+m|Apa ketakutan yang sering kamu sembunyikan dengan candaan?
+m|Apa harapan yang ingin kamu bagikan kepada orang terdekat?
+m|Bagaimana kamu menenangkan diri saat pikiran buruk datang?
+m|Apa ketakutan tentang hubunganmu dengan orang lain?
+m|Apa harapan untuk hubunganmu dengan orang tua?
+m|Bagaimana kamu menghadapi ketidakpastian?
+m|Apa ketakutan tentang uang yang sering muncul di pikiranmu?
+m|Apa harapan tentang uang yang ingin kamu capai?
+m|Bagaimana kamu merawat harapan saat orang lain meragukannya?
+m|Apa ketakutan yang muncul saat kamu sendirian?
+m|Apa harapan yang muncul saat kamu sendirian?
+m|Bagaimana kamu menghadapi rasa takut ditolak?
+m|Apa ketakutan yang kamu warisi dari keluargamu?
+m|Apa harapan yang kamu warisi dari keluargamu?
+m|Bagaimana kamu mengubah rasa takut menjadi tindakan?
+m|Apa ketakutan yang menurutmu tidak masuk akal tapi tetap ada?
+m|Apa harapan yang terasa terlalu besar untuk diucapkan?
+m|Bagaimana kamu ingin orang lain menanggapi saat kamu sedang takut?
+m|Apa ketakutan tentang kesehatan yang sering kamu pikirkan?
+m|Apa harapan yang membuatmu memilih jalan hidup sekarang?
+m|Bagaimana kamu menghadapi rasa takut akan perubahan?
+m|Apa ketakutan yang pernah terbukti salah?
+m|Apa harapan yang pernah terwujud melebihi perkiraanmu?
+m|Bagaimana kamu menjaga harapan tetap realistis?
+m|Apa ketakutan tentang menjadi dewasa yang masih kamu rasakan?
+m|Apa harapan yang membuatmu merasa muda lagi?
+m|Bagaimana kamu menghadapi ketakutan akan penilaian orang lain?
+m|Apa ketakutan yang muncul saat kamu terlalu bahagia?
+m|Apa harapan yang ingin kamu tulis untuk dibuka sepuluh tahun lagi?
+m|Bagaimana kamu bisa lebih berani mengejar harapanmu?
+m|Apa ketakutan tentang kesepian yang pernah kamu rasakan?
+d|Apa ketakutan terbesarmu dalam hidup?
+d|Apa harapan terbesarmu dalam hidup?
+d|Apa ketakutan yang belum pernah kamu ceritakan kepada siapa pun?
+d|Apa yang membuatmu tetap berharap saat semuanya terasa gelap?
+d|Apa ketakutanmu tentang kehilangan orang yang kamu sayang?
+d|Apa yang kamu harapkan diingat orang tentangmu?
+d|Apa ketakutan yang berasal dari luka masa kecilmu?
+d|Apa harapan yang pernah kamu kubur karena takut kecewa?
+d|Apa yang kamu takutkan akan kamu sesali di akhir hidup?
+d|Apa yang kamu harapkan untuk dirimu yang paling rapuh?
+d|Apa ketakutan yang membuatmu menjauh dari orang lain?
+d|Apa harapan yang membuatmu bertahan di masa tersulit?
+d|Apa yang kamu takutkan tentang dirimu sendiri?
+d|Apa yang kamu harapkan berubah dari dirimu dalam setahun?
+d|Apa ketakutan yang muncul saat kamu membayangkan menua?
+d|Apa harapan yang ingin kamu titipkan untuk anak cucu?
+d|Apa yang membuatmu takut untuk benar-benar percaya pada hal baik?
+d|Apa harapan yang membuatmu ingin terus hidup?
+d|Apa yang kamu takutkan akan terjadi jika kamu menjadi dirimu sepenuhnya?
+d|Apa yang kamu harap kamu tahu lebih awal tentang rasa takut?
+d|Apa ketakutan yang ingin kamu lepaskan sebelum terlambat?
+d|Apa harapan yang ingin kamu wujudkan untuk orang yang sudah tiada?
+d|Apa yang membuatmu takut berharap terlalu tinggi?
+d|Apa yang membuatmu yakin harapan tetap layak dijaga?
+d|Apa ketakutan yang ternyata membuatmu lebih kuat?
+d|Apa harapan yang membuatmu memaafkan masa lalu?
+d|Apa yang ingin kamu katakan kepada dirimu yang sedang ketakutan dulu?
+d|Apa harapan yang kamu pegang untuk dunia yang sedang tidak baik-baik saja?
+d|Apa yang membuatmu takut akan kebahagiaan yang terlalu lama?
+d|Apa harapan yang kamu simpan untuk saat kamu sudah tidak muda lagi?
+s|Apa hal yang membuatmu takut saat harus pindah rumah?
+s|Apa harapan kecilmu untuk kamar atau rumahmu?
+s|Apa hal yang membuatmu takut saat memulai pekerjaan atau sekolah baru?
+s|Apa harapanmu untuk makanan yang akan kamu makan nanti malam?
+s|Apa hal yang membuatmu takut saat mendaki atau berada di alam bebas?
+s|Apa harapanmu untuk ponsel atau gawai barumu?
+s|Apa hal yang membuatmu gelisah saat menunggu kabar?
+s|Apa harapanmu untuk tim olahraga favoritmu?
+s|Apa hal yang membuatmu takut saat berbicara dengan atasan atau guru?
+s|Apa harapan yang kamu ucapkan saat melihat bintang jatuh?
+s|Apa hal yang membuatmu takut saat sendirian di jalan malam hari?
+s|Apa harapanmu untuk penyanyi atau kreator favoritmu?
+s|Apa hal yang membuatmu takut saat salah bicara di depan banyak orang?
+s|Apa harapanmu untuk acara keluarga berikutnya?
+s|Apa hal yang membuatmu takut saat melihat jarum suntik?
+s|Apa harapanmu untuk tabunganmu bulan depan?
+s|Apa hal yang membuatmu takut saat terjebak macet panjang?
+s|Apa harapanmu untuk orang yang baru kamu kenal?
+s|Apa hal yang membuatmu takut saat ponselmu hilang?
+s|Apa harapanmu untuk tanaman yang baru kamu tanam?
+s|Apa hal yang membuatmu takut saat menginap di tempat baru?
+s|Apa harapanmu untuk bukumu, karyamu, atau proyekmu?
+s|Apa hal yang membuatmu takut saat ada serangga terbang di kamar?
+s|Apa harapanmu untuk tahun ajaran atau tahun kerja berikutnya?
+s|Apa hal yang membuatmu takut saat pertama kali mengemudi sendiri?
+s|Apa harapanmu untuk kota yang ingin kamu tinggali kelak?
+s|Apa hal yang membuatmu takut saat menonton pertandingan menegangkan?
+s|Apa harapanmu untuk hari Minggu besok?
+s|Apa hal yang membuatmu takut salah memilih menu di restoran baru?
+s|Apa harapanmu untuk orang yang kamu sayangi malam ini?
+s|Apa hal yang membuatmu takut saat menerima tagihan?
+s|Apa harapanmu untuk dirimu saat menghadapi wawancara atau ujian?
+s|Apa hal yang membuatmu takut saat menjawab telepon dari nomor asing?
+s|Apa harapan kecil yang ingin kamu tempel di dinding kamar?
+s|Apa hal yang membuatmu takut saat mencoba gaya rambut baru?
+s|Apa harapanmu untuk musim hujan atau kemarau kali ini?
+s|Apa hal yang membuatmu takut saat harus menyampaikan kabar buruk?
+s|Apa harapanmu untuk hubunganmu dengan tetangga?
+s|Apa hal yang membuatmu takut saat menaiki tangga tinggi atau jembatan gantung?
+s|Apa harapanmu untuk bahasa atau keterampilan yang sedang kamu pelajari?
+s|Apa hal yang membuatmu takut saat berada di rumah sakit?
+s|Apa harapanmu untuk anak-anak yang kamu kenal?
+s|Apa hal yang membuatmu takut saat melihat ombak besar?
+s|Apa harapanmu untuk kesehatan orang tuamu?
+s|Apa hal yang membuatmu takut saat harus menolak permintaan seseorang?
+s|Apa harapanmu untuk dirimu yang sedang belajar sabar?
+s|Apa hal yang membuatmu takut saat melihat ketinggian dari jendela gedung?
+s|Apa harapanmu untuk perayaan tahun baru berikutnya?
+s|Apa hal yang membuatmu takut saat mencoba resep baru di depan tamu?
+s|Apa harapanmu untuk karya yang sedang kamu kerjakan?
+s|Apa hal yang membuatmu takut saat mengirim pesan yang penting?
+s|Apa harapanmu untuk pagi hari esok?
+s|Apa hal yang membuatmu takut saat melihat tanda baterai merah di ponsel?
+s|Apa harapanmu untuk generasi tua di keluargamu?
+s|Apa hal yang membuatmu takut saat harus bangun sangat pagi?
+s|Apa harapanmu untuk rencana liburan yang belum pasti?
+m|Bagaimana kamu menghadapi ketakutan saat harus memulai dari awal?
+m|Apa harapan yang membuatmu rela menunggu lama?
+m|Bagaimana kamu menenangkan orang lain yang sedang ketakutan?
+m|Apa ketakutan yang muncul saat kamu membandingkan diri dengan orang lain?
+m|Apa harapan yang ingin kamu wujudkan bersama orang tersayang?
+m|Bagaimana kamu menghadapi rasa takut kehilangan pekerjaan atau kesempatan?
+m|Apa ketakutan yang paling sering muncul di mimpimu?
+m|Apa harapan yang muncul saat kamu melihat anak kecil bermain?
+m|Bagaimana kamu menyikapi ketakutan orang tua terhadap pilihanmu?
+m|Apa ketakutan yang membuatmu sulit tidur belakangan ini?
+m|Apa harapan yang membuatmu ingin belajar hal baru?
+m|Bagaimana kamu menghadapi ketakutan akan kegagalan di depan umum?
+m|Apa harapan yang membuatmu memilih untuk memaafkan?
+m|Bagaimana kamu menghadapi rasa takut saat mengambil keputusan besar?
+m|Apa ketakutan yang berubah menjadi keberanian setelah kamu hadapi?
+m|Apa harapan yang ingin kamu pastikan tetap hidup di keluargamu?
+m|Bagaimana kamu menjaga harapan saat berita buruk terus berdatangan?
+m|Apa ketakutan tentang dunia digital yang sering kamu pikirkan?
+m|Apa harapan untuk lingkungan dan bumi yang kamu pegang?
+m|Bagaimana kamu mengajarkan anak atau adik menghadapi rasa takut?
+m|Apa ketakutan yang membuatmu terlalu berhati-hati?
+m|Apa harapan yang membuatmu menabung atau berhemat?
+d|Apa yang membuatmu takut dilupakan?
+d|Apa harapan yang ingin kamu dengar dari orang lain tentang dirimu?
+d|Apa ketakutan yang membuatmu memilih hidup biasa-biasa saja?
+d|Apa harapan yang kamu genggam untuk orang yang pernah menyakitimu?
+d|Apa yang membuatmu yakin rasa takut tidak akan menguasai hidupmu?
+d|Apa harapan yang muncul saat kamu memikirkan dirimu di usia tua?
+d|Apa ketakutan yang ingin kamu bagi agar tidak lagi kamu pikul sendirian?
+d|Apa yang membuatmu berani berharap lagi setelah dikecewakan?
+d|Apa ketakutan yang membuatmu memahami orang lain dengan lebih baik?
+d|Apa harapan yang ingin kamu ucapkan untuk dirimu malam ini sebelum tidur?
+s|Apa hal yang membuatmu takut saat melihat nilai rapor atau evaluasi kerja?
+s|Apa harapanmu untuk hari pertama di tempat baru?
+s|Apa hal yang membuatmu takut saat harus memotong rambut di tempat baru?
+s|Apa harapanmu untuk teman masa kecil yang sudah lama tidak kamu temui?
+s|Apa hal yang membuatmu takut saat berada di laut lepas?
+s|Apa harapanmu untuk perayaan ulang tahun orang yang kamu sayangi?
+s|Apa hal yang membuatmu takut saat pertama kali bertemu keluarga orang lain?
+s|Apa harapanmu untuk film atau serial yang sedang kamu tunggu?
+m|Bagaimana kamu menghadapi ketakutan akan masa tua yang sendirian?
+m|Apa harapan yang membuatmu ingin menjadi orang yang lebih sabar?
+m|Bagaimana kamu menjaga keberanian setelah pengalaman yang menakutkan?
+m|Apa ketakutan yang ingin kamu ceritakan kepada orang tua tapi belum sempat?
+m|Apa harapan yang ingin kamu sampaikan kepada pemimpin daerahmu?
+d|Apa yang membuatmu merasa ketakutanmu adalah bentuk cintamu pada sesuatu?
+d|Apa harapan yang membuatmu bersedia menempuh jalan panjang?
+d|Apa yang ingin kamu katakan pada rasa takutmu kalau dia bisa mendengar?
+d|Apa harapan yang ingin kamu tinggalkan untuk dunia setelah kamu pergi?
+d|Apa yang membuatmu sanggup berjalan walau rasa takut belum hilang?
