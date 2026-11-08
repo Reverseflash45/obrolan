@@ -1,0 +1,253 @@
+# Random Lucu — seru, semua mode, "kamu"
+s|Kalau kamu jadi buah, kamu buah apa dan kenapa?
+s|Apa suara hewan yang paling jago kamu tirukan?
+s|Kalau sifatmu dijadikan rasa keripik, rasanya apa?
+s|Apa makanan yang menurutmu punya nama paling lucu?
+s|Kalau benda di rumahmu bisa protes, benda mana yang paling sering protes?
+s|Kalau kamu jadi emoji, kamu emoji yang mana?
+s|Apa kebiasaan anehmu saat makan?
+s|Kalau kamu jadi kendaraan, kamu kendaraan apa?
+s|Apa hal paling absurd yang pernah kamu cari di internet?
+s|Kalau kamu harus mengganti namamu dengan nama makanan, nama apa?
+s|Apa kata yang menurutmu paling enak diucapkan?
+s|Kalau sandal jepitmu bisa bicara, apa keluhannya?
+s|Apa tarian andalanmu kalau tiba-tiba diminta joget?
+s|Kalau kamu jadi hantu, kamu menghantui tempat apa?
+s|Apa makanan yang paling aneh pernah kamu coba?
+s|Kalau kamu jadi pelawak, nama panggungmu apa?
+s|Apa salah ucap paling memalukan yang pernah kamu lakukan?
+s|Kalau kamu bisa memberi nama baru untuk hari Senin, nama apa?
+s|Apa benda yang paling sering kamu cari padahal sedang kamu pegang?
+s|Kalau kucing bisa kerja kantoran, jabatan apa yang cocok untuk kucing?
+s|Apa julukan paling aneh yang pernah diberikan orang kepadamu?
+s|Kalau kamu jadi tokoh iklan, iklan produk apa?
+s|Apa lagu yang liriknya sering kamu salah nyanyikan?
+s|Kalau kamu jadi warna, kamu warna apa hari ini?
+s|Apa kebiasaanmu saat sendirian di kamar yang tidak diketahui orang?
+s|Kalau kamu bisa mengganti suara klakson motor, suaranya jadi apa?
+s|Apa hal konyol yang kamu percayai waktu kecil?
+s|Kalau kamu jadi meme, kamu meme yang mana?
+s|Apa makanan yang paling sering bikin kamu belepotan?
+s|Kalau kamu harus mengikuti lomba aneh, lomba apa yang pasti kamu menangkan?
+s|Apa suara tawa paling unik yang pernah kamu dengar?
+s|Kalau kamu jadi hewan peliharaan, siapa yang pantas jadi pemilikmu?
+s|Apa hal paling lucu yang pernah terjadi saat kamu ketiduran?
+s|Kalau kamu bisa memberi nama untuk setiap jarimu, nama apa saja?
+s|Apa pose foto andalanmu?
+s|Kalau kamu jadi chef, menu aneh apa yang kamu jadikan andalan?
+s|Apa hal paling random yang ada di galeri ponselmu?
+s|Kalau kamu jadi pegawai di dunia kartun, pekerjaanmu apa?
+s|Apa benda paling aneh yang pernah kamu temukan di saku celana?
+s|Kalau kamu jadi tukang ramal, ramalan lucu apa yang kamu berikan untuk temanmu?
+s|Apa kata yang selalu membuatmu tertawa tanpa alasan?
+s|Kalau kamu harus memakai kostum hewan seharian, hewan apa?
+s|Apa makanan yang kamu makan dengan cara yang tidak biasa?
+s|Kalau kamu jadi sinetron, judul sinetronnya apa?
+s|Apa kesalahan ketik paling lucu yang pernah kamu kirim?
+s|Kalau kamu bisa membuat hari libur nasional baru, perayaan apa?
+s|Apa hewan yang menurutmu paling mirip dengan teman sekelasmu dulu?
+s|Kalau kamu menjadi bantal, kamu bantal untuk siapa?
+s|Apa hal paling aneh yang pernah kamu lakukan karena bosan?
+s|Kalau kamu jadi komentator sepak bola untuk hidupmu, apa komentarmu hari ini?
+s|Apa jenis tidur paling lucu yang pernah kamu lihat dari orang lain?
+s|Kalau kamu jadi rasa permen karet, rasa apa?
+s|Apa cara unikmu memakan kue Oreo atau biskuit lapis?
+s|Kalau kamu harus menamai wifi rumahmu dengan nama lucu, apa namanya?
+s|Apa benda di rumah yang menurutmu punya kepribadian?
+s|Kalau kamu menjadi presenter berita, berita aneh apa yang ingin kamu bacakan?
+s|Apa hal yang paling sering membuatmu salah tingkah di depan umum?
+s|Kalau kamu bisa mengubah bunyi alarm jadi suara siapa saja, suara siapa?
+s|Apa makanan yang menurutmu tidak cocok dimakan dengan sambal?
+s|Kalau kamu jadi tokoh di kartun Minggu pagi, kebiasaan khasmu apa?
+s|Apa kejadian lucu yang terjadi saat foto keluarga?
+s|Kalau kamu bisa menambahkan satu warna baru ke pelangi, warnanya apa?
+s|Apa hal yang kamu lakukan saat menunggu mi instan matang?
+s|Kalau kamu jadi sayuran, sayuran apa yang paling mirip sifatmu?
+s|Apa kebiasaan lucu hewan peliharaanmu atau tetanggamu?
+s|Kalau kamu jadi lagu, kamu lagu yang diputar di mana?
+s|Apa hal konyol yang pernah kamu lakukan demi diskon?
+s|Kalau kamu harus berbicara dengan aksen lain seharian, aksen apa?
+s|Apa jenis makanan yang menurutmu terlalu sulit dimakan dengan anggun?
+s|Kalau kamu jadi papan reklame, tulisan apa yang terpampang?
+s|Apa hal paling memalukan yang terjadi di grup chat keluarga?
+s|Kalau kamu menjadi cuaca, kamu cuaca seperti apa saat lapar?
+s|Apa singkatan aneh yang hanya dimengerti oleh kamu dan temanmu?
+s|Kalau kamu jadi furnitur, kamu jadi apa di rumah?
+s|Apa kata-kata orang tuamu yang paling sering diucapkan dan sekarang lucu kalau diingat?
+s|Kalau kamu bisa membuat aturan aneh di rumah, aturan apa?
+s|Apa makanan yang kamu sebut dengan nama berbeda dari orang lain?
+s|Kalau kamu jadi bahan kue, kamu bahan apa?
+s|Apa hal yang membuatmu tertawa sampai sakit perut terakhir kali?
+s|Kalau kamu jadi karakter di permainan ular tangga, kamu jadi ular atau tangga?
+s|Apa hal lucu yang selalu terjadi di setiap acara keluarga?
+s|Kalau kamu jadi tukang parkir di mal, gaya khasmu apa?
+s|Apa suara aneh yang kamu buat saat kaget?
+s|Kalau kamu bisa memberi nama kepada setiap tanaman di rumah, nama apa?
+s|Apa hal yang kamu lakukan saat lift terasa terlalu lama?
+s|Kalau kamu jadi penjual keliling, apa jingle daganganmu?
+s|Apa makanan yang ingin kamu lihat dijadikan es krim?
+s|Kalau kamu jadi kartun, kamu digambar dengan gaya seperti apa?
+s|Apa kebiasaan saat mandi yang mungkin hanya kamu lakukan?
+s|Kalau ada lomba tidur, kamu menang di kategori apa?
+s|Apa barang paling tidak berguna yang pernah kamu beli?
+s|Kalau kamu jadi penjaga toko mainan, mainan apa yang diam-diam kamu mainkan?
+s|Apa hal paling aneh yang pernah kamu dengar dari sopir ojek atau taksi?
+s|Kalau kamu harus memakai topi aneh seminggu, topi seperti apa?
+m|Apa hal konyol yang membuatmu panik tapi ternyata sepele?
+m|Apa kebiasaan anehmu yang ternyata juga dilakukan banyak orang?
+m|Apa momen paling memalukan yang sekarang justru jadi cerita favoritmu?
+m|Apa hal kecil yang membuatmu bahagia tapi orang lain mungkin menganggap aneh?
+m|Apa kesalahpahaman paling lucu yang pernah terjadi antara kamu dan orang lain?
+m|Apa kebiasaan keluargamu yang menurut orang luar lucu?
+m|Apa hal yang kamu takutkan tapi orang lain menganggapnya lucu?
+m|Apa kebohongan kecil konyol yang pernah kamu katakan dan langsung ketahuan?
+m|Apa hal yang dulu kamu anggap keren tapi sekarang memalukan?
+m|Apa lelucon yang selalu berhasil membuatmu tertawa walau sudah sering didengar?
+m|Apa hal teraneh yang pernah kamu lakukan karena gengsi?
+m|Apa cerita lucu tentang dirimu yang selalu diceritakan ulang oleh keluarga?
+m|Apa kebiasaan anehmu saat sedang gugup?
+m|Apa hal konyol yang kamu lakukan demi mendapatkan perhatian seseorang?
+m|Apa kejadian lucu yang terjadi saat kamu mencoba terlihat keren?
+m|Apa hal yang kamu lakukan saat salah masuk ruangan atau salah sapa orang?
+m|Apa pengalaman salah naik kendaraan atau salah jalan yang paling lucu?
+m|Apa hal lucu dari dirimu yang kamu harap tidak pernah berubah?
+m|Apa hal yang membuatmu tertawa di saat yang tidak tepat?
+m|Apa kebiasaan anehmu yang ingin kamu ajarkan ke orang lain?
+m|Apa hal teraneh yang pernah kamu pelajari dari internet dan masih kamu ingat?
+m|Apa julukan lucu yang kamu berikan untuk orang tanpa mereka tahu?
+m|Apa hal yang membuatmu sadar kamu sudah semakin tua, dengan cara yang lucu?
+m|Apa hal yang membuatmu merasa sangat dewasa padahal sepele?
+m|Apa kegagalan memasak paling lucu yang pernah kamu alami?
+m|Apa kejadian lucu di sekolah yang masih membuatmu tertawa?
+m|Apa hal konyol yang pernah kamu lakukan saat setengah tidur?
+m|Apa kebiasaan yang membuat orang langsung tahu itu kamu?
+m|Apa hal paling lucu yang pernah dikatakan anak kecil kepadamu?
+m|Apa kebiasaan aneh yang kamu warisi dari orang tuamu?
+m|Apa hal konyol yang pernah kamu lakukan untuk menghindari seseorang?
+m|Apa hal yang membuatmu tertawa sendiri di tempat umum?
+m|Apa cerita lucu tentang barang yang hilang lalu ditemukan di tempat aneh?
+m|Apa hal yang membuatmu malu di depan gebetan dulu?
+m|Apa kejadian yang membuatmu sadar bahwa kamu tidak sejago yang kamu kira?
+m|Apa kebiasaan aneh temanmu yang paling kamu suka?
+m|Apa hal paling konyol yang pernah kamu tangisi?
+m|Apa cerita lucu tentang hewan yang pernah kamu alami?
+m|Apa hal yang kamu lakukan untuk menghibur diri saat sedang canggung?
+m|Apa hal lucu yang selalu terjadi saat kamu mencoba berolahraga?
+m|Apa kebiasaan saat belanja yang membuat temanmu geleng-geleng kepala?
+m|Apa hal konyol yang kamu percayai sampai usia yang terlalu tua?
+m|Apa kejadian lucu saat kamu mencoba mengikuti tren media sosial?
+m|Apa hal paling aneh yang pernah kamu lakukan untuk menyelesaikan tugas?
+m|Apa hal lucu yang terjadi saat kamu pertama kali naik pesawat atau kereta?
+m|Apa kejadian lucu saat kamu berusaha diet atau hidup sehat?
+d|Apa hal yang dulu membuatmu malu besar tapi sekarang membuatmu bangga bisa melewatinya?
+d|Kapan terakhir kali kamu tertawa sampai menangis, dan bersama siapa?
+d|Apa candaan yang sebenarnya menyembunyikan perasaanmu yang serius?
+d|Siapa orang yang selalu berhasil membuatmu tertawa saat sedang sedih?
+d|Apa hal lucu tentang dirimu yang sebenarnya lahir dari rasa tidak percaya diri?
+d|Apa tawa yang paling kamu rindukan dari seseorang?
+d|Apa momen lucu yang menjadi kenangan terindah bersama keluarga?
+d|Apa yang membuatmu tetap bisa tertawa di masa paling sulit?
+d|Apa candaan yang pernah kamu ucapkan dan ternyata menyakiti orang lain?
+d|Apa hal lucu yang ingin kamu ceritakan kepada dirimu yang sedang sedih dulu?
+d|Siapa orang yang paling ingin kamu buat tertawa hari ini?
+d|Apa arti humor dalam hidupmu, pelarian atau cara bertahan?
+d|Apa kebiasaan lucu orang yang sudah tiada yang masih kamu ingat?
+d|Apa hal konyol yang membuatmu merasa sangat dicintai?
+d|Apa yang membuatmu merasa aman untuk menjadi aneh di depan seseorang?
+d|Apa kejadian memalukan yang mengajarkanmu untuk tidak terlalu serius pada diri sendiri?
+d|Kapan kamu memakai candaan untuk menutupi rasa sakit?
+d|Apa hal lucu yang membuatmu jatuh cinta pada seseorang?
+d|Apa tawa yang ingin kamu dengar lagi dari masa kecilmu?
+d|Apa hal yang membuatmu merasa diterima walau kamu sedang konyol?
+d|Apa yang ingin kamu tertawakan bersama dirimu di masa tua nanti?
+d|Siapa yang kamu harap bisa melihat sisi lucumu lebih sering?
+d|Apa candaan keluarga yang membuatmu merasa menjadi bagian dari mereka?
+d|Apa hal memalukan yang ingin kamu maafkan dari dirimu sendiri?
+d|Apa yang membuatmu bisa menertawakan kegagalanmu?
+d|Apa momen lucu yang menyelamatkan harimu saat semuanya terasa berat?
+d|Apa kebiasaan anehmu yang membuatmu merasa unik dan berharga?
+d|Siapa yang selalu tertawa paling keras atas leluconmu, dan apa artinya bagimu?
+d|Apa hal lucu yang ingin kamu wariskan kepada orang-orang di sekitarmu?
+d|Apa yang membuatmu merasa hidup tetap layak dijalani karena ada tawa di dalamnya?
+s|Kalau kamu jadi tukang cukur, gaya rambut aneh apa yang kamu tawarkan?
+s|Apa nama yang cocok untuk ikan cupang kalau kamu memeliharanya?
+s|Kalau sendok dan garpu bisa bertengkar, apa yang mereka ributkan?
+s|Apa makanan yang menurutmu terlalu dibesar-besarkan enaknya?
+s|Kalau kamu jadi tokoh di kemasan makanan ringan, kamu tokoh apa?
+s|Apa hal paling lucu yang pernah kamu lihat di kondangan?
+s|Kalau kamu bisa memberi nama untuk kucing jalanan di dekat rumah, nama apa?
+s|Apa jenis kentut paling memalukan yang pernah kamu alami di tempat umum?
+s|Kalau kamu jadi rambu lalu lintas, rambu apa?
+s|Apa kebiasaanmu saat mendengar lagu yang sangat kamu sukai?
+s|Kalau kamu bisa membuat rasa minuman baru, rasa apa?
+s|Apa salah dengar lirik lagu paling lucu yang pernah kamu alami?
+s|Kalau kamu jadi hewan di kebun binatang, papan namamu bertuliskan apa?
+s|Apa hal aneh yang kamu lakukan saat menonton film horor?
+s|Kalau kamu menjadi suara notifikasi, bunyimu seperti apa?
+s|Apa kebiasaanmu saat menunggu balasan chat yang lama?
+s|Kalau kamu harus mengganti suara tertawamu dengan suara hewan, hewan apa?
+s|Apa makanan yang kamu yakini bisa menyembuhkan segala hal?
+s|Kalau kamu jadi petugas kebersihan di dunia dongeng, siapa yang paling jorok?
+s|Apa hal yang membuatmu tiba-tiba berjoget tanpa sadar?
+s|Kalau kamu bisa mengganti nama kotamu, nama apa yang lucu?
+s|Apa jenis hadiah paling aneh yang pernah kamu terima?
+s|Kalau kamu jadi bintang tamu acara memasak, kamu memasak apa sampai gosong?
+s|Apa kebiasaan anehmu saat berbicara di telepon?
+s|Kalau kamu jadi patung di taman kota, pose apa yang kamu pilih?
+s|Apa singkatan namamu yang paling lucu?
+s|Kalau kamu bisa membuat kartu ucapan untuk hari Senin, apa isinya?
+s|Apa hal paling lucu yang pernah dilakukan hewan di depanmu?
+s|Kalau kamu jadi pengisi suara mesin ATM, kalimat apa yang kamu ucapkan?
+s|Apa makanan yang selalu kamu sisakan bagian tertentunya?
+s|Kalau kamu jadi tokoh di permainan monopoli, kamu jadi bidak apa?
+s|Apa kebiasaan anehmu sebelum ujian atau presentasi?
+s|Kalau kamu harus mendeskripsikan dirimu dengan judul film, judul apa?
+s|Apa pengalaman paling aneh saat kamu berada di toilet umum?
+s|Kalau kamu jadi tukang foto keliling, gaya pose apa yang kamu suruh pelanggan lakukan?
+s|Apa barang yang selalu kamu bawa padahal jarang dipakai?
+s|Kalau satpam kompleks punya julukan untukmu, julukannya apa?
+s|Apa hal konyol yang kamu lakukan saat sendirian di lift?
+s|Kalau kamu jadi rasa es krim, kamu rasa apa?
+s|Apa kebiasaan aneh saat kamu mengantuk di kelas atau kantor?
+s|Kalau kamu harus menulis slogan untuk dirimu sendiri, slogannya apa?
+s|Apa suara benda di rumah yang menurutmu paling menyebalkan?
+s|Kalau kamu bisa mengubah satu lagu anak-anak jadi lagu rock, lagu apa?
+s|Apa nama aneh yang pernah kamu berikan untuk benda mati?
+m|Apa hal lucu yang terjadi saat kamu mencoba bersikap sangat sopan?
+m|Apa kejadian lucu saat kamu salah kirim pesan ke orang lain?
+m|Apa hal yang kamu lakukan untuk menyelamatkan diri dari situasi canggung?
+m|Apa kebiasaanmu yang paling sering ditertawakan teman tapi tetap kamu lakukan?
+m|Apa kejadian lucu yang terjadi saat liburan keluarga?
+m|Apa hal paling konyol yang pernah kamu lakukan karena salah paham instruksi?
+m|Apa hal lucu tentang pekerjaan atau sekolahmu yang hanya dimengerti orang dalam?
+m|Apa kejadian lucu di acara pernikahan atau kondangan yang pernah kamu saksikan?
+m|Apa kebiasaan aneh yang mulai kamu lakukan sejak pandemi?
+m|Apa hal lucu yang terjadi saat kamu mencoba belajar keterampilan baru?
+m|Apa kejadian lucu saat kamu tersesat di tempat yang seharusnya mudah?
+m|Apa hal konyol yang pernah kamu lakukan demi menghindari pekerjaan rumah?
+m|Apa kejadian paling lucu yang melibatkan makanan dan orang tuamu?
+m|Apa kebiasaan anehmu yang ternyata membuat hidupmu lebih mudah?
+m|Apa hal lucu yang kamu lakukan saat sedang sangat lapar?
+m|Apa kejadian lucu saat kamu bertemu orang terkenal atau orang yang kamu kagumi?
+m|Apa kebiasaan aneh di kotamu yang menurut orang luar lucu?
+m|Apa hal yang membuatmu merasa sangat pintar padahal sebenarnya kebetulan?
+d|Apa hal lucu dari masa kecilmu yang sebenarnya menyimpan kenangan sedih?
+d|Siapa orang yang membuatmu bisa tertawa lagi setelah lama murung?
+d|Apa candaan yang membuatmu merasa dekat dengan orang tuamu?
+d|Apa momen lucu yang ingin kamu ulang bersama sahabat lama?
+d|Apa hal yang dulu kamu sembunyikan karena takut ditertawakan, dan sekarang kamu banggakan?
+d|Apa yang membuatmu sadar bahwa menjadi diri sendiri itu lucu sekaligus melegakan?
+d|Apa tawa yang paling berharga yang pernah kamu dengar dalam hidupmu?
+d|Apa yang membuatmu memilih tertawa daripada marah di situasi sulit?
+d|Apa hal lucu yang menyelamatkan hubunganmu dengan seseorang?
+d|Apa candaan yang ingin kamu katakan kepada orang yang sudah lama tidak kamu temui?
+d|Apa yang membuatmu merasa sisi konyolmu adalah bagian terbaik dari dirimu?
+d|Siapa yang mengajarkanmu untuk menertawakan hidup?
+d|Apa momen lucu yang ingin kamu ingat saat sedang berada di titik terendah?
+d|Apa yang membuatmu merasa tawa adalah obat paling murah yang kamu punya?
+d|Apa kenangan memalukan yang sekarang justru membuatmu bersyukur?
+d|Apa hal lucu yang ingin kamu ceritakan kepada anak atau cucumu nanti?
+d|Apa yang membuatmu merasa nyaman menjadi aneh di depan dirimu sendiri?
+s|Apa makanan yang kamu makan sambil berdiri karena terlalu enak untuk menunggu?
+s|Kalau kamu jadi tokoh di kalender dinding, kamu muncul di bulan apa?
+s|Apa jenis cegukan paling aneh yang pernah kamu alami?

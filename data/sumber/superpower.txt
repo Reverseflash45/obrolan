@@ -1,0 +1,251 @@
+# Superpower — seru, semua mode, "kamu"
+s|Kalau kamu bisa punya satu kekuatan super, kekuatan apa yang kamu pilih?
+s|Kamu lebih pilih bisa terbang atau bisa menghilang?
+s|Kalau kamu bisa membaca pikiran, pikiran siapa yang pertama kamu baca?
+s|Apa nama pahlawan super yang cocok untukmu?
+s|Kostum superhero-mu warnanya apa?
+s|Kalau kamu bisa teleportasi, ke mana kamu pergi tiap pagi?
+s|Kamu lebih pilih super kuat atau super cepat?
+s|Kalau kamu bisa berbicara semua bahasa, bahasa apa yang paling ingin kamu pakai?
+s|Kalau kamu bisa mengendalikan cuaca, cuaca apa yang kamu buat hari ini?
+s|Kalau tanganmu bisa menutup luka dalam sekejap, kamu buka klinik gratis di mana?
+s|Kalau kamu bisa berubah bentuk, bentuk apa yang paling sering kamu pakai?
+s|Kalau kamu bisa memanggil makanan apa saja kapan saja, makanan apa yang kamu panggil?
+s|Kalau kamu bisa bernapas di dalam air, laut mana yang ingin kamu jelajahi?
+s|Kalau kamu bisa mengendalikan api, air, tanah, atau angin, kamu pilih yang mana?
+s|Siapa superhero favoritmu dan kenapa?
+s|Siapa penjahat super yang menurutmu paling keren?
+s|Kalau kamu bisa punya sidekick, siapa yang kamu pilih dari temanmu?
+s|Kalau kamu punya markas rahasia, di mana letaknya?
+s|Kalau kamu bisa melihat tembus tembok, tempat apa yang ingin kamu intip?
+s|Kalau kamu bisa memperbanyak diri, berapa klon yang kamu butuhkan?
+s|Kalau kamu bisa membuat diri tidak perlu tidur, apa yang kamu lakukan di malam hari?
+s|Kalau kamu bisa berlari secepat cahaya, kota mana yang ingin kamu kunjungi dalam sedetik?
+s|Kalau kamu punya kekuatan mengecilkan benda, benda apa yang kamu kecilkan?
+s|Kalau kamu bisa berbicara dengan hewan, hewan apa yang paling ingin kamu ajak ngobrol?
+s|Kalau kamu bisa membuat orang tertawa dengan sentuhan, siapa yang kamu sentuh duluan?
+s|Kalau kamu bisa menghentikan waktu sepuluh menit sehari, kamu pakai untuk apa?
+s|Kalau kamu bisa menggandakan uang sekali seumur hidup, berapa yang kamu gandakan?
+s|Kalau kamu bisa bersuara seperti penyanyi mana pun, suara siapa yang kamu pilih?
+s|Kalau kamu bisa punya kendaraan super, bentuknya seperti apa?
+s|Kalau kamu bisa menjadi superhero di kotamu, kejahatan apa yang paling sering kamu atasi?
+s|Kalau kamu bisa memiliki kekuatan memasak sempurna, menu pertama apa?
+s|Kalau kamu bisa membuat tanaman tumbuh seketika, apa yang kamu tanam?
+s|Kalau kamu bisa memindahkan benda dengan pikiran, benda apa yang paling sering kamu pindahkan?
+s|Kalau kamu bisa melihat masa depan lima detik, kapan itu berguna?
+s|Kalau kamu bisa menjadi tak kasatmata sehari, apa yang kamu lakukan?
+s|Kalau kamu bisa memiliki kekuatan mengingat semua hal, apa yang ingin kamu pelajari?
+s|Kalau kamu bisa mengubah warna benda dengan menunjuk, apa yang pertama kamu ubah?
+s|Kalau kamu bisa melompat sangat tinggi, gedung apa yang ingin kamu lompati?
+s|Kalau kamu bisa menyalakan lampu dengan jentikan jari, kamu pamer ke siapa?
+s|Kalau kamu bisa menjadi magnet, benda apa yang selalu menempel padamu?
+s|Kalau kamu punya slogan pahlawan super, slogannya apa?
+s|Kalau kamu bisa memunculkan payung kapan saja, kamu merasa hebat atau biasa saja?
+s|Kalau kamu bisa membersihkan rumah dalam sekejap, kekuatan itu cukup membuatmu bahagia?
+s|Kalau kamu bisa berbicara dengan mesin, alat elektronik apa yang paling cerewet?
+s|Kalau kamu bisa memiliki indra penciuman super, bau apa yang ingin kamu hindari?
+s|Kalau kamu bisa mendengar suara dari jarak jauh, suara apa yang ingin kamu dengar?
+s|Kalau kamu bisa memancarkan cahaya dari tangan, kamu jadi senter berjalan?
+s|Kalau kamu bisa membuat es dari udara, minuman apa yang kamu buat dingin?
+s|Kalau kamu punya kekuatan menenangkan bayi menangis, kamu akan sangat dicari siapa?
+s|Kalau kamu bisa menjadi superhero yang hanya muncul di hari Senin, apa tugasmu?
+s|Kalau kamu bisa memiliki kekuatan yang aneh tapi berguna, kekuatan apa?
+s|Kalau kamu bisa membuat semua lampu lalu lintas hijau, kamu pakai setiap hari?
+s|Kalau kamu bisa melipat jarak, kamu tinggal di mana dan bekerja di mana?
+s|Kalau kamu bisa mencium aroma kebohongan, apa baunya menurutmu?
+s|Kalau kamu punya kekuatan membuat orang jujur, siapa yang ingin kamu tanya?
+s|Kalau kamu bisa memanggil hujan untuk mendinginkan kota, kapan kamu pakai?
+s|Kalau kamu bisa membuat jalanan bebas macet, kamu jadi pahlawan siapa?
+s|Kalau kamu bisa membuat semua tugas selesai otomatis, tugas apa yang kamu pilih duluan?
+s|Kalau kamu bisa tumbuh sayap, kamu pakai jaket seperti apa?
+s|Kalau kamu bisa berkomunikasi lewat mimpi, kamu mengunjungi mimpi siapa?
+s|Kalau kamu bisa membuat semua orang menari, lagu apa yang kamu putar?
+s|Kalau kamu bisa memperbaiki barang rusak dengan sentuhan, barang apa yang pertama?
+s|Kalau kamu bisa membuat kue muncul setiap kali sedih, kue apa?
+s|Kalau kamu bisa membuat semua kucing datang padamu, kamu senang atau kewalahan?
+s|Kalau kamu punya musuh bebuyutan super, kekuatan musuhmu apa?
+s|Kalau kamu bisa membuat tim superhero dengan teman-temanmu, siapa ketuanya?
+s|Kalau kamu bisa memiliki kekuatan dari film kartun masa kecil, dari tokoh siapa?
+s|Kalau kamu bisa memiliki kekuatan menebak password, kamu akan jujur menggunakannya?
+s|Kalau kamu bisa membuat siapa saja lupa hal memalukan tentangmu, hal apa?
+s|Kalau kamu bisa berganti pakaian dalam sekejap, gaya apa yang paling sering kamu pakai?
+s|Kalau kamu bisa menyalin keahlian orang lain dengan sentuhan, keahlian siapa?
+s|Kalau kamu bisa mengubah satu benda jadi emas sehari sekali, benda apa?
+s|Kalau kamu bisa membuat bunga mekar dengan senyuman, untuk siapa kamu tersenyum?
+s|Kalau kamu bisa memanggil pelangi, kapan kamu memunculkannya?
+s|Kalau kamu bisa memiliki kekuatan super tapi hanya saat bernyanyi, lagu apa yang kamu pakai?
+s|Kalau kamu bisa membuat semua makanan sehat terasa seperti makanan cepat saji, kamu jadi pahlawan siapa?
+s|Kalau kamu bisa mengendalikan suhu ruangan dengan pikiran, berapa derajat favoritmu?
+s|Kalau kamu bisa membuat dirimu tidak bisa lelah, apa yang kamu lakukan seharian?
+s|Kalau kamu bisa membuat benda melayang, kamu pakai untuk apa saat malas?
+s|Kalau kamu bisa memiliki mata yang bisa memperbesar seperti mikroskop, apa yang ingin kamu lihat?
+s|Kalau kamu bisa menjadi superhero untuk hewan, hewan apa yang kamu lindungi?
+s|Kalau kamu bisa mengendalikan bayangan, apa yang kamu lakukan di malam hari?
+s|Kalau kamu bisa mengetik secepat pikiran, kamu akan menulis apa?
+s|Kalau kamu bisa memiliki kekuatan membuat orang mengantuk, kamu pakai untuk siapa?
+s|Kalau kamu bisa menjadi superhero yang dikenal di seluruh dunia, apa ciri khasmu?
+s|Kalau kamu bisa membuat semua orang bisa berenang, kamu akan mengubah dunia bagaimana?
+s|Kalau kamu bisa mengembalikan barang hilang, barang siapa yang pertama kamu cari?
+s|Kalau kamu bisa membuat dirimu kebal panas, kamu tinggal di gurun?
+m|Kalau kamu punya kekuatan super, apakah kamu akan memberitahu keluargamu?
+m|Kalau kamu bisa membaca pikiran, apakah kamu yakin ingin tahu pikiran orang terdekatmu?
+m|Kekuatan apa yang menurutmu paling berbahaya kalau jatuh ke orang yang salah?
+m|Kalau kamu punya kekuatan, apakah kamu akan memakai identitas rahasia?
+m|Kalau kekuatanmu hanya bisa dipakai untuk orang lain, kamu tetap mau memilikinya?
+m|Kalau kamu harus memilih satu kekuatan untuk membantu dunia, kekuatan apa?
+m|Kalau kamu bisa memberi satu kekuatan kepada orang tuamu, kekuatan apa?
+m|Kalau kamu bisa memberi satu kekuatan kepada sahabatmu, kekuatan apa yang paling cocok?
+m|Kalau kekuatanmu punya kelemahan, kelemahan apa yang paling masuk akal?
+m|Kalau kamu bisa menghentikan satu masalah dunia dengan kekuatanmu, masalah apa?
+m|Kalau kamu punya kekuatan, apakah kamu akan menggunakannya untuk mencari uang?
+m|Kalau semua orang punya kekuatan super, apa yang membuatmu tetap istimewa?
+m|Kalau kamu bisa memilih menjadi pahlawan tanpa kekuatan, apa keahlianmu?
+m|Kalau kamu bisa menghapus kekuatan penjahat tertentu, siapa yang kamu pilih?
+m|Kalau kekuatanmu muncul saat kamu marah, apa yang akan sering terjadi?
+m|Kalau kekuatanmu muncul saat kamu bahagia, seberapa sering kamu bisa memakainya?
+m|Kalau kamu bisa menukar kekuatan super dengan hidup normal yang damai, kamu mau?
+m|Kalau kamu harus melatih kekuatanmu, siapa mentor yang kamu inginkan?
+m|Kalau kamu bisa memiliki kekuatan yang membuatmu tidak pernah merasa kesepian, kekuatan apa?
+m|Kalau kamu bisa memilih kekuatan yang membuat orang lain merasa aman di dekatmu, kekuatan apa?
+m|Kalau kekuatanmu membuatmu terkenal, bagaimana kamu menjaga privasi?
+m|Kalau kamu bisa melihat kebenaran di balik setiap senyum, apakah itu anugerah atau kutukan?
+m|Kalau kamu punya kekuatan tapi tidak boleh menyelamatkan orang yang kamu sayang, kamu tetap mau?
+m|Kalau kamu bisa menggunakan kekuatanmu sekali untuk dirimu sendiri, untuk apa?
+m|Kalau kamu bisa menjadikan kesabaran sebagai kekuatan super, seberapa kuat kamu?
+m|Kalau kekuatan super sebenarnya adalah sifat baik, sifat mana yang menjadi kekuatanmu?
+m|Kalau kamu bisa melihat bagaimana kekuatanmu mengubah hidup orang, siapa yang paling terbantu?
+m|Kalau kamu harus memilih antara menyelamatkan banyak orang asing atau satu orang terdekat, bagaimana kamu memutuskan?
+m|Kalau kamu bisa mengurangi rasa sakit orang lain dengan menanggungnya sedikit, kamu mau?
+m|Kalau kekuatanmu hanya bekerja di dekat orang tertentu, siapa orang itu?
+m|Kalau kamu bisa memiliki kekuatan yang mengubah satu kebiasaan buruk dunia, kebiasaan apa?
+m|Kalau kamu harus bekerja sama dengan penjahat demi kebaikan, penjahat mana?
+m|Kalau kamu bisa membuat semua orang merasakan perasaanmu sehari, kamu mau?
+m|Kalau kekuatan super punya batas usia, sampai umur berapa kamu ingin menjadi pahlawan?
+m|Kalau kamu bisa melatih anak-anak menjadi pahlawan, nilai apa yang paling kamu tekankan?
+m|Kalau kamu harus menyembunyikan kekuatanmu dari orang yang kamu cintai, bagaimana rasanya?
+m|Kalau kekuatanmu bisa menolong orang tapi membuatmu lelah, seberapa sering kamu memakainya?
+m|Kalau kamu bisa memiliki kekuatan untuk mengerti semua orang, siapa yang paling ingin kamu pahami?
+m|Kalau kamu harus memilih nama pahlawan dari sifat terbaikmu, nama apa?
+m|Kalau kamu bisa memiliki tameng yang melindungi dari kata-kata menyakitkan, kamu pakai kapan?
+m|Kalau semua orang tahu kekuatanmu, bagaimana kamu ingin mereka memperlakukanmu?
+m|Kalau kamu bisa menukar kekuatanmu dengan orang lain sehari, kekuatan siapa yang kamu ambil?
+m|Kalau kamu bisa menghentikan satu kebiasaan buruk dirimu dengan kekuatan, kebiasaan apa?
+m|Kalau kekuatan supermu adalah keberanian bicara, kepada siapa kamu ingin bicara?
+m|Kalau kamu bisa memiliki kekuatan yang memastikan semua orang punya makan, apakah kamu bersedia tidak dikenal?
+m|Kalau kamu menjadi pahlawan yang gagal menyelamatkan seseorang, bagaimana kamu bangkit?
+m|Kalau kamu bisa membuat semua orang berhenti berkelahi sejenak, apa yang ingin kamu katakan?
+d|Kalau kekuatan super bisa menyembuhkan satu luka batin, luka siapa yang ingin kamu sembuhkan?
+d|Kekuatan apa yang sebenarnya sudah kamu miliki tapi jarang kamu sadari?
+d|Kalau kamu bisa melindungi satu orang dari semua rasa sakit, siapa dan kenapa?
+d|Kalau kekuatan supermu adalah memaafkan, siapa yang paling sulit kamu maafkan?
+d|Kalau kamu bisa membuat seseorang merasa dicintai dengan sentuhan, siapa yang paling membutuhkannya?
+d|Kalau kekuatanmu mengambil sedikit kebahagiaanmu setiap kali dipakai, apakah kamu tetap memakainya?
+d|Kalau kamu bisa menyelamatkan dirimu di masa lalu, momen mana yang kamu datangi?
+d|Kalau kamu menjadi pahlawan, luka apa yang membuatmu memilih jalan itu?
+d|Kalau kamu bisa memberi kekuatan untuk bangkit kepada satu orang, siapa yang ada di pikiranmu?
+d|Kalau kamu punya kekuatan menghapus rasa takut, rasa takut siapa yang pertama kamu hapus?
+d|Kalau kekuatan super bisa menghidupkan kembali satu orang, apakah kamu akan memakainya?
+d|Kalau kamu harus memilih antara menjadi pahlawan yang dikenal atau penolong yang dilupakan, kamu pilih mana?
+d|Kalau kamu bisa membuat orang merasakan seberapa besar kamu menyayangi mereka, siapa yang ingin kamu tunjukkan?
+d|Kalau kelemahan terbesarmu adalah kekuatanmu yang tersembunyi, kelemahan apa itu?
+d|Kalau kamu bisa melihat beban yang dipikul orang lain, siapa yang menurutmu memikul paling berat?
+d|Kalau kamu bisa memberi satu hari tanpa beban kepada orang tuamu, apa yang ingin kamu lihat mereka lakukan?
+d|Kalau kekuatanmu hilang saat kamu tidak percaya diri, seberapa sering kekuatanmu hilang?
+d|Kalau kamu bisa membuat dirimu merasa cukup selamanya, apakah kamu masih ingin kekuatan lain?
+d|Kalau kamu bisa menjadi pelindung untuk dirimu yang kecil, apa yang akan kamu lindungi?
+d|Kalau kekuatanmu adalah mendengarkan dengan sepenuh hati, siapa yang paling butuh kamu dengarkan?
+d|Kalau kamu bisa mengangkat satu beban dari pundak sahabatmu, beban apa yang kamu ambil?
+d|Kalau kamu harus menyerahkan kekuatanmu untuk menyelamatkan seseorang, siapa yang layak?
+d|Kalau kamu bisa melihat dirimu dari mata orang yang paling mencintaimu, apa kekuatan yang mereka lihat?
+d|Kalau kekuatan supermu adalah tetap baik setelah disakiti, dari mana kamu mendapatkannya?
+d|Kalau kamu bisa membuat seseorang tidak lagi merasa sendirian, untuk siapa kamu pakai?
+d|Kalau kamu bisa menjadi pahlawan untuk satu hari dalam hidup seseorang, hari apa itu?
+d|Kalau kamu bisa memberikan keberanian kepada orang yang kamu sayang, keberanian untuk apa?
+d|Kalau kekuatanmu adalah membuat orang lain melihat nilai dirinya, siapa yang pertama kamu tolong?
+d|Kalau kamu bisa mengubah rasa sakit menjadi kekuatan, rasa sakit mana yang paling kuat?
+d|Kalau kamu bisa mengubah satu kenangan buruk menjadi pelajaran berharga, kenangan apa?
+d|Kalau kekuatanmu adalah bertahan, apa yang paling sering kamu tahan selama ini?
+d|Kalau kamu bisa membuat seseorang memaafkan dirinya sendiri, siapa orang itu?
+d|Kalau kamu bisa menyelamatkan satu hubungan dengan kekuatanmu, hubungan apa?
+d|Kalau kamu bisa membuat semua orang merasa diterima, apa yang ingin kamu katakan kepada dunia?
+d|Kalau kamu harus memilih antara kekuatan super dan satu hari lagi dengan orang yang sudah pergi, kamu pilih apa?
+d|Kalau kamu bisa memberi kekuatan kepada dirimu yang sedang terpuruk, kekuatan apa yang paling dibutuhkan?
+d|Kalau menjadi pahlawan berarti kehilangan sebagian dirimu, bagian apa yang rela kamu lepaskan?
+d|Kalau kamu bisa melihat masa depan orang yang kamu tolong hari ini, apa yang kamu harap terjadi pada mereka?
+d|Kalau kamu bisa menyalurkan semua cinta yang kamu punya menjadi satu tindakan, tindakan apa?
+d|Kalau kamu bisa mengubah dunia menjadi tempat yang lebih lembut, apa langkah pertamamu?
+d|Kalau kekuatan super terhebat adalah menjadi diri sendiri, seberapa kuat kamu hari ini?
+d|Kalau kamu bisa menjadi pahlawan bagi dirimu sendiri, apa yang perlu kamu selamatkan dulu?
+d|Kalau kamu bisa memberikan satu kekuatan untuk anak-anak di masa depan, kekuatan apa?
+d|Kalau kamu bisa mengulang satu momen ketika kamu tidak berani menolong, apa yang akan kamu lakukan?
+d|Kalau kamu bisa membuat orang yang kamu sayang tidak pernah meragukan dirinya, apa yang kamu ucapkan?
+d|Kalau kekuatanmu adalah harapan, siapa yang paling membutuhkan harapanmu sekarang?
+s|Kalau kamu bisa menerbangkan rumahmu, kamu parkir di mana?
+s|Kalau kamu bisa memiliki tenaga matahari, kamu tidak perlu makan lagi?
+s|Kalau kamu bisa menjadi transparan sebagian, bagian tubuh mana yang paling lucu?
+s|Kalau kamu bisa mengendalikan semua remote di dunia, acara apa yang kamu putar?
+s|Kalau kamu bisa membuat hujan hanya di atas kepalamu, kapan kamu pakai?
+s|Kalau kamu bisa membuat jalanan berubah jadi perosotan, kamu pergi ke mana?
+s|Kalau kamu bisa memanggil hewan dengan siulan, hewan apa yang datang?
+s|Kalau kamu bisa memiliki kekuatan tawa yang menular, siapa yang paling sering kamu tulari?
+s|Kalau kamu bisa melelehkan es dengan tatapan, kamu pakai untuk apa?
+s|Kalau kamu bisa menjadi superhero khusus urusan dapur, apa nama julukanmu?
+s|Kalau kamu bisa memiliki kekuatan untuk tidak pernah kena macet, kamu mau tukar dengan apa?
+s|Kalau kamu bisa membuat benda lengket atau licin sesukamu, kamu iseng ke siapa?
+s|Kalau kamu bisa membuat bayangan jadi teman, bayanganmu bernama siapa?
+s|Kalau kamu bisa menjadi pahlawan yang hanya bekerja saat hujan, kostummu seperti apa?
+s|Kalau kamu bisa memperlambat kecepatan jatuh, kamu berani terjun dari mana?
+s|Kalau kamu bisa membuat semua tanaman di rumah berbuah, buah apa yang kamu tanam?
+s|Kalau kamu bisa mendengar musik dari benda mati, benda apa yang paling merdu?
+s|Kalau kamu bisa membuat semua jam berbunyi bersamaan, kamu pakai untuk mengerjai siapa?
+s|Kalau kamu bisa memiliki kekuatan teleportasi tapi hanya ke kamar mandi, berguna atau tidak?
+s|Kalau kamu bisa mengubah suaramu jadi suara siapa saja, suara siapa yang kamu tiru?
+s|Kalau kamu bisa membuat permen dari udara, rasa apa yang paling sering kamu buat?
+s|Kalau kamu bisa memiliki kekuatan menemukan parkir kosong, seberapa bahagia kamu?
+s|Kalau kamu bisa membuat semua lagu berhenti di bagian terbaik, lagu apa yang kamu putar?
+s|Kalau kamu bisa memancarkan wangi yang menenangkan, wangi apa?
+s|Kalau kamu bisa berlari di atas air, sungai mana yang ingin kamu seberangi?
+s|Kalau kamu bisa membuat semua orang mengucapkan kata baik selama sehari, kata apa yang paling sering terdengar?
+s|Kalau kamu bisa memiliki kekuatan membuat kopi sempurna, siapa pelanggan pertamamu?
+s|Kalau kamu bisa mengubah bentuk awan, bentuk apa yang kamu buat?
+s|Kalau kamu bisa mengecilkan masalah menjadi seukuran kerikil, kamu buang ke mana?
+m|Kalau kamu bisa memiliki kekuatan untuk mengerti bayi, apa yang ingin kamu dengar?
+m|Kalau kamu bisa menyelamatkan satu tempat dari kerusakan, tempat apa?
+m|Kalau kamu bisa membuat semua orang menghargai guru, apa yang kamu lakukan?
+m|Kalau kamu harus memilih kekuatan yang membuat hidupmu nyaman atau yang membantu orang lain, mana yang kamu ambil?
+m|Kalau kamu bisa membagi kekuatanmu ke seluruh keluarga, siapa yang paling bijak memakainya?
+m|Kalau kamu bisa menjadi pahlawan lingkungan, masalah apa yang kamu atasi pertama?
+m|Kalau kamu bisa menjadi pahlawan di sekolah, masalah apa yang paling ingin kamu selesaikan?
+m|Kalau kekuatanmu membuatmu tidak bisa disentuh orang lain, apakah kamu tetap mau?
+m|Kalau kamu bisa memiliki kekuatan menebak niat orang, bagaimana itu mengubah pertemananmu?
+m|Kalau kamu bisa membuat semua orang mendengar satu pesanmu, pesan apa?
+m|Kalau kamu bisa membuat kekuatan yang membantu orang tua di rumah, kekuatan apa?
+m|Kalau kamu bisa menjadi pahlawan yang menolong orang kesepian, bagaimana caramu menemukan mereka?
+m|Kalau kamu bisa memiliki kekuatan merasakan apa yang orang lain rasakan, siapa yang pertama ingin kamu pahami?
+m|Kalau kamu bisa melihat sepuluh langkah ke depan dalam setiap keputusan, apakah hidup jadi lebih seru?
+m|Kalau kekuatan supermu membuatmu dijauhi, apakah kamu tetap menyimpannya?
+m|Kalau kamu bisa menolong satu orang setiap hari tanpa diketahui, siapa yang pertama?
+m|Kalau kamu bisa membuat orang berhenti berbohong selama sehari, apa yang akan terbongkar?
+m|Kalau kamu bisa membuat setiap hewan terlantar menemukan rumah, apa yang kamu lakukan?
+m|Kalau kamu harus memberi kekuatan kepada pemimpin negara, kekuatan apa yang paling aman?
+m|Kalau kamu bisa memilih satu ketakutan orang lain untuk dihilangkan, ketakutan apa?
+d|Kalau kamu bisa mengembalikan senyum seseorang yang sudah lama hilang, siapa orang itu?
+d|Kalau kamu bisa menyembuhkan rasa kesepian, siapa yang pertama kamu kunjungi?
+d|Kalau kekuatanmu adalah membuat orang merasa didengar, kepada siapa kamu ingin berbicara?
+d|Kalau kamu bisa melihat luka tersembunyi orang lain, bagaimana kamu akan memperlakukan mereka?
+d|Kalau kamu bisa menghapus kata-kata kasar yang pernah kamu ucapkan, kata apa?
+d|Kalau kamu bisa memberi satu kekuatan kepada dirimu di masa depan, kekuatan apa yang akan dia butuhkan?
+d|Kalau kamu bisa mengubah dirimu menjadi tempat aman bagi orang lain, untuk siapa?
+d|Kalau kekuatanmu bergantung pada cinta yang kamu terima, seberapa kuat kamu sekarang?
+d|Kalau kamu bisa membuat orang tuamu merasakan betapa bangganya kamu pada mereka, apa yang kamu ucapkan?
+d|Kalau kamu bisa melindungi dirimu dari satu jenis rasa sakit, rasa sakit apa?
+d|Kalau kamu bisa menyelamatkan dunia tapi kehilangan ingatan tentang orang tersayang, kamu mau?
+d|Kalau kamu bisa membuat semua orang yang pernah kamu kecewakan merasa lebih baik, apa yang kamu lakukan?
+d|Kalau kamu bisa mengubah rasa iri menjadi semangat, kepada siapa rasa irimu selama ini?
+d|Kalau kekuatanmu adalah tetap tenang di tengah badai, dari mana kamu belajar itu?
+d|Kalau kamu bisa memberi kekuatan kepada orang yang pernah menolongmu, untuk siapa?
+d|Kalau kamu bisa menjadi pahlawan dalam satu cerita sedih yang pernah kamu dengar, cerita apa?
+d|Kalau kamu bisa mengubah satu kebiasaan keluargamu dengan kekuatan, kebiasaan apa dan kenapa?
+d|Kalau kamu bisa memberikan kepercayaan diri kepada dirimu yang dulu, momen apa yang paling membutuhkannya?
+s|Kalau kamu bisa membuat semua kursi terasa empuk, kamu jadi pahlawan siapa?
+s|Kalau kamu bisa memanggil angin sejuk saat gerah, kamu pakai di mana?

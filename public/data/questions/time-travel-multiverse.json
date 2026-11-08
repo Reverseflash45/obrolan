@@ -246,5 +246,7 @@
 {"id":"time-travel-multiverse-0245","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"dalam","adult":false,"text":"Kalau kamu bisa memberi waktu tambahan pada diri sendiri untuk beristirahat, berapa lama yang kamu butuhkan?"},
 {"id":"time-travel-multiverse-0246","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"dalam","adult":false,"text":"Kalau kamu bisa melihat seberapa jauh kamu sudah berjalan sejak titik terendahmu, apa yang kamu rasakan?"},
 {"id":"time-travel-multiverse-0247","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"dalam","adult":false,"text":"Kalau kamu bisa membuat masa lalu dan masa depanmu berdamai, apa yang mereka sepakati?"},
-{"id":"time-travel-multiverse-0248","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"dalam","adult":false,"text":"Kalau kamu bisa menyelamatkan satu hubungan di semesta lain, hubungan mana?"}
+{"id":"time-travel-multiverse-0248","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"dalam","adult":false,"text":"Kalau kamu bisa menyelamatkan satu hubungan di semesta lain, hubungan mana?"},
+{"id":"time-travel-multiverse-0249","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"santai","adult":false,"text":"Kalau kamu bisa menonton dirimu sendiri saat tidur sambil mengigau, kamu berani?"},
+{"id":"time-travel-multiverse-0250","topic":"time-travel-multiverse","mode":["pasangan","teman","keluarga","sendiri"],"level":"santai","adult":false,"text":"Kalau ada semesta tempat semua hari adalah hari Minggu, apa yang kamu kerjakan?"}
 ]

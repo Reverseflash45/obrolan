@@ -247,3 +247,5 @@ d|Kalau kamu bisa memberi waktu tambahan pada diri sendiri untuk beristirahat, b
 d|Kalau kamu bisa melihat seberapa jauh kamu sudah berjalan sejak titik terendahmu, apa yang kamu rasakan?
 d|Kalau kamu bisa membuat masa lalu dan masa depanmu berdamai, apa yang mereka sepakati?
 d|Kalau kamu bisa menyelamatkan satu hubungan di semesta lain, hubungan mana?
+s|Kalau kamu bisa menonton dirimu sendiri saat tidur sambil mengigau, kamu berani?
+s|Kalau ada semesta tempat semua hari adalah hari Minggu, apa yang kamu kerjakan?

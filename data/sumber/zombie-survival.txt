@@ -1,0 +1,251 @@
+# Zombie & Survival — seru, semua mode, "kamu"
+s|Kalau kiamat zombie terjadi besok, senjata apa yang kamu ambil pertama kali?
+s|Di mana tempat persembunyian terbaik di kotamu saat kiamat zombie?
+s|Siapa teman yang paling kamu percaya untuk bertahan hidup bersama?
+s|Siapa teman yang menurutmu paling cepat jadi zombie?
+s|Apa tiga barang wajib di tas darurat kiamat zombie?
+s|Kalau kamu jadi zombie, kamu zombie yang lambat atau cepat?
+s|Makanan kaleng apa yang paling ingin kamu simpan untuk kiamat?
+s|Kendaraan apa yang paling cocok untuk kabur dari zombie?
+s|Kalau kamu terdampar di pulau terpencil, tiga barang apa yang kamu bawa?
+s|Apa keterampilan bertahan hidup yang kamu kuasai?
+s|Apa keterampilan bertahan hidup yang paling ingin kamu pelajari?
+s|Kalau kamu harus hidup di hutan seminggu, makanan apa yang paling kamu rindukan?
+s|Kamu lebih pilih bertahan di gunung, pantai, atau kota?
+s|Kalau listrik padam sebulan, apa yang pertama kamu lakukan?
+s|Siapa artis yang menurutmu paling bisa bertahan di kiamat zombie?
+s|Apa film atau serial zombie favoritmu?
+s|Kalau kamu harus memilih markas di mal, sekolah, atau rumah sakit, kamu pilih mana?
+s|Apa peran kamu di tim penyintas, pemimpin, tukang masak, atau pengintai?
+s|Kalau kamu cuma boleh bawa satu hewan saat kiamat, hewan apa?
+s|Apa makanan ringan yang paling ingin kamu selamatkan dari supermarket?
+s|Kalau kamu harus membuat api tanpa korek, kamu bisa?
+s|Apa lagu yang ingin kamu putar saat kabur dari kejaran zombie?
+s|Kalau kamu menemukan bunker, apa yang ingin kamu temukan di dalamnya?
+s|Siapa anggota keluarga yang paling heboh saat kiamat terjadi?
+s|Kalau kamu harus berlari tiga kilometer dari zombie, kamu sanggup?
+s|Apa barang di kamarmu yang bisa dijadikan senjata?
+s|Kalau kamu harus memasak tanpa kompor, menu apa yang bisa kamu buat?
+s|Kamu lebih pilih bertahan sendirian atau dalam kelompok besar?
+s|Kalau kamu terdampar di gurun, apa yang paling kamu khawatirkan?
+s|Kalau kamu terjebak di lift dua jam, apa yang kamu lakukan?
+s|Apa aplikasi ponsel yang paling berguna saat bencana?
+s|Kalau kamu harus menyeberangi sungai deras, kamu berenang atau mencari jembatan?
+s|Apa nama yang cocok untuk kelompok penyintas kalian?
+s|Kalau zombie takut pada satu hal, kamu harap hal itu apa?
+s|Kalau kamu harus menghindari zombie tanpa bersuara, siapa temanmu yang paling berisik?
+s|Kalau kamu menemukan supermarket kosong, rak mana yang kamu serbu?
+s|Apa barang mewah yang tetap ingin kamu bawa walau tidak berguna saat kiamat?
+s|Kalau kamu harus tidur di atas pohon, kamu bisa tidur nyenyak?
+s|Apa olahraga yang paling berguna untuk bertahan hidup?
+s|Kalau kamu terdampar di pulau, kamu buat tanda SOS dari apa?
+s|Siapa tokoh film survival yang ingin kamu ajak?
+s|Kalau kamu harus menangkap ikan tanpa alat, caranya bagaimana?
+s|Kalau kamu harus memilih satu sepatu untuk kiamat, sepatu apa?
+s|Apa makanan yang kamu rela tukar dengan obat-obatan?
+s|Kalau kamu harus menghemat air, kebiasaan apa yang paling sulit ditinggalkan?
+s|Apa permainan yang bisa menghibur kelompok penyintas di malam hari?
+s|Kalau kamu bertemu zombie yang dulunya kenalanmu, siapa yang paling lucu jadi zombie?
+s|Kalau kamu harus membangun pagar dari barang bekas, barang apa yang kamu pakai?
+s|Apa jenis cuaca yang paling menyulitkan bertahan hidup menurutmu?
+s|Kalau kamu harus memilih tempat tinggal di kapal, pesawat rusak, atau gua, kamu pilih mana?
+s|Apa hal pertama yang kamu cari kalau terbangun di kota kosong?
+s|Kalau kamu harus memberi kode rahasia ke kelompokmu, kodenya apa?
+s|Apa makanan yang ingin kamu makan terakhir kali sebelum kiamat?
+s|Kalau kamu harus berjalan jauh tanpa peta, kamu andalkan apa?
+s|Siapa di antara temanmu yang paling jago memasak di alam?
+s|Siapa di antara temanmu yang paling mungkin tersesat?
+s|Kalau kamu terdampar di pulau bersama satu orang terkenal, siapa yang kamu pilih?
+s|Apa barang elektronik yang paling ingin kamu selamatkan saat kiamat?
+s|Kalau kamu menemukan radio, siapa yang ingin kamu hubungi?
+s|Apa keahlian aneh temanmu yang tiba-tiba sangat berguna saat kiamat?
+s|Kalau kamu harus memilih jadi zombie atau dikejar zombie selamanya, kamu pilih mana?
+s|Apa kendaraan paling tidak masuk akal yang bisa kamu pakai untuk kabur?
+s|Kalau kamu harus menjaga markas sepanjang malam, apa yang kamu lakukan agar tidak tertidur?
+s|Kalau kamu harus berkemah di hutan, kamu lebih takut hewan liar atau hantu?
+s|Apa barang yang selalu ada di tasmu yang ternyata bisa menyelamatkan nyawa?
+s|Kalau kamu harus menempuh perjalanan jauh dengan sepeda, kota mana tujuanmu?
+s|Kalau kamu harus mengobati luka tanpa obat, apa yang kamu pakai?
+s|Apa alat musik yang ingin kamu bawa untuk menghibur kelompok?
+s|Kalau ada vaksin zombie, kamu jadi relawan uji coba?
+s|Kalau zombie bisa bicara, kalimat pertama mereka apa menurutmu?
+s|Apa jenis tempat yang menurutmu paling banyak zombie-nya di kotamu?
+s|Kalau kamu harus memilih satu buku untuk dibawa saat kiamat, buku apa?
+s|Kalau kamu harus bertahan hidup di salju, apa yang paling kamu butuhkan?
+s|Apa makanan lokal yang menurutmu paling awet untuk bekal bertahan hidup?
+s|Kalau kamu harus memanjat gedung tinggi untuk kabur, kamu berani?
+s|Kalau kamu harus memancing perhatian zombie, kamu pakai suara apa?
+s|Apa cara paling kreatif untuk menyimpan makanan tanpa kulkas?
+s|Kalau kamu harus memilih ketua kelompok dari teman-temanmu, siapa?
+s|Kalau kamu terdampar di pulau, kamu memilih membangun rumah atau perahu dulu?
+s|Kalau kamu harus menggambar peta kotamu dari ingatan, seberapa akurat kamu?
+s|Apa hal yang paling kamu rindukan kalau internet mati selamanya?
+s|Kalau kamu menemukan penyintas lain, apa pertanyaan pertamamu?
+s|Kalau kamu harus memilih senjata dari dapur, kamu ambil apa?
+s|Kalau kamu harus menyamar menjadi zombie, apa yang kamu lakukan?
+s|Kalau kamu menemukan kebun, sayuran apa yang paling kamu harapkan ada?
+s|Apa film bencana yang membuatmu menyiapkan tas darurat?
+m|Kalau kamu harus memilih menyelamatkan diri sendiri atau menunggu teman, apa yang kamu lakukan?
+m|Siapa orang yang paling ingin kamu cari pertama kali saat kiamat terjadi?
+m|Kalau kelompokmu berselisih soal makanan, bagaimana kamu membaginya?
+m|Kalau ada anggota kelompok yang tergigit, apa yang menurutmu harus dilakukan?
+m|Apa sifatmu yang paling berguna saat situasi darurat?
+m|Apa sifatmu yang paling merepotkan saat situasi darurat?
+m|Kalau kamu harus memimpin kelompok, aturan pertama apa yang kamu buat?
+m|Bagaimana kamu menjaga semangat kelompok saat harapan menipis?
+m|Kalau kamu harus memilih antara membawa obat atau makanan, kamu pilih yang mana?
+m|Bagaimana kamu menentukan siapa yang bisa dipercaya di dunia tanpa aturan?
+m|Kalau kamu menemukan tempat aman tapi hanya untuk dua orang, siapa yang kamu ajak?
+m|Kalau kelompok lain meminta bergabung, bagaimana kamu memutuskan?
+m|Apa hal paling sulit untuk ditinggalkan saat harus mengungsi?
+m|Kalau kamu harus mengajari anak kecil bertahan hidup, apa pelajaran pertamanya?
+m|Bagaimana kamu menghadapi rasa takut saat situasi benar-benar berbahaya?
+m|Kalau kamu harus berbohong demi keselamatan kelompok, kamu sanggup?
+m|Apa kebiasaan sehari-harimu yang akan sangat berguna saat bencana?
+m|Apa kebiasaan sehari-harimu yang akan menjadi kelemahan saat bencana?
+m|Kalau kamu harus memilih antara tempat aman yang membosankan atau tempat berbahaya yang menarik, kamu pilih mana?
+m|Bagaimana kamu menjaga kesehatan mental saat terisolasi lama?
+m|Kalau kamu harus meninggalkan kota selamanya, kenangan apa yang ingin kamu bawa?
+m|Kalau kamu harus membangun masyarakat baru setelah kiamat, nilai apa yang paling penting?
+m|Bagaimana pendapatmu tentang membagi tugas berdasarkan kemampuan atau bergiliran?
+m|Kalau kamu menemukan kelompok yang lebih kuat tapi kejam, kamu bergabung atau tidak?
+m|Apa hal yang paling kamu syukuri dari hidup normal setelah membayangkan kiamat?
+m|Kalau kamu harus menyelamatkan satu hewan peliharaan, apakah itu sebanding dengan risikonya?
+m|Bagaimana kamu menghadapi anggota kelompok yang selalu mengeluh?
+m|Kalau kamu harus memilih tetap di rumah atau mencari keluarga di kota lain, kamu pilih apa?
+m|Kalau kamu menjadi satu-satunya yang tahu cara mengobati, bagaimana kamu menghadapi tekanan itu?
+m|Apa kenangan yang ingin kamu ceritakan kepada kelompok untuk menghibur mereka?
+m|Bagaimana kamu memutuskan kapan harus bertahan dan kapan harus pergi?
+m|Kalau kamu harus memilih satu orang asing untuk diselamatkan, apa pertimbanganmu?
+m|Kalau persediaan makanan tinggal sedikit, apakah kamu akan membaginya dengan orang asing?
+m|Apa yang membuatmu tetap manusiawi di dunia yang kacau?
+m|Kalau kamu harus membuat aturan soal kekerasan dalam kelompok, apa aturanmu?
+m|Bagaimana kamu menghibur anggota kelompok yang kehilangan keluarganya?
+m|Kalau kamu harus memilih tetap di kelompok yang salah atau pergi sendirian, kamu pilih apa?
+m|Apa hal yang ingin kamu pelajari sekarang supaya siap menghadapi bencana nyata?
+m|Bagaimana keluargamu akan bereaksi saat bencana besar terjadi?
+m|Apa rencana darurat keluargamu yang sebenarnya, kalau ada?
+m|Kalau kamu bisa memilih satu ahli untuk bergabung di kelompokmu, ahli apa?
+m|Bagaimana kamu menghadapi rasa bersalah saat tidak bisa menolong semua orang?
+m|Kalau kamu harus menjaga rahasia yang bisa memecah kelompok, apa yang kamu lakukan?
+m|Apa hal kecil yang bisa membuatmu tetap merasa normal di tengah kekacauan?
+m|Kalau kamu menemukan bayi yang ditinggalkan, apa yang kamu lakukan?
+m|Kalau kamu harus memilih tetap optimis atau realistis, sikap mana yang lebih membantu?
+m|Bagaimana kamu membedakan keberanian dan kenekatan dalam situasi berbahaya?
+d|Kalau dunia berakhir besok, siapa yang paling ingin kamu peluk?
+d|Kalau kamu harus memilih antara bertahan hidup sendirian atau mati bersama orang tersayang, kamu pilih apa?
+d|Apa yang membuatmu tetap ingin hidup saat semuanya hilang?
+d|Kalau kamu harus meninggalkan orang yang kamu sayang demi keselamatan banyak orang, sanggupkah kamu?
+d|Apa yang membuatmu bertahan di masa tersulit dalam hidupmu yang nyata?
+d|Kalau kamu menjadi satu-satunya penyintas, apa yang ingin kamu tulis di jurnal pertama?
+d|Kalau kamu harus mengucapkan selamat tinggal sebelum misi berbahaya, kepada siapa?
+d|Apa yang lebih menakutkan bagimu, zombie atau kesepian?
+d|Kalau dunia baru dibangun ulang, kebiasaan lama apa yang tidak ingin kamu bawa?
+d|Kalau kamu harus memilih tetap menjadi orang baik meski membahayakan dirimu, kamu tetap memilihnya?
+d|Apa hal yang tidak akan pernah kamu korbankan bahkan untuk bertahan hidup?
+d|Kalau kamu harus menyampaikan kabar buruk kepada kelompok, bagaimana caramu?
+d|Kalau kamu menemukan catatan terakhir dari orang yang kamu sayang, apa yang kamu harap tertulis?
+d|Apa arti rumah ketika semua bangunan sudah hancur?
+d|Kalau kamu bisa menyelamatkan satu kenangan dari dunia lama, kenangan apa?
+d|Kalau kamu harus memilih antara kebenaran yang menyakitkan atau kebohongan yang menenangkan untuk kelompok, kamu pilih apa?
+d|Apa yang membuatmu kuat saat dunia nyata terasa seperti kiamat kecil?
+d|Kalau kamu harus memaafkan seseorang sebelum dunia berakhir, siapa orang itu?
+d|Kalau hanya ada waktu untuk satu pesan terakhir, apa pesanmu untuk dunia?
+d|Apa yang membuatmu yakin kebaikan masih ada saat semuanya kacau?
+d|Kalau kamu harus memilih siapa yang menjadi pemimpin setelah kamu tiada, siapa yang kamu percaya?
+d|Kalau kamu harus menghadapi rasa takut terbesarmu demi menyelamatkan orang lain, rasa takut apa itu?
+d|Apa bagian dari dirimu yang ingin kamu pertahankan apa pun yang terjadi?
+d|Kalau kamu hanya bisa membawa satu foto, foto siapa?
+d|Kalau kamu harus memilih tetap berharap atau menerima kenyataan pahit, mana yang lebih jujur bagimu?
+d|Apa yang kamu pelajari tentang dirimu dari situasi darurat yang pernah kamu alami?
+d|Kalau dunia kembali normal, apa yang akan kamu lakukan berbeda dalam hidupmu?
+d|Kalau kamu harus berpisah dari keluargamu tanpa tahu akan bertemu lagi, apa kata terakhirmu?
+d|Apa yang membuatmu merasa layak diselamatkan?
+d|Kalau kamu yang tergigit, apa permintaan terakhirmu kepada kelompok?
+d|Apa yang membuatmu memilih melindungi orang lain walau kamu juga takut?
+d|Kalau dunia hanya menyisakan satu lagu, lagu apa yang ingin kamu dengar terus?
+d|Kalau kamu bisa memberi satu pelajaran kepada generasi setelah kiamat, pelajaran apa?
+d|Apa yang membuatmu tetap memaknai hidup walau tidak ada jaminan hari esok?
+d|Kalau kamu harus memulai hidup dari nol tanpa apa pun, apa yang pertama kamu bangun?
+d|Apa ketakutan nyata dalam hidupmu yang terasa seperti dikejar zombie?
+d|Kalau kamu harus memilih antara ingatan atau keselamatan, apakah kamu rela melupakan masa lalu?
+d|Apa yang membuatmu yakin kamu tidak sendirian, bahkan di dunia yang sepi?
+d|Kalau kamu harus menunggu penyelamatan tanpa kepastian, apa yang membuatmu tetap tenang?
+d|Kalau kamu menjadi harapan terakhir kelompok, apa yang akan kamu katakan kepada mereka?
+s|Kalau kamu harus memilih tim penyintas dari tokoh kartun, siapa saja anggotanya?
+s|Apa makanan instan yang paling enak dimakan tanpa dimasak?
+s|Kalau kamu harus melarikan diri lewat atap, bangunan mana yang paling cocok di kotamu?
+s|Kalau zombie hanya bisa melihat warna tertentu, warna baju apa yang kamu pakai?
+s|Kalau kamu harus berkemah di stadion, tenda di mana yang paling aman?
+s|Apa barang yang kamu tukar untuk mendapatkan sebotol air bersih?
+s|Kalau kamu harus menyeberang pulau dengan rakit, apa yang kamu pakai sebagai dayung?
+s|Kalau kamu harus tinggal di menara tinggi, apa yang kamu lakukan untuk mengusir bosan?
+s|Siapa teman yang paling cocok jadi juru masak kelompok penyintas?
+s|Kalau zombie takut pada musik dangdut, lagu apa yang kamu putar keras-keras?
+s|Kalau kamu harus memilih antara sepeda motor atau sepeda gunung untuk kabur, kamu pilih mana?
+s|Apa trik yang kamu tahu untuk membuat air hujan bisa diminum?
+s|Kalau kamu harus menghabiskan malam di pusat perbelanjaan kosong, toko mana yang jadi kamarmu?
+s|Kalau kamu harus mengirim pesan ke kelompok lain tanpa ponsel, caranya apa?
+s|Apa makanan yang paling cepat basi dan harus dimakan duluan?
+s|Kalau kamu terdampar di hutan tropis, buah apa yang paling kamu cari?
+s|Kalau kamu harus memilih zombie yang lambat tapi banyak atau cepat tapi sedikit, kamu pilih mana?
+s|Kalau kamu harus menyusun jadwal jaga malam, siapa yang paling sering kamu tugaskan?
+s|Apa jenis permainan kartu yang paling cocok untuk menunggu pagi di markas?
+s|Kalau kamu harus mencari bahan bakar, tempat mana yang kamu datangi?
+s|Kalau kamu menemukan perpustakaan kosong, buku apa yang kamu ambil untuk bertahan hidup?
+s|Kalau kamu harus memasang jebakan zombie, jebakan seperti apa?
+s|Kalau kamu harus memotong rambut sendiri di masa kiamat, kamu berani?
+s|Apa hewan yang paling berguna untuk dipelihara di markas penyintas?
+s|Kalau kamu harus memilih tempat tinggal di kapal selam atau di gunung, kamu pilih mana?
+s|Kalau kamu bisa mengajak satu guru sekolahmu ke kelompok penyintas, guru siapa?
+s|Kalau kamu harus mempelajari pertolongan pertama dalam semalam, apa yang kamu pelajari dulu?
+s|Kalau zombie tidak bisa naik tangga, kamu tinggal di lantai berapa?
+s|Kalau kamu harus membuat bendera kelompok penyintas, gambarnya apa?
+s|Kalau kamu harus memilih bekal antara mi instan atau biskuit, mana yang lebih berguna?
+s|Kalau kamu harus mengayuh sepeda ke kota sebelah, berapa jam kamu sanggup?
+s|Kalau kamu harus tidur di mobil selama seminggu, apa yang paling kamu rindukan?
+m|Kalau kamu harus memilih anggota kelompok berdasarkan sifat, sifat apa yang paling penting?
+m|Bagaimana kamu menjaga kepercayaan dalam kelompok saat persediaan menipis?
+m|Kalau kamu harus memimpin pengungsian, siapa yang kamu selamatkan lebih dulu?
+m|Kalau kamu menemukan bekal milik orang lain, apakah kamu mengambilnya?
+m|Bagaimana kamu menghadapi anggota kelompok yang terlalu nekat?
+m|Kalau kamu harus memilih antara bersembunyi lama atau bergerak terus, strategi mana yang kamu pilih?
+m|Apa pelajaran dari pandemi yang menurutmu berguna untuk menghadapi bencana lain?
+m|Bagaimana kamu menjaga tradisi atau hari raya tetap bermakna saat bertahan hidup?
+m|Kalau kamu harus berbagi tempat tidur dengan orang asing demi keselamatan, kamu mau?
+m|Bagaimana kamu menghadapi pertengkaran di kelompok saat semua orang lelah?
+m|Kalau kamu harus memilih tetap di kota yang kamu cintai walau berbahaya, kamu tetap tinggal?
+m|Kalau kelompokmu harus memutuskan dengan voting, keputusan apa yang paling sulit?
+m|Bagaimana kamu menjaga harapan anak-anak di kelompok tetap hidup?
+m|Apa kebiasaan kecil yang akan kamu pertahankan untuk menjaga kewarasan?
+m|Kalau kamu harus memilih satu keterampilan untuk diajarkan ke semua anggota, apa itu?
+m|Kalau kamu bertemu kelompok yang pernah mencuri dari kalian, apakah kamu memaafkan mereka?
+m|Bagaimana kamu memastikan semua anggota merasa didengar dalam keputusan penting?
+m|Kalau kamu harus memilih tetap di tempat aman atau mencari keluarga yang hilang, kamu pilih apa?
+m|Apa yang menurutmu membuat kelompok penyintas bisa bertahan paling lama?
+m|Bagaimana kamu merayakan hari ulang tahun seseorang di tengah kiamat?
+m|Kalau kamu harus memutuskan siapa yang berjaga di malam paling berbahaya, apakah kamu mengajukan diri?
+m|Bagaimana kamu menghadapi anggota yang tiba-tiba ingin pergi sendiri?
+d|Kalau dunia lama tidak akan kembali, apa yang paling ingin kamu bangun ulang?
+d|Kalau kamu harus menenangkan seseorang yang kehilangan harapan, apa yang kamu ceritakan?
+d|Apa yang membuatmu tetap percaya pada orang lain setelah dikhianati di masa sulit?
+d|Kalau kamu harus memilih menyelamatkan dirimu atau menjaga janji, mana yang kamu pegang?
+d|Kalau kamu menemukan rumah masa kecilmu masih utuh, apa yang ingin kamu lakukan di sana?
+d|Apa arti keberanian bagimu saat semua orang sedang ketakutan?
+d|Kalau kamu harus menghadapi malam paling gelap sendirian, apa yang kamu pikirkan?
+d|Kalau kamu bisa menyimpan satu suara dari dunia lama, suara siapa?
+d|Apa yang membuatmu tetap merasa manusia ketika dunia memaksamu menjadi keras?
+d|Kalau kamu harus menulis surat untuk orang yang mungkin tidak pernah membacanya, untuk siapa?
+d|Kalau kamu harus menjadi orang tua bagi anak yatim di tengah kiamat, apa yang ingin kamu ajarkan?
+d|Apa yang kamu harapkan diingat orang tentangmu kalau kamu tidak selamat?
+d|Kalau kamu bisa memberikan satu hari normal kepada kelompokmu, hari seperti apa yang kamu ciptakan?
+d|Kalau kamu harus memilih antara balas dendam dan memulai ulang, mana yang kamu pilih?
+d|Apa luka dari kehidupan nyata yang terasa seperti tergigit pelan-pelan?
+d|Kalau kamu harus menjaga satu nilai hidup saat semua aturan hilang, nilai apa itu?
+d|Kalau kamu harus menunggu seseorang yang belum tentu kembali, sampai kapan kamu menunggu?
+d|Apa yang membuatmu memilih berbagi saat dirimu sendiri kekurangan?
+d|Kalau kamu bisa menyelamatkan satu tempat yang penuh kenangan, tempat apa?
+d|Kalau dunia baru menawarkan kesempatan menjadi orang yang berbeda, siapa yang ingin kamu jadi?
+d|Apa yang kamu pelajari tentang cinta dari membayangkan kehilangan segalanya?
+d|Kalau kamu harus memaafkan dirimu karena tidak bisa menyelamatkan seseorang, apa yang kamu katakan?
+d|Kalau hanya tersisa satu malam bersama kelompok, apa yang ingin kalian lakukan?

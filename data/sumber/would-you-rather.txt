@@ -1,0 +1,252 @@
+# Would You Rather — seru, semua mode, "kamu". Format: Pilih mana ... atau ...?
+s|Pilih mana: bisa terbang tapi cuma setinggi satu meter, atau bisa menghilang tapi cuma lima detik?
+s|Pilih mana: makan nasi tanpa lauk seminggu, atau makan lauk tanpa nasi seminggu?
+s|Pilih mana: selalu kepanasan, atau selalu kedinginan?
+s|Pilih mana: punya ekor kucing, atau punya telinga kelinci?
+s|Pilih mana: tidak bisa memakai ponsel sebulan, atau tidak bisa makan makanan manis sebulan?
+s|Pilih mana: bersin setiap kali tertawa, atau cegukan setiap kali bicara serius?
+s|Pilih mana: tinggal di rumah pohon, atau di rumah bawah tanah?
+s|Pilih mana: hanya bisa berbisik, atau hanya bisa berteriak?
+s|Pilih mana: makan mi instan setiap hari, atau tidak pernah makan mi instan lagi?
+s|Pilih mana: punya peliharaan dinosaurus mini, atau naga seukuran kucing?
+s|Pilih mana: semua lagu yang kamu dengar jadi dangdut, atau jadi lagu anak-anak?
+s|Pilih mana: berjalan mundur seumur hidup, atau berjalan menyamping seumur hidup?
+s|Pilih mana: tidak pernah macet lagi, atau tidak pernah antre lagi?
+s|Pilih mana: bisa bicara dengan kucing, atau bisa bicara dengan burung?
+s|Pilih mana: liburan ke pantai yang ramai, atau ke gunung yang sepi?
+s|Pilih mana: rambutmu selalu berantakan, atau bajumu selalu kusut?
+s|Pilih mana: makan es krim rasa sambal, atau sambal rasa es krim?
+s|Pilih mana: punya tombol skip iklan di dunia nyata, atau tombol jeda untuk waktu?
+s|Pilih mana: selalu lupa nama orang, atau selalu lupa wajah orang?
+s|Pilih mana: menonton satu film favorit berulang seumur hidup, atau tidak pernah menonton film yang sama dua kali?
+s|Pilih mana: tidur di kasur keras, atau tidur di kasur yang terlalu empuk?
+s|Pilih mana: bisa menyanyi sangat merdu, atau bisa menari sangat luwes?
+s|Pilih mana: kaki selalu basah, atau tangan selalu lengket?
+s|Pilih mana: memakai baju yang sama setiap hari, atau tidak boleh memakai baju yang sama dua kali?
+s|Pilih mana: mendengar pikiran kucing, atau mendengar pikiran bayi?
+s|Pilih mana: tinggal di kota tanpa internet, atau di desa dengan internet super cepat?
+s|Pilih mana: menjadi orang terkenal tapi tidak kaya, atau kaya tapi tidak dikenal?
+s|Pilih mana: kentut suara terompet, atau bersin suara kambing?
+s|Pilih mana: jadi tokoh sampingan di kartun, atau bos terakhir di game?
+s|Pilih mana: hanya bisa makan makanan dingin, atau hanya bisa makan makanan panas?
+s|Pilih mana: bisa mengingat semua mimpi, atau tidak pernah mimpi buruk?
+s|Pilih mana: bangun jam empat pagi setiap hari, atau tidur jam empat pagi setiap hari?
+s|Pilih mana: punya jempol super panjang, atau jari kelingking super pendek?
+s|Pilih mana: setiap langkahmu berbunyi seperti mainan, atau setiap pintu yang kamu buka berdecit?
+s|Pilih mana: liburan sebulan tanpa uang, atau kerja sebulan dengan gaji dua kali lipat?
+s|Pilih mana: berbicara dalam rima seumur hidup, atau bernyanyi setiap kali bicara?
+s|Pilih mana: makan durian setiap hari, atau mencium bau durian setiap hari?
+s|Pilih mana: jadi orang paling pintar di ruangan, atau orang paling lucu di ruangan?
+s|Pilih mana: kehilangan semua foto lama, atau kehilangan semua chat lama?
+s|Pilih mana: menjadi raksasa seminggu, atau menjadi semut seminggu?
+s|Pilih mana: naik pesawat tanpa jendela, atau naik bus tanpa AC?
+s|Pilih mana: punya sahabat robot, atau punya sahabat alien?
+s|Pilih mana: makan bakso tanpa kuah, atau soto tanpa nasi?
+s|Pilih mana: setiap foto kamu selalu blur, atau setiap video kamu selalu tanpa suara?
+s|Pilih mana: tidak bisa tertawa, atau tidak bisa menangis?
+s|Pilih mana: bisa membaca semua buku dalam sedetik, atau mengingat semua yang pernah dibaca?
+s|Pilih mana: hidup tanpa musik, atau hidup tanpa film?
+s|Pilih mana: rumah di tengah hutan, atau apartemen di tengah kota?
+s|Pilih mana: harus menyapa semua orang yang kamu lihat, atau tidak boleh menyapa siapa pun?
+s|Pilih mana: menyetir mobil yang hanya bisa mundur, atau naik sepeda yang hanya bisa belok kanan?
+s|Pilih mana: memakai sepatu kebesaran selamanya, atau sepatu kekecilan seminggu?
+s|Pilih mana: menjadi koki terkenal, atau penyanyi terkenal?
+s|Pilih mana: berlibur ke luar angkasa, atau ke dasar laut?
+s|Pilih mana: gajian setiap minggu dengan jumlah kecil, atau setiap tahun dengan jumlah besar?
+s|Pilih mana: kucing yang bisa bicara tapi sombong, atau anjing yang bisa bicara tapi cerewet?
+s|Pilih mana: tidak pernah lagi makan nasi goreng, atau tidak pernah lagi makan martabak?
+s|Pilih mana: selalu datang terlalu awal, atau selalu datang tepat di detik terakhir?
+s|Pilih mana: punya suara seperti kartun, atau tertawa seperti penjahat film?
+s|Pilih mana: bisa mengecilkan semua tagihan, atau bisa memperbesar semua tabungan sedikit demi sedikit?
+s|Pilih mana: hanya bisa memakai warna hitam, atau hanya bisa memakai warna neon?
+s|Pilih mana: hidup tanpa kopi, atau hidup tanpa teh?
+s|Pilih mana: tinggal di kastel berhantu gratis, atau di kos sempit berbayar mahal?
+s|Pilih mana: menjadi juara lomba makan kerupuk, atau juara lomba balap karung?
+s|Pilih mana: menguasai semua alat musik, atau menguasai semua bahasa?
+s|Pilih mana: setiap hari hujan, atau setiap hari terik?
+s|Pilih mana: semua chat kamu dibacakan keras-keras, atau semua riwayat pencarianmu dipajang?
+s|Pilih mana: tidak bisa pakai emoji lagi, atau tidak bisa pakai stiker lagi?
+s|Pilih mana: liburan ke Jepang, atau ke Korea?
+s|Pilih mana: punya kolam renang pribadi, atau bioskop pribadi?
+s|Pilih mana: menjadi bintang iklan sabun, atau bintang iklan mi instan?
+s|Pilih mana: mendaki gunung tanpa sepatu, atau berenang tanpa kacamata renang di laut?
+s|Pilih mana: menang lotre tapi harus pindah ke luar negeri, atau tetap di sini tanpa hadiah?
+s|Pilih mana: menjadi tokoh utama film horor, atau film komedi romantis?
+s|Pilih mana: bisa memasak semua masakan nenek, atau bisa membuat semua kue di toko roti?
+s|Pilih mana: mengerjakan tugas kelompok sendirian, atau bersama orang yang tidak pernah membantu?
+s|Pilih mana: tidak pernah bisa tidur siang, atau tidak pernah bisa begadang?
+s|Pilih mana: rambut tumbuh sangat cepat, atau kuku tumbuh sangat cepat?
+s|Pilih mana: menjadi pemenang tapi tidak ada yang tahu, atau kalah tapi semua orang memuji?
+s|Pilih mana: hanya bisa menonton serial lama, atau hanya bisa menonton serial baru?
+s|Pilih mana: hidup di zaman dulu dengan teknologi sekarang, atau hidup sekarang dengan teknologi zaman dulu?
+s|Pilih mana: punya teleport ke rumah, atau punya kulkas yang selalu penuh?
+s|Pilih mana: membaca pikiran orang saat makan, atau saat tidur?
+s|Pilih mana: menjadi penonton konser di barisan depan, atau di balik panggung?
+s|Pilih mana: tidak bisa membedakan gula dan garam, atau tidak bisa membedakan kiri dan kanan?
+s|Pilih mana: kerja dari pantai dengan sinyal lemah, atau dari kantor dengan sinyal kencang?
+s|Pilih mana: makan tanpa sendok seumur hidup, atau makan tanpa garpu seumur hidup?
+s|Pilih mana: tidur dengan lampu menyala selamanya, atau dengan suara kipas berisik selamanya?
+s|Pilih mana: bisa menahan napas satu jam, atau bisa tidak berkedip seharian?
+s|Pilih mana: liburan bersama keluarga besar, atau liburan sendirian?
+s|Pilih mana: punya taman bermain di rumah, atau kebun binatang mini di halaman?
+s|Pilih mana: seumur hidup hanya minum air putih, atau hanya minum jus?
+s|Pilih mana: menjadi pemeran pengganti film laga, atau pengisi suara film animasi?
+s|Pilih mana: tidak pernah lupa ulang tahun orang, atau tidak pernah lupa janji?
+s|Pilih mana: selalu ditemani lagu tema saat masuk ruangan, atau selalu ada efek tepuk tangan saat bicara?
+s|Pilih mana: bisa membeli semua buku, atau bisa membeli semua makanan di satu restoran?
+m|Pilih mana: tahu kapan kamu akan meninggal, atau tahu bagaimana kamu akan meninggal?
+m|Pilih mana: dicintai banyak orang tapi kesepian, atau dicintai sedikit orang dengan tulus?
+m|Pilih mana: punya pekerjaan yang kamu cintai dengan gaji kecil, atau pekerjaan membosankan dengan gaji besar?
+m|Pilih mana: selalu jujur walau menyakitkan, atau kadang berbohong demi menjaga perasaan?
+m|Pilih mana: mengulang masa SMA, atau melompat sepuluh tahun ke depan?
+m|Pilih mana: tinggal dekat keluarga tapi jauh dari peluang, atau jauh dari keluarga tapi dekat peluang?
+m|Pilih mana: punya satu sahabat sejati, atau banyak teman yang menyenangkan?
+m|Pilih mana: diingat sebagai orang baik, atau sebagai orang hebat?
+m|Pilih mana: bisa memperbaiki satu kesalahan masa lalu, atau bisa melihat satu kejadian masa depan?
+m|Pilih mana: menikah dengan orang yang sangat kamu cintai, atau dengan orang yang sangat mencintaimu?
+m|Pilih mana: kaya raya tapi sibuk sekali, atau berkecukupan tapi punya banyak waktu luang?
+m|Pilih mana: tahu semua rahasia orang lain, atau semua orang tahu rahasiamu?
+m|Pilih mana: kehilangan semua kenangan masa kecil, atau tidak bisa membuat kenangan baru selama setahun?
+m|Pilih mana: hidup di kota besar yang sibuk, atau desa kecil yang tenang?
+m|Pilih mana: sukses di usia muda lalu biasa saja, atau biasa saja lalu sukses di usia tua?
+m|Pilih mana: selalu tahu jawabannya tapi tidak bisa menjelaskan, atau bisa menjelaskan tapi sering salah?
+m|Pilih mana: berani tapi ceroboh, atau hati-hati tapi penakut?
+m|Pilih mana: menjadi pemimpin yang ditakuti, atau pengikut yang dicintai?
+m|Pilih mana: punya bakat luar biasa yang tidak kamu sukai, atau menyukai sesuatu yang tidak bisa kamu kuasai?
+m|Pilih mana: mendengar kritik jujur dari semua orang, atau hanya mendengar pujian?
+m|Pilih mana: melupakan cinta pertama, atau tidak pernah merasakan cinta pertama?
+m|Pilih mana: hidup seratus tahun dengan biasa, atau lima puluh tahun dengan luar biasa?
+m|Pilih mana: menolong orang asing yang butuh, atau membantu teman yang tidak terlalu butuh?
+m|Pilih mana: pindah ke luar negeri sendirian, atau tetap di kampung halaman bersama keluarga?
+m|Pilih mana: tahu pendapat jujur orang tentangmu, atau tidak pernah tahu sama sekali?
+m|Pilih mana: menjadi bos yang disukai tapi tidak dihormati, atau dihormati tapi tidak disukai?
+m|Pilih mana: kehilangan kemampuan bicara, atau kehilangan kemampuan menulis?
+m|Pilih mana: dipuji di depan umum, atau dipuji diam-diam lewat pesan pribadi?
+m|Pilih mana: punya banyak pilihan dan bingung, atau sedikit pilihan dan yakin?
+m|Pilih mana: memulai usaha sendiri dengan risiko, atau bekerja di perusahaan yang aman?
+m|Pilih mana: selalu merasa cukup, atau selalu merasa ingin lebih?
+m|Pilih mana: meminta maaf duluan walau tidak salah, atau menunggu walau hubungan merenggang?
+m|Pilih mana: hidup tanpa media sosial, atau hidup tanpa televisi dan streaming?
+m|Pilih mana: menjadi sangat cerdas tapi canggung, atau biasa saja tapi sangat menyenangkan?
+m|Pilih mana: tahu semua jawaban ujian, atau tidak perlu ujian sama sekali?
+m|Pilih mana: tidak pernah gagal tapi tidak pernah berkembang, atau sering gagal tapi terus berkembang?
+m|Pilih mana: ditemani hewan peliharaan setia, atau teman manusia yang kadang mengecewakan?
+m|Pilih mana: mengetahui isi hati gebetan, atau tidak pernah tahu dan tetap berharap?
+m|Pilih mana: hidup tanpa rasa takut, atau hidup tanpa rasa sedih?
+m|Pilih mana: punya rumah besar yang sepi, atau rumah kecil yang ramai?
+m|Pilih mana: mengulang hari terbaik dalam hidupmu, atau menghapus hari terburuk?
+m|Pilih mana: menjadi orang yang selalu memberi nasihat, atau yang selalu dimintai bantuan?
+m|Pilih mana: diberi kesempatan kedua, atau tidak pernah butuh kesempatan kedua?
+m|Pilih mana: hidup dengan rutinitas teratur, atau hidup penuh kejutan?
+m|Pilih mana: tidak pernah merasa marah, atau tidak pernah merasa cemburu?
+m|Pilih mana: melihat dirimu dari mata orang lain sehari, atau melihat orang lain dari dalam pikirannya sehari?
+m|Pilih mana: menyelesaikan semua cita-cita di usia 30, atau perlahan menyelesaikannya sampai tua?
+m|Pilih mana: kehilangan ponsel dengan semua data, atau kehilangan dompet dengan semua kartu?
+m|Pilih mana: berkata jujur kepada orang tua tentang segalanya, atau menyimpan sebagian demi kedamaian?
+m|Pilih mana: berbakat di bidang seni, atau di bidang sains?
+m|Pilih mana: punya mesin pengulang waktu sekali, atau mesin penghapus ingatan sekali?
+m|Pilih mana: menjadi terkenal karena kebaikan kecil, atau tidak terkenal tapi berbuat kebaikan besar?
+m|Pilih mana: liburan mewah sendirian, atau liburan sederhana bersama orang tersayang?
+m|Pilih mana: mendengar kebenaran yang pahit hari ini, atau kebenaran yang sama sepuluh tahun lagi?
+m|Pilih mana: menjadi anak sulung, atau anak bungsu?
+m|Pilih mana: mempunyai sedikit tapi dihargai, atau mempunyai banyak tapi diremehkan?
+m|Pilih mana: mencintai pekerjaanmu tapi rekan kerja menyebalkan, atau pekerjaan biasa dengan rekan menyenangkan?
+d|Pilih mana: menyelamatkan satu orang yang kamu cintai, atau seratus orang yang tidak kamu kenal?
+d|Pilih mana: hidup lama tanpa orang tersayang, atau hidup singkat bersama mereka?
+d|Pilih mana: dilupakan oleh semua orang, atau melupakan semua orang?
+d|Pilih mana: tahu semua kebenaran tentang hidupmu, atau hidup bahagia dalam ketidaktahuan?
+d|Pilih mana: memaafkan tanpa melupakan, atau melupakan tanpa memaafkan?
+d|Pilih mana: merasakan semua rasa sakit orang yang kamu sayang, atau tidak bisa merasakan apa pun?
+d|Pilih mana: kehilangan masa lalumu, atau kehilangan masa depanmu?
+d|Pilih mana: dicintai karena siapa kamu dulu, atau karena siapa kamu sekarang?
+d|Pilih mana: bertemu lagi dengan orang yang sudah tiada sejam, atau mendapat pesan terakhir dari mereka?
+d|Pilih mana: hidup tanpa penyesalan tapi tanpa risiko, atau penuh risiko dengan beberapa penyesalan?
+d|Pilih mana: tahu kapan hubunganmu akan berakhir, atau tidak pernah tahu?
+d|Pilih mana: menjadi orang yang selalu ditinggalkan, atau orang yang selalu meninggalkan?
+d|Pilih mana: menanggung rahasia besar sendirian, atau membagikannya dan merusak hubungan?
+d|Pilih mana: bahagia tapi tidak berarti, atau berarti tapi tidak bahagia?
+d|Pilih mana: menyaksikan dirimu gagal di depan orang tersayang, atau sukses tanpa ada yang melihat?
+d|Pilih mana: bisa menghapus satu luka batin, atau bisa memahami alasan di balik semua luka?
+d|Pilih mana: tidak pernah merasakan cinta, atau merasakan cinta lalu kehilangannya?
+d|Pilih mana: mengetahui pendapat orang tuamu yang sebenarnya tentangmu, atau tidak pernah tahu?
+d|Pilih mana: memilih jalan yang membuat orang tua bangga, atau yang membuatmu bahagia?
+d|Pilih mana: hidup dengan ketakutan yang kamu kenal, atau menghadapi ketidakpastian yang bisa membebaskanmu?
+d|Pilih mana: dikenang lama tapi disalahpahami, atau cepat dilupakan tapi benar-benar dipahami?
+d|Pilih mana: mengubah dirimu demi diterima, atau tetap dirimu dan kesepian?
+d|Pilih mana: bisa mengucapkan selamat tinggal yang layak, atau tidak perlu berpisah tapi tanpa kepastian?
+d|Pilih mana: menghabiskan sisa hidup dengan cinta yang tenang, atau cinta yang menggebu?
+d|Pilih mana: menjadi kuat untuk orang lain, atau boleh rapuh untuk dirimu sendiri?
+d|Pilih mana: memulai dari awal di tempat baru, atau memperbaiki semuanya di tempat lama?
+d|Pilih mana: tahu kamu sudah cukup baik, atau terus berusaha menjadi lebih baik tanpa pernah puas?
+d|Pilih mana: kehilangan pekerjaan impian, atau kehilangan sahabat terbaik?
+d|Pilih mana: membuka luka lama untuk sembuh, atau menutupnya dan hidup dengan bekasnya?
+d|Pilih mana: hidup sesuai harapan semua orang, atau mengecewakan mereka demi hidupmu sendiri?
+d|Pilih mana: dicintai oleh dunia, atau benar-benar dicintai oleh satu orang?
+d|Pilih mana: menerima permintaan maaf yang terlambat, atau tidak pernah mendapatkannya?
+d|Pilih mana: mengingat semua kebahagiaan bersama seseorang, atau melupakannya agar tidak sakit?
+d|Pilih mana: menghadapi semua ketakutanmu sekaligus, atau satu per satu seumur hidup?
+d|Pilih mana: menjadi orang yang memaafkan dengan mudah, atau yang tidak mudah disakiti?
+d|Pilih mana: hidup dengan pertanyaan yang tak terjawab, atau jawaban yang menyakitkan?
+d|Pilih mana: meninggalkan warisan besar, atau meninggalkan kenangan hangat?
+d|Pilih mana: menyelamatkan masa depanmu, atau menyelamatkan seseorang dari masa lalumu?
+d|Pilih mana: tidak pernah merasa kesepian, atau tidak pernah merasa tidak dimengerti?
+d|Pilih mana: mengetahui seseorang pernah mencintaimu diam-diam, atau tidak pernah tahu sama sekali?
+d|Pilih mana: kehilangan semua yang kamu punya tapi tetap bersama keluarga, atau punya segalanya tanpa mereka?
+d|Pilih mana: menjadi alasan seseorang tersenyum, atau alasan seseorang bertahan hidup?
+s|Pilih mana: liburan ke Bali, atau ke Labuan Bajo?
+s|Pilih mana: tidak pernah lagi makan gorengan, atau tidak pernah lagi minum es teh?
+s|Pilih mana: punya rumah di atas awan, atau di dalam gua kristal?
+s|Pilih mana: selalu mendapat kursi di kereta, atau selalu mendapat parkir di depan pintu?
+s|Pilih mana: bisa memasak secepat kilat, atau bisa mencuci piring secepat kilat?
+s|Pilih mana: menjadi nenek atau kakek yang gaul, atau yang galak tapi lucu?
+s|Pilih mana: menonton konser idola dari jauh, atau bertemu idola lima menit tanpa konser?
+s|Pilih mana: tidur delapan jam di lantai, atau empat jam di kasur mewah?
+s|Pilih mana: liburan ke Eropa dengan bus, atau keliling Indonesia dengan kapal?
+s|Pilih mana: punya robot pembersih rumah, atau robot juru masak?
+s|Pilih mana: selalu bersendawa setelah minum, atau selalu menguap saat orang bicara?
+s|Pilih mana: hanya bisa makan makanan berwarna hijau, atau hanya makanan berwarna oranye?
+s|Pilih mana: ulang tahun dirayakan sangat meriah, atau dilupakan tapi diberi hadiah besar?
+s|Pilih mana: menjadi pemenang lomba menyanyi di kampung, atau lomba memasak di kota?
+s|Pilih mana: menjelajahi hutan hujan, atau menjelajahi kutub utara?
+s|Pilih mana: kehilangan rasa pedas, atau kehilangan rasa manis?
+s|Pilih mana: rambutmu berganti warna sesuai suasana hati, atau kukumu berganti warna sesuai cuaca?
+s|Pilih mana: punya sahabat yang selalu terlambat, atau yang selalu membatalkan rencana?
+s|Pilih mana: mendapat surat cinta dari orang asing, atau surat pujian dari bosmu?
+s|Pilih mana: belajar berenang di usia tua, atau belajar menyetir di usia tua?
+s|Pilih mana: makan di warung pinggir jalan setiap hari, atau di restoran mewah sebulan sekali?
+s|Pilih mana: memiliki ponsel tanpa kamera, atau kamera tanpa ponsel?
+s|Pilih mana: tidak pernah kehujanan lagi, atau tidak pernah kepanasan lagi?
+s|Pilih mana: menjadi juri acara pencarian bakat, atau pembawa acaranya?
+s|Pilih mana: liburan ke tempat yang sama setiap tahun, atau tempat baru setiap tahun?
+s|Pilih mana: memiliki selera humor tinggi, atau selera fesyen tinggi?
+s|Pilih mana: harus mendengarkan lagu yang sama setiap pagi, atau tidak boleh mendengar musik di pagi hari?
+s|Pilih mana: tinggal di rumah penuh kucing, atau rumah penuh tanaman?
+s|Pilih mana: hanya bisa menulis dengan tangan kiri, atau hanya bisa makan dengan tangan kiri?
+m|Pilih mana: memiliki karier cemerlang tapi jauh dari rumah, atau karier biasa dekat keluarga?
+m|Pilih mana: mempunyai banyak kenangan indah yang samar, atau sedikit kenangan yang sangat jelas?
+m|Pilih mana: menjadi orang yang selalu ditunggu, atau yang selalu menunggu?
+m|Pilih mana: tahu semua tentang masa lalu pasanganmu, atau tidak tahu sama sekali?
+m|Pilih mana: memiliki guru yang sangat pintar tapi galak, atau biasa saja tapi sabar?
+m|Pilih mana: berani berbicara di depan ribuan orang, atau berani jujur pada satu orang terdekat?
+m|Pilih mana: hidup dengan jadwal yang sangat padat, atau dengan terlalu banyak waktu kosong?
+m|Pilih mana: dipercaya dengan rahasia besar, atau tidak pernah dipercaya rahasia siapa pun?
+m|Pilih mana: kehilangan selera makan selama sebulan, atau kehilangan selera humor selama sebulan?
+m|Pilih mana: menjadi orang yang paling dewasa di keluarga, atau yang paling dimanja?
+m|Pilih mana: mengetahui bakat terpendammu sekarang, atau menemukannya sendiri suatu hari?
+m|Pilih mana: punya teman yang selalu jujur, atau teman yang selalu menghibur?
+m|Pilih mana: memulai hidup baru di kota asing, atau membangun ulang hidup di kota lama?
+m|Pilih mana: menghabiskan akhir pekan untuk belajar sesuatu baru, atau beristirahat total?
+m|Pilih mana: menjadi pembicara yang hebat, atau pendengar yang hebat?
+m|Pilih mana: tidak pernah salah ucap, atau selalu bisa memperbaiki salah ucap dengan lucu?
+d|Pilih mana: mengetahui satu rahasia besar keluargamu, atau membiarkannya tetap terkubur?
+d|Pilih mana: kehilangan kesempatan emas demi orang tersayang, atau kehilangan orang tersayang demi kesempatan emas?
+d|Pilih mana: hidup tanpa harapan tapi tenang, atau penuh harapan tapi gelisah?
+d|Pilih mana: menjadi orang yang paling dirindukan, atau yang paling sering merindukan?
+d|Pilih mana: mencintai sepenuh hati tanpa jaminan dibalas, atau menahan hati agar tidak terluka?
+d|Pilih mana: mengucapkan semua yang kamu rasakan, atau menyimpannya demi menjaga hubungan?
+d|Pilih mana: menebus satu kesalahan besar, atau mencegah satu kesalahan besar di masa depan?
+d|Pilih mana: hidup dikelilingi orang yang menyukaimu, atau orang yang menantangmu untuk tumbuh?
+d|Pilih mana: menjadi kenangan indah untuk banyak orang, atau rumah bagi satu orang?
+d|Pilih mana: berdamai dengan masa lalu, atau berani menghadapi masa depan?
+s|Pilih mana: punya kebun stroberi, atau kebun mangga?
+s|Pilih mana: ditemani kucing yang manja, atau anjing yang sangat aktif?
