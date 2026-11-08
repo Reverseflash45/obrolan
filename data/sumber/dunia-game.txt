@@ -1,0 +1,251 @@
+# Dunia Game — seru, semua mode, "kamu"
+s|Game pertama yang kamu mainkan seumur hidup apa?
+s|Konsol atau perangkat game pertamamu apa?
+s|Game apa yang paling lama kamu mainkan tanpa bosan?
+s|Kalau kamu jadi karakter game, kamu kelas apa, petarung, penyihir, atau penyembuh?
+s|Game mobile apa yang pernah bikin kamu ketagihan?
+s|Siapa karakter game favoritmu sepanjang masa?
+s|Kamu tim main game sendirian atau mabar?
+s|Apa game yang lagunya masih terngiang sampai sekarang?
+s|Game apa yang bikin kamu paling sering kesal tapi tetap dimainkan?
+s|Kalau kamu bisa hidup di dunia satu game, game apa yang kamu pilih?
+s|Apa nama panggilan atau nickname yang sering kamu pakai di game?
+s|Game horor apa yang pernah bikin kamu teriak?
+s|Kamu lebih suka game cerita atau game kompetitif?
+s|Apa game papan atau kartu favoritmu?
+s|Game warnet apa yang paling kamu ingat?
+s|Kamu pernah begadang demi menamatkan game apa?
+s|Apa item game paling langka yang pernah kamu dapatkan?
+s|Siapa teman main game yang paling seru?
+s|Game olahraga apa yang paling sering kamu mainkan?
+s|Kamu tim keyboard dan mouse atau tim stik?
+s|Apa game balapan favoritmu?
+s|Kalau kamu bisa membuat game sendiri, genrenya apa?
+s|Apa game yang menurutmu punya grafis paling indah?
+s|Game apa yang bikin kamu jago bahasa Inggris tanpa sadar?
+s|Apa kode cheat lama yang masih kamu ingat?
+s|Kamu suka mengoleksi skin atau tidak peduli tampilan?
+s|Apa game yang paling sering kamu mainkan bersama keluarga?
+s|Apa game tradisional yang menurutmu layak dijadikan game digital?
+s|Game apa yang paling bikin kamu tertawa saat dimainkan bareng teman?
+s|Kalau kamu bisa jadi bos terakhir di game, kekuatanmu apa?
+s|Apa game yang punya cerita paling bikin terharu?
+s|Kamu lebih suka game dunia terbuka atau level demi level?
+s|Apa game puzzle yang paling bikin kamu pusing?
+s|Kamu suka main game di pagi, siang, atau malam?
+s|Apa camilan wajib saat main game?
+s|Game apa yang ingin kamu lihat dijadikan film?
+s|Apa game yang pernah bikin kamu rela menabung untuk membelinya?
+s|Siapa streamer atau YouTuber game favoritmu?
+s|Kamu pernah ikut turnamen game apa?
+s|Apa hal paling memalukan yang pernah terjadi saat kamu main game online?
+s|Kalau kamu punya kafe bertema game, game apa yang jadi tema utamanya?
+s|Apa game ritme atau musik favoritmu?
+s|Kamu suka main game dengan suara atau tanpa suara?
+s|Apa game yang dulu ramai dimainkan di sekolahmu?
+s|Siapa karakter pendukung di game yang paling kamu sayangi?
+s|Apa game simulasi kehidupan favoritmu?
+s|Kalau kamu bisa memelihara satu monster dari game, monster apa?
+s|Apa game yang paling lucu bug-nya?
+s|Kamu tipe yang membaca semua dialog atau langsung skip?
+s|Apa game yang membuatmu ingin belajar memasak, bertani, atau membangun?
+s|Game kerja sama apa yang paling seru dimainkan berdua?
+s|Apa senjata game favoritmu?
+s|Kamu suka memilih karakter perempuan atau laki-laki saat main RPG?
+s|Apa game strategi yang paling kamu kuasai?
+s|Kalau kamu bisa memberi penghargaan untuk satu game, penghargaan apa?
+s|Apa game yang membuatmu merasa paling pintar?
+s|Apa game yang membuatmu merasa paling bodoh?
+s|Kamu suka game yang sulit atau yang santai?
+s|Apa game yang membuatmu ingin bepergian ke negara asal ceritanya?
+s|Kalau kamu jadi NPC, kamu jadi pedagang, penjaga, atau pemberi misi?
+s|Apa misi sampingan paling aneh yang pernah kamu kerjakan di game?
+s|Kamu tim simpan otomatis atau simpan manual sesering mungkin?
+s|Apa game yang membuatmu jatuh cinta pada karakter fiksi?
+s|Apa game yang kamu mainkan di ponsel orang tuamu waktu kecil?
+s|Kalau kamu bisa membuat karakter game berdasarkan sahabatmu, kekuatannya apa?
+s|Apa game yang membuatmu rela bangun pagi demi event harian?
+s|Kamu pernah top up game berapa paling banyak?
+s|Apa game yang menurutmu terlalu mahal untuk isinya?
+s|Kalau dunia nyata punya bar nyawa, di angka berapa bar nyawamu hari ini?
+s|Apa suara efek game yang paling ikonik menurutmu?
+s|Kalau kamu bisa membawa satu kemampuan karakter game ke dunia nyata, kemampuan apa?
+s|Apa game kartu digital atau gacha yang pernah kamu mainkan?
+s|Kamu lebih suka bermain sebagai pahlawan atau penjahat di game?
+s|Apa game yang ingin kamu mainkan ulang dari awal tanpa ingatan?
+s|Apa game yang menurutmu cocok untuk dimainkan anak-anak?
+s|Kalau kamu bisa tinggal di kota game simulasi, kamu bekerja sebagai apa?
+s|Apa game yang kamu tamatkan paling cepat?
+s|Apa karakter game yang paling menyebalkan menurutmu?
+s|Kalau kamu bisa membuat avatar dirimu, ciri khas apa yang wajib ada?
+s|Apa game yang membuatmu menangis di akhir cerita?
+s|Kamu suka menjelajah setiap sudut peta atau langsung ke tujuan?
+s|Apa game yang membuatmu menyukai sejarah?
+s|Kalau kamu jadi pengisi suara karakter game, karakter apa?
+s|Apa mode permainan favoritmu, solo, duo, atau tim?
+s|Kalau kamu bisa membuka toko item di game, barang apa yang paling laris?
+s|Apa game edukasi yang kamu mainkan waktu kecil?
+s|Apa game yang dulu dilarang orang tuamu?
+s|Kamu suka game dengan akhir bercabang atau satu akhir saja?
+s|Apa game yang membuatmu bangga karena berhasil menamatkannya?
+m|Game apa yang menemanimu melewati masa sulit?
+m|Apa pelajaran hidup yang kamu dapat dari bermain game?
+m|Karakter game mana yang ceritanya paling mirip dengan hidupmu?
+m|Bagaimana perasaanmu saat kalah berulang kali di level yang sama?
+m|Apa yang membuatmu terus mencoba setelah gagal di game?
+m|Kalau hidup punya tombol simpan, momen mana yang ingin kamu simpan?
+m|Kalau hidup punya tombol muat ulang, momen mana yang ingin kamu ulang?
+m|Bagaimana game memengaruhi caramu berteman?
+m|Apa keputusan dalam game yang membuatmu merasa bersalah?
+m|Apa game yang mengajarkanmu bekerja sama dengan orang lain?
+m|Bagaimana kamu menyeimbangkan waktu bermain game dengan tanggung jawab?
+m|Pernahkah kamu merasa game menjadi pelarian dari masalah?
+m|Apa perilaku toxic di game online yang paling kamu benci?
+m|Pernahkah kamu jadi pemain toxic, dan bagaimana rasanya setelahnya?
+m|Apa game yang membuatmu lebih sabar?
+m|Kalau hidupmu punya sistem level, kamu sekarang di level berapa dan kenapa?
+m|Apa skill dunia nyata yang menurutmu terasah dari bermain game?
+m|Apa game yang membuatmu memikirkan moral dan pilihan sulit?
+m|Kalau kamu bisa memilih satu kelas karakter untuk hidup nyata, apa dan kenapa?
+m|Apa yang membuatmu memilih karakter tertentu di awal game?
+m|Bagaimana pendapatmu tentang game sebagai karier?
+m|Apa game yang membuatmu merasa terhubung dengan orang asing?
+m|Apa yang biasanya membuatmu berhenti memainkan sebuah game?
+m|Kalau kamu bisa meminta satu fitur game ada di kehidupan nyata, fitur apa?
+m|Apa misi hidupmu saat ini kalau dijelaskan seperti misi game?
+m|Apa game yang membuatmu memahami seseorang yang berbeda darimu?
+m|Bagaimana perasaanmu saat bermain dengan orang yang jauh lebih jago?
+m|Bagaimana perasaanmu saat bermain dengan orang yang baru belajar?
+m|Apa game yang menurutmu menggambarkan kehidupan dewasa dengan tepat?
+m|Kalau hidupmu adalah RPG, statistik mana yang paling tinggi dan paling rendah?
+m|Apa yang membuatmu merasa puas di game, menang, menjelajah, atau mengoleksi?
+m|Kalau ada pencapaian atau achievement di hidup nyata, apa yang sudah kamu dapat?
+m|Apa pencapaian hidup yang masih terkunci dan ingin kamu buka?
+m|Bagaimana pendapatmu tentang anak kecil bermain game kompetitif?
+m|Apa game yang membuatmu ingin menjadi pemimpin tim yang lebih baik?
+m|Pernahkah kamu berteman baik dengan seseorang yang kamu kenal dari game?
+m|Apa game yang membuatmu memikirkan lingkungan atau alam?
+m|Kalau kamu bisa memberi satu nasihat untuk pemain pemula, nasihat apa?
+m|Apa game yang menurutmu menyampaikan pesan penting dengan cara seru?
+m|Apa kebiasaan bermain game yang ingin kamu ubah?
+m|Kalau hidup punya mode mudah, apakah kamu akan memilihnya?
+m|Apa yang membuatmu merasa sebuah game adil atau curang?
+m|Kalau kamu bisa membuat game tentang hidupmu, apa misi utamanya?
+m|Apa game yang membuatmu merasa sangat kesepian?
+m|Apa game yang membuatmu merasa sangat ditemani?
+m|Bagaimana kamu menghadapi kekalahan tim karena kesalahanmu?
+m|Apa game yang membuatmu merasa nostalgia sampai sedih?
+m|Kalau kamu harus memilih karakter pendamping di hidup nyata, karakter seperti apa?
+m|Apa game yang membuatmu ingin belajar membuat game?
+m|Bagaimana pendapatmu tentang uang yang dihabiskan untuk barang virtual?
+m|Apa yang biasanya kamu lakukan untuk menenangkan diri setelah kalah besar?
+m|Apa game yang membuatmu lebih dekat dengan keluargamu?
+m|Kalau kamu bisa menjadi pengembang game, masalah apa yang ingin kamu angkat?
+m|Apa bos terberat dalam hidupmu sejauh ini, kalau hidup adalah game?
+m|Apa item yang paling kamu butuhkan di inventaris hidupmu saat ini?
+m|Bagaimana game membantumu mengatasi stres?
+m|Apa game yang membuatmu berpikir ulang tentang arti menang?
+d|Kalau hidupmu adalah game, bagian mana yang terasa seperti level mustahil?
+d|Apa yang membuatmu bertahan di level hidup yang paling sulit?
+d|Pernahkah kamu merasa seperti NPC di hidupmu sendiri?
+d|Kalau kamu bisa mengulang hidup dari awal dengan ingatan sekarang, apakah kamu mau?
+d|Siapa pemain pendukung yang paling berjasa dalam perjalanan hidupmu?
+d|Apa keputusan hidup yang kamu ambil seperti memilih cabang cerita yang menentukan akhir?
+d|Kalau hidup punya akhir bercabang, akhir seperti apa yang sedang kamu kejar?
+d|Apa luka yang kamu sembunyikan di balik waktu bermain game yang panjang?
+d|Kalau kamu bisa memberi diri sendiri satu nyawa tambahan, kapan kamu memakainya?
+d|Apa hal yang pernah kamu korbankan demi game dan kamu sesali?
+d|Kalau kamu karakter yang sedang menyembuhkan diri, apa yang memulihkan nyawamu?
+d|Pernahkah kamu merasa ingin berhenti dari permainan hidup, dan apa yang membuatmu lanjut?
+d|Apa yang membuatmu merasa layak menjadi tokoh utama dalam ceritamu sendiri?
+d|Kalau kamu bisa melihat statistik kebahagiaanmu, angka berapa yang muncul sekarang?
+d|Siapa yang ingin kamu ajak bermain lagi tapi sudah tidak bisa?
+d|Apa kenangan bermain game bersama seseorang yang paling berharga bagimu?
+d|Kalau hidup adalah game kerja sama, siapa partner yang paling kamu percayai?
+d|Apa pencapaian hidup yang paling membuatmu bangga walau tidak ada yang melihat?
+d|Apa yang kamu pelajari tentang dirimu dari karakter yang kamu ciptakan di game?
+d|Kalau kamu bisa memperbaiki satu bug dalam kepribadianmu, bug apa?
+d|Apa yang membuatmu merasa sudah kalah, padahal permainan belum selesai?
+d|Kalau hidup bisa dijeda, kapan kamu paling butuh menekan tombol jeda?
+d|Apa misi yang kamu jalankan untuk orang lain tapi melupakan dirimu sendiri?
+d|Kalau kamu bisa membuat ruang aman seperti zona aman di game, siapa yang boleh masuk?
+d|Apa yang membuatmu merasa perlu menang terus dalam hidup?
+d|Kalau dirimu yang kecil bisa melihatmu bermain game sekarang, apa yang akan dia katakan?
+d|Apa yang membuatmu memilih jalan yang lebih sulit dalam hidup, seperti memilih mode sulit?
+d|Kalau hidupmu punya kredit penutup, nama siapa saja yang harus ada di sana?
+d|Apa pengalaman di game online yang membuatmu merasa diterima saat di dunia nyata tidak?
+d|Apa yang membuatmu sulit meminta bantuan, padahal di game kamu mudah memanggil tim?
+d|Kalau kamu bisa memberi hadiah kepada pemain yang sedang menyerah, hadiah apa?
+d|Apa arti kemenangan sejati bagimu di luar layar?
+d|Kalau hidup punya mode cerita, bab mana yang ingin kamu baca ulang?
+d|Apa kebiasaan dari game yang ternyata menolongmu dalam hidup nyata?
+d|Kalau kamu bisa mengubah satu aturan permainan hidup, aturan apa?
+d|Apa yang membuatmu merasa nyawamu sedang menipis akhir-akhir ini?
+d|Kalau kamu bisa memulihkan hubungan seperti memulihkan data simpanan, hubungan mana?
+d|Apa yang membuatmu yakin permainan hidupmu masih layak dilanjutkan?
+d|Siapa yang selalu memberimu dukungan seperti penyembuh di tim?
+d|Apa satu pelajaran dari game yang ingin kamu ajarkan kepada generasi berikutnya?
+d|Kalau kamu bisa berbicara dengan tokoh game yang menemanimu saat kecil, apa yang kamu ucapkan?
+d|Apa yang membuatmu merasa permainan lebih menyenangkan saat tidak dimainkan sendirian?
+d|Kalau hidup memberimu satu power-up hari ini, power-up apa yang paling kamu butuhkan?
+d|Apa yang kamu sadari tentang waktu setelah menghitung jam bermain gamemu?
+d|Kalau kamu bisa menamatkan satu tantangan pribadi tahun ini, tantangan apa?
+d|Apa yang membuatmu merasa cukup jago menjalani hidup walau belum sempurna?
+s|Apa game yang membuatmu jatuh cinta pada dunia bawah laut?
+s|Kalau kamu jadi karakter di game balap, kendaraanmu apa?
+s|Apa mini game favoritmu di dalam game besar?
+s|Kalau kamu bisa membuat kostum dari karakter game, kostum siapa?
+s|Apa game yang punya kota atau desa paling nyaman ditinggali?
+s|Kalau kamu jadi karakter game petualangan, hewan tunggangannya apa?
+s|Apa game yang cocok dimainkan saat menunggu antrean?
+s|Kalau kamu bisa membuat level game, level itu berlatar di mana?
+s|Apa game yang membuatmu ingin bertani di dunia nyata?
+s|Kalau kamu bisa memiliki satu kekuatan dari game platformer, kekuatan apa?
+s|Apa game yang menurutmu paling cocok untuk kencan berdua?
+s|Kalau kamu jadi pemilik tim e-sports, nama timnya apa?
+s|Apa game kuis atau trivia yang paling sering kamu mainkan?
+s|Kalau kamu bisa membuat karakter berdasarkan hewan peliharaanmu, kekuatannya apa?
+s|Apa game yang punya musik latar paling menenangkan?
+s|Kalau kamu bisa hidup di dunia piksel, kamu mau jadi apa?
+s|Apa game yang membuatmu rela mengulang dari awal karena salah pilih?
+s|Kalau kamu jadi juri lomba game, game apa yang kamu nilai?
+s|Apa game yang dulu kamu mainkan di ponsel jadul?
+s|Kalau kamu bisa membuat senjata game paling lucu, bentuknya apa?
+s|Apa genre game yang belum pernah kamu coba?
+s|Kalau kamu bisa memasukkan temanmu ke dalam game, peran apa yang cocok untuknya?
+s|Apa game yang bikin kamu ingin jadi detektif?
+s|Kalau kamu bisa memilih soundtrack hidupmu dari game, lagu apa?
+s|Apa game yang menurutmu terlalu mudah?
+s|Kalau kamu bisa memiliki rumah dari game simulasi, desainnya seperti apa?
+s|Apa game yang paling sering bikin kamu tertawa sendirian?
+s|Kalau kamu jadi karakter game yang punya hewan pendamping, hewan apa?
+s|Apa game yang kamu harap dibuat sekuelnya?
+m|Apa game yang membuatmu memahami arti kerja keras untuk hasil kecil?
+m|Bagaimana pendapatmu tentang orang dewasa yang masih bermain game setiap hari?
+m|Apa yang membuatmu merasa bangga saat membantu pemain lain?
+m|Apa game yang membuatmu ingin mempelajari budaya negara lain?
+m|Kalau hidupmu punya sistem misi harian, misi apa yang wajib setiap hari?
+m|Apa game yang membuatmu memikirkan arti keluarga?
+m|Bagaimana perasaanmu saat game favoritmu ditutup servernya?
+m|Apa yang membuatmu memilih untuk bermain jujur walau bisa curang?
+m|Kalau kamu harus menjelaskan game favoritmu kepada orang tua, bagaimana caramu?
+m|Apa game yang membuatmu merasa tenang setelah hari yang berat?
+m|Kalau hidup punya peta yang terbuka perlahan, wilayah mana yang belum kamu jelajahi?
+m|Apa yang membuatmu memilih menjadi penyembuh atau pendukung dalam tim?
+m|Apa game yang membuatmu menghargai kerja tim lebih dari kemenangan pribadi?
+m|Kalau ada pengaturan tingkat kesulitan untuk hidup, kamu sekarang di tingkat apa?
+d|Apa yang membuatmu merasa permainan hidupmu sedang berada di bab yang baru?
+d|Kalau kamu bisa menyimpan satu orang sebagai rekan tim selamanya, siapa?
+d|Apa yang membuatmu merasa tidak sendirian saat sedang melawan bos terberat hidupmu?
+d|Kalau kamu bisa memberi skor pada usahamu tahun ini, skor berapa yang adil?
+d|Apa yang membuatmu ingin terus bermain meski sering kalah?
+d|Kalau kamu bisa menulis pesan untuk pemain yang akan menjalani hidupmu setelahmu, apa pesannya?
+d|Apa yang membuatmu merasa kemenangan kecil hari ini layak dirayakan?
+d|Kalau hidupmu punya tombol bantuan, kapan terakhir kali kamu ingin menekannya?
+d|Apa yang membuatmu yakin akhir cerita hidupmu masih bisa kamu pilih?
+d|Kalau kamu bisa memulihkan semangatmu seperti memulihkan stamina, apa yang kamu butuhkan?
+d|Apa yang membuatmu merasa permainan lebih berarti karena ada orang yang menunggu di garis akhir?
+d|Kalau kamu bisa memaafkan dirimu atas kekalahan besar, kekalahan yang mana?
+d|Apa yang membuatmu merasa sudah naik level sebagai manusia?
+d|Kalau kamu bisa memberikan hadiah kepada rekan timmu di dunia nyata, hadiah apa?
+d|Apa yang membuatmu merasa hidup tidak harus dimenangkan, cukup dijalani dengan baik?

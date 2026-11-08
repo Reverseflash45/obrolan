@@ -1,0 +1,251 @@
+# Fantasi & Halu — seru, semua mode, "kamu"
+s|Kalau kamu bisa tinggal di dunia dongeng, dongeng apa yang kamu pilih?
+s|Kalau kamu punya naga peliharaan, kamu kasih nama apa?
+s|Makhluk mitologi apa yang paling ingin kamu temui?
+s|Kalau kamu jadi penyihir, mantra pertama yang ingin kamu kuasai apa?
+s|Kalau kamu bisa punya istana, istananya dibangun di mana?
+s|Kalau hewan bisa bicara, hewan apa yang paling ingin kamu ajak ngobrol?
+s|Kalau kamu jadi raja atau ratu sehari, aturan pertama apa yang kamu buat?
+s|Kalau kamu bisa terbang dengan karpet ajaib, ke mana tujuan pertamamu?
+s|Kalau kamu menemukan lampu ajaib, tiga permintaanmu apa?
+s|Kalau kamu jadi peri, kekuatan apa yang ingin kamu punya?
+s|Kalau kamu bisa mengecilkan diri sebesar semut, apa yang ingin kamu lihat?
+s|Kalau kamu bisa membesarkan diri setinggi gedung, apa yang kamu lakukan?
+s|Kalau kamu bisa tinggal di bawah laut, rumahmu bentuk apa?
+s|Kalau kamu jadi putri duyung atau duyung laki-laki, warna ekormu apa?
+s|Kalau kamu bisa punya sapu terbang, kamu pakai untuk apa setiap hari?
+s|Kalau kamu bisa membuat ramuan ajaib, ramuan apa yang kamu buat?
+s|Kalau kamu bisa memelihara unicorn, kamu taruh di mana?
+s|Kalau kamu jadi tokoh dalam cerita rakyat Indonesia, kamu jadi siapa?
+s|Kalau kamu bisa menghidupkan satu boneka, boneka yang mana?
+s|Kalau kamu bisa punya pintu ke mana saja, pintu itu terhubung ke mana?
+s|Kalau kamu bisa bertukar tubuh dengan hewan sehari, hewan apa?
+s|Kalau awan bisa dimakan, rasanya seperti apa menurutmu?
+s|Kalau kamu bisa tinggal di dalam game atau film, judul apa yang kamu pilih?
+s|Kalau kamu punya kebun ajaib, tanaman aneh apa yang tumbuh di sana?
+s|Kalau kamu bisa membuat hujan permen, permen apa yang jatuh?
+s|Kalau kamu bisa mengubah warna langit, warna apa yang kamu pilih?
+s|Kalau kamu bisa punya teman robot, sifatnya seperti apa?
+s|Kalau kamu bisa menjinakkan satu badai, kamu jadikan apa badainya?
+s|Kalau kamu menemukan peta harta karun, ke mana kamu mencarinya?
+s|Kalau kamu bisa jadi bintang di langit, kamu ingin bersinar di rasi mana?
+s|Kalau kamu bisa tinggal di bulan, apa yang pertama kamu bangun?
+s|Kalau mimpimu bisa direkam, mimpi apa yang ingin kamu tonton ulang?
+s|Kalau kamu bisa membuka toko ajaib, barang apa yang kamu jual?
+s|Kalau kamu jadi tokoh kartun, kartun buatan siapa yang kamu pilih?
+s|Kalau kamu bisa punya ekor, ekor hewan apa yang kamu mau?
+s|Kalau kamu punya sayap, warna dan bentuknya seperti apa?
+s|Kalau kamu bisa memanggil hujan atau matahari, kapan kamu memakainya?
+s|Kalau kamu bisa membuat pulau sendiri, apa namanya?
+s|Kalau kamu bisa menghidupkan lukisan, lukisan apa yang kamu pilih?
+s|Kalau benda di rumahmu bisa bicara, benda mana yang paling cerewet?
+s|Kalau kamu bisa punya sahabat dari dunia lain, dari planet mana?
+s|Kalau kamu jadi naga, kamu menyemburkan api, es, atau gelembung?
+s|Kalau kamu bisa tinggal di rumah kue, bagian mana yang kamu makan duluan?
+s|Kalau kamu bisa berbicara dengan tumbuhan, kamu tanya apa ke pohon tertua?
+s|Kalau kamu jadi kesatria, senjata apa yang kamu pilih?
+s|Kalau kamu bisa naik kereta ke dunia sihir, apa yang kamu bawa?
+s|Kalau kamu bisa punya jubah tak kasatmata, kamu pakai ke mana?
+s|Kalau kamu bisa membuat satu hari libur ajaib, ada kejadian apa?
+s|Kalau kamu bisa membangun kota di atas awan, apa transportasinya?
+s|Kalau kamu bisa memelihara dinosaurus kecil, jenis apa?
+s|Kalau kamu bisa bermain dengan bayanganmu, permainan apa?
+s|Kalau kamu jadi pesulap, trik pertama yang ingin kamu tunjukkan apa?
+s|Kalau kamu bisa membuat cermin ajaib, cermin itu menunjukkan apa?
+s|Kalau kamu bisa punya rumah berjalan, rumahmu berbentuk apa?
+s|Kalau kamu jadi monster yang lucu, apa kebiasaanmu?
+s|Kalau kamu bisa memasuki buku cerita, buku apa yang kamu pilih?
+s|Kalau kamu bisa bertemu dirimu dari dunia paralel yang jadi penyihir, apa yang kamu tanya?
+s|Kalau kamu bisa menunggangi hewan raksasa, hewan apa?
+s|Kalau kamu bisa memanggil pelangi kapan saja, kamu pakai untuk apa?
+s|Kalau kamu bisa membuat makanan ajaib, efeknya apa setelah dimakan?
+s|Kalau kamu bisa membuat jam yang memperlambat waktu, kamu pakai saat apa?
+s|Kalau kamu jadi hantu baik hati, kamu menghantui siapa dan kenapa?
+s|Kalau kamu bisa menukar satu benda biasa jadi benda ajaib, benda apa?
+s|Kalau kamu bisa membuat sekolah sihir, mata pelajarannya apa saja?
+s|Kalau kamu bisa melompat masuk ke foto lama, foto yang mana?
+s|Kalau kamu bisa berbicara dengan bulan, apa yang kamu ceritakan?
+s|Kalau kamu bisa jadi angin sehari, ke mana kamu berhembus?
+s|Kalau kamu bisa memiliki kebun binatang makhluk fantasi, makhluk pertama apa?
+s|Kalau kamu bisa punya kunci yang membuka pintu apa saja, pintu mana yang kamu buka?
+s|Kalau kamu bisa membuat festival ajaib, apa atraksi utamanya?
+s|Kalau kamu bisa tinggal di dunia permen, kamu tinggal di rumah dari apa?
+s|Kalau kamu bisa punya pena ajaib yang menghidupkan gambar, kamu gambar apa dulu?
+s|Kalau kamu jadi dewa atau dewi kecil, kamu mengurus urusan apa?
+s|Kalau kamu bisa menjadi tokoh wayang, tokoh siapa?
+s|Kalau kamu bisa membuat kendaraan dari hewan, apa jadinya?
+s|Kalau kamu bisa membuat semua kucing bisa bicara, apa kata pertama mereka menurutmu?
+s|Kalau kamu bisa membuat salju turun di kotamu, kapan kamu melakukannya?
+s|Kalau kamu bisa membuat bintang jatuh sendiri, permintaan apa yang kamu ucapkan?
+s|Kalau kamu bisa tidur di dalam awan, mimpi apa yang kamu harapkan?
+s|Kalau kamu menemukan telur ajaib, kamu berharap menetas jadi apa?
+s|Kalau kamu bisa menyihir satu pelajaran sekolah jadi seru, pelajaran apa?
+s|Kalau kamu bisa memiliki toko roti ajaib, roti apa yang paling laris?
+s|Kalau kamu bisa membuat jembatan pelangi, jembatan itu menghubungkan apa?
+s|Kalau kamu bisa memiliki teman goblin atau kurcaci, apa pekerjaannya?
+s|Kalau kamu bisa hidup di zaman kerajaan Nusantara, kamu jadi apa?
+s|Kalau kamu bisa membuat satu negeri dongeng, apa nama negerinya?
+s|Kalau kamu bisa menyimpan satu suara di dalam botol, suara apa?
+s|Kalau kamu bisa memancing ikan ajaib, permintaan apa yang kamu ajukan?
+s|Kalau kamu jadi bajak laut, nama kapalmu apa?
+m|Kalau kamu bisa hidup di dunia fantasi selamanya, apa yang akan kamu rindukan dari dunia nyata?
+m|Kalau kamu punya kekuatan sihir, bagaimana kamu memastikan tidak menyalahgunakannya?
+m|Kalau kamu jadi penguasa kerajaan fantasi, masalah apa yang pertama kamu selesaikan?
+m|Kalau kamu bisa menghapus satu makhluk menakutkan dari dongeng, makhluk apa dan kenapa?
+m|Kalau kamu bisa memberi satu kekuatan ajaib ke orang yang kamu sayang, kekuatan apa?
+m|Kalau kamu bisa membuat dunia tanpa satu hal buruk, hal apa yang kamu hapus?
+m|Kalau kamu jadi tokoh antagonis di dongeng, apa alasanmu jadi jahat?
+m|Kalau kamu bisa menghidupkan tokoh fiksi favoritmu, apa yang kamu lakukan bersamanya?
+m|Kalau kamu bisa memilih takdir sebagai pahlawan atau orang biasa, kamu pilih yang mana?
+m|Kalau kamu menemukan dunia rahasia di lemarimu, siapa yang kamu ajak masuk?
+m|Kalau kamu bisa memiliki satu benda ajaib tapi ada harganya, kamu rela membayar apa?
+m|Kalau kamu jadi makhluk abadi, apa yang paling kamu takutkan?
+m|Kalau kamu bisa memberi satu pelajaran kepada tokoh dongeng, kamu ingin mengajari siapa?
+m|Kalau kamu harus memilih tim sihir, kamu pilih yang berani, cerdas, setia, atau ambisius?
+m|Kalau kamu bisa hidup sebagai hewan selama setahun, apa yang ingin kamu pelajari?
+m|Kalau kamu bisa membuat ramuan yang menghapus satu perasaan, perasaan apa?
+m|Kalau semua orang punya hewan pendamping ajaib, hewan pendampingmu apa dan kenapa?
+m|Kalau kamu bisa membuat aturan untuk dunia sihir, aturan apa yang penting?
+m|Kalau kamu jadi naga penjaga harta, harta apa yang paling berharga buatmu?
+m|Kalau kamu bisa bertemu peri pengabul mimpi, mimpi mana yang kamu serahkan?
+m|Kalau kamu harus meninggalkan satu kemampuan manusia untuk sihir, kemampuan apa yang kamu korbankan?
+m|Kalau kamu bisa mengubah akhir sebuah dongeng, dongeng mana dan bagaimana akhirnya?
+m|Kalau kamu bisa membuat satu hewan punah kembali dengan sihir, hewan apa?
+m|Kalau kamu jadi tokoh legenda, cerita apa yang akan diceritakan tentangmu?
+m|Kalau dunia fantasi butuh pemimpin, sifat apa yang kamu punya untuk memimpin?
+m|Kalau kamu bisa memiliki kekuatan menyembuhkan, siapa yang pertama kamu sembuhkan?
+m|Kalau kamu bisa memilih menjadi peri, raksasa, atau manusia, mana yang paling cocok dengan sifatmu?
+m|Kalau sihir punya efek samping, efek samping apa yang masih bisa kamu terima?
+m|Kalau kamu bisa membaca pikiran hewan peliharaanmu, apa yang kamu harapkan mereka pikirkan?
+m|Kalau kamu bisa membuat dunia tempat semua orang bahagia, apa satu aturannya?
+m|Kalau kamu bisa memberi nyawa pada satu benda kenangan, benda mana?
+m|Kalau kamu bisa membuat ramalan untuk dirimu sendiri, apa yang ingin kamu dengar?
+m|Kalau kamu bisa menjadi tokoh pendukung yang paling berjasa dalam cerita, tokoh seperti apa?
+m|Kalau kamu bisa menukar satu kenangan dengan satu sihir, kamu mau?
+m|Kalau kamu bisa memiliki kebun yang menumbuhkan perasaan, perasaan apa yang kamu tanam?
+m|Kalau kamu punya cermin yang menunjukkan keinginan terdalam, apa yang kamu lihat?
+m|Kalau kamu harus menjaga sebuah rahasia dunia sihir, siapa yang paling sulit kamu bohongi?
+m|Kalau kamu bisa memberi kekuatan sihir ke satu profesi, profesi apa?
+m|Kalau kamu bisa hidup di dunia tanpa uang tapi penuh sihir, apa yang kamu lakukan seharian?
+m|Kalau kamu bisa memilih satu musuh fantasi untuk dikalahkan, musuh seperti apa?
+m|Kalau kamu bisa membuat sekolah untuk anak-anak dengan kekuatan aneh, apa nilai utamanya?
+m|Kalau kamu bisa memanggil satu tokoh dongeng untuk membantu masalahmu sekarang, siapa?
+m|Kalau kamu bisa mengubah satu hukum alam, hukum mana yang kamu ubah?
+m|Kalau kamu bisa memiliki dua kehidupan, satu nyata dan satu fantasi, bagaimana kamu membaginya?
+m|Kalau kamu bisa menjinakkan rasa takut menjadi makhluk, bentuknya seperti apa?
+m|Kalau kamu jadi pembuat dongeng, pesan moral apa yang selalu kamu sisipkan?
+m|Kalau kamu bisa memberi satu benda ajaib ke dirimu yang masih kecil, benda apa?
+m|Kalau kamu bisa menghidupkan kembali satu tempat yang sudah hilang dengan sihir, tempat mana?
+m|Kalau kamu bisa membuat semua orang berbicara satu bahasa ajaib, apa yang berubah?
+m|Kalau kamu jadi penjaga gerbang dunia lain, siapa yang tidak boleh lewat?
+m|Kalau kamu bisa memiliki keabadian tapi sendirian, apakah kamu mau?
+m|Kalau kamu bisa memilih satu momen hidupmu untuk dijadikan dongeng, momen mana?
+m|Kalau kamu bisa membuat kota yang semua bangunannya hidup, apa yang akan sering terjadi?
+m|Kalau kamu bisa memiliki kekuatan bernyanyi yang menenangkan siapa saja, untuk siapa kamu bernyanyi?
+m|Kalau kamu bisa melihat masa depan lewat bola kristal, apakah kamu mau melihatnya?
+d|Kalau kamu bisa melarikan diri ke dunia fantasi, apa yang sebenarnya ingin kamu tinggalkan?
+d|Tokoh fantasi mana yang paling mirip dengan perjuanganmu di dunia nyata?
+d|Kalau sihir bisa menyembuhkan satu luka batin, luka apa yang ingin kamu sembuhkan?
+d|Kalau kamu punya kekuatan untuk membuat seseorang lupa satu kejadian, apakah kamu akan memakainya?
+d|Kalau kamu bertemu versi dirimu sebagai pahlawan, apa yang ingin kamu pelajari darinya?
+d|Kalau kamu bisa memberi akhir bahagia untuk satu kisah di hidupmu, kisah yang mana?
+d|Kalau monster dalam cerita adalah ketakutanmu, monster seperti apa yang paling sering kamu lawan?
+d|Kalau kamu bisa menghapus satu keputusan dengan sihir, apakah kamu benar-benar akan melakukannya?
+d|Kalau kamu bisa bicara dengan seseorang yang sudah tiada lewat sihir, apa yang kamu katakan?
+d|Kalau kamu harus mengorbankan sesuatu untuk menyelamatkan dunia fantasi, apa yang rela kamu korbankan?
+d|Kalau kamu bisa memiliki tempat persembunyian ajaib, kapan kamu paling butuh ke sana?
+d|Kalau dunia fantasi adalah cermin hatimu, seperti apa suasananya hari ini?
+d|Kalau kamu bisa memilih menjadi tokoh yang dicintai atau yang ditakuti, kenapa kamu memilih itu?
+d|Kalau kamu bisa menyelamatkan satu tokoh fiksi dari nasib tragisnya, siapa dan kenapa?
+d|Kalau kamu bisa memberi sayap pada satu mimpi yang terkubur, mimpi apa?
+d|Kalau sihirmu bergantung pada kebahagiaanmu, seberapa kuat sihirmu sekarang?
+d|Kalau kamu bisa membuat ramuan untuk merasa cukup, kapan kamu akan meminumnya?
+d|Kalau kamu bisa mengunci satu kenangan bahagia agar tidak pernah pudar, kenangan yang mana?
+d|Kalau kamu harus melawan naga demi seseorang, siapa orang itu?
+d|Kalau dongeng hidupmu punya bab yang ingin kamu lewati, bab apa itu?
+d|Kalau kamu bisa melihat benang takdir yang menghubungkanmu dengan orang lain, siapa yang paling terikat denganmu?
+d|Kalau kamu bisa membuat dirimu dari masa kecil percaya pada keajaiban lagi, apa yang kamu tunjukkan?
+d|Kalau kamu menjadi penyihir tua yang bijak, nasihat apa yang paling sering kamu berikan?
+d|Kalau kekuatan terbesarmu sebenarnya adalah kelemahanmu, kelemahan mana yang paling mungkin?
+d|Kalau kamu bisa membuat pelindung ajaib untuk satu orang, siapa yang kamu lindungi?
+d|Kalau dunia fantasi butuh alasan untuk tetap ada, alasan apa yang kamu berikan?
+d|Kalau kamu bisa bertukar takdir dengan tokoh dongeng, apakah kamu benar-benar ingin melakukannya?
+d|Kalau sihir bisa mengembalikan waktu yang hilang, waktu bersama siapa yang ingin kamu dapat kembali?
+d|Kalau kamu harus memilih antara keajaiban dan kebenaran, mana yang kamu pegang?
+d|Kalau kamu bisa memberikan satu keajaiban kecil kepada orang asing, keajaiban apa?
+d|Kalau kamu menulis dongeng untuk dirimu yang sedang sedih, bagaimana ceritanya berakhir?
+d|Kalau kamu bisa mengubah satu kutukan dalam hidupmu menjadi berkat, kutukan apa?
+d|Kalau kamu bisa membuat pintu rahasia untuk kembali ke masa paling bahagia, kapan kamu membukanya?
+d|Kalau kamu harus meninggalkan dunia fantasi untuk pulang, siapa yang membuatmu ingin pulang?
+d|Kalau sihir tidak pernah ada, keajaiban apa yang masih bisa kamu temukan di hidupmu?
+d|Kalau kamu bisa memberi nama pada perasaanmu sekarang seperti nama mantra, apa namanya?
+d|Kalau kamu bisa menjadi cahaya untuk seseorang dalam kegelapan, untuk siapa?
+d|Kalau dongeng mengajarkan keberanian, kapan terakhir kali kamu berani seperti tokoh dongeng?
+d|Kalau kamu bisa hidup di dunia yang menerima semua keanehanmu, keanehan apa yang akan kamu tunjukkan?
+d|Kalau kamu bisa mengubah satu kata kasar yang pernah kamu dengar menjadi mantra baik, kata apa?
+d|Kalau kamu bisa memiliki teman ajaib yang selalu jujur, apa yang paling ingin kamu dengar darinya?
+d|Kalau kamu adalah tokoh yang sedang dalam perjalanan pulang, rumah seperti apa yang kamu tuju?
+d|Kalau sihirmu hanya bisa dipakai sekali seumur hidup, kamu menyimpannya untuk saat apa?
+d|Kalau kamu bisa membuat seseorang merasakan keajaiban yang sama seperti kamu dulu, siapa?
+d|Kalau kamu bisa berdamai dengan musuh di dalam dirimu, apa yang akan kamu katakan padanya?
+d|Kalau kamu bisa menanam pohon harapan, buah apa yang ingin kamu panen nanti?
+d|Kalau kamu harus menyerahkan mahkota dunia fantasi, kepada siapa kamu menyerahkannya?
+d|Kalau dunia nyata adalah dongeng, bagian mana yang menurutmu belum ditulis?
+s|Kalau kamu bisa memiliki kucing yang bisa menghilang, kamu ajak main apa?
+s|Kalau kamu bisa membuat kereta yang berjalan di atas pelangi, ke mana rutenya?
+s|Kalau kamu jadi penjaga mercusuar ajaib, cahayanya bisa melakukan apa?
+s|Kalau kamu bisa memanen bintang, kamu jadikan apa bintangnya?
+s|Kalau kamu bisa membuat payung ajaib, apa kegunaannya selain menahan hujan?
+s|Kalau kamu bisa memiliki sepatu yang bisa melompat setinggi gedung, ke mana kamu melompat?
+s|Kalau kamu bisa menyulap rumahmu jadi kapal, kamu berlayar ke mana?
+s|Kalau kamu bisa membuat jam yang menunjukkan waktu bahagia, kapan jarumnya berhenti?
+s|Kalau kamu bisa menukar air laut jadi minuman, minuman apa?
+s|Kalau kamu bisa memiliki kebun bunga yang bernyanyi, lagu apa yang mereka nyanyikan?
+s|Kalau kamu bisa memelihara burung phoenix, apa yang kamu ajarkan padanya?
+s|Kalau kamu bisa menjadi tokoh di permainan kartu, kartu apa yang kamu wakili?
+s|Kalau kamu bisa memiliki sungai cokelat, kamu berenang atau minum?
+s|Kalau kamu bisa membuat salju yang hangat, kamu pakai untuk apa?
+s|Kalau kamu bisa membuka restoran untuk makhluk ajaib, menu andalanmu apa?
+s|Kalau kamu bisa memiliki kalung yang bisa berbicara, nasihat apa yang sering ia berikan?
+s|Kalau kamu bisa bermain petak umpet dengan peri, di mana kamu bersembunyi?
+s|Kalau kamu bisa memiliki taman bermain di atas awan, wahana apa yang pertama dibuat?
+s|Kalau kamu bisa memanggil satu musim kapan saja, musim apa?
+s|Kalau kamu bisa jadi kartun yang hidup di layar ponsel, aplikasi mana yang kamu tinggali?
+s|Kalau kamu bisa bertukar sehari dengan tokoh dongeng, apa hal pertama yang kamu lakukan?
+s|Kalau kamu bisa memiliki perahu kertas yang bisa membawamu ke mana saja, ke mana?
+s|Kalau kamu bisa membuat boneka salju yang hidup, siapa namanya?
+s|Kalau kamu bisa menempelkan sayap di sepedamu, ke mana kamu bersepeda?
+s|Kalau kamu bisa memiliki rumah di dalam pohon raksasa, ruangan apa yang ada di dalamnya?
+m|Kalau kamu bisa membuat dunia di mana semua orang punya satu kekuatan kecil, kekuatan apa milikmu?
+m|Kalau kamu bisa menghentikan satu perang di dunia dongeng, bagaimana caranya?
+m|Kalau kamu bisa memberikan ingatan bahagia kepada makhluk yang kesepian, ingatan apa?
+m|Kalau sihir bisa dipelajari di sekolah, kamu akan jadi murid yang rajin atau malas?
+m|Kalau kamu bisa memiliki asisten makhluk ajaib, tugas apa yang paling sering kamu berikan?
+m|Kalau kamu bisa membuat kota tanpa kemacetan dengan sihir, bagaimana caranya?
+m|Kalau kamu bisa membuat peta dunia fantasi, wilayah mana yang paling berbahaya?
+m|Kalau semua dongeng punya hari raya, hari raya dongeng mana yang ingin kamu rayakan?
+m|Kalau kamu harus memilih tinggal di gua naga atau menara penyihir, kamu pilih mana?
+m|Kalau kamu bisa membuat semua orang melihat dunia dengan mata anak kecil, apa yang berubah?
+m|Kalau kamu bisa membawa satu teknologi modern ke dunia dongeng, teknologi apa?
+m|Kalau kamu bisa memberi satu nasihat kepada penyihir muda, nasihat apa?
+m|Kalau kamu bisa menghidupkan satu legenda Indonesia, legenda mana?
+m|Kalau kamu bisa membuat makhluk baru, bagaimana sifat dan bentuknya?
+m|Kalau kamu bisa menjinakkan monster di bawah kasur, monster seperti apa yang kamu temui?
+m|Kalau kamu menjadi pengarang dongeng anak-anak, tokoh utamamu siapa?
+d|Kalau kamu bisa membuat perisai dari kenangan baik, kenangan apa saja yang kamu pakai?
+d|Kalau kamu bisa menukar satu ketakutan dengan satu keberanian, ketakutan apa yang kamu tukar?
+d|Kalau dongeng hidupmu punya peri pelindung, siapa sosok itu di dunia nyata?
+d|Kalau kamu bisa menghibur dirimu yang paling sedih lewat dongeng, dongeng apa yang kamu ceritakan?
+d|Kalau kamu bisa membuat bintang untuk setiap orang yang pernah menolongmu, siapa bintang paling terang?
+d|Kalau sihir hanya bisa digunakan untuk orang lain, untuk siapa kamu menggunakannya?
+d|Kalau kamu bisa menyimpan satu keajaiban masa kecil dalam kotak, keajaiban apa?
+d|Kalau kamu bisa menemui naga yang mewakili amarahmu, apa yang akan kamu katakan padanya?
+d|Kalau kamu harus memilih antara hidup ajaib yang sepi atau hidup biasa yang penuh cinta, kamu pilih mana?
+d|Kalau kamu bisa menulis ramalan untuk orang yang kamu sayang, ramalan apa yang kamu tulis?
+d|Kalau dunia fantasi membutuhkan satu hal darimu, hal apa yang paling bisa kamu berikan?
+d|Kalau kamu bisa memberi kekuatan pada dirimu yang dulu sering diremehkan, kekuatan apa?
+d|Kalau kamu menemukan surat dari dirimu di masa depan dalam dunia sihir, apa isinya?
+d|Kalau sihir bisa membuat seseorang memahami perasaanmu, siapa yang paling ingin kamu buat paham?
+d|Kalau kamu bisa menghapus satu kutukan keluarga, kutukan seperti apa?
+d|Kalau kamu bisa menjadi tokoh yang membawa cahaya pulang, kepada siapa kamu membawanya?
+d|Kalau kamu bisa memilih satu keajaiban yang terjadi besok, keajaiban apa yang paling kamu butuhkan?

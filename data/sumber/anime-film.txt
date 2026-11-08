@@ -1,0 +1,252 @@
+# Anime & Film — seru, semua mode, "kamu"
+s|Film apa yang paling sering kamu tonton ulang?
+s|Anime pertama yang bikin kamu jatuh cinta sama anime apa?
+s|Kalau hidupmu jadi film, genrenya apa?
+s|Siapa aktor atau aktris yang ingin memerankan kamu di film biografimu?
+s|Karakter anime mana yang paling mirip dengan kepribadianmu?
+s|Film animasi apa yang masih bikin kamu terharu sampai sekarang?
+s|Apa lagu pembuka anime yang langsung bikin kamu semangat?
+s|Kalau kamu bisa masuk ke satu film, film apa yang kamu pilih?
+s|Siapa tokoh jahat di film yang diam-diam kamu suka?
+s|Apa film horor yang paling bikin kamu tidak bisa tidur?
+s|Kamu tim nonton film dengan subtitle atau sulih suara?
+s|Film Indonesia apa yang menurutmu wajib ditonton semua orang?
+s|Kalau kamu jadi sutradara, film seperti apa yang ingin kamu buat?
+s|Apa adegan film paling ikonik menurutmu?
+s|Camilan wajib apa yang harus ada saat nonton film?
+s|Apa film yang menurutmu terlalu dibesar-besarkan?
+s|Apa film yang menurutmu kurang dihargai orang?
+s|Siapa karakter anime yang ingin kamu jadikan sahabat?
+s|Kalau kamu punya kekuatan dari anime, kekuatan siapa yang kamu pilih?
+s|Kamu lebih suka nonton di bioskop atau di rumah sambil rebahan?
+s|Apa film musikal favoritmu?
+s|Siapa karakter film yang gaya busananya ingin kamu tiru?
+s|Apa kutipan film yang sering kamu ucapkan?
+s|Apa film masa kecil yang selalu tayang saat libur sekolah?
+s|Kalau kamu jadi tokoh di film superhero, kamu jadi pahlawan atau penjahat?
+s|Apa serial yang pernah kamu tonton maraton dalam satu hari?
+s|Anime olahraga apa yang bikin kamu ingin ikut berolahraga?
+s|Apa film yang bikin kamu ingin jalan-jalan ke lokasi syutingnya?
+s|Kamu suka film yang endingnya jelas atau menggantung?
+s|Apa makanan dari anime yang paling ingin kamu coba di dunia nyata?
+s|Kalau kamu bisa bertemu satu sutradara, siapa yang kamu pilih?
+s|Siapa duo atau pasangan film favoritmu?
+s|Apa film komedi yang selalu berhasil bikin kamu ketawa?
+s|Studio animasi mana yang paling kamu suka?
+s|Apa film yang kamu tonton di bioskop lebih dari sekali?
+s|Kamu tim spoiler boleh atau anti spoiler?
+s|Apa trailer film yang menurutmu lebih bagus dari filmnya?
+s|Siapa karakter sampingan yang menurutmu layak dapat film sendiri?
+s|Apa film yang menurutmu wajib ditonton bersama keluarga?
+s|Kalau kamu bisa hidup di dunia satu anime, kamu pilih yang mana?
+s|Apa genre film yang paling jarang kamu tonton?
+s|Apa film yang membuatmu menangis di bioskop?
+s|Kamu suka duduk di barisan depan, tengah, atau belakang bioskop?
+s|Apa lagu tema film yang bisa kamu nyanyikan?
+s|Siapa penyanyi atau band yang ingin kamu dengar mengisi lagu film?
+s|Apa film yang ingin kamu lihat dibuat ulang versi Indonesia?
+s|Apa anime yang menurutmu cocok untuk pemula?
+s|Kalau kamu menulis fan fiction, tokoh mana yang kamu pakai?
+s|Apa film yang tokohnya paling membuatmu kesal?
+s|Kamu lebih suka film pendek atau film panjang tiga jam?
+s|Apa film fiksi ilmiah favoritmu?
+s|Apa film yang soundtrack-nya paling kamu suka?
+s|Kalau kamu ikut cosplay, kamu mau jadi karakter siapa?
+s|Apa serial yang endingnya paling bikin kamu kecewa?
+s|Apa serial yang endingnya paling memuaskan?
+s|Siapa karakter yang menurutmu paling lucu sepanjang masa?
+s|Bioskop mana yang paling banyak menyimpan kenanganmu?
+s|Kamu suka menonton film sendirian atau rame-rame?
+s|Apa platform streaming yang paling sering kamu pakai?
+s|Apa film yang bikin kamu ingin belajar sesuatu yang baru?
+s|Siapa karakter dengan rambut paling ikonik menurutmu?
+s|Apa anime yang menurutmu punya animasi paling indah?
+s|Kalau kamu bisa punya rumah dari film, rumah film apa?
+s|Apa film yang menurutmu terlalu seram untuk ditonton ulang?
+s|Kamu suka membaca manga atau menonton animenya?
+s|Apa film yang membuatmu ingin punya hewan peliharaan?
+s|Siapa tokoh film yang ingin kamu ajak makan malam?
+s|Apa film perjalanan waktu favoritmu?
+s|Apa film yang menurutmu paling lucu untuk ditonton saat sedih?
+s|Kalau kamu jadi pengisi suara anime, karakter seperti apa yang cocok dengan suaramu?
+s|Apa kebiasaan anehmu saat menonton film?
+s|Kamu tim popcorn manis atau asin?
+s|Apa film yang ingin kamu tonton tapi belum sempat?
+s|Siapa karakter yang paling mirip dengan sahabatmu?
+s|Apa adegan perkelahian film yang paling keren menurutmu?
+s|Apa adegan makan di film yang bikin kamu lapar?
+s|Apa film animasi Disney atau Pixar favoritmu?
+s|Apa film Studio Ghibli favoritmu?
+s|Kalau kamu bisa jadi figuran di satu film, film apa?
+s|Apa serial komedi situasi yang paling kamu suka?
+s|Apa film yang membuatmu ingin jatuh cinta?
+s|Siapa karakter yang paling setia kawan menurutmu?
+s|Apa anime yang menurutmu terlalu panjang tapi tetap seru?
+s|Kalau film favoritmu dijadikan wahana taman bermain, wahananya seperti apa?
+s|Apa film yang kamu tonton karena rekomendasi teman dan ternyata bagus?
+s|Apa film yang kamu tonton karena rekomendasi teman dan ternyata mengecewakan?
+s|Apa serial yang bikin kamu begadang sampai subuh?
+s|Kalau kamu bisa memberi Oscar ke satu film, film apa?
+s|Apa film yang menurutmu punya plot twist terbaik?
+s|Siapa karakter anime dengan nama paling unik?
+s|Apa film bertema sekolah favoritmu?
+s|Apa genre anime favoritmu, isekai, slice of life, shonen, atau yang lain?
+m|Film apa yang mengubah caramu melihat hidup?
+m|Karakter mana yang perkembangan sifatnya paling kamu kagumi?
+m|Adegan film apa yang paling mirip dengan pengalaman hidupmu?
+m|Anime atau film apa yang menemanimu di masa sulit?
+m|Siapa karakter yang menurutmu disalahpahami penonton?
+m|Kalau kamu bisa mengubah akhir sebuah film, film apa dan bagaimana akhirnya?
+m|Apa pesan film yang paling membekas di kepalamu?
+m|Karakter mana yang ingin kamu jadikan teladan?
+m|Apa film yang membuatmu lebih menghargai keluarga?
+m|Apa film yang membuatmu lebih menghargai persahabatan?
+m|Karakter penjahat mana yang alasannya bisa kamu pahami?
+m|Apa film yang membuatmu ingin menjadi orang yang lebih baik?
+m|Anime mana yang menggambarkan masa remaja dengan paling jujur?
+m|Apa film yang menurutmu paling realistis soal cinta?
+m|Apa film yang menurutmu memberi gambaran cinta yang tidak sehat?
+m|Kalau kamu bisa menanyakan satu hal ke penulis cerita favoritmu, apa pertanyaannya?
+m|Karakter mana yang paling mewakili rasa kesepian menurutmu?
+m|Apa film yang membuatmu ingin mengejar mimpi?
+m|Apa film yang kamu tonton di momen penting hidupmu?
+m|Siapa karakter yang mengajarkanmu arti pengorbanan?
+m|Apa film yang menurutmu salah dalam menggambarkan suatu budaya?
+m|Apa film yang membuatmu memandang orang tua dengan cara berbeda?
+m|Karakter mana yang membuatmu merasa tidak sendirian?
+m|Apa film yang membuatmu takut akan masa depan?
+m|Apa film yang membuatmu optimis tentang masa depan?
+m|Apa film yang menurutmu harus ditonton setiap remaja?
+m|Apa adegan film yang membuatmu malu sendiri karena terlalu relate?
+m|Karakter mana yang menurutmu punya cara terbaik menghadapi kegagalan?
+m|Apa film yang membuatmu ingin minta maaf ke seseorang?
+m|Apa film yang membuatmu rindu masa kecil?
+m|Apa film yang kamu sukai dulu tapi sekarang terasa berbeda?
+m|Siapa karakter yang menurutmu paling tulus mencintai?
+m|Apa film yang menggambarkan persahabatan paling indah?
+m|Apa anime yang membuatmu memikirkan arti hidup dan mati?
+m|Apa film yang mengajarkanmu bahwa tidak semua hal harus dimenangkan?
+m|Karakter mana yang paling berani menurutmu, bukan yang paling kuat?
+m|Apa film yang menurutmu menggambarkan kesehatan mental dengan baik?
+m|Apa film yang membuatmu ingin belajar bahasa negara asalnya?
+m|Apa film yang membuatmu memikirkan ulang pilihan kariermu?
+m|Siapa karakter yang menurutmu pantas dapat kesempatan kedua?
+m|Apa film yang membuatmu ingin pergi jauh dan memulai dari awal?
+m|Apa film yang menurutmu paling jujur tentang patah hati?
+m|Apa film yang kamu rekomendasikan untuk orang yang sedang kehilangan arah?
+m|Karakter mana yang paling mirip dengan salah satu orang tuamu?
+m|Apa film yang membuatmu bersyukur dengan hidupmu sekarang?
+m|Apa film yang memberimu keberanian untuk mencoba hal baru?
+m|Kalau kamu bisa memberi nasihat kepada satu karakter, siapa dan apa nasihatnya?
+m|Apa film yang membuatmu ingin berbuat baik kepada orang asing?
+m|Apa film yang ingin kamu tonton ulang saat tua nanti?
+m|Siapa karakter yang menurutmu paling layak bahagia?
+m|Apa film yang membuatmu memikirkan arti rumah?
+m|Apa film yang menurutmu menggambarkan pertumbuhan diri dengan indah?
+m|Apa anime yang membuatmu menghargai hal-hal kecil dalam hidup?
+m|Apa film yang mengubah pendapatmu tentang suatu kelompok orang?
+m|Siapa karakter yang menurutmu menunjukkan kekuatan dalam kelembutan?
+m|Apa film yang ingin kamu tonton bersama orang yang paling kamu sayang?
+m|Apa film yang membuatmu memikirkan pilihan yang tidak kamu ambil?
+m|Siapa karakter yang membuatmu ingin lebih jujur pada diri sendiri?
+m|Apa film yang menurutmu paling tepat menggambarkan hubungan saudara?
+m|Apa adegan perpisahan di film yang paling sulit kamu tonton?
+m|Apa film yang membuatmu memikirkan ulang arti sukses?
+m|Apa film yang menurutmu paling menggambarkan generasimu?
+m|Siapa karakter yang menurutmu punya hubungan paling sehat dengan dirinya sendiri?
+d|Karakter mana yang luka batinnya paling mirip dengan lukamu?
+d|Adegan film mana yang membuatmu menangis karena teringat hidupmu sendiri?
+d|Kalau hidupmu adalah anime, di episode berapa kamu sekarang dan apa konfliknya?
+d|Karakter mana yang mengajarkanmu cara memaafkan?
+d|Apa film yang membuatmu sadar kamu sedang tidak baik-baik saja?
+d|Kalau kamu bisa memeluk satu karakter fiksi, siapa yang paling membutuhkannya?
+d|Apa film yang menggambarkan hubunganmu dengan orang tua dengan sangat tepat?
+d|Karakter mana yang membuatmu merasa dipahami saat tidak ada orang lain yang memahami?
+d|Apa film yang membuatmu memikirkan kematian dengan lebih tenang?
+d|Kalau hidupmu punya soundtrack, lagu apa yang diputar di adegan tersulitmu?
+d|Karakter mana yang perjalanannya ingin kamu ikuti dalam hidup nyata?
+d|Apa film yang membuatmu ingin menulis ulang kisah hidupmu?
+d|Kalau kamu adalah karakter sampingan di hidup orang lain, peran apa yang ingin kamu mainkan?
+d|Apa film yang membuatmu sadar bahwa kamu sudah tumbuh?
+d|Karakter mana yang membuatmu malu karena mirip sisi burukmu?
+d|Apa adegan film yang ingin kamu alami dengan orang yang kamu sayang?
+d|Kalau hidupmu punya plot twist, apa twist terbesar sejauh ini?
+d|Karakter mana yang mengajarkanmu bahwa tidak apa-apa untuk menangis?
+d|Apa film yang membantumu melewati duka?
+d|Kalau kamu bisa memberi akhir bahagia pada satu karakter yang tragis, kenapa dia yang kamu pilih?
+d|Apa film yang membuatmu bertanya-tanya apakah kamu sudah menjalani hidup dengan benar?
+d|Karakter mana yang mencerminkan dirimu yang dulu, dan apa yang berubah?
+d|Apa film yang membuatmu ingin menelepon seseorang setelah menontonnya?
+d|Kalau hidupmu dijadikan film, adegan mana yang ingin kamu potong?
+d|Kalau hidupmu dijadikan film, adegan mana yang wajib dipertahankan?
+d|Karakter mana yang menunjukkan cara mencintai yang ingin kamu pelajari?
+d|Apa film yang membuatmu memahami seseorang yang dulu sulit kamu pahami?
+d|Kalau kamu bisa menjadi karakter yang mendapat kesempatan kedua, kesempatan apa yang kamu butuhkan?
+d|Apa film yang membuatmu merasa harapan itu masih ada?
+d|Karakter mana yang menunjukkan kesepian yang paling mirip dengan yang pernah kamu rasakan?
+d|Apa film yang membuatmu ingin berdamai dengan masa lalu?
+d|Kalau hidupmu punya narator, apa kalimat pertama yang dia ucapkan tentangmu?
+d|Karakter mana yang membuatmu ingin menjadi orang tua atau pasangan yang lebih baik?
+d|Apa film yang membuatmu mempertanyakan apa yang benar-benar penting?
+d|Kalau kamu harus memilih satu adegan untuk mewakili seluruh hidupmu, adegan seperti apa?
+d|Karakter mana yang paling kamu harap ada di dunia nyata untuk menemanimu?
+d|Apa film yang membuatmu memaafkan dirimu sendiri?
+d|Kalau hidupmu adalah anime, apa yang dikatakan karakter mentor tentangmu?
+d|Karakter mana yang menunjukkan keberanian untuk pergi, dan apakah kamu pernah perlu pergi seperti itu?
+d|Apa film yang membuatmu sadar bahwa waktu bersama orang tersayang itu terbatas?
+d|Kalau kamu bisa menonton ulang satu hari dalam hidupmu seperti film, hari apa?
+d|Karakter mana yang mengajarkanmu bahwa kamu tidak harus menyelamatkan semua orang?
+d|Apa adegan film yang membuatmu ingin pulang ke rumah orang tuamu?
+d|Kalau hidupmu adalah film, siapa yang akan kamu ucapkan terima kasih di kredit akhirnya?
+d|Apa film yang membuatmu yakin bahwa perubahan selalu mungkin?
+d|Karakter mana yang paling kamu harapkan bisa melihatmu sekarang?
+d|Apa film yang membuatmu memikirkan siapa yang akan kamu jadi sepuluh tahun lagi?
+d|Kalau kamu bisa menulis surat untuk karakter yang membantumu tumbuh, apa isinya?
+d|Apa film yang membuatmu ingin hidup lebih berani mulai besok?
+s|Apa film bencana alam yang paling seru menurutmu?
+s|Siapa karakter anime yang paling rakus makan?
+s|Kalau kamu bisa membuat crossover dua film, film apa saja?
+s|Apa film yang menurutmu punya poster paling keren?
+s|Siapa karakter yang paling sering kamu jadikan foto profil?
+s|Apa film yang kamu tonton saat hujan deras dan terasa pas sekali?
+s|Kalau kamu bisa tinggal di kota dari film, kota mana?
+s|Apa film bertema hewan yang paling kamu suka?
+s|Siapa karakter anime yang menurutmu paling keren saat bertarung?
+s|Apa film yang ingin kamu tonton bareng di malam tahun baru?
+s|Apa serial misteri yang paling bikin penasaran?
+s|Kalau kamu bisa memiliki satu properti film, properti apa?
+s|Apa film yang menurutmu paling cocok ditonton saat pacaran pertama kali?
+s|Siapa karakter yang punya tawa paling khas menurutmu?
+s|Apa film yang ingin kamu lihat versi animenya?
+s|Kalau kamu bisa jadi karakter kartun hari Minggu pagi, kamu jadi siapa?
+s|Apa film keluarga yang dulu ditonton bareng saat Lebaran atau Natal?
+s|Siapa karakter yang paling kamu harapkan muncul di sekuel berikutnya?
+s|Apa anime yang membuatmu ingin pergi ke Jepang?
+s|Kalau kamu membuat festival film kecil, film pembukanya apa?
+m|Apa film yang membuatmu mengubah satu kebiasaan dalam hidup?
+m|Siapa karakter yang menurutmu paling bijak menghadapi orang yang tidak menyukainya?
+m|Apa film yang membuatmu memikirkan pentingnya tidur, makan, dan istirahat?
+m|Apa film yang menurutmu paling menggambarkan arti kerja keras?
+m|Siapa karakter yang menurutmu paling kesepian walau dikelilingi banyak orang?
+m|Apa film yang membuatmu lebih menghargai pekerjaan orang di balik layar?
+m|Apa film yang membuatmu ingin lebih dekat dengan alam?
+m|Siapa karakter yang menurutmu menunjukkan bahwa diam juga bisa kuat?
+m|Apa film yang membuatmu ingin berbicara jujur kepada sahabatmu?
+m|Apa film yang menggambarkan rasa rindu dengan sangat indah?
+m|Siapa karakter yang membuatmu ingin menjadi pemimpin yang baik?
+m|Apa anime yang mengajarkanmu tentang menerima kekalahan?
+m|Apa film yang membuatmu ingin menulis cerita sendiri?
+d|Karakter mana yang membuatmu merasa boleh menjadi berbeda?
+d|Apa film yang membuatmu ingin memberi kesempatan kedua pada seseorang?
+d|Kalau hidupmu adalah film, siapa yang menjadi tokoh penyelamat di babak tersulit?
+d|Apa adegan film yang mengingatkanmu pada seseorang yang sudah pergi?
+d|Karakter mana yang menunjukkan cara bangkit yang ingin kamu tiru?
+d|Apa film yang membuatmu merasa rapuh sekaligus kuat?
+d|Kalau kamu bisa memberi judul untuk bab hidupmu sekarang, judul apa?
+d|Karakter mana yang paling mencerminkan harapan terbesarmu?
+d|Apa film yang membuatmu ingin memaafkan orang tuamu?
+d|Kalau kamu bisa memutar ulang satu adegan bersama seseorang, adegan apa dan bersama siapa?
+d|Apa film yang membuatmu sadar bahwa kebahagiaan sering datang dari hal sederhana?
+d|Karakter mana yang membuatmu ingin percaya lagi pada orang lain?
+s|Apa film yang paling sering diputar di televisi saat hari libur nasional?
+s|Siapa karakter film yang menurutmu punya hewan peliharaan paling lucu?

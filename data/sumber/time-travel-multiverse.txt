@@ -1,0 +1,249 @@
+# Time Travel & Multiverse — seru, semua mode, "kamu"
+s|Kalau kamu bisa naik mesin waktu, kamu pergi ke masa lalu atau masa depan?
+s|Tahun berapa yang paling ingin kamu kunjungi?
+s|Kalau kamu bisa hidup di zaman dinosaurus sehari, apa yang kamu lakukan?
+s|Kalau kamu bisa mengunjungi tahun 3000, apa yang pertama kamu cari tahu?
+s|Zaman kerajaan mana di Indonesia yang paling ingin kamu kunjungi?
+s|Kalau kamu bisa bertemu tokoh sejarah, siapa yang ingin kamu ajak ngobrol?
+s|Kalau kamu bisa membawa satu benda modern ke masa lalu, benda apa?
+s|Barang antik apa yang ingin kamu bawa pulang dari perjalanan ke zaman dulu?
+s|Dekade mana yang gaya busananya paling ingin kamu coba?
+s|Kalau kamu bisa menonton konser dari masa lalu, konser siapa?
+s|Kalau ada versi dirimu di dunia paralel yang jadi artis, kamu terkenal karena apa?
+s|Kalau di semesta lain kamu jadi hewan, hewan apa?
+s|Kalau kamu bertemu dirimu yang berumur sepuluh tahun, apa yang kamu bawakan untuknya?
+s|Kalau kamu bisa melihat dirimu umur 70, apa yang ingin kamu tanyakan?
+s|Kalau kamu bisa melompat ke semesta yang semua makanannya gratis, makanan apa yang kamu serbu?
+s|Kalau kamu bisa hidup di masa depan dengan mobil terbang, kamu mau ke mana duluan?
+s|Kalau kamu bisa mengunjungi hari kelahiranmu, apa yang ingin kamu lihat?
+s|Kalau kamu bisa mencicipi makanan dari zaman kuno, makanan apa?
+s|Kalau kamu terjebak di tahun 1998, apa yang paling kamu rindukan dari sekarang?
+s|Kalau ada semesta tempat semua orang bisa terbang, profesi apa yang tidak ada?
+s|Kalau kamu bisa melihat pembangunan candi Borobudur, apa yang ingin kamu perhatikan?
+s|Kalau kamu bisa bertemu dirimu dari semesta lain, apa yang ingin kamu bandingkan?
+s|Kalau kamu bisa membeli saham atau barang di masa lalu, apa yang kamu beli?
+s|Kalau kamu bisa jadi saksi satu peristiwa bersejarah, peristiwa apa?
+s|Kalau kamu bisa hidup di masa remaja orang tuamu, apa yang ingin kamu lakukan bersama mereka?
+s|Kalau ada semesta tempat kucing yang memimpin dunia, seperti apa kehidupannya?
+s|Kalau kamu bisa mengirim satu pesan ke masa depan, apa isinya?
+s|Kalau kamu bisa mengirim satu pesan ke masa lalu, untuk siapa?
+s|Kalau kamu bisa berjalan-jalan di Jakarta tahun 1950, apa yang ingin kamu lihat?
+s|Kalau di semesta lain kamu jadi atlet, cabang olahraga apa?
+s|Kalau kamu bisa mempercepat waktu, momen apa yang ingin kamu lewati?
+s|Kalau kamu bisa memperlambat waktu, momen apa yang ingin kamu nikmati lebih lama?
+s|Kalau kamu bisa melihat bumi seribu tahun lagi, apa yang kamu harap masih ada?
+s|Kalau kamu bisa memutar balik waktu lima menit sekali sehari, kapan kamu memakainya?
+s|Kalau kamu bisa hidup di zaman tanpa listrik selama seminggu, kamu sanggup?
+s|Kalau di semesta lain kamu tidak pernah bertemu teman-temanmu sekarang, siapa sahabatmu di sana?
+s|Kalau kamu bisa belajar langsung dari ilmuwan zaman dulu, ilmuwan siapa?
+s|Kalau kamu bisa melihat masa depan teknologi, apa yang paling ingin kamu lihat?
+s|Kalau ada semesta di mana gravitasi lemah, olahraga apa yang paling seru?
+s|Kalau kamu bisa mengulang satu tahun ajaran sekolah, kelas berapa?
+s|Kalau kamu bisa menonton premiere film pertama di dunia, kamu mau?
+s|Kalau kamu bisa membawa temanmu ke masa lalu, siapa yang paling cocok jadi rekan perjalanan?
+s|Kalau kamu bisa pergi ke masa depan untuk melihat cucumu, apa yang ingin kamu tahu?
+s|Kalau ada semesta tempat semua orang bicara dengan nyanyian, lagu apa untuk memesan makanan?
+s|Kalau kamu bisa menghentikan waktu, apa yang kamu lakukan pertama kali?
+s|Kalau kamu bisa melihat dirimu di semesta di mana kamu kaya raya, apa yang berbeda?
+s|Kalau kamu bisa hidup di zaman koboi, kamu jadi apa?
+s|Kalau kamu bisa hidup di zaman samurai, kamu jadi apa?
+s|Kalau kamu bisa bertemu nenek moyangmu, apa yang ingin kamu tanyakan?
+s|Kalau kamu bisa mengunjungi masa kecil sahabatmu, kamu ingin melihat apa?
+s|Kalau ada semesta tempat kamu jadi penyanyi terkenal, lagu hitmu berjudul apa?
+s|Kalau kamu bisa membawa satu teknologi masa depan ke sekarang, teknologi apa?
+s|Kalau kamu bisa mengunjungi tahun 2045, apa yang ingin kamu cek pertama?
+s|Kalau kamu bisa melihat ulang hari terbaik dalam hidupmu, hari apa?
+s|Kalau ada semesta tempat hujan turun dalam bentuk permen, payung apa yang kamu butuhkan?
+s|Kalau kamu bisa melompati waktu tiga tahun ke depan, apa yang paling kamu harapkan sudah berubah?
+s|Kalau kamu bisa hidup di zaman Majapahit, pekerjaan apa yang kamu ambil?
+s|Kalau kamu bisa mengikuti perjalanan penjelajah dunia, siapa yang kamu ikuti?
+s|Kalau di semesta lain kamu jadi guru, pelajaran apa yang kamu ajarkan?
+s|Kalau kamu bisa melihat dirimu di semesta yang memilih jurusan berbeda, kamu jadi apa?
+s|Kalau kamu bisa memutar ulang satu lagu dari konser yang pernah kamu tonton, lagu apa?
+s|Kalau ada semesta tempat waktu berjalan mundur, apa yang paling aneh?
+s|Kalau kamu bisa bertukar tempat dengan dirimu di semesta lain sehari, apa yang kamu lakukan?
+s|Kalau kamu bisa melihat bagaimana kotamu seratus tahun lalu, apa yang ingin kamu bandingkan?
+s|Kalau kamu bisa memberi hadiah ke dirimu saat lulus sekolah, hadiah apa?
+s|Kalau kamu bisa melihat kapan pertama kali orang tuamu bertemu, kamu mau?
+s|Kalau ada semesta tempat kamu jadi presiden, kebijakan pertamamu apa?
+s|Kalau kamu bisa naik mesin waktu sekali saja, kamu memakainya sekarang atau menyimpannya?
+s|Kalau kamu bisa hidup di zaman piramida dibangun, kamu jadi apa?
+s|Kalau kamu bisa melihat masa depan hewan peliharaanmu, apa yang ingin kamu tahu?
+s|Kalau kamu bisa melihat kembali dirimu saat pertama kali belajar berjalan, kamu mau?
+s|Kalau di semesta lain kamu pemalu atau pemberani, mana yang lebih kamu sukai?
+s|Kalau kamu bisa membawa makanan masa kini ke zaman kerajaan, makanan apa yang paling bikin heboh?
+s|Kalau kamu bisa melihat penemuan internet pertama kali, apa reaksimu?
+s|Kalau kamu bisa memilih satu hari di masa lalu untuk dijalani lagi, hari biasa atau hari spesial?
+s|Kalau ada semesta tempat semua orang memakai kostum setiap hari, kostummu apa?
+s|Kalau kamu bisa memotret satu momen bersejarah, momen apa?
+s|Kalau kamu bisa melihat dirimu di masa depan sedang bekerja, kamu harap sedang apa?
+s|Kalau kamu bisa hidup di zaman penjelajahan luar angkasa awal, kamu mau jadi astronot?
+s|Kalau kamu bisa memanggil versi dirimu yang paling jago masak dari semesta lain, kamu minta dimasakkan apa?
+s|Kalau kamu bisa membuat kapsul waktu untuk dibuka tahun 2050, apa yang kamu masukkan?
+s|Kalau kamu bisa melompat ke masa depan dan pulang membawa satu kabar, kabar apa yang kamu harap?
+s|Kalau kamu bisa hidup di zaman radio, acara apa yang ingin kamu dengar?
+s|Kalau ada semesta tempat semua bangunan dari kaca, apa yang paling repot?
+s|Kalau kamu bisa melihat dirimu menikah atau tidak menikah di dua semesta, kamu ingin lihat yang mana?
+s|Kalau kamu bisa membawa sahabatmu dari masa kecil ke masa sekarang, apa yang kamu tunjukkan?
+m|Kalau kamu bisa mengubah satu keputusan di masa lalu, apakah kamu akan melakukannya?
+m|Kalau ada versi dirimu yang lebih sukses di semesta lain, apa yang ingin kamu pelajari darinya?
+m|Kalau kamu bisa melihat akibat dari pilihan yang tidak kamu ambil, pilihan yang mana?
+m|Kalau kamu bisa memperingatkan dirimu tentang satu kesalahan, kesalahan apa?
+m|Kalau kamu bisa menyaksikan masa depan, apakah itu akan membuatmu lebih tenang atau cemas?
+m|Kalau kamu bertemu dirimu yang masih remaja, nasihat apa yang paling penting?
+m|Kalau kamu bisa memilih semesta tempat semua orang jujur, apakah hidup jadi lebih baik?
+m|Kalau kamu bisa mengunjungi masa lalu tapi tidak boleh mengubah apa pun, kamu tetap mau pergi?
+m|Kalau kamu bisa menghapus satu penemuan dari sejarah, penemuan apa?
+m|Kalau kamu bisa mempercepat satu penemuan untuk dunia, penemuan apa?
+m|Kalau kamu bisa bertemu dirimu dari semesta di mana kamu tidak pernah gagal, apa yang kamu rasakan?
+m|Kalau kamu tahu tanggal kematianmu dari masa depan, apa yang akan berubah dari caramu hidup?
+m|Kalau kamu bisa melihat bagaimana orang lain mengingatmu di masa depan, apa yang kamu harapkan?
+m|Kalau kamu bisa memilih hidup di masa lalu selamanya, zaman mana dan kenapa?
+m|Kalau kamu bisa mengunjungi orang yang sudah tiada di masa lalu, apa yang ingin kamu lakukan bersamanya?
+m|Kalau ada semesta di mana kamu lahir di keluarga lain, menurutmu kamu tetap jadi dirimu?
+m|Kalau kamu bisa memperbaiki satu pertemanan yang rusak dengan mesin waktu, pertemanan siapa?
+m|Kalau kamu bisa mengulang satu percakapan penting, percakapan apa?
+m|Kalau semua pilihan menciptakan semesta baru, pilihan mana yang paling kamu penasaran hasilnya?
+m|Kalau kamu bisa melihat dirimu sepuluh tahun lagi, apa yang kamu harap sudah kamu lepaskan?
+m|Kalau ada semesta tanpa media sosial, menurutmu kamu lebih bahagia di sana?
+m|Kalau kamu bisa mencegah satu tragedi sejarah, apakah kamu berani menanggung akibatnya?
+m|Kalau kamu bisa memberi tahu orang tuamu satu hal saat mereka muda, apa itu?
+m|Kalau kamu bisa memilih untuk tidak tahu masa depan, apakah kamu memilihnya?
+m|Kalau kamu bisa menukar sepuluh tahun hidupmu dengan satu hari di masa depan, kamu mau?
+m|Kalau ada semesta di mana kamu tinggal di luar negeri, menurutmu hidupmu seperti apa?
+m|Kalau kamu bisa melihat dirimu di semesta yang mengejar mimpi masa kecil, apa yang berbeda?
+m|Kalau kamu bisa mengembalikan satu kebiasaan yang hilang dari masa lalu, kebiasaan apa?
+m|Kalau kamu bisa mengunjungi satu momen bahagia orang lain, momen siapa?
+m|Kalau kamu bisa melihat pilihan yang paling membuatmu bahagia di semua semesta, kamu ingin tahu?
+m|Kalau kamu bisa menyimpan satu hari sebagai cadangan untuk diulang nanti, hari seperti apa?
+m|Kalau kamu bisa memperbaiki satu kata yang pernah kamu ucapkan, kata apa?
+m|Kalau ada semesta di mana kamu bertemu orang tersayangmu lebih awal, apa yang berubah?
+m|Kalau kamu bisa membuat dirimu lupa satu hari, hari apa?
+m|Kalau kamu bisa mengajak satu orang ke masa depan, siapa yang paling ingin kamu ajak?
+m|Kalau kamu bisa menyaksikan dirimu lahir, apa yang ingin kamu katakan pada orang tuamu saat itu?
+m|Kalau ada semesta tempat kamu lebih berani, keberanian apa yang paling berbeda?
+m|Kalau kamu bisa meninggalkan pesan untuk generasi seratus tahun lagi, apa isinya?
+m|Kalau kamu bisa melihat bagaimana bumi berubah karena perilaku manusia, apa yang ingin kamu ubah sekarang?
+m|Kalau kamu bisa bertukar kehidupan dengan dirimu di semesta lain selamanya, apa syaratnya?
+m|Kalau waktu bisa dibeli, untuk apa kamu membelinya?
+m|Kalau waktu bisa dijual, berapa harga satu jam waktumu sekarang?
+m|Kalau kamu bisa melihat hari terburuk yang akan datang, apakah kamu ingin tahu agar bisa bersiap?
+m|Kalau ada semesta di mana kamu tidak pernah merasa takut, apa yang sudah kamu capai di sana?
+m|Kalau kamu bisa menjalani satu hari sebagai orang tuamu di masa muda, apa yang ingin kamu pahami?
+m|Kalau kamu bisa memberikan satu ingatan kepada dirimu di masa depan, ingatan apa?
+d|Kalau kamu bisa kembali ke momen sebelum hatimu patah, apakah kamu akan menghindarinya?
+d|Kalau ada semesta di mana luka terbesarmu tidak pernah terjadi, apakah kamu tetap ingin menjadi dirimu yang sekarang?
+d|Kalau kamu bisa bertemu dirimu di hari tersulitmu, apa yang akan kamu lakukan untuknya?
+d|Kalau kamu bisa melihat satu penyesalan dari semua semesta, penyesalan mana yang sama di semuanya?
+d|Kalau kamu bisa memberi waktu tambahan untuk seseorang, siapa dan kenapa?
+d|Kalau kamu bisa mengulang hari terakhir bersama seseorang yang pergi, apa yang ingin kamu ubah?
+d|Kalau dirimu di masa depan menangis melihatmu sekarang, menurutmu karena bangga atau sedih?
+d|Kalau kamu bisa memilih semesta di mana kamu paling dicintai, apakah kamu akan meninggalkan semesta ini?
+d|Kalau kamu bisa menghentikan waktu di satu momen damai, momen mana yang paling layak?
+d|Kalau kamu bisa memaafkan dirimu di masa lalu dengan satu kalimat, apa kalimatnya?
+d|Kalau kamu tahu semua yang akan terjadi tapi tidak bisa mengubahnya, apakah kamu tetap ingin hidup dengan cara yang sama?
+d|Kalau kamu bisa melihat seseorang yang pernah kamu sakiti di semesta di mana kamu tidak menyakitinya, apa yang kamu rasakan?
+d|Kalau ada semesta di mana kamu menyerah dulu, apa yang membuatmu tidak menyerah di semesta ini?
+d|Kalau kamu bisa memberi tahu dirimu yang dulu bahwa semuanya akan baik-baik saja, kapan saat paling tepat?
+d|Kalau waktu tidak pernah menyembuhkan, apa yang selama ini sebenarnya menyembuhkanmu?
+d|Kalau kamu bisa menghabiskan satu jam lagi dengan versi orang tuamu yang masih muda, apa yang kamu tanyakan?
+d|Kalau di semesta lain kamu tidak pernah bertemu orang yang paling kamu sayang sekarang, apa yang paling hilang darimu?
+d|Kalau kamu bisa melihat dampak dari kebaikan kecil yang pernah kamu lakukan, kebaikan apa yang ingin kamu lihat?
+d|Kalau kamu harus memilih antara mengingat semuanya atau melupakan yang menyakitkan, kamu pilih mana?
+d|Kalau kamu bisa mengunjungi dirimu di masa depan yang sedang kesepian, apa yang ingin kamu katakan?
+d|Kalau kamu bisa menukar satu kesuksesan dengan satu kesempatan memperbaiki hubungan, kamu mau?
+d|Kalau hidupmu bisa diputar ulang dari awal, bagian mana yang ingin kamu nikmati lebih pelan?
+d|Kalau kamu bisa memberi dirimu yang dulu satu pelukan, umur berapa yang paling butuh?
+d|Kalau ada semesta di mana kamu berdamai dengan semua orang, siapa yang paling sulit diajak berdamai?
+d|Kalau kamu bisa melihat dirimu di semesta di mana kamu mencintai dirimu sepenuhnya, apa yang dia lakukan berbeda?
+d|Kalau waktu hanya tersisa setahun, apa yang ingin kamu habiskan bersama orang terdekatmu?
+d|Kalau kamu bisa kembali ke masa sebelum kehilangan sesuatu yang besar, apa yang ingin kamu nikmati lebih lama?
+d|Kalau dirimu di masa depan bisa mengirim satu kata untukmu hari ini, kata apa yang kamu harap?
+d|Kalau kamu bisa memilih untuk tidak lahir di zaman ini, apakah kamu tetap memilih zaman ini?
+d|Kalau ada semesta tempat semua orang mengerti perasaanmu, apa yang ingin kamu ceritakan pertama kali?
+d|Kalau kamu bisa melihat bagian hidupmu yang paling berarti dari sudut pandang orang lain, siapa yang kamu pilih?
+d|Kalau waktu bisa disimpan dalam toples, momen bersama siapa yang ingin kamu simpan?
+d|Kalau kamu bisa mengubah masa lalu tapi kehilangan seseorang yang kamu sayangi sekarang, apakah kamu tetap mengubahnya?
+d|Kalau kamu bisa membuat janji dengan dirimu di masa depan, janji apa yang ingin kamu tepati?
+d|Kalau setiap air mata menciptakan semesta baru, semesta mana yang paling ingin kamu kunjungi?
+d|Kalau kamu bisa melihat dirimu di hari tua sedang tersenyum, menurutmu apa yang membuatnya tersenyum?
+d|Kalau waktu adalah hadiah, untuk siapa kamu ingin memberikan sebagian waktumu?
+d|Kalau kamu bisa memberi tahu dirimu di masa lalu tentang orang yang akan datang dan menyelamatkanmu, siapa dia?
+d|Kalau semua versimu di semua semesta berkumpul, nasihat apa yang paling sering mereka berikan untukmu?
+s|Kalau kamu bisa menyaksikan peluncuran roket pertama ke bulan, kamu mau melihat dari mana?
+s|Kalau kamu bisa menghabiskan sehari di zaman Romawi, kamu ingin menonton apa?
+s|Kalau ada semesta tempat tidur siang wajib bagi semua orang, kamu tinggal di sana?
+s|Kalau kamu bisa hidup di zaman sebelum ada ponsel, apa yang paling kamu nikmati?
+s|Kalau kamu bisa melihat bagaimana rumahmu dibangun, kamu ingin tahu apa?
+s|Kalau kamu bisa makan malam bersama dirimu dari tiga semesta berbeda, apa menunya?
+s|Kalau ada semesta tempat setiap orang punya robot pribadi, robotmu bernama siapa?
+s|Kalau kamu bisa menonton final sepak bola bersejarah langsung, pertandingan apa?
+s|Kalau kamu bisa melihat hari pertama sekolah orang tuamu, apa yang ingin kamu lihat?
+s|Kalau kamu bisa hidup di zaman Victoria di Inggris, kamu jadi apa?
+s|Kalau kamu bisa mengunjungi pasar zaman dulu, barang apa yang ingin kamu beli?
+s|Kalau ada semesta tempat semua orang tinggal di bawah laut, apa pekerjaanmu?
+s|Kalau kamu bisa melihat bumi saat semua benua masih menyatu, kamu ingin berdiri di mana?
+s|Kalau kamu bisa memotret dirimu dari setiap dekade hidupmu, pose apa yang kamu pakai?
+s|Kalau kamu bisa membawa makanan dari masa depan, menurutmu rasanya seperti apa?
+s|Kalau kamu bisa naik kendaraan tercepat di masa depan, kamu pergi ke mana?
+s|Kalau ada semesta tempat semua hewan bisa bicara, hewan mana yang paling banyak mengeluh?
+s|Kalau kamu bisa menukar satu hari biasa dengan satu hari di masa depan, kamu mau?
+s|Kalau kamu bisa bertemu penulis buku favoritmu saat dia masih muda, apa yang kamu katakan?
+s|Kalau kamu bisa hidup di zaman ketika musik favoritmu baru dirilis, tahun berapa?
+s|Kalau kamu bisa melihat dirimu bermain bersama hewan peliharaan masa kecil, hewan apa?
+s|Kalau ada semesta tempat sekolah hanya mengajarkan hal seru, pelajaran apa yang ada?
+s|Kalau kamu bisa membuat jam yang memutar waktu sepuluh detik, kapan kamu memakainya?
+s|Kalau kamu bisa menyaksikan proses terbentuknya bumi, berapa lama kamu ingin menonton?
+s|Kalau kamu bisa melihat kota impianmu di masa depan, kota mana?
+s|Kalau kamu bisa memilih satu lagu untuk diputar setiap kali melompat waktu, lagu apa?
+s|Kalau ada semesta tempat setiap orang punya pintu ke rumah teman, siapa yang paling sering kamu kunjungi?
+s|Kalau kamu bisa melihat kembali momen ketika kamu menerima kabar terbaik, kabar apa?
+s|Kalau kamu bisa menghadiri pernikahan kakek nenekmu, apa yang ingin kamu lihat?
+m|Kalau kamu bisa mengubah satu kebiasaan masa kecilmu, apakah hidupmu sekarang akan jauh berbeda?
+m|Kalau ada semesta di mana kamu tidak pernah takut gagal, apa pekerjaanmu di sana?
+m|Kalau kamu bisa melihat seberapa banyak waktu yang kamu habiskan untuk ponsel, apakah kamu ingin tahu?
+m|Kalau kamu bisa memutar balik satu pertengkaran, pertengkaran dengan siapa?
+m|Kalau kamu bisa melihat dirimu menjadi orang tua di semesta lain, seperti apa kamu?
+m|Kalau kamu bisa memilih zaman yang paling cocok dengan kepribadianmu, zaman apa?
+m|Kalau ada semesta di mana uang tidak ada, apa yang menjadi ukuran sukses?
+m|Kalau kamu bisa membuat satu peristiwa terjadi lebih cepat dalam hidupmu, peristiwa apa?
+m|Kalau kamu bisa mengubah urutan satu kejadian dalam hidupmu, kejadian apa?
+m|Kalau kamu bisa melihat dirimu dari sudut pandang sahabatmu di masa lalu, apa yang ingin kamu ketahui?
+m|Kalau kamu bisa menyimpan satu hari ulang tahun untuk diulang, ulang tahun yang ke berapa?
+m|Kalau kamu bisa melihat dirimu memilih kota tempat tinggal berbeda, kota mana yang paling menarik?
+m|Kalau kamu bisa mempelajari satu keterampilan dari masa depan, keterampilan apa?
+m|Kalau ada semesta di mana semua orang hidup sampai 200 tahun, bagaimana kamu merencanakan hidup?
+m|Kalau kamu bisa menjadi penjaga waktu, aturan apa yang kamu tegakkan?
+m|Kalau kamu bisa membuat dunia berhenti sejenak untuk beristirahat, berapa lama?
+m|Kalau kamu bisa mengulang masa SMA dengan kepribadian sekarang, apa yang berbeda?
+m|Kalau kamu bisa memperlihatkan satu hari hidupmu kepada orang dari masa lalu, hari apa?
+m|Kalau ada semesta di mana kamu lahir sebagai anak tunggal atau anak banyak, mana yang kamu penasaran?
+m|Kalau kamu bisa mengubah satu kebiasaan generasi orang tuamu, kebiasaan apa?
+m|Kalau kamu bisa memberi tahu dirimu yang baru lulus tentang dunia kerja, apa yang kamu katakan?
+m|Kalau kamu bisa melihat dampak dari satu kebiasaan kecilmu sepuluh tahun lagi, kebiasaan apa?
+m|Kalau kamu bisa melihat orang yang paling berpengaruh dalam hidupmu saat mereka masih kecil, siapa?
+d|Kalau kamu bisa mengembalikan satu janji yang tidak sempat kamu tepati, janji kepada siapa?
+d|Kalau ada semesta di mana kamu tidak perlu membuktikan apa pun, apa yang akan kamu lakukan dengan bebas?
+d|Kalau kamu bisa melihat dirimu bahagia di semua semesta, apa satu hal yang selalu ada?
+d|Kalau kamu bisa mengulang satu pertemuan pertama dengan seseorang, pertemuan dengan siapa?
+d|Kalau dirimu di masa lalu bisa melihat hidupmu sekarang, bagian mana yang akan membuatnya lega?
+d|Kalau kamu bisa memperpanjang satu musim dalam hidupmu, musim apa itu?
+d|Kalau kamu bisa memberikan satu hari dari hidupmu untuk orang lain, untuk siapa?
+d|Kalau kamu bisa mendengar kembali suara seseorang dari masa lalu, suara siapa?
+d|Kalau kamu bisa menyaksikan saat kamu pertama kali dicintai, apa yang ingin kamu ingat?
+d|Kalau kamu bisa membuat dirimu yang dulu percaya bahwa dia berharga, bukti apa yang kamu tunjukkan?
+d|Kalau di semesta lain kamu adalah orang yang paling kamu kagumi, apa yang membuatmu belum menjadi dia di sini?
+d|Kalau kamu bisa memutar waktu tapi hanya untuk mengucapkan terima kasih, kepada siapa?
+d|Kalau kamu bisa memilih satu luka yang tetap kamu simpan karena membentukmu, luka apa?
+d|Kalau dirimu di masa depan membutuhkan bantuanmu sekarang, apa yang perlu kamu mulai hari ini?
+d|Kalau kamu bisa memeluk seseorang di masa lalu yang tidak tahu bahwa dia sedang dicintai, siapa?
+d|Kalau waktu berhenti dan hanya kamu yang bergerak, siapa yang pertama kamu datangi?
+d|Kalau kamu bisa mengirim keberanian ke dirimu di masa lalu, untuk momen apa?
+d|Kalau di semua semesta kamu tetap memilih orang yang sama, menurutmu kenapa?
+d|Kalau kamu bisa melihat hidupmu dari ujung akhirnya, apa yang paling kamu harap tidak kamu sia-siakan?
+d|Kalau kamu bisa mengubah satu kenangan buruk menjadi pelajaran yang jelas, pelajaran apa?
+d|Kalau dirimu di semesta lain hidup tanpa rasa malu, apa yang dia lakukan setiap hari?
+d|Kalau kamu bisa memberi waktu tambahan pada diri sendiri untuk beristirahat, berapa lama yang kamu butuhkan?
+d|Kalau kamu bisa melihat seberapa jauh kamu sudah berjalan sejak titik terendahmu, apa yang kamu rasakan?
+d|Kalau kamu bisa membuat masa lalu dan masa depanmu berdamai, apa yang mereka sepakati?
+d|Kalau kamu bisa menyelamatkan satu hubungan di semesta lain, hubungan mana?
