@@ -1,0 +1,254 @@
+# Konflik & Baikan — pasangan, aku/kamu
+s|Apa makanan andalan yang bisa bikin kamu cepat baikan?
+s|Siapa di antara kita yang lebih cepat minta maaf?
+s|Apa hal paling sepele yang pernah kita ributkan?
+s|Apa kalimat lucu yang bisa mencairkan suasana setelah kita bertengkar?
+s|Kamu tipe yang butuh diam dulu atau langsung ingin bicara saat kesal?
+s|Apa tanda kecil bahwa kamu sudah tidak marah lagi?
+s|Apa lagu yang cocok jadi lagu baikan kita?
+s|Apa emoji yang paling sering kamu pakai saat sedang kesal?
+s|Siapa yang biasanya duluan menyapa setelah kita diam-diaman?
+s|Apa hal yang langsung bikin kamu luluh walau sedang kesal?
+s|Kalau kita bikin kode rahasia untuk minta jeda saat bertengkar, kodenya apa?
+s|Apa kebiasaan lucumu saat sedang ngambek?
+s|Berapa lama rekor diam-diaman terlama kita?
+s|Apa hal yang biasanya kamu lakukan sendirian setelah bertengkar?
+s|Apa pertengkaran kita yang sekarang paling lucu kalau diingat?
+s|Kamu lebih suka baikan lewat pelukan, makanan, atau obrolan panjang?
+s|Apa topik yang selalu bikin kita debat tapi tidak pernah serius?
+s|Siapa yang lebih keras kepala di antara kita?
+s|Siapa yang lebih mudah tersinggung di antara kita?
+s|Apa hal yang membuatmu ketawa padahal sedang berusaha marah?
+s|Apa minuman yang cocok untuk diminum sambil membicarakan masalah?
+s|Apa tempat terbaik untuk membicarakan hal serius menurutmu?
+s|Apa waktu terburuk untuk membahas masalah menurutmu?
+s|Kalau pertengkaran kita difilmkan, siapa yang jadi tokoh dramatisnya?
+s|Apa kata yang tidak boleh diucapkan saat kita bertengkar?
+s|Apa hal yang membuatmu lapar setelah bertengkar?
+s|Apa kebiasaan kita setelah baikan yang paling kamu suka?
+s|Apa debat konyol kita soal makanan yang belum selesai sampai sekarang?
+s|Apa debat konyol kita soal film atau tontonan?
+s|Kalau kita bertengkar soal remote TV, siapa yang menang?
+s|Siapa yang biasanya salah soal arah jalan?
+s|Apa hal yang selalu kita perdebatkan saat liburan?
+s|Siapa yang lebih sering lupa janji kecil?
+s|Apa hukuman lucu untuk yang telat minta maaf?
+s|Apa hadiah damai paling efektif untukmu?
+s|Kalau kita punya bendera putih, kapan terakhir kali kamu mengibarkannya?
+s|Apa kalimat yang paling sering kamu ucapkan saat merajuk?
+s|Apa hal yang membuatmu kesal tapi sebenarnya lucu?
+s|Siapa yang lebih sering bilang terserah?
+s|Apa arti terserah versimu yang sebenarnya?
+s|Apa kebiasaanku yang paling sering memancing kekesalan kecil?
+s|Kebiasaan kecilmu mana yang menurutmu paling menguji kesabaranku?
+s|Kalau kita adu argumen di lomba debat, siapa yang lebih jago?
+s|Apa jenis permintaan maaf yang paling lucu yang pernah kamu terima dariku?
+s|Apa hal yang paling sering kita salah dengar satu sama lain?
+s|Apa makanan yang pernah kita perebutkan?
+s|Siapa yang biasanya menghabiskan camilan tanpa izin?
+s|Apa hal kecil yang membuat suasana langsung tegang di antara kita?
+s|Kalau ada wasit dalam hubungan kita, siapa yang paling sering kena kartu kuning?
+s|Apa salah paham chat kita yang paling absurd?
+s|Apa kebiasaan kita saat perjalanan yang sering memicu ribut kecil?
+s|Siapa di antara kita yang lebih jago menahan emosi?
+s|Apa hal yang langsung membuatmu merasa bersalah?
+s|Apa hal yang paling sering membuat kita telat bersama?
+s|Kalau kita tidak sepakat soal tempat makan, siapa yang biasanya mengalah?
+s|Apa hal yang kamu lakukan untuk memancing aku bicara saat aku diam?
+s|Apa cara aku minta maaf yang paling kamu suka?
+s|Apa cara kamu minta maaf yang menurutmu paling ampuh?
+s|Apa lelucon yang bisa langsung meredakan suasana di antara kita?
+s|Apa kebiasaan saat lapar yang bikin kamu lebih gampang marah?
+s|Siapa yang lebih sering ngambek karena hal kecil?
+s|Apa jadwal atau rencana yang paling sering bikin kita ribut?
+s|Apa hal yang kita sepakati untuk tidak dibahas saat lapar atau ngantuk?
+s|Apa barang di rumah yang sering jadi sumber ribut kecil?
+s|Apa satu kalimat damai yang ingin kita jadikan kebiasaan?
+s|Apa hal yang membuatmu malu setelah emosi mereda?
+s|Apa pertengkaran kita yang paling cepat selesai?
+s|Apa hal yang kamu pelajari dari ribut kecil kita minggu ini?
+s|Siapa yang lebih dulu menyerah kalau kita diam-diaman?
+s|Apa makanan penutup yang wajib ada setelah kita baikan?
+s|Apa aktivitas yang bisa membuat kita lupa sedang marah?
+s|Apa hal yang kamu tulis di catatan ponsel saat kesal padaku?
+s|Apa kata sayang yang langsung meluluhkan hatimu?
+s|Apa hal yang membuatmu ingin tertawa saat aku sedang marah?
+s|Apa tanda bahwa aku sedang kesal yang paling mudah kamu kenali?
+s|Apa tanda bahwa kamu sedang kesal yang sering tidak aku sadari?
+s|Kalau kita punya sofa khusus untuk baikan, sofanya warna apa?
+s|Apa hal yang membuat pertengkaran kecil kita cepat selesai?
+s|Apa kebiasaan saat pagi yang sering membuat kita kesal satu sama lain?
+s|Apa kebiasaan saat tidur yang sering membuat kita protes?
+s|Siapa yang biasanya menang saat kita main suit untuk memutuskan sesuatu?
+s|Apa keputusan kecil yang paling sering kita tunda karena tidak sepakat?
+s|Apa kalimat paling manis yang pernah kamu ucapkan setelah bertengkar?
+m|Apa yang biasanya membuatmu marah tapi tidak kamu ungkapkan?
+m|Bagaimana caramu ingin aku menanggapi saat kamu sedang kesal?
+m|Apa yang kamu butuhkan dariku setelah kita bertengkar?
+m|Apa pola pertengkaran kita yang terus berulang?
+m|Bagaimana kita bisa bertengkar dengan lebih sehat?
+m|Apa yang membuatmu sulit meminta maaf?
+m|Apa yang membuatmu sulit menerima permintaan maaf?
+m|Apa kebiasaanku saat bertengkar yang paling menyakitimu?
+m|Apa kebiasaanmu saat bertengkar yang ingin kamu ubah?
+m|Bagaimana caramu tahu bahwa masalah kita benar-benar selesai?
+m|Apa topik yang paling sulit kita bicarakan tanpa bertengkar?
+m|Kapan waktu terbaik untuk membicarakan masalah kita?
+m|Apa yang biasanya kamu rasakan saat aku diam setelah bertengkar?
+m|Bagaimana kita bisa memberi jeda tanpa membuat yang lain merasa ditinggalkan?
+m|Apa yang membuatmu merasa tidak didengarkan saat kita berdebat?
+m|Apa yang membuatmu merasa dihargai walau kita sedang tidak sepakat?
+m|Bagaimana pendapatmu tentang membahas masalah lewat chat?
+m|Apa aturan bertengkar yang ingin kita sepakati?
+m|Apa yang biasanya memperburuk pertengkaran kita?
+m|Apa kata-kata yang pernah aku ucapkan saat marah dan masih kamu ingat?
+m|Bagaimana caramu menenangkan diri sebelum membahas masalah?
+m|Apa yang membuatmu merasa perlu menang dalam perdebatan?
+m|Apa yang membuatmu memilih mengalah walau merasa benar?
+m|Apa yang biasanya membuatmu menyesal setelah bertengkar?
+m|Bagaimana cara kita meminta maaf yang tulus menurutmu?
+m|Apa bedanya minta maaf dan memperbaiki keadaan menurutmu?
+m|Apa yang ingin kamu dengar dariku saat aku sudah salah?
+m|Bagaimana pendapatmu tentang tidur dalam keadaan masih marah?
+m|Apa hal yang perlu kita jaga agar masalah tidak dibawa ke keluarga?
+m|Apa hal yang perlu kita jaga agar masalah tidak dibawa ke media sosial?
+m|Bagaimana perasaanmu saat aku membawa masalah lama ke pertengkaran baru?
+m|Apa yang membuatmu merasa diserang saat kita berdiskusi?
+m|Bagaimana cara aku bisa menyampaikan kritik tanpa membuatmu tersinggung?
+m|Apa jenis nada bicara yang membuatmu langsung defensif?
+m|Apa yang ingin kamu ubah dari cara kita menyelesaikan masalah keuangan?
+m|Bagaimana kita membagi waktu untuk teman, keluarga, dan berdua tanpa ribut?
+m|Bagaimana kita bisa tetap baik saat sedang lelah dan lapar?
+m|Apa hal yang membuatmu merasa aku tidak mau mengerti?
+m|Apa yang biasanya kamu lakukan untuk menahan diri agar tidak mengucapkan hal menyakitkan?
+m|Apa hal yang sering kita perdebatkan karena perbedaan kebiasaan keluarga?
+m|Bagaimana cara kita menghadapi perbedaan pendapat soal teman?
+m|Bagaimana perasaanmu setelah kita berhasil menyelesaikan masalah besar?
+m|Apa yang biasanya membuatmu lebih dulu meredakan pertengkaran?
+m|Bagaimana kamu ingin aku menunjukkan bahwa aku masih sayang walau sedang marah?
+m|Apa hal yang ingin kamu katakan setelah bertengkar tapi sering tertahan?
+m|Apa yang membuatmu merasa pertengkaran kita tidak adil?
+m|Bagaimana kita bisa berhenti saling memotong pembicaraan?
+m|Apa yang membuatmu merasa terpojok saat kita membahas sesuatu?
+m|Apa hal yang perlu kita lakukan sebelum membicarakan topik sensitif?
+m|Apa kesalahpahaman kita yang ternyata berasal dari asumsi?
+m|Bagaimana kita bisa lebih cepat mengenali tanda-tanda akan bertengkar?
+m|Apa yang membuatmu ingin pergi saat pertengkaran memanas?
+m|Bagaimana kamu ingin kita kembali dekat setelah pertengkaran besar?
+m|Apa yang kamu pelajari tentang aku dari pertengkaran terakhir kita?
+m|Sisi dirimu yang mana yang muncul saat kita terakhir bertengkar?
+m|Apa hal kecil yang bisa mencegah pertengkaran besar di antara kita?
+m|Bagaimana kita bisa saling mengingatkan tanpa terdengar menyalahkan?
+m|Apa yang membuatmu merasa aku meremehkan perasaanmu?
+m|Bagaimana pendapatmu tentang meminta pendapat orang lain soal masalah kita?
+m|Apa yang biasanya kamu harapkan berubah setelah kita minta maaf?
+m|Bagaimana cara kita merayakan keberhasilan menyelesaikan masalah?
+m|Apa yang perlu aku pahami tentang caramu memproses emosi?
+m|Apa hal yang kamu butuhkan sebelum siap untuk baikan?
+m|Apa hal yang tidak boleh terjadi lagi setelah pertengkaran terakhir kita?
+m|Bagaimana kita memastikan pertengkaran tidak berubah menjadi saling menghina?
+m|Apa hal yang membuatmu yakin kita bisa melewati perbedaan besar?
+m|Apa yang membuatmu merasa aku tidak benar-benar minta maaf?
+m|Bagaimana kamu ingin aku menanggapi saat kamu menangis karena kesal?
+m|Apa yang membuatmu merasa kita tim, bukan lawan, saat ada masalah?
+d|Apa luka dari pertengkaran kita yang belum benar-benar sembuh?
+d|Pernahkah kamu merasa takut padaku saat aku marah?
+d|Apa yang paling kamu takutkan setiap kali kita bertengkar?
+d|Apa yang belum kamu maafkan dariku sampai sekarang?
+d|Apa yang belum kamu maafkan dari dirimu dalam hubungan kita?
+d|Pernahkah kamu berpikir untuk berpisah saat kita bertengkar hebat?
+d|Apa yang membuatmu memilih tetap tinggal setelah pertengkaran terburuk kita?
+d|Apa yang ingin kamu katakan tentang pertengkaran yang belum pernah kamu sampaikan?
+d|Dari mana kamu belajar cara bertengkar, dan apakah itu ingin kamu pertahankan?
+d|Apa yang terjadi di dalam dirimu saat aku menaikkan suara?
+d|Apa yang terjadi di dalam dirimu saat aku menjauh dan diam?
+d|Apa yang membuatmu merasa aku tidak lagi aman untukmu saat bertengkar?
+d|Apa yang kamu butuhkan agar bisa percaya lagi setelah aku mengecewakanmu?
+d|Bagaimana kamu ingin kita memperbaiki kepercayaan yang retak?
+d|Apa pola keluargamu soal konflik yang muncul di hubungan kita?
+d|Apa yang masih mengganjal di hatimu walau kita sudah baikan?
+d|Apa yang kamu rasakan saat aku meminta maaf tapi mengulanginya lagi?
+d|Apa satu hal yang ingin kamu dengar dariku untuk menutup luka lama?
+d|Apa yang paling berat untuk kamu akui saat kamu salah?
+d|Apa yang kamu takutkan akan terjadi kalau kamu jujur sepenuhnya tentang perasaanmu?
+d|Bagaimana kita tahu bahwa pertengkaran kita sudah mulai tidak sehat?
+d|Apa batas yang tidak boleh dilanggar saat kita bertengkar?
+d|Apa yang membuatmu yakin cinta kita lebih besar dari masalah kita?
+d|Apa hal yang kamu korbankan demi menghindari pertengkaran?
+d|Apa yang membuatmu memendam perasaan alih-alih membicarakannya?
+d|Apa yang kamu harapkan dariku saat kamu yang salah dan sulit mengakuinya?
+d|Bagaimana rasanya ketika aku memaafkanmu, dan apa yang kamu pelajari dari situ?
+d|Apa yang ingin kamu ubah dari dirimu agar kita bisa bertengkar dengan lebih lembut?
+d|Apa yang membuatmu merasa tidak cukup penting saat kita berselisih?
+d|Apa yang kamu harapkan dari kita saat menghadapi pertengkaran yang tidak ada jalan tengahnya?
+d|Apa yang membuatmu tetap menghormatiku walau sedang sangat marah?
+d|Pernahkah kamu merasa aku menang tapi hubungan kita kalah?
+d|Apa yang kamu sesali dari caramu memperlakukanku saat emosi?
+d|Bagaimana kamu ingin kita merawat luka satu sama lain setelah bertengkar?
+d|Apa hal yang perlu kita pelajari bersama agar tidak mengulang pola orang tua kita?
+d|Apa yang kamu rasakan saat kita berhasil berdamai setelah lama berselisih?
+d|Apa yang membuatmu takut untuk mengungkapkan kemarahanmu?
+d|Apa yang kamu harapkan dariku saat kamu sedang tidak bisa mengendalikan emosi?
+d|Apa yang perlu kita lakukan jika suatu hari pertengkaran kita tidak bisa kita selesaikan sendiri?
+d|Bagaimana pendapatmu tentang konseling pasangan suatu hari nanti?
+d|Apa satu hal yang ingin kamu janjikan untuk cara kita bertengkar ke depan?
+d|Apa yang kamu rasakan saat aku mengungkit kesalahanmu yang sudah lama?
+d|Apa yang membuatmu merasa diterima walau kamu sedang menjadi versi terburukmu?
+d|Bagaimana kita bisa memaafkan tanpa menyimpan catatan kesalahan?
+d|Apa yang membuatmu merasa layak mendapatkan permintaan maaf dariku?
+d|Apa yang membuatmu merasa perlu melindungi diri saat kita bertengkar?
+d|Apa hal yang paling kamu butuhkan dariku setelah kamu menyakitiku?
+d|Bagaimana kamu ingin aku menegurmu saat kamu mulai menyakiti dengan kata-kata?
+d|Apa yang membuatmu yakin aku akan kembali setelah kita bertengkar?
+d|Apa hal yang membuatmu ragu aku akan kembali setelah kita bertengkar?
+d|Apa yang membuat kita tumbuh setelah pertengkaran terbesar kita?
+d|Apa yang kamu rasakan tentang hubungan kita setelah malam pertengkaran yang panjang?
+d|Bagaimana kamu ingin kita membicarakan luka lama tanpa membuka luka baru?
+d|Apa ketakutan masa kecilmu yang muncul saat kita bertengkar?
+d|Apa yang ingin kamu ubah dari cara kita berdamai?
+d|Apa yang membuatmu merasa permintaan maafku tidak cukup?
+d|Apa hal yang ingin kamu dengar dariku saat kamu merasa paling bersalah?
+d|Bagaimana kamu ingin kita menjaga martabat satu sama lain saat sedang marah?
+d|Apa yang membuatmu merasa kita lebih kuat setelah melewati konflik?
+d|Apa yang ingin kamu ingat setiap kali kita mulai bertengkar lagi?
+d|Apa yang membuatmu bisa melihat sisi baikku saat kita sedang bertengkar?
+d|Apa yang ingin kamu sampaikan pada aku yang sedang marah besar?
+d|Apa yang membuatmu yakin kita masih saling memilih bahkan saat sedang saling kesal?
+d|Apa yang kamu harapkan dari dirimu saat aku yang sedang tidak bisa diajak bicara?
+d|Apa yang kamu pelajari tentang cinta dari cara kita berbaikan?
+s|Siapa yang lebih jago pura-pura tidak marah?
+s|Apa kebiasaan kita saat bertengkar di dalam mobil atau kendaraan?
+s|Apa hal yang membuat kita bertengkar di grup keluarga atau teman?
+s|Kalau kita bikin perjanjian damai tertulis, pasal pertamanya apa?
+s|Apa kebiasaanku saat lapar yang menurutmu berbahaya?
+s|Siapa yang lebih sering minta maaf duluan meski bukan salahnya?
+s|Apa hal sepele yang bisa merusak mood kita berdua seharian?
+s|Apa kompromi lucu yang pernah kita buat setelah berdebat?
+s|Apa kebiasaan pinjam barang yang sering bikin kita ribut?
+s|Apa gaya debat kita kalau diibaratkan pertandingan olahraga?
+m|Apa yang biasanya membuatmu merasa aku tidak serius saat minta maaf?
+m|Bagaimana caramu menjelaskan perasaan tanpa terdengar menuduh?
+m|Apa kalimat pembuka yang enak untuk membahas hal sensitif denganmu?
+m|Apa yang perlu kita lakukan saat kita berdua sama-sama sedang emosi?
+m|Bagaimana kamu ingin aku menanggapi saat kamu salah paham padaku?
+m|Apa jenis kompromi yang menurutmu adil untuk kita berdua?
+m|Bagaimana kita bisa membedakan masalah yang perlu dibahas dan yang cukup dilepaskan?
+m|Apa hal yang membuatmu merasa pertengkaran kita membawa kemajuan?
+m|Apa yang ingin kamu dengar sebelum kita memulai pembicaraan serius?
+m|Bagaimana pendapatmu soal menulis surat saat sulit bicara langsung?
+d|Apa yang kamu harap aku lakukan berbeda saat terakhir kali aku membuatmu kecewa?
+d|Apa yang membuatmu bisa melepaskan rasa kesal tanpa memendamnya?
+d|Apa yang membuatmu merasa aman untuk mengatakan aku menyakitimu?
+d|Bagaimana rasanya ketika aku mengakui kesalahan tanpa membela diri?
+d|Apa yang ingin kamu perbaiki dari caramu meminta maaf padaku?
+d|Apa pertengkaran kita yang mengubah caramu melihat hubungan ini?
+d|Apa yang kamu harapkan aku tahu tentang dirimu ketika kamu memilih diam?
+d|Apa yang membuatmu kembali melunak setelah sempat sangat kecewa padaku?
+s|Apa kata pengganti umpatan yang lucu untuk dipakai saat kita kesal?
+s|Kalau baikan kita diberi nama acara TV, judulnya apa?
+s|Apa camilan yang sebaiknya selalu tersedia untuk mencegah ribut karena lapar?
+m|Bagaimana kita sebaiknya memutuskan saat pendapat kita sama-sama kuat?
+m|Apa yang membuatmu merasa permintaan maaf terasa dipaksakan?
+m|Apa bentuk perhatian kecil yang membuatmu lebih cepat tenang?
+d|Apa yang membuatmu tetap percaya pada kita setelah pertengkaran yang membuatmu ragu?
+d|Apa yang ingin kamu sampaikan pada dirimu yang sedang marah padaku?

@@ -1,0 +1,252 @@
+# LDR — pasangan, aku/kamu
+s|Jam berapa waktu favoritmu buat video call sama aku?
+s|Apa hal pertama yang ingin kamu lakukan saat kita ketemu lagi?
+s|Makanan apa yang ingin kamu ajak aku coba di kotamu?
+s|Apa barang dariku yang paling sering kamu lihat saat kangen?
+s|Kalau bisa kirim satu paket sekarang ke aku, isinya apa?
+s|Apa lagu yang paling bikin kamu kangen aku?
+s|Film apa yang ingin kita tonton bareng lewat layar minggu ini?
+s|Apa kegiatan paling seru yang bisa kita lakukan dari jauh?
+s|Apa hal pertama yang kamu cek di ponsel setiap bangun tidur?
+s|Kalau kita bisa teleport sekali sebulan, kamu mau ketemu di mana?
+s|Apa tempat di kotamu yang paling ingin kamu tunjukkan padaku?
+s|Apa jajanan khas daerahmu yang wajib aku coba?
+s|Kamu lebih suka chat panjang atau voice note?
+s|Apa stiker atau emoji yang paling mewakili rasa kangenmu?
+s|Kalau kita main game online bareng, game apa yang paling seru?
+s|Apa kebiasaan kecil kita saat telepon yang paling kamu suka?
+s|Apa tempat ketemuan favorit kita setiap kali bertemu?
+s|Kalau kita bertemu di tengah-tengah jarak, kota mana yang cocok?
+s|Apa hal yang paling ingin kamu ceritakan langsung, bukan lewat chat?
+s|Berapa lama telepon terlama kita sejauh ini?
+s|Apa foto kita yang jadi wallpaper atau paling sering kamu lihat?
+s|Kalau aku tiba-tiba datang ke kotamu, ke mana kamu ajak aku pertama kali?
+s|Apa zona waktu atau jadwal yang paling bikin kita repot?
+s|Apa aplikasi yang paling berjasa buat hubungan kita?
+s|Apa kegiatan kencan virtual yang belum pernah kita coba?
+s|Apa hal lucu yang terjadi saat video call kita?
+s|Siapa yang lebih sering ketiduran saat telepon?
+s|Apa makanan yang kamu ingin kita masak bareng lewat video call?
+s|Apa playlist yang ingin kamu buat khusus untukku?
+s|Apa suvenir dari kotamu yang ingin kamu berikan padaku?
+s|Apa barang yang selalu kamu bawa saat perjalanan menemuiku?
+s|Kamu lebih suka naik kereta, bus, atau pesawat kalau ketemu aku?
+s|Apa hal yang kamu lakukan selama perjalanan menuju tempatku?
+s|Apa hal paling kamu tunggu dari kunjungan berikutnya?
+s|Kalau ketemu nanti, makanan apa yang harus kita makan pertama?
+s|Apa kegiatan yang ingin kita lakukan saat akhirnya satu kota?
+s|Apa hal kecil di kotamu yang bikin kamu teringat aku?
+s|Kalau kita kirim surat tulisan tangan, kamu mau tulis apa di baris pertama?
+s|Apa hal yang kamu lakukan untuk menghitung hari menuju pertemuan?
+s|Apa julukan khusus yang muncul karena kita LDR?
+s|Kalau kita bikin vlog LDR, judul episode pertamanya apa?
+s|Siapa yang biasanya duluan bilang selamat tidur?
+s|Apa jam rawan yang membuat kita sulit dihubungi?
+s|Apa kegiatan sebelum tidur yang ingin kita lakukan bareng lewat telepon?
+s|Kalau aku bisa ikut harimu lewat kamera seharian, apa yang akan aku lihat?
+s|Apa hal paling romantis yang pernah kita lakukan dari jauh?
+s|Apa cuaca di kotamu hari ini?
+s|Apa kebiasaanmu di akhir pekan saat kita tidak bisa bertemu?
+s|Apa makanan yang kamu pesan saat sedang kangen aku?
+s|Kalau kita punya ritual mingguan LDR, isinya apa?
+s|Apa sudut kamarmu yang paling sering muncul di video call?
+s|Apa suara di sekitarmu yang sering terdengar saat kita telepon?
+s|Kalau kita olahraga bareng lewat video call, olahraga apa?
+s|Apa hadiah kejutan yang bisa dikirim lewat ojek online untukku?
+s|Apa tempat ngopi di kotamu yang ingin kamu ajak aku ke sana?
+s|Kalau kamu bisa memeluk aku sekarang juga, berapa lama?
+s|Apa cara paling lucu yang pernah kamu pakai untuk bilang kangen?
+s|Apa yang biasanya kamu kenakan saat kita video call malam-malam?
+s|Apa hal yang paling sering kita debatkan saat memilih tontonan?
+s|Apa kebiasaan kita saat berpisah di stasiun atau bandara?
+s|Kalau aku jadi tamu di keluargamu nanti, apa yang perlu aku tahu?
+s|Apa kota yang ingin kita jelajahi bersama setelah tidak LDR lagi?
+s|Apa hal kecil yang kamu simpan untuk diceritakan saat ketemu?
+s|Apa kebiasaan kita yang tetap sama walau berjauhan?
+s|Kalau kita main tebak-tebakan lewat chat, siapa yang lebih jago?
+s|Apa foto random yang paling ingin kamu kirim padaku setiap hari?
+s|Apa jadwal ideal kita untuk telepon dalam seminggu?
+s|Apa hal yang ingin kamu tunjukkan dari kampus atau kantormu?
+s|Apa kebiasaan baru yang kamu mulai sejak kita LDR?
+s|Apa barang yang ingin kita punya kembaran walau berjauhan?
+s|Kalau kita tidur dengan telepon menyala, siapa yang mendengkur?
+s|Apa aroma yang mengingatkanmu padaku?
+s|Apa cara kita merayakan anniversary dari jauh?
+s|Apa hal yang ingin kamu lakukan di hari pertama kita tinggal satu kota?
+s|Siapa teman di kotamu yang ingin kamu kenalkan padaku?
+s|Apa hal yang paling kamu suka dari menunggu pertemuan kita?
+s|Kalau kita bisa memilih satu hari untuk bertemu setiap bulan, hari apa?
+s|Apa kegiatan yang ingin kita jadikan tradisi setiap bertemu?
+s|Apa makanan di kotaku yang paling kamu rindukan?
+s|Apa hal yang paling kamu suka dari kota tempat tinggalku?
+s|Apa hal yang membuat telepon kita terasa seperti kencan sungguhan?
+s|Kalau kita bertukar kota selama seminggu, apa yang pertama kamu lakukan?
+s|Apa hal yang paling ingin kamu bagikan dariku ke teman-temanmu?
+s|Apa jenis kejutan kecil yang bisa membuat harimu lebih baik dari jauh?
+s|Kalau bisa membuat satu aturan lucu untuk LDR kita, aturannya apa?
+s|Apa hal yang paling bikin kamu senyum saat melihat notifikasi dariku?
+s|Kalau jarak kita diukur pakai lagu, butuh berapa lagu untuk sampai?
+m|Apa yang paling berat dari LDR buatmu?
+m|Apa yang membuatmu yakin kita bisa melewati jarak ini?
+m|Kapan kamu paling merasa kangen padaku?
+m|Bagaimana caramu menenangkan diri saat aku sulit dihubungi?
+m|Apa hal kecil dariku yang membuatmu merasa dekat walau jauh?
+m|Apa yang perlu kita sepakati soal kabar harian?
+m|Bagaimana kita bisa tetap terlibat dalam keseharian satu sama lain?
+m|Apa hal yang sering membuat kita salah paham lewat chat?
+m|Bagaimana perasaanmu saat aku bersenang-senang dengan teman tanpa kamu?
+m|Apa yang kamu butuhkan saat hari burukmu terjadi dan aku jauh?
+m|Bagaimana kita membagi biaya perjalanan untuk bertemu?
+m|Apa yang ingin kamu ubah dari cara kita berkomunikasi selama LDR?
+m|Apa yang paling kamu khawatirkan saat kita lama tidak bertemu?
+m|Bagaimana caramu menjaga rasa percaya saat kita berjauhan?
+m|Apa hal yang ingin kamu ketahui tentang hariku tapi jarang kamu tanyakan?
+m|Kapan kamu merasa LDR justru menguatkan hubungan kita?
+m|Apa tanda bahwa aku sedang tidak baik-baik saja yang bisa kamu tangkap dari jauh?
+m|Bagaimana kita sebaiknya menyelesaikan masalah yang muncul lewat chat?
+m|Apa hal yang tidak boleh dibahas lewat chat, menurutmu?
+m|Bagaimana perasaanmu setiap kali kita harus berpisah lagi?
+m|Apa yang biasanya kamu lakukan setelah mengantar aku pulang?
+m|Apa target waktu kita untuk tidak LDR lagi?
+m|Apa yang perlu dikorbankan supaya kita bisa tinggal di kota yang sama?
+m|Siapa yang sebaiknya pindah kota, dan kenapa?
+m|Apa yang membuatmu merasa diprioritaskan walau aku jauh?
+m|Bagaimana caramu menghadapi pertanyaan orang tentang hubungan jarak jauh kita?
+m|Apa hal yang membuatmu merasa iri pada pasangan yang satu kota?
+m|Bagaimana caramu menjaga dirimu tetap sibuk dan bahagia selama kita jauh?
+m|Apa hal yang ingin kamu lakukan untuk membuatku merasa disayangi dari jauh?
+m|Apa kebiasaan telepon kita yang mulai terasa membosankan?
+m|Bagaimana pendapatmu tentang berbagi lokasi selama LDR?
+m|Apa hal yang membuatmu cemburu saat kita berjauhan?
+m|Bagaimana cara kita tetap punya kencan yang terasa spesial dari jauh?
+m|Apa hal yang membuatmu merasa kita semakin dekat dari bulan ke bulan?
+m|Bagaimana kita menghadapi perbedaan jadwal yang terlalu jauh?
+m|Apa yang kamu harapkan dariku saat aku sedang sangat sibuk?
+m|Apa yang ingin kamu ceritakan ke aku setiap malam walau sedang capek?
+m|Apa cara terbaik menurutmu untuk menyampaikan kekecewaan dari jauh?
+m|Bagaimana perasaanmu saat telepon kita terputus di tengah pembicaraan penting?
+m|Apa yang paling kamu syukuri dari LDR ini?
+m|Apa pelajaran terbesar yang kamu dapat dari hubungan jarak jauh?
+m|Apa yang membuatmu merasa kesepian walau kita masih sering bicara?
+m|Bagaimana cara kita merayakan pencapaian satu sama lain saat berjauhan?
+m|Apa yang ingin kamu ketahui tentang teman-temanku di kota ini?
+m|Bagaimana kita tetap jujur soal perasaan tanpa membuat yang lain khawatir?
+m|Apa yang biasanya membuatmu menunda membalas pesanku?
+m|Apa hal yang perlu kita rencanakan sebelum kunjungan berikutnya?
+m|Bagaimana perasaanmu saat aku tidak bisa datang di acara pentingmu?
+m|Apa yang membuat pertemuan kita terasa terlalu singkat?
+m|Bagaimana caramu mengisi rindu tanpa terus-terusan menghubungiku?
+m|Apa yang ingin kamu perbaiki dari pertemuan kita sebelumnya?
+m|Bagaimana kita menjaga hubungan dengan keluarga masing-masing selama LDR?
+m|Apa yang membuatmu merasa tidak didengarkan saat kita telepon?
+m|Apa yang paling kamu suka dari dirimu sejak menjalani LDR?
+m|Bagaimana pendapatmu soal tidak berkabar seharian karena kesibukan?
+m|Apa hal yang ingin kamu ubah dari cara kita mengucapkan selamat tinggal?
+m|Apa jenis dukungan yang paling kamu butuhkan saat ujian atau tenggat kerja?
+m|Bagaimana kita membuat keputusan bersama padahal jarang bertemu langsung?
+m|Apa kebiasaanku di chat yang kadang membuatmu salah sangka?
+m|Bagaimana perasaanmu saat membayangkan kita akhirnya tinggal satu kota?
+m|Apa hal yang mungkin hilang setelah kita tidak LDR lagi, dan ingin kamu pertahankan?
+m|Apa rencana kita kalau salah satu dari kita dapat kesempatan di kota yang lebih jauh?
+m|Bagaimana kita memastikan pertemuan berikutnya tidak habis untuk berdebat?
+m|Apa yang paling kamu rindukan dari kehadiran fisikku?
+m|Bagaimana caramu meyakinkan dirimu saat muncul pikiran buruk tentang kita?
+m|Apa hal yang ingin kamu lakukan agar kita tidak hanya bicara soal kegiatan harian?
+d|Apa ketakutan terbesarmu tentang hubungan jarak jauh kita?
+d|Pernahkah kamu berpikir untuk menyerah karena jarak?
+d|Apa yang membuatmu memilih bertahan walau jarak membuat semuanya lebih sulit?
+d|Kapan kamu merasa paling sendirian selama kita LDR?
+d|Apa yang kamu takutkan berubah dari kita saat lama tidak bertemu?
+d|Apa yang membuatmu merasa aku tetap memilihmu dari jauh?
+d|Bagaimana perasaanmu jika ternyata LDR kita harus lebih lama dari rencana?
+d|Apa yang kamu harap aku lakukan saat kamu merasa ragu tentang kita?
+d|Apa hal yang tidak pernah kamu katakan saat telepon karena takut aku khawatir?
+d|Apa yang kamu rasakan setiap kali melihat pasangan lain bergandengan di depanmu?
+d|Bagaimana kita tahu bahwa jarak ini masih layak diperjuangkan?
+d|Apa yang kamu rasakan saat pertemuan kita tidak seindah yang dibayangkan?
+d|Apa yang membuatmu yakin kita tumbuh bersama, bukan tumbuh terpisah?
+d|Apa yang kamu lakukan dengan rasa rindu yang tidak bisa disampaikan?
+d|Apa yang paling kamu takutkan dari kehidupan yang tidak bisa aku lihat setiap hari?
+d|Apa yang membuatmu merasa aman dengan hubungan ini walau tidak bisa memelukku?
+d|Bagaimana kamu ingin kita menghadapi godaan atau perhatian orang lain selama berjauhan?
+d|Apa yang ingin kamu tahu tentang perasaanku setiap kali kita berpisah di stasiun?
+d|Apa yang membuatmu menangis diam-diam selama LDR?
+d|Apa yang kamu korbankan untuk hubungan ini yang jarang aku sadari?
+d|Apa yang ingin kamu dengar dariku saat kamu merasa jarak terlalu jauh?
+d|Kalau suatu hari kita harus memilih antara mimpi dan bersama, apa yang kamu pilih?
+d|Apa arti setia bagimu ketika kita tidak bisa saling melihat?
+d|Bagaimana kamu ingin aku menenangkanmu saat kamu cemburu?
+d|Apa yang membuatmu yakin hubungan ini lebih dari sekadar kebiasaan telepon?
+d|Apa yang kamu pelajari tentang dirimu dari menunggu?
+d|Bagaimana kamu menghadapi rasa takut bahwa aku akan berubah di kota lain?
+d|Apa yang membuatmu bertahan di malam-malam ketika rindu terasa menyakitkan?
+d|Apa yang kamu bayangkan saat menutup telepon dan kamar kembali sepi?
+d|Apa hal yang kamu harap bisa aku lakukan untukmu kalau aku ada di sana sekarang?
+d|Apa yang membuatmu merasa hubungan ini adalah rumah walau tanpa alamat yang sama?
+d|Apa yang perlu kita bicarakan dengan jujur tentang masa depan jarak ini?
+d|Apa yang kamu rasakan tentang dirimu saat menunggu kabarku terlalu lama?
+d|Bagaimana kita bisa saling memaafkan untuk hal-hal yang terlewat karena jarak?
+d|Apa yang paling kamu harapkan dari hari ketika kita tidak perlu berpisah lagi?
+d|Apa yang membuatmu yakin aku tidak sedang menyembunyikan sesuatu darimu?
+d|Bagaimana perasaanmu tentang waktu yang hilang karena kita berjauhan?
+d|Apa yang membuat jarak ini terasa sepadan untukmu?
+d|Kalau kamu bisa mengirim satu perasaan lewat pesan tanpa kata, perasaan apa itu?
+d|Apa yang membuatmu ragu kita akan tetap sama setelah tinggal bersama?
+d|Apa yang kamu rasakan saat aku menangis lewat telepon dan kamu tidak bisa memelukku?
+d|Bagaimana cara kita tidak saling menyalahkan jarak saat sedang lelah?
+d|Apa yang membuatmu merasa hubungan ini adil untuk kita berdua?
+d|Bagian mana dari usaha LDR ini yang terasa lebih berat di pundakmu?
+d|Bagaimana kita akan menghadapi hari ketika salah satu dari kita merasa lelah menunggu?
+d|Apa yang ingin kamu katakan padaku di hari terakhir LDR kita?
+d|Apa yang kamu harap tetap kamu ingat dari masa-masa berjauhan ini?
+d|Apa ketakutanmu tentang hidup bersama setelah lama terbiasa berjauhan?
+d|Apa yang membuatmu yakin kita bukan hanya saling butuh, tapi juga saling memilih?
+d|Apa hal yang paling kamu syukuri dariku yang tidak terhalang oleh jarak?
+d|Kalau jarak mengajarkanmu satu hal tentang cinta, apa itu?
+d|Apa yang membuatmu tetap berharap saat kunjungan kita terus tertunda?
+d|Apa hal dariku yang ingin kamu dengar lebih sering di saat-saat sulit?
+d|Bagaimana kamu ingin kita saling menjaga hati saat salah satu sedang rapuh dari jauh?
+d|Apa yang kamu takutkan akan kamu lewatkan dari hidupku karena jarak?
+d|Apa satu janji kecil yang bisa kita tepati setiap hari walau berjauhan?
+d|Apa yang kamu rasakan saat kita akhirnya bertemu setelah lama berpisah?
+d|Apa yang membuatmu yakin bahwa kita akan baik-baik saja di ujung jarak ini?
+d|Apa yang ingin kamu ubah dari dirimu agar hubungan jarak jauh ini lebih sehat?
+d|Bagaimana kamu ingin kita bercerita tentang masa LDR ini kepada orang lain kelak?
+d|Apa hal yang membuatmu merasa kehilangan saat kunjungan kita berakhir?
+d|Apa yang kamu harapkan dariku saat kamu ingin menyerah karena lelah menunggu?
+d|Apa yang membuatmu jatuh cinta lagi padaku setiap kali kita bertemu setelah lama?
+d|Apa arti pulang bagimu selama kita LDR?
+d|Apa yang membuatmu merasa jarak ini sedang menguji, bukan menghancurkan, kita?
+d|Apa yang ingin kamu bisikkan padaku saat pertama kali kita bertemu lagi?
+d|Bagaimana kamu memastikan rindumu tidak berubah menjadi tuntutan?
+d|Apa yang ingin kamu sampaikan pada orang yang meragukan hubungan jarak jauh kita?
+d|Apa yang membuatmu yakin aku layak ditunggu?
+d|Apa yang membuatmu merasa layak ditunggu olehku?
+d|Apa yang paling ingin kamu syukuri bersama saat kita tidak lagi berjarak?
+d|Bagaimana kita akan merawat hubungan ini supaya jarak berikutnya tidak menakutkan?
+s|Apa makanan beku atau kiriman yang paling awet untuk dikirim antarkota?
+s|Kalau kita nonton konser yang sama dari kota berbeda, lagu apa yang kita tunggu?
+s|Apa hal yang ingin kamu lakukan di bandara atau stasiun saat menjemputku?
+s|Apa nama yang cocok untuk tabungan tiket ketemuan kita?
+s|Kalau kita punya kalender hitung mundur, gambar apa di hari pertemuan?
+s|Apa kebiasaan kotaku yang menurutmu paling aneh?
+s|Apa kebiasaan kotamu yang ingin kamu ajarkan padaku?
+s|Apa menu sarapan yang ingin kita makan bareng di hari pertama bertemu?
+s|Siapa yang lebih sering mengirim foto makanan saat LDR?
+s|Apa jenis pesan suara dariku yang paling ingin kamu simpan?
+m|Apa yang biasanya membuatmu sungkan bercerita karena takut aku kepikiran?
+m|Bagaimana kita sebaiknya berkabar saat salah satu sedang bepergian jauh?
+m|Apa yang membuatmu merasa telepon kita berkualitas, bukan sekadar lama?
+m|Apa yang ingin kamu ketahui tentang rutinitasku yang selama ini kamu bayangkan saja?
+m|Apa cara terbaik memberitahu kalau kunjungan harus dibatalkan?
+m|Bagaimana kita menyiasati biaya ketemuan supaya tidak jadi beban?
+m|Apa yang perlu kita lakukan saat salah satu dari kita sakit dan jauh?
+m|Bagaimana kamu ingin aku hadir di hari ulang tahunmu walau tidak bisa datang?
+m|Apa hal yang perlu kita rencanakan untuk transisi saat akhirnya tinggal satu kota?
+m|Apa kebiasaan baik dari LDR yang ingin kita bawa saat tidak berjarak lagi?
+m|Bagaimana perasaanmu tentang waktu yang kamu habiskan di jalan untuk menemuiku?
+d|Apa yang kamu rasakan saat orang berkata hubungan jarak jauh tidak akan bertahan?
+d|Apa yang kamu harap aku tahu tentang malam-malam ketika kamu tidak bisa tidur karena rindu?
+d|Apa yang membuatmu merasa kuat menghadapi jarak ini, dan dari mana kekuatan itu datang?
+d|Apa yang ingin kamu katakan pada dirimu di hari pertama kita mulai LDR?
+d|Apa yang membuatmu yakin kita akan tetap saling mengenal walau hidup berubah di kota masing-masing?

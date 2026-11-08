@@ -1,0 +1,252 @@
+# Kencan Pertama — pasangan, aku/kamu (tentang awal kenal & kencan pertama kita, juga kencan pertama ideal)
+s|Apa yang kamu pakai waktu kencan pertama kita?
+s|Siapa yang lebih gugup waktu pertama kali kita jalan?
+s|Apa kesan pertamamu tentang aku dalam satu kata?
+s|Apa makanan atau minuman yang kita pesan di kencan pertama?
+s|Kamu ingat jam berapa kita pulang waktu kencan pertama?
+s|Apa topik obrolan pertama yang bikin kita nyambung?
+s|Siapa yang pertama kali mengajak ketemuan?
+s|Apa yang kamu lakukan sebelum berangkat kencan pertama kita?
+s|Kamu cerita ke siapa setelah kencan pertama kita?
+s|Apa hal lucu yang terjadi waktu kencan pertama kita?
+s|Siapa yang bayar waktu kencan pertama, dan bagaimana kejadiannya?
+s|Apa pesan pertama yang kamu kirim setelah kencan pertama kita?
+s|Berapa lama kamu memilih baju untuk kencan pertama kita?
+s|Apa lagu yang terdengar waktu kita pertama kali jalan berdua?
+s|Bagaimana cuaca waktu kencan pertama kita?
+s|Apa hal yang kamu perhatikan pertama kali dari penampilanku?
+s|Apa yang kamu pikirkan saat pertama kali melihat aku datang?
+s|Kalau kencan pertama kita diulang, mau ke tempat yang sama atau beda?
+s|Apa hal canggung yang terjadi waktu kencan pertama kita?
+s|Kamu sempat ngaca berapa kali sebelum ketemu aku?
+s|Apa yang ingin kamu tanyakan waktu kencan pertama tapi tidak jadi?
+s|Apa parfum atau aroma yang kamu pakai waktu itu?
+s|Kamu datang lebih awal atau terlambat waktu kencan pertama?
+s|Siapa yang paling banyak bicara waktu kencan pertama kita?
+s|Apa foto pertama yang kita ambil berdua?
+s|Apa kendaraan yang kita pakai waktu kencan pertama?
+s|Apa yang kamu lakukan sesampainya di rumah setelah kencan pertama?
+s|Kalau kencan pertama kita dijadikan film, genrenya apa?
+s|Apa hal kecil di kencan pertama yang masih kamu ingat jelas?
+s|Kencan pertama ideal menurutmu itu di mana?
+s|Kamu lebih suka kencan pertama di kafe, taman, atau bioskop?
+s|Apa tempat kencan pertama paling tidak romantis menurutmu?
+s|Apa hal pertama yang kamu ceritakan tentang dirimu ke aku?
+s|Siapa yang pertama kali mengirim pesan setelah kita kenalan?
+s|Apa nama kontakku di ponselmu waktu awal kenal?
+s|Bagaimana awal mula kita saling kenal?
+s|Apa obrolan chat pertama kita yang masih kamu ingat?
+s|Kapan kamu sadar aku lucu?
+s|Apa stiker atau emoji yang sering kita pakai waktu awal chat?
+s|Siapa yang biasanya membalas pesan lebih lama waktu awal kenal?
+s|Apa jam favorit kita buat chat waktu baru kenal?
+s|Apa hal yang kamu cari tahu tentang aku di media sosial waktu awal kenal?
+s|Kamu sempat melihat-lihat foto lamaku di media sosial waktu awal kenal?
+s|Apa panggilan pertama kita satu sama lain?
+s|Apa telepon pertama kita membahas apa?
+s|Berapa lama telepon terpanjang kita di awal kenal?
+s|Apa hadiah pertama yang aku berikan padamu?
+s|Kamu masih ingat reaksiku waktu menerima hadiah pertama darimu?
+s|Apa hal yang bikin kamu deg-degan waktu pertama kali duduk di sebelahku?
+s|Siapa yang pertama kali bilang kangen?
+s|Apa film pertama yang kita tonton bareng?
+s|Apa jajanan pertama yang kita beli berdua?
+s|Siapa yang pertama kali menggandeng tangan?
+s|Bagaimana cara kamu pamit waktu kencan pertama berakhir?
+s|Apa yang paling kamu ingat dari perjalanan pulang setelah kencan pertama?
+s|Kalau kamu bisa memberi nilai kencan pertama kita, nilainya berapa?
+s|Apa yang kamu harap aku perhatikan dari penampilanmu waktu itu?
+s|Apa hal yang kamu sembunyikan supaya terlihat keren waktu kencan pertama?
+s|Apa yang kamu ceritakan ke teman soal aku sebelum kita jadian?
+s|Siapa teman yang pertama tahu kalau kita dekat?
+s|Apa julukan yang diberikan teman-temanmu untukku waktu awal kenal?
+s|Apa tempat kedua yang kita datangi setelah kencan pertama?
+s|Apa makanan yang menurutmu paling aman dipesan saat kencan pertama?
+s|Apa makanan yang menurutmu berbahaya dipesan saat kencan pertama?
+s|Apa topik yang sebaiknya dihindari di kencan pertama menurutmu?
+s|Apa pertanyaan favoritmu untuk mencairkan suasana di kencan pertama?
+s|Apa hal yang langsung bikin kencan pertama terasa gagal?
+s|Apa hal yang langsung bikin kencan pertama terasa sukses?
+s|Kamu lebih suka kencan pertama siang atau malam?
+s|Apa kencan pertama paling aneh yang pernah kamu dengar dari temanmu?
+s|Apa hal yang kamu persiapkan sebelum kencan pertama, selain baju?
+s|Kalau bisa, apa yang ingin kamu katakan ke dirimu sebelum kencan pertama kita?
+s|Kamu sempat latihan ngobrol sebelum kencan pertama kita?
+s|Apa hal pertama yang kamu ceritakan ke orang tuamu tentang aku?
+s|Apa yang kamu pikir aku pikirkan tentangmu di kencan pertama?
+s|Apa pesanan minumanku yang masih kamu ingat dari awal kenal?
+s|Kencan kedua kita ke mana dan siapa yang mengajak?
+s|Apa hal yang kamu tunggu-tunggu setelah kencan pertama kita?
+s|Apa foto aku yang pertama kali kamu simpan?
+s|Kalau kencan pertama kita punya lagu tema, lagu apa yang cocok?
+s|Apa hal yang membuatmu tersenyum sendiri setelah kencan pertama kita?
+s|Siapa yang lebih banyak ketawa waktu kencan pertama kita?
+s|Apa hal yang kamu pikirkan saat menunggu balasan pesanku dulu?
+s|Apa obrolan larut malam kita yang paling kamu ingat dari masa pendekatan?
+s|Apa tanda pertama yang membuatmu yakin aku juga suka kamu?
+s|Apa yang paling kamu kangenin dari masa pendekatan kita?
+m|Apa yang membuatmu mau bertemu lagi setelah kencan pertama?
+m|Apa yang sebenarnya kamu rasakan saat kita berpisah di kencan pertama?
+m|Apa ekspektasimu tentang aku sebelum kita bertemu, dan apa yang ternyata beda?
+m|Kapan kamu mulai merasa ini bukan sekadar kenalan biasa?
+m|Apa hal yang membuatmu ragu waktu awal pendekatan kita?
+m|Apa yang membuatmu memberanikan diri untuk lebih dekat denganku?
+m|Apa yang kamu khawatirkan sebelum kencan pertama kita?
+m|Apa hal yang kamu pelajari tentang dirimu dari masa pendekatan kita?
+m|Kapan pertama kali kamu merasa nyaman diam bersamaku?
+m|Apa yang membuatmu memutuskan bahwa aku layak diperjuangkan?
+m|Apa yang kamu sukai dari caraku mendekatimu, atau caraku menanggapi pendekatanmu?
+m|Apa kesalahpahaman pertama kita di masa awal kenal?
+m|Apa yang kamu sembunyikan tentang dirimu di awal kenal karena takut aku ilfil?
+m|Kapan pertama kali kamu memperlihatkan sisi aslimu padaku?
+m|Apa yang membuatmu yakin untuk jadian denganku?
+m|Bagaimana perasaanmu waktu aku pertama kali bercerita hal pribadi?
+m|Apa yang paling berubah dari caramu memandangku sejak kencan pertama?
+m|Apa yang kamu pikirkan saat pertama kali melihat aku sedang marah atau sedih?
+m|Apa hal di masa pendekatan yang membuatmu hampir mundur?
+m|Apa yang membuatmu bertahan saat pendekatan kita terasa lambat?
+m|Bagaimana kamu menggambarkan aku ke sahabatmu waktu awal kenal?
+m|Apa kebiasaanku di awal kenal yang sekarang sudah jarang terlihat?
+m|Apa yang ingin kamu ulang dari masa awal kita?
+m|Bagian mana dari masa awal kita yang untungnya sudah lewat?
+m|Apa hal yang membuatmu merasa kita punya banyak kesamaan waktu awal kenal?
+m|Apa perbedaan kita yang paling kamu sadari waktu awal kenal?
+m|Kapan pertama kali kamu merasa cemburu waktu kita masih pendekatan?
+m|Apa tanda kecil dariku yang membuatmu yakin aku serius?
+m|Apa pendapat orang tuamu saat pertama kali tahu tentang aku?
+m|Apa pendapat sahabatmu saat pertama kali bertemu aku?
+m|Bagaimana rasanya memperkenalkan aku ke teman-temanmu pertama kali?
+m|Apa kebohongan kecil yang kamu katakan di awal kenal supaya terlihat menarik?
+m|Apa yang kamu harapkan dariku saat kita resmi jadian?
+m|Bagaimana cara kita jadian, menurut versimu?
+m|Apa hal yang kamu syukuri dari cara kita bertemu?
+m|Kalau kita tidak bertemu dengan cara itu, menurutmu kita tetap akan bertemu?
+m|Apa hal kecil di awal hubungan yang menurutmu menentukan semuanya?
+m|Apa yang kamu ingat dari pertengkaran pertama kita?
+m|Kapan pertama kali kamu merasa aku benar-benar memperhatikanmu?
+m|Apa hal yang dulu membuatmu malu di depanku tapi sekarang tidak lagi?
+m|Apa yang membuatmu tertarik untuk terus mengobrol denganku waktu itu?
+m|Apa yang menurutmu membuat kencan pertama kita berhasil?
+m|Kapan kamu sadar aku berbeda dari orang-orang yang pernah dekat denganmu?
+m|Apa yang membuatmu merasa aman untuk mulai terbuka padaku?
+m|Apa hal yang kamu takutkan akan merusak hubungan kita di awal?
+m|Bagaimana kamu menahan diri supaya tidak terlihat terlalu suka di awal?
+m|Apa hal tentang aku yang mengejutkanmu setelah satu bulan kenal?
+m|Apa yang membuatmu memilih untuk serius, bukan sekadar main-main?
+m|Apa pendapatmu tentang aku setelah melihat kamarku atau rumahku pertama kali?
+m|Kapan pertama kali kamu merasa aku jadi bagian dari harimu?
+m|Apa yang kamu pikirkan saat pertama kali bertemu keluargaku?
+m|Apa yang berubah dari dirimu setelah kita mulai dekat?
+m|Kalau kencan pertama kita gagal, menurutmu apa yang akan terjadi sekarang?
+m|Apa yang membuatmu yakin kencan kedua perlu terjadi?
+m|Bagaimana kamu tahu bahwa aku orang yang bisa kamu percaya?
+m|Apa yang kamu lakukan untuk membuatku terkesan di awal?
+m|Apa usahaku di awal kenal yang paling kamu hargai?
+m|Apa pertanda yang kamu abaikan di awal karena terlalu senang?
+m|Apa hal tentang aku yang kamu ceritakan berulang-ulang ke temanmu waktu itu?
+m|Apa yang ingin kamu katakan ke aku di masa pendekatan tapi tidak berani?
+m|Bagaimana perasaanmu waktu pertama kali kita tidak saling kabar sehari penuh?
+m|Kapan pertama kali kamu merasa rindu yang sungguhan padaku?
+m|Apa hal yang kamu pikir akan jadi masalah di awal, tapi ternyata tidak?
+m|Apa yang paling kamu ingat dari tiga bulan pertama hubungan kita?
+m|Apa kebiasaan kita di awal yang ingin kamu hidupkan lagi?
+m|Apa yang membuatmu bilang iya saat aku mengajak jalan, atau saat aku menerima ajakanmu?
+d|Apa yang sebenarnya kamu harapkan dari hubungan ini saat kencan pertama kita?
+d|Apa ketakutan dari hubungan lama yang kamu bawa ke kencan pertama kita?
+d|Kapan kamu tahu bahwa kamu jatuh cinta padaku?
+d|Apa yang membuatmu memutuskan untuk membuka hati lagi?
+d|Apa yang kamu rasakan saat pertama kali mengatakan sayang padaku?
+d|Apa yang kamu rasakan saat pertama kali mendengar aku mengatakan sayang?
+d|Apa yang membuatmu yakin aku bukan sekadar orang yang lewat?
+d|Apa luka lama yang mulai sembuh sejak awal kita kenal?
+d|Kalau kencan pertama kita tidak pernah terjadi, bagian hidupmu mana yang paling berbeda?
+d|Apa yang kamu pertaruhkan saat memutuskan memilih aku?
+d|Apa yang kamu harap aku tahu tentang dirimu sejak awal tapi baru sekarang kamu sadari?
+d|Bagaimana kamu menggambarkan perubahan perasaanmu dari kencan pertama sampai hari ini?
+d|Apa yang membuatmu bertahan saat awal hubungan kita penuh ketidakpastian?
+d|Apa momen awal yang membuatmu merasa diterima apa adanya?
+d|Apa yang ingin kamu sampaikan pada aku di kencan pertama kalau kamu tahu akan sejauh ini?
+d|Apa yang paling kamu takutkan hilang dari perasaan awal kita?
+d|Apa yang membuatmu yakin perasaan ini bukan sekadar euforia awal?
+d|Apa kerentanan pertama yang kamu tunjukkan padaku dan bagaimana rasanya?
+d|Kapan pertama kali kamu merasa aku melihat dirimu yang sebenarnya?
+d|Apa yang ingin kamu pertahankan dari rasa deg-degan awal kita?
+d|Bagaimana kamu menghadapi rasa takut ditolak di awal kenal?
+d|Apa yang kamu pelajari tentang cinta sejak kita bertemu?
+d|Apa yang membuatmu merasa kencan pertama kita seperti takdir atau kebetulan?
+d|Apa yang kamu lihat dalam diriku yang belum aku lihat sendiri saat itu?
+d|Apa yang kamu rasakan saat pertama kali menangis di depanku?
+d|Apa kebiasaan lamamu yang berubah karena ingin menjaga hubungan kita sejak awal?
+d|Apa yang kamu harapkan dari diriku waktu itu dan apakah sudah terwujud?
+d|Apa yang membuatmu ragu bahwa kamu pantas untukku di awal?
+d|Apa yang ingin kamu katakan pada orang yang dulu menyakitimu, setelah bertemu aku?
+d|Apa momen kecil di awal yang menurutmu adalah awal kita saling memilih?
+d|Kalau kamu bisa menulis surat untuk aku di hari kencan pertama, apa isinya?
+d|Apa yang kamu sesali dari caramu memperlakukanku di awal?
+d|Apa yang membuatmu merasa aku tempat yang aman sejak awal?
+d|Apa yang kamu harapkan dari kencan kita berikutnya, setelah semua yang kita lewati?
+d|Apa yang membuatmu tetap merasa jatuh cinta seperti kencan pertama?
+d|Apa yang membuatmu merasa kita tumbuh sejak kencan pertama?
+d|Apa yang ingin kamu ulang dari kencan pertama dengan perasaan yang sekarang?
+d|Apa yang membuatmu merasa tenang saat pertama kali menggenggam tanganku?
+d|Apa hal dari awal kita yang ingin kamu ceritakan ke anak cucu nanti?
+d|Apa yang membuatmu memilih untuk jujur padaku sejak awal?
+d|Apa kekhawatiranmu waktu awal kenal yang ternyata terbukti?
+d|Ketakutan apa di awal kenal yang sekarang malah bikin kamu ketawa?
+d|Apa yang kamu rasakan saat mengingat dirimu yang sedang jatuh cinta waktu itu?
+d|Apa yang membuatmu memilih tetap tinggal setelah tahu kekuranganku?
+d|Kalau perasaan kita di awal bisa disimpan dalam botol, kapan kamu ingin membukanya?
+d|Apa yang paling berani yang pernah kamu lakukan demi hubungan kita di masa awal?
+d|Apa yang kamu pelajari dari caraku bertahan di masa awal kita?
+d|Apa yang membuat masa pendekatan kita berbeda dari semua yang pernah kamu alami?
+d|Apa yang membuatmu yakin kita tidak hanya cocok, tapi juga saling menumbuhkan?
+d|Bagaimana rasanya mengingat orang asing yang dulu adalah aku?
+d|Apa satu hal dari kencan pertama yang membuatmu masih memilihku hari ini?
+d|Apa yang membuatmu merasa layak dicintai sejak aku hadir?
+d|Kapan kamu sadar bahwa kamu tidak lagi takut kehilangan dirimu karena bersamaku?
+d|Apa doa atau harapan yang kamu ucapkan diam-diam setelah kencan pertama kita?
+d|Apa yang kamu rasakan saat kita pertama kali berpelukan?
+d|Apa yang membuatmu memutuskan untuk tidak menyimpan rahasia dariku?
+d|Apa yang kamu harap tidak pernah berubah dari cara kita saling menatap sejak awal?
+d|Apa yang ingin kamu ucapkan terima kasih untuk masa awal kita?
+d|Apa yang membuat masa awal kita terasa layak diperjuangkan?
+d|Kalau kencan pertama kita adalah halaman pertama buku, halaman mana yang sedang kita tulis sekarang?
+d|Apa ketakutan yang hilang sejak kamu mengenalku lebih dalam?
+d|Apa yang membuatmu yakin aku melihatmu, bukan hanya penampilanmu?
+d|Apa yang kamu harapkan dari dirimu sejak hari pertama kita bertemu?
+d|Apa yang membuatmu memilih untuk tidak menyerah saat awal hubungan kita diuji?
+d|Apa yang kamu harap aku ingat dari kencan pertama kita sampai tua?
+d|Apa yang membuatmu merasa pulang setiap kali kita bertemu sejak awal?
+d|Apa yang kamu rasakan sekarang saat membayangkan kencan pertama kita lagi?
+s|Apa makanan penutup yang pertama kali kita makan bareng?
+s|Apa hal yang paling kamu suka dari foto-foto awal kita?
+s|Kalau kencan pertama kita terjadi di zaman kerajaan, kita akan ke mana?
+s|Apa tempat kencan yang dulu ingin kamu tunjukkan padaku tapi belum sempat?
+s|Siapa yang lebih sering mengajak jalan di bulan pertama kita?
+s|Apa kesalahan kostum yang pernah terjadi saat kita jalan di awal kenal?
+m|Apa hal yang membuatmu yakin aku tertarik pada isi kepalamu, bukan cuma penampilanmu?
+m|Apa yang kamu pikirkan saat pertama kali aku membatalkan janji?
+m|Apa kebiasaan chatting-ku di awal kenal yang bikin kamu gemas?
+m|Bagaimana rasanya pertama kali kita foto berdua dan diunggah?
+m|Apa yang kamu bayangkan tentang masa depan kita setelah sebulan kenal?
+m|Apa hal yang dulu kamu anggap merah atau kuning di awal kenal, dan bagaimana sekarang?
+m|Siapa di antara kita yang lebih dulu menunjukkan perasaan dengan jelas?
+m|Apa yang membuatmu memutuskan untuk berhenti mencari orang lain?
+m|Apa hal yang kamu rahasiakan dariku di bulan pertama dan kapan akhirnya kamu ceritakan?
+m|Bagaimana kamu menjelaskan ke keluargamu siapa aku di awal?
+m|Apa pertanyaan yang paling kamu suka dariku di masa pendekatan?
+m|Apa kencan sederhana di awal kita yang ternyata paling berkesan?
+m|Bagaimana perasaanmu saat pertama kali kita berbeda pendapat?
+m|Apa hal yang dulu kamu lakukan untuk menarik perhatianku dan sekarang terasa lucu?
+m|Kapan pertama kali kamu merasa kita adalah tim?
+d|Apa yang membuatmu yakin untuk mengambil risiko jatuh cinta lagi saat bertemu aku?
+d|Apa perasaan pertama yang muncul saat kamu sadar sudah benar-benar sayang padaku?
+d|Apa yang kamu harapkan tidak pernah aku lupakan dari awal kisah kita?
+d|Apa yang kamu pelajari tentang keberanian dari awal hubungan kita?
+d|Apa yang ingin kamu katakan pada dirimu yang dulu ragu untuk menyapaku?
+d|Apa yang membuatmu merasa awal kita adalah awal yang baik untuk dirimu sendiri?
+d|Apa yang membuatmu merasa tidak perlu lagi berpura-pura sejak bersamaku?
+d|Apa satu momen awal yang membuatmu menangis bahagia diam-diam?
+d|Apa yang kamu rasakan saat pertama kali aku memperkenalkanmu sebagai pasanganku?
+d|Apa yang membuatmu yakin aku akan tetap ada, bahkan di awal yang belum pasti?
+d|Bagaimana kamu ingin kita merayakan hari pertama kita bertemu setiap tahun?

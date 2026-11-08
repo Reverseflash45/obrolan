@@ -1,0 +1,253 @@
+# Kenalan Lebih Dalam — pasangan, aku/kamu
+s|Kamu lebih suka pagi atau malam, dan kenapa?
+s|Apa tiga lagu yang wajib ada di playlist hidupmu?
+s|Kamu tipe yang suka kejutan atau lebih suka semua direncanakan?
+s|Apa makanan yang tidak akan pernah kamu tolak?
+s|Apa makanan yang paling tidak bisa kamu makan?
+s|Kamu lebih nyaman nongkrong ramai-ramai atau berdua saja?
+s|Apa film yang bisa kamu tonton berulang-ulang tanpa bosan?
+s|Kamu lebih suka teh, kopi, atau minuman lain?
+s|Kalau dapat libur sehari penuh sendirian, apa yang kamu lakukan?
+s|Apa genre buku atau film yang paling kamu hindari?
+s|Kamu lebih suka hujan atau cuaca cerah?
+s|Apa hal kecil yang selalu bikin kamu senang?
+s|Kamu tim pedas atau tim manis?
+s|Apa warna yang paling menggambarkan kepribadianmu?
+s|Kamu lebih suka telepon atau chat?
+s|Apa tiga benda yang selalu ada di tasmu?
+s|Kamu lebih suka pantai atau pegunungan?
+s|Apa julukan yang diam-diam kamu suka kalau aku panggil?
+s|Kamu tipe yang cepat bosan atau setia pada hal yang sama?
+s|Apa kebiasaan anehmu yang mungkin belum aku tahu?
+s|Kalau hidupmu punya lagu tema, lagu apa itu?
+s|Apa hewan yang paling menggambarkan sifatmu?
+s|Kamu lebih suka belanja online atau datang langsung ke toko?
+s|Apa jenis humor yang paling bikin kamu ketawa?
+s|Kamu orang yang rapi atau berantakan tapi tahu letak barang?
+s|Apa aroma yang paling kamu suka di dunia?
+s|Kamu lebih suka nonton film di rumah atau di bioskop?
+s|Apa kebiasaanmu saat sedang menunggu antrean?
+s|Kamu suka tidur dengan lampu menyala atau gelap total?
+s|Apa makanan yang paling kamu banggakan bisa kamu masak?
+s|Kamu lebih suka jalan kaki santai atau naik kendaraan?
+s|Apa hal yang paling sering kamu lupakan?
+s|Kalau jadi karakter kartun, kamu jadi siapa?
+s|Apa tempat favoritmu untuk menyendiri?
+s|Kamu tipe yang bangun langsung segar atau butuh waktu lama?
+s|Apa olahraga yang paling kamu nikmati menontonnya?
+s|Kamu lebih pilih rumah sunyi atau ramai suara?
+s|Apa hal yang langsung bikin kamu bad mood?
+s|Kamu lebih suka bunga, cokelat, atau hadiah yang berguna?
+s|Apa jenis musik yang kamu putar saat sedih?
+s|Kamu orang yang selalu tepat waktu atau sering telat?
+s|Apa kata favoritmu dalam bahasa Indonesia?
+s|Kamu lebih suka membaca buku fisik atau digital?
+s|Apa hal yang paling bikin kamu kagum dari alam?
+s|Kalau bisa makan satu makanan seumur hidup, makanan apa itu?
+s|Kamu lebih suka foto atau difoto?
+s|Apa tontonan guilty pleasure-mu?
+s|Kamu tipe yang suka mencoba menu baru atau pesan menu yang sama terus?
+s|Apa hal yang paling kamu suka dari hari Minggu?
+s|Kamu takut sama hewan apa?
+s|Kamu lebih suka musim hujan atau kemarau?
+s|Apa hal paling spontan yang pernah kamu lakukan minggu lalu?
+s|Kamu lebih suka mendengar atau bercerita?
+s|Apa jenis hadiah yang paling sulit kamu tolak?
+s|Kamu tim ponsel selalu bersuara atau selalu senyap?
+s|Apa angka favoritmu dan kenapa?
+s|Kalau jadi bumbu dapur, kamu jadi bumbu apa?
+s|Kamu lebih suka kota besar atau kota kecil yang tenang?
+s|Apa kebiasaanmu saat sedang gugup?
+s|Kamu lebih suka teka-teki, kuis, atau permainan strategi?
+s|Apa barang yang paling lama kamu pakai dan belum mau kamu ganti?
+s|Kamu tipe yang menyimpan struk dan tiket kenangan?
+s|Apa pujian yang paling sering kamu terima?
+s|Kamu lebih suka sarapan berat atau ringan?
+s|Apa hal yang paling bikin kamu geli?
+s|Kamu lebih suka jadi pemimpin atau pendukung dalam kelompok?
+s|Apa suara yang paling menenangkan buatmu?
+s|Kamu lebih suka liburan aktif atau liburan rebahan?
+s|Apa singkatan atau kata yang sering kamu salah ketik?
+s|Kamu lebih suka matahari terbit atau terbenam?
+s|Apa jenis tanaman yang paling kamu suka?
+s|Kamu tim es batu banyak atau sedikit?
+s|Apa toko yang paling bisa bikin kamu lupa waktu?
+s|Kamu suka dengar lagu dengan volume pelan atau keras?
+s|Apa hal yang kamu lakukan untuk menghibur diri dalam lima menit?
+s|Kamu lebih suka main game sendiri atau bareng orang lain?
+s|Apa hal yang paling bikin kamu terharu dalam film?
+s|Kamu lebih suka kaus kaki atau bertelanjang kaki di rumah?
+s|Apa barang yang selalu kamu bawa saat bepergian jauh?
+s|Kamu tim makan bubur diaduk atau tidak diaduk?
+s|Apa tontonan masa kecil yang masih kamu suka sampai sekarang?
+s|Kamu tipe yang suka bertanya arah atau lebih percaya peta?
+s|Apa kebiasaanmu kalau tidak bisa tidur?
+s|Kamu lebih suka acara meriah atau acara kecil yang intim?
+s|Apa hal yang paling kamu sukai dari dirimu secara fisik?
+s|Kamu lebih suka gaya berpakaian santai atau rapi?
+s|Apa hal yang paling sering kamu cari di aplikasi peta?
+s|Kamu orang yang suka membuat daftar atau mengandalkan ingatan?
+m|Apa yang paling sering disalahpahami orang tentang dirimu?
+m|Bagaimana caramu tahu bahwa kamu benar-benar nyaman dengan seseorang?
+m|Apa hal yang membuatmu langsung merasa tidak cocok dengan orang lain?
+m|Bagaimana caramu menghadapi stres yang paling ampuh?
+m|Apa nilai hidup yang paling kamu pegang erat?
+m|Kamu lebih banyak berpikir pakai logika atau perasaan?
+m|Apa hal yang membuatmu merasa paling hidup?
+m|Apa hal yang ingin kamu lakukan tapi takut dinilai orang?
+m|Bagaimana caramu menunjukkan bahwa kamu peduli tanpa kata-kata?
+m|Apa yang biasanya kamu butuhkan saat sedang sedih?
+m|Apa yang biasanya kamu butuhkan saat sedang marah?
+m|Apa kebiasaan kecil dari orang lain yang membuatmu langsung respek?
+m|Apa hal yang paling sulit kamu terima dari dirimu sendiri?
+m|Apa hal yang membuatmu merasa canggung dalam situasi sosial?
+m|Bagaimana kamu mendefinisikan sahabat sejati?
+m|Apa hal yang membuatmu kehilangan rasa hormat pada seseorang?
+m|Apa yang biasanya kamu pikirkan saat melamun?
+m|Apa kekuatanmu yang jarang disadari orang lain?
+m|Apa kelemahanmu yang sedang kamu usahakan perbaiki?
+m|Apa yang membuatmu merasa dihargai di tempat kerja atau kampus?
+m|Bagaimana caramu mengambil keputusan besar?
+m|Kamu lebih takut gagal atau takut menyesal tidak mencoba?
+m|Apa topik obrolan yang bisa bikin kamu bicara berjam-jam?
+m|Apa yang membuatmu merasa terhubung dengan orang yang baru kamu kenal?
+m|Apa kebiasaan yang kamu warisi dari ayahmu?
+m|Apa kebiasaan yang kamu warisi dari ibumu?
+m|Bagaimana caramu meminta maaf kalau merasa salah?
+m|Apa hal yang membuatmu sulit meminta bantuan?
+m|Apa jenis pujian yang paling menyentuh hatimu?
+m|Dalam situasi apa kamu merasa paling berani jadi dirimu sendiri?
+m|Apa hal yang membuatmu iri pada orang lain?
+m|Apa yang biasanya kamu lakukan saat merasa kesepian?
+m|Bagaimana kamu menghadapi kritik dari orang yang kamu sayangi?
+m|Apa hal yang membuatmu merasa bersalah walau sebenarnya bukan salahmu?
+m|Apa pendapatmu tentang dirimu yang orang lain mungkin tidak setuju?
+m|Bagaimana caramu mengisi ulang energi setelah minggu yang panjang?
+m|Apa yang kamu harapkan dari orang terdekat saat kamu sakit?
+m|Apa hal yang tidak pernah kamu ceritakan di media sosial?
+m|Apa jenis orang yang membuatmu merasa terintimidasi?
+m|Apa hal yang membuatmu merasa sabar habis?
+m|Apa yang membuatmu tertarik padaku pertama kali, selain penampilan?
+m|Bagaimana kamu menunjukkan kalau sedang tidak nyaman?
+m|Apa hal yang paling kamu banggakan dari cara berpikirmu?
+m|Apa kebiasaan buruk yang paling sulit kamu hentikan?
+m|Apa yang kamu lakukan kalau tidak setuju dengan teman dekat?
+m|Apa yang paling kamu butuhkan dari rumah?
+m|Apa yang biasanya membuatmu menunda-nunda?
+m|Bagaimana caramu tahu kamu sedang terlalu lelah?
+m|Apa hal yang membuatmu merasa berarti?
+m|Bagaimana kamu memandang kesuksesan dibanding orang tuamu?
+m|Apa hal yang ingin kamu dengar lebih sering dari orang di sekitarmu?
+m|Apa yang paling kamu jaga dari privasimu?
+m|Apa hal yang membuatmu langsung jatuh hati pada sebuah tempat?
+m|Apa tanda bahwa kamu sedang menyembunyikan sesuatu?
+m|Apa yang biasanya membuatmu berubah pikiran?
+m|Apa pendapat orang lain yang paling sulit kamu abaikan?
+m|Apa hal sederhana yang membuatmu merasa dicintai?
+m|Apa jenis pertengkaran yang paling kamu benci?
+m|Apa yang membuatmu merasa sedang tumbuh sebagai manusia?
+m|Bagaimana kamu menghadapi perubahan mendadak?
+m|Apa yang biasanya kamu pikirkan tepat sebelum tidur?
+m|Apa yang membuatmu merasa canggung saat dipuji?
+m|Apa hal yang membuatmu merasa bodoh tapi sekarang bisa kamu tertawakan?
+m|Apa yang menurutmu paling unik dari keluargamu?
+m|Apa jenis kebaikan yang paling menyentuhmu?
+m|Apa hal yang ingin kamu pelajari dariku?
+m|Kalau orang lain mendeskripsikanmu dalam tiga kata, kata apa yang kamu harapkan?
+m|Apa yang membuatmu mudah percaya pada seseorang?
+m|Apa yang membuatmu sulit percaya pada seseorang?
+m|Apa hal yang paling sering membuatmu berubah suasana hati?
+m|Apa hal yang membuatmu merasa sedang dimanfaatkan?
+m|Apa caramu merayakan diri sendiri setelah berhasil?
+m|Apa kebiasaan baik yang kamu pelajari dari temanmu?
+m|Apa jenis keheningan yang membuatmu nyaman, dan jenis yang membuatmu gelisah?
+m|Bagaimana caramu menyimpan kenangan yang berharga?
+m|Apa yang paling kamu perhatikan saat pertama kali bertemu orang?
+m|Apa hal yang membuatmu merasa sedang menjadi versi terbaik dirimu?
+d|Apa ketakutan terbesarmu yang jarang kamu akui?
+d|Apa yang paling kamu inginkan dalam hidup, kalau tidak ada yang menilai?
+d|Apa sisi dirimu yang paling jarang kamu tunjukkan ke orang lain?
+d|Apa yang membuatmu merasa tidak layak dicintai?
+d|Kapan kamu merasa paling tidak mengenal dirimu sendiri?
+d|Apa hal tentang dirimu yang ingin kamu ubah tapi tidak bisa?
+d|Apa yang membuatmu merasa paling aman di dunia ini?
+d|Apa pertanyaan yang paling kamu takutkan untuk aku tanyakan?
+d|Apa hal yang kamu harap aku pahami tanpa kamu jelaskan?
+d|Apa yang terjadi di dalam kepalamu saat kamu terdiam lama?
+d|Apa luka yang membentuk caramu mencintai?
+d|Bagaimana kamu ingin dicintai saat sedang di titik terburukmu?
+d|Apa hal yang membuatmu merasa malu pada dirimu sendiri?
+d|Apa yang paling kamu banggakan dari dirimu tapi jarang kamu katakan?
+d|Apa yang membuatmu sulit menunjukkan kelemahan?
+d|Apa topeng yang paling sering kamu pakai di depan orang lain?
+d|Apa hal yang membuatmu merasa tidak cukup baik untuk orang yang kamu sayang?
+d|Siapa dirimu saat tidak ada seorang pun yang sedang memperhatikan?
+d|Apa mimpi yang tidak pernah kamu ceritakan ke siapa pun?
+d|Apa hal yang ingin kamu dengar dari ayah atau ibumu?
+d|Apa yang paling kamu takutkan akan aku temukan tentang dirimu?
+d|Apa yang membuatmu memilih untuk percaya padaku?
+d|Apa yang paling kamu butuhkan tapi sulit kamu minta?
+d|Kapan terakhir kali kamu merasa benar-benar dipahami?
+d|Apa yang kamu sesali dari caramu memperlakukan orang lain?
+d|Apa yang membuatmu merasa kosong walau semuanya terlihat baik?
+d|Apa hal yang kamu syukuri dari luka yang pernah kamu alami?
+d|Bagaimana kamu menghadapi rasa takut ditinggalkan?
+d|Apa yang membuatmu merasa layak bahagia?
+d|Apa yang kamu harap orang lain tahu tentang perjuanganmu menjadi dirimu sekarang?
+d|Apa sisi gelap dirimu yang sedang kamu belajar terima?
+d|Apa yang ingin kamu maafkan dari dirimu, tapi belum bisa?
+d|Kapan kamu merasa paling rapuh di depanku?
+d|Apa yang membuatmu ingin menjadi orang yang lebih baik?
+d|Apa yang kamu takutkan kalau aku melihatmu tanpa topeng?
+d|Apa hal yang ingin kamu tanyakan pada Tuhan atau semesta kalau bisa?
+d|Apa yang paling kamu butuhkan untuk sembuh dari luka lamamu?
+d|Bagaimana caramu ingin aku mendukungmu saat kamu meragukan diri sendiri?
+d|Apa yang menurutmu akan berubah dari hidupmu kalau kamu lebih berani?
+d|Apa yang membuatmu merasa dirimu cukup?
+d|Apa yang tidak pernah kamu katakan pada orang yang paling kamu cintai?
+d|Apa yang paling sering kamu katakan pada dirimu sendiri saat gagal?
+d|Bagian dirimu mana yang menurutmu paling layak dicintai?
+d|Apa yang membuatmu merasa perlu membuktikan diri?
+d|Apa yang membuatmu merasa paling bersalah dalam hidup ini?
+d|Apa yang ingin kamu katakan pada dirimu di hari pertama kita bertemu?
+d|Apa hal yang membuatmu sulit untuk merasa bahagia sepenuhnya?
+d|Apa hal yang membuatmu yakin pada dirimu walau semua orang ragu?
+d|Apa yang kamu harapkan berubah dari dirimu karena mengenal aku?
+d|Apa yang membuatmu takut terlalu bergantung pada seseorang?
+d|Apa yang membuatmu merasa benar-benar dimiliki oleh sebuah tempat atau orang?
+d|Apa yang kamu harap kamu tahu lebih awal tentang dirimu?
+d|Bagaimana rasanya menjadi dirimu di hari-hari terburuk?
+d|Apa yang membuatmu tetap lembut walau pernah disakiti?
+d|Apa hal yang kamu cari dariku yang tidak kamu temukan di orang lain?
+d|Apa yang paling ingin kamu lindungi dari dirimu sendiri?
+d|Apa yang membuatmu ragu untuk sepenuhnya terbuka padaku?
+d|Apa yang terjadi padamu ketika merasa diabaikan?
+d|Apa yang kamu rasakan saat melihat foto dirimu waktu kecil?
+d|Apa satu kebenaran tentang dirimu yang ingin aku terima tanpa syarat?
+d|Apa yang membuatmu merasa terhubung dengan sesuatu yang lebih besar dari dirimu?
+d|Apa yang paling kamu harapkan dari hubungan ini untuk dirimu sendiri?
+d|Apa yang membuatmu bangun dan terus berusaha di hari yang berat?
+d|Apa yang belum kamu pahami tentang dirimu sampai sekarang?
+d|Apa hal yang membuatmu merasa benar-benar bebas?
+d|Bagaimana kamu ingin diingat oleh orang yang mengenalmu paling dekat?
+d|Apa yang membuatmu merasa takut menjadi biasa-biasa saja?
+d|Apa yang membuatmu bisa memaafkan orang yang menyakitimu?
+d|Apa yang paling kamu harapkan aku lihat dalam dirimu?
+d|Apa rasa sakit yang kamu sembunyikan di balik tawamu?
+d|Apa yang kamu rasakan saat seseorang benar-benar memperhatikanmu?
+d|Apa hal yang membuatmu merasa sudah pulang?
+s|Kamu lebih suka duduk dekat jendela atau di pojok ruangan?
+s|Apa jenis kue ulang tahun favoritmu?
+s|Kamu tipe yang suka menyanyi di kamar mandi?
+s|Apa merek atau toko yang paling setia kamu datangi?
+s|Kamu lebih suka mi kuah atau mi goreng?
+m|Apa hal yang paling sering kamu khawatirkan tentang orang tuamu?
+m|Apa yang biasanya kamu lakukan pertama kali saat mendapat kabar baik?
+m|Apa jenis kegagalan yang paling sulit kamu lupakan?
+m|Bagaimana caramu tahu bahwa seseorang benar-benar mendengarkanmu?
+m|Apa yang kamu harapkan orang lakukan saat kamu sedang diam saja?
+m|Apa kebiasaanmu yang paling kamu harap aku maklumi?
+d|Apa yang kamu harap orang tuamu tahu tentang dirimu yang sekarang?
+d|Apa yang membuatmu merasa sudah cukup berjuang untuk hari ini?
+d|Apa hal tentang dirimu yang baru kamu sadari setelah bersamaku?
+d|Apa ketakutan yang membuatmu memilih diam daripada bicara?
