@@ -1,0 +1,251 @@
+# Orang Tua & Anak — keluarga, "kamu" netral (ditanyakan bergantian antar anggota keluarga)
+s|Apa masakan rumah yang paling kamu suka sejak kecil?
+s|Waktu kecil, kamu paling sering dimarahi karena apa?
+s|Apa mainan masa kecil yang paling kamu sayang?
+s|Apa lagu yang selalu diputar di rumah ini dulu?
+s|Kamu dulu ingin jadi apa waktu seumuran anak SD?
+s|Apa kenangan liburan keluarga yang paling kamu ingat?
+s|Siapa di rumah ini yang paling susah dibangunin pagi?
+s|Apa kebiasaan lucu di rumah ini yang mungkin cuma ada di keluarga kita?
+s|Apa makanan yang dulu sering dibeli sepulang kerja atau sekolah?
+s|Apa acara TV yang dulu ditonton bareng di ruang tengah?
+s|Siapa di keluarga ini yang paling jago masak?
+s|Apa julukan lucu yang pernah diberikan di keluarga ini?
+s|Apa hadiah ulang tahun paling berkesan yang pernah kamu terima dari keluarga?
+s|Siapa yang paling sering bikin rumah jadi ramai?
+s|Apa tempat makan keluarga favorit kita?
+s|Apa permainan yang dulu sering dimainkan bersama di rumah?
+s|Kamu dulu pernah kabur dari jam tidur siang?
+s|Apa cerita masa kecil yang paling sering diulang di keluarga?
+s|Siapa yang paling heboh kalau ada acara keluarga?
+s|Apa hal pertama yang kamu lakukan sepulang sekolah atau kerja dulu?
+s|Apa barang di rumah ini yang paling punya cerita?
+s|Siapa di keluarga ini yang paling sering lupa menaruh barang?
+s|Apa jajanan yang dulu dibelikan kalau sedang dapat nilai bagus?
+s|Apa kendaraan pertama keluarga kita yang kamu ingat?
+s|Siapa yang paling lama di kamar mandi di rumah ini?
+s|Apa lagu pengantar tidur yang dulu dinyanyikan di rumah ini?
+s|Apa kebiasaan saat makan malam bersama di keluarga kita?
+s|Siapa yang paling sering pegang remote TV di rumah?
+s|Apa foto keluarga yang paling kamu suka?
+s|Apa kebiasaan hari Minggu pagi di keluarga kita?
+s|Siapa di rumah ini yang paling penakut?
+s|Apa hewan peliharaan keluarga yang paling diingat?
+s|Apa hal yang paling bikin rumah terasa seperti rumah?
+s|Siapa yang paling sering bikin kejutan di keluarga ini?
+s|Apa pekerjaan rumah yang paling kamu suka?
+s|Apa pekerjaan rumah yang paling kamu hindari?
+s|Siapa yang paling sering nyanyi di rumah?
+s|Apa resep keluarga yang ingin kamu pelajari?
+s|Apa acara keluarga besar yang paling kamu tunggu?
+s|Siapa di keluarga ini yang paling mirip satu sama lain?
+s|Apa kata-kata yang paling sering diucapkan di rumah ini?
+s|Apa tempat liburan yang ingin kita datangi bersama keluarga?
+s|Siapa yang paling sering jadi juru foto di acara keluarga?
+s|Apa kebiasaan saat bulan puasa atau hari raya di rumah kita?
+s|Siapa yang paling jago menawar saat belanja?
+s|Apa hal lucu yang pernah terjadi saat mudik?
+s|Siapa yang paling cepat menangis saat nonton film sedih?
+s|Apa makanan yang selalu ada di kulkas rumah ini?
+s|Siapa di keluarga ini yang paling suka olahraga?
+s|Apa hobi yang ingin kamu lakukan bersama keluarga?
+s|Siapa yang paling sering terlambat di acara keluarga?
+s|Apa cara keluarga kita merayakan keberhasilan kecil?
+s|Siapa yang paling suka tanaman di rumah ini?
+s|Apa nama panggilan kesayangan di keluarga ini?
+s|Apa kejadian paling lucu yang pernah terjadi di meja makan?
+s|Siapa yang paling sering membantu tetangga?
+s|Apa tontonan yang selalu ditonton bareng saat libur panjang?
+s|Siapa yang paling suka bercerita di keluarga ini?
+s|Apa barang yang paling sering dipinjam antaranggota keluarga?
+s|Siapa yang paling rapi di rumah ini?
+s|Apa suara khas rumah ini yang selalu kamu kenali?
+s|Siapa yang paling suka jalan-jalan sore?
+s|Apa makanan yang dulu dibawa saat piknik keluarga?
+s|Siapa yang paling sering mengingatkan untuk salat, ibadah, atau berdoa?
+s|Apa kebiasaan keluarga saat ada yang sakit?
+s|Siapa yang paling jago memperbaiki barang rusak?
+s|Apa kenangan tentang rumah lama kita, kalau pernah pindah?
+s|Siapa yang paling sering membangunkan orang lain?
+s|Apa cara paling lucu keluarga kita mengucapkan selamat ulang tahun?
+s|Siapa yang paling cerewet soal kebersihan?
+s|Apa kebiasaan keluarga kita saat hujan deras?
+s|Siapa yang paling sering ketiduran di depan TV?
+s|Apa jajanan pasar favorit keluarga ini?
+s|Siapa di keluarga ini yang paling sering minta difoto?
+s|Apa permainan kartu atau papan yang sering dimainkan keluarga?
+s|Siapa yang paling cepat akrab dengan tamu?
+s|Apa hal yang paling ditunggu saat gajian atau akhir bulan di rumah ini?
+s|Siapa yang paling suka pedas di keluarga ini?
+s|Apa kebiasaan keluarga saat menyambut tamu?
+s|Siapa yang paling suka belanja di pasar?
+s|Apa kenangan naik kendaraan bersama keluarga yang paling seru?
+s|Siapa yang paling sering mengalah di keluarga ini?
+s|Apa kebiasaan sebelum tidur di rumah ini?
+s|Siapa yang paling sering nonton berita?
+s|Apa hal pertama yang dicari saat pulang ke rumah setelah lama pergi?
+m|Apa nasihat orang tua yang paling melekat sampai sekarang?
+m|Apa yang paling sulit dari menjadi orang tua, atau dari menjadi anak?
+m|Apa hal yang paling dibanggakan dari keluarga ini?
+m|Kapan terakhir kali kamu merasa sangat dekat dengan keluarga?
+m|Apa yang ingin kamu ketahui tentang masa muda orang tua?
+m|Apa yang ingin kamu ketahui tentang kehidupan anak di luar rumah?
+m|Bentuk perhatian apa yang paling sering muncul di rumah ini tanpa diucapkan?
+m|Apa kebiasaan keluarga yang ingin kamu pertahankan selamanya?
+m|Apa kebiasaan keluarga yang ingin kamu ubah?
+m|Apa yang paling kamu syukuri dari keluarga ini?
+m|Apa hal yang membuatmu merasa didengarkan di rumah?
+m|Pendapat siapa yang menurutmu paling jarang didengar di rumah ini?
+m|Apa yang ingin kamu lakukan bersama keluarga sebelum tahun ini berakhir?
+m|Bagaimana keluarga ini menghadapi masa sulit dulu?
+m|Apa pelajaran terbesar yang kamu dapat dari orang tua?
+m|Apa pelajaran terbesar yang kamu dapat dari anak?
+m|Bagaimana perasaanmu saat pertama kali menjadi orang tua, atau saat pertama kali jauh dari orang tua?
+m|Apa hal yang ingin kamu dengar lebih sering di rumah ini?
+m|Apa yang membuatmu bangga menjadi bagian dari keluarga ini?
+m|Bagaimana cara kita bisa lebih sering mengobrol tanpa ponsel?
+m|Apa kenangan masa kecil yang ingin kamu ceritakan ke cucu nanti?
+m|Apa hal yang dulu dilarang di rumah dan sekarang kamu pahami alasannya?
+m|Apa harapanmu untuk keluarga ini lima tahun lagi?
+m|Bagaimana cara keluarga ini berbaikan setelah bertengkar?
+m|Apa yang membuatmu merasa dihargai oleh keluarga?
+m|Apa hal yang ingin kamu ajarkan kepada generasi berikutnya di keluarga ini?
+m|Bagaimana pendapatmu tentang aturan jam pulang di rumah?
+m|Apa yang paling kamu rindukan saat jauh dari rumah?
+m|Apa yang ingin kamu ketahui tentang kakek dan nenek kita?
+m|Bagaimana cara orang tua dulu mengatur uang untuk keluarga?
+m|Apa hal yang paling sulit kamu sampaikan kepada keluarga?
+m|Topik apa yang selama ini jarang dibahas di rumah tapi perlu kita bicarakan?
+m|Apa yang membuatmu merasa aman di rumah ini?
+m|Bagaimana kita bisa saling mendukung mimpi masing-masing?
+m|Apa yang paling kamu khawatirkan tentang keluarga ini?
+m|Apa yang ingin kamu lakukan untuk membuat orang tua bahagia?
+m|Apa yang ingin kamu lakukan untuk membuat anak bahagia?
+m|Bagaimana pendapatmu tentang pekerjaan rumah dibagi rata ke semua anggota keluarga?
+m|Apa hal yang membuatmu tertawa paling keras bersama keluarga?
+m|Apa tradisi keluarga yang ingin kamu teruskan nanti?
+m|Bagaimana keluarga ini berubah dibanding sepuluh tahun lalu?
+m|Apa yang paling kamu hargai dari cara orang tua mendidik?
+m|Apa yang paling kamu hargai dari cara anak tumbuh?
+m|Bagaimana caramu ingin dihibur saat sedang sedih di rumah?
+m|Apa hal yang ingin kamu pelajari dari anggota keluarga lain?
+m|Apa kenangan bersama keluarga yang membuatmu merasa sangat beruntung?
+m|Bagaimana cara keluarga ini merayakan hari biasa supaya terasa istimewa?
+m|Apa hal kecil yang bisa kita lakukan setiap hari agar lebih dekat?
+d|Apa yang belum pernah kamu katakan kepada keluarga tapi ingin kamu sampaikan?
+d|Momen keluarga mana yang paling ingin kamu ulang dengan sikap berbeda?
+d|Apa yang membuatmu merasa tidak dimengerti oleh keluarga?
+d|Kapan kamu merasa paling bangga pada anggota keluarga ini?
+d|Apa yang ingin kamu minta maaf kepada keluarga?
+d|Apa yang ingin kamu ucapkan terima kasih kepada keluarga?
+d|Apa luka dalam keluarga yang ingin kita sembuhkan bersama?
+d|Apa yang paling kamu takutkan tentang masa depan keluarga ini?
+d|Bagaimana kamu ingin dikenang oleh keluarga?
+d|Apa yang membuatmu bertahan di masa tersulit keluarga ini?
+d|Kapan rumah ini terasa terlalu sepi untukmu?
+d|Apa harapan orang tua yang terasa berat untuk dipenuhi?
+d|Apa harapan untuk anak yang sebenarnya lahir dari ketakutan orang tua sendiri?
+d|Apa yang ingin kamu dengar dari orang tua sebelum terlambat?
+d|Apa yang ingin kamu dengar dari anak sebelum terlambat?
+d|Kapan kamu merasa keluarga ini tetap menerimamu walau kamu sedang salah?
+d|Apa yang membuatmu merasa harus membuktikan diri kepada keluarga?
+d|Apa yang kamu pelajari tentang cinta dari keluarga ini?
+d|Apa hal yang ingin kamu maafkan dari masa lalu keluarga?
+d|Bagaimana kamu ingin keluarga ini saling menjaga saat orang tua menua?
+d|Apa yang ingin kamu katakan kepada dirimu yang masih kecil tentang keluarga ini?
+d|Apa kenangan keluarga yang membuatmu menangis setiap kali diingat?
+d|Apa yang membuatmu yakin keluarga ini akan tetap utuh?
+d|Apa yang ingin kamu perbaiki dari caramu memperlakukan keluarga?
+d|Apa arti rumah bagimu setelah semua yang keluarga ini lewati?
+d|Apa yang membuatmu sulit menunjukkan sayang kepada keluarga?
+d|Apa yang ingin kamu ketahui tentang perasaan orang tua saat membesarkan anak-anaknya?
+d|Apa yang ingin kamu ketahui tentang perasaan anak saat tumbuh di rumah ini?
+d|Apa hal yang membuatmu merasa keluarga ini sudah cukup baik meski tidak sempurna?
+d|Apa satu janji yang ingin kamu buat untuk keluarga ini?
+s|Apa makanan yang selalu dimasak saat ada yang ulang tahun?
+s|Siapa yang paling sering membawa oleh-oleh untuk keluarga?
+s|Apa kebiasaan lucu saat foto keluarga di hari raya?
+s|Siapa yang paling sering memutar lagu lama di rumah?
+s|Apa barang lama orang tua yang masih disimpan sampai sekarang?
+s|Siapa yang paling sering menelepon keluarga saat jauh?
+s|Apa cerita tentang kelahiran anak-anak di keluarga ini yang paling lucu?
+s|Siapa yang paling sering menyiapkan sarapan?
+s|Apa kebiasaan keluarga saat ada pertandingan sepak bola besar?
+s|Siapa yang paling sering ketiduran saat perjalanan keluarga?
+s|Apa hidangan yang paling sering gagal dimasak di rumah ini?
+s|Siapa yang paling suka berkebun atau merawat halaman?
+s|Apa tempat duduk favorit setiap anggota keluarga di rumah?
+s|Siapa yang paling sering pulang membawa cerita lucu?
+s|Apa kebiasaan orang tua saat masih pacaran yang pernah diceritakan?
+s|Siapa yang paling suka membaca di keluarga ini?
+s|Apa hal yang selalu dibawa saat keluarga piknik?
+s|Siapa yang paling sering menasihati soal kesehatan?
+s|Apa acara keluarga yang paling sering bikin heboh grup chat?
+s|Siapa yang paling cepat panik kalau ada barang hilang?
+s|Apa kebiasaan keluarga saat malam tahun baru?
+s|Siapa yang paling jago membuat suasana jadi ceria?
+s|Apa resep turun-temurun yang paling dibanggakan keluarga ini?
+s|Siapa yang paling sering menyalakan lampu di siang hari?
+s|Apa hal pertama yang dilakukan keluarga saat pindah ke rumah ini?
+s|Siapa yang paling sering mengingatkan untuk minum air?
+s|Apa kebiasaan keluarga saat ada anggota yang ujian?
+s|Siapa yang paling suka mengatur tata letak barang di rumah?
+s|Apa kebiasaan lucu orang tua saat menelepon?
+s|Siapa yang paling sering mengirim stiker di grup keluarga?
+s|Apa makanan pertama yang diajarkan orang tua untuk dimasak?
+s|Siapa yang paling suka bangun subuh di rumah ini?
+s|Apa kenangan bersama orang tua di pasar atau supermarket?
+s|Siapa yang paling sering mengantar jemput anggota keluarga lain?
+s|Apa kebiasaan keluarga saat menonton film bersama?
+s|Siapa yang paling sering ditanya soal teknologi di rumah?
+s|Apa hal lucu yang terjadi saat orang tua belajar memakai ponsel pintar?
+s|Siapa yang paling sering membuat teh atau kopi untuk semua orang?
+s|Apa kenangan masa kecil saat sakit dan dirawat keluarga?
+s|Siapa yang paling hafal jadwal acara televisi kesukaan keluarga?
+m|Apa yang ingin kamu tanyakan tentang masa pacaran orang tua?
+m|Bagaimana cara orang tua memilih nama anak-anak di keluarga ini?
+m|Apa yang paling berubah dari orang tua sejak anak-anak dewasa?
+m|Apa yang paling berubah dari anak sejak dia tumbuh dewasa?
+m|Apa hal yang ingin kamu lakukan untuk merayakan ulang tahun pernikahan orang tua?
+m|Bagaimana pendapatmu tentang anak dewasa yang masih tinggal bersama orang tua?
+m|Apa yang ingin kamu ketahui tentang pekerjaan orang tua yang belum pernah diceritakan?
+m|Apa yang ingin kamu ketahui tentang kehidupan sekolah atau kerja anak?
+m|Siapa yang biasanya punya kata terakhir saat keluarga ini harus memilih sesuatu yang penting?
+m|Apa yang membuatmu merasa tetap menjadi anak kecil di depan orang tua?
+m|Apa yang ingin kamu ajarkan kepada orang tua tentang dunia sekarang?
+m|Apa yang ingin kamu pelajari dari cara orang tua menghadapi masalah?
+m|Bagaimana keluarga ini bisa lebih sering berlibur bersama?
+m|Apa hal yang membuatmu merasa diperhatikan oleh keluarga hari ini?
+m|Apa hal kecil yang bisa dilakukan setiap anggota keluarga untuk saling membantu?
+m|Bagaimana perasaanmu saat anggota keluarga merantau?
+m|Apa yang ingin kamu tunjukkan kepada keluarga tentang hobimu?
+m|Apa kenangan bersama kakek atau nenek yang ingin diceritakan ke anggota keluarga lain?
+m|Bagaimana pendapatmu soal pembagian peran ayah dan ibu di rumah ini?
+m|Apa hal yang membuatmu ingin pulang ke rumah lebih sering?
+d|Apa yang ingin kamu katakan kepada orang tua tentang masa kecilmu yang tidak pernah mereka tahu?
+d|Apa yang ingin kamu katakan kepada anak tentang perjuangan membesarkannya?
+d|Apa yang membuatmu takut mengecewakan keluarga?
+d|Apa yang membuatmu merasa orang tua juga manusia biasa yang bisa salah?
+d|Apa yang membuatmu merasa anak sudah tumbuh menjadi orang yang membanggakan?
+d|Apa yang ingin kamu perbaiki dari hubunganmu dengan orang tua atau anak?
+d|Apa yang membuatmu merasa keluarga adalah tempat pulang paling aman?
+d|Apa yang ingin kamu sampaikan kepada keluarga jika kamu harus pergi jauh untuk waktu lama?
+d|Apa hal yang membuatmu ingin menjadi orang tua yang lebih baik, atau anak yang lebih baik?
+d|Apa satu kenangan keluarga yang ingin kamu bawa sampai akhir hidup?
+s|Apa kebiasaan keluarga saat listrik padam di malam hari?
+s|Siapa yang paling sering mencicipi masakan sebelum matang?
+s|Apa hal yang dulu selalu dibawa orang tua saat menjemput sekolah?
+s|Siapa yang paling sering lupa mematikan keran atau lampu?
+s|Apa permainan masa kecil orang tua yang ingin diajarkan ke anak?
+s|Siapa yang paling sering membuat rencana liburan keluarga?
+s|Apa kebiasaan keluarga saat ada saudara jauh datang menginap?
+s|Siapa yang paling sering menyimpan kue di tempat rahasia?
+m|Apa yang ingin kamu ketahui tentang hari pernikahan orang tua?
+m|Bagaimana keluarga ini bisa saling meminta maaf dengan lebih mudah?
+m|Apa kebiasaan orang tua yang dulu kamu benci tapi sekarang kamu lakukan juga?
+m|Apa yang ingin kamu lakukan bersama keluarga setiap akhir pekan?
+m|Bagaimana kamu ingin keluarga ini merayakan hari raya tahun depan?
+d|Apa yang membuatmu merasa keluarga ini kuat meski pernah hampir retak?
+d|Apa yang ingin kamu dengar dari keluarga saat kamu merasa gagal?
+d|Apa yang membuatmu bersyukur dilahirkan di keluarga ini?
+d|Apa yang ingin kamu titipkan kepada keluarga jika suatu hari kamu tidak ada?

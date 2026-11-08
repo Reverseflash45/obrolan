@@ -1,0 +1,251 @@
+# Kakak Adik — keluarga, "kamu" netral antar saudara
+s|Apa pertengkaran paling konyol yang pernah terjadi di antara kita?
+s|Siapa yang paling sering dimarahi waktu kecil?
+s|Apa mainan yang dulu paling sering kita rebutkan?
+s|Siapa yang paling sering mengadu ke orang tua?
+s|Apa julukan yang dulu kita pakai untuk satu sama lain?
+s|Siapa yang paling sering menghabiskan camilan di rumah?
+s|Apa acara TV yang dulu selalu kita tonton bareng?
+s|Siapa yang paling sering pinjam baju tanpa izin?
+s|Apa kenangan liburan bareng saudara yang paling seru?
+s|Siapa yang paling jago main game di antara kita?
+s|Apa makanan yang dulu sering kita bagi dua?
+s|Siapa yang paling cepat bangun pagi?
+s|Apa rahasia masa kecil yang dulu kita sembunyikan dari orang tua bersama-sama?
+s|Siapa yang dulu minta lampu kamar tetap menyala sampai pagi?
+s|Apa permainan yang selalu kita mainkan di rumah?
+s|Siapa yang paling sering menang kalau berantem?
+s|Apa hal lucu yang selalu kita tertawakan bareng?
+s|Siapa yang paling sering nangis waktu kecil?
+s|Apa barang milik saudara yang paling sering kamu pinjam?
+s|Siapa yang paling mirip ayah, dan siapa yang paling mirip ibu?
+s|Apa kebiasaan saudara yang paling bikin kesal tapi juga lucu?
+s|Siapa yang paling sering jadi kambing hitam?
+s|Apa kejadian paling memalukan saudara yang masih kamu ingat?
+s|Siapa yang paling suka mengatur di antara kita?
+s|Apa lagu yang dulu sering kita nyanyikan bareng?
+s|Siapa yang paling jago merayu orang tua untuk minta sesuatu?
+s|Apa hadiah dari saudara yang paling kamu ingat?
+s|Siapa yang paling sering terlambat di antara kita?
+s|Apa makanan yang selalu kita minta saat ulang tahun?
+s|Siapa yang paling sering kebagian cuci piring?
+s|Apa kamar atau sudut rumah yang dulu jadi markas kita?
+s|Siapa yang dulu paling sering dikerjai sampai ngambek seharian?
+s|Kenakalan bersama apa yang sampai sekarang belum diketahui orang tua?
+s|Siapa yang paling jago menyimpan rahasia?
+s|Apa kebiasaan tidur saudara yang paling aneh?
+s|Siapa yang paling sering mengganggu saat yang lain belajar?
+s|Apa hal pertama yang kamu lakukan kalau saudara pulang dari jauh?
+s|Siapa yang paling suka pamer di antara kita?
+s|Apa kendaraan pertama yang kita pakai berdua atau bertiga?
+s|Siapa yang paling sering mengambil foto keluarga?
+s|Apa hal yang dulu selalu kita minta ke orang tua bersama-sama?
+s|Siapa yang paling suka pedas di antara saudara?
+s|Kaset, DVD, atau video apa yang dulu kita putar sampai rusak?
+s|Siapa yang paling cepat akrab dengan teman saudara?
+s|Apa hal yang selalu kita debatkan sampai sekarang?
+s|Siapa yang paling sering minta ditemani ke toilet waktu kecil?
+s|Apa kebiasaan saudara saat makan yang paling khas?
+s|Siapa yang paling sering mengganti saluran TV tanpa izin?
+s|Apa kejadian lucu saat kita mudik bersama?
+s|Siapa yang dulu paling dimanja?
+s|Apa makanan yang dulu sering kita masak sendiri waktu orang tua pergi?
+s|Siapa yang paling heboh kalau ada saudara yang ulang tahun?
+s|Apa hal yang dulu kita lakukan untuk menghibur saudara yang sedih?
+s|Siapa yang paling suka hewan di antara kita?
+s|Apa tempat yang ingin kita datangi bersama sebagai saudara?
+s|Siapa yang paling sering pakai kamar mandi paling lama?
+s|Apa grup chat saudara yang paling ramai?
+s|Siapa yang paling cepat membalas chat keluarga?
+s|Apa julukan yang diberikan teman-teman untuk saudara kita?
+s|Siapa yang paling jago menggambar atau menyanyi di antara kita?
+s|Apa kejadian di sekolah yang dulu kita alami bersama?
+s|Siapa yang dulu sering mengantar dan menjemput yang lain?
+s|Apa hal yang selalu membuat kita akur lagi setelah bertengkar?
+s|Siapa yang paling sering mengingat ulang tahun keluarga?
+s|Apa kebiasaan saudara yang ingin kamu tiru?
+s|Siapa yang paling sering kebagian tugas paling repot di acara keluarga?
+s|Apa jajanan masa kecil yang dulu kita beli bersama?
+s|Siapa yang paling sering ketahuan bohong?
+s|Apa olahraga yang dulu kita mainkan bersama?
+s|Siapa yang paling sering pakai barang saudara lalu lupa mengembalikan?
+s|Apa hal yang dulu kita lakukan saat mati lampu?
+s|Siapa yang paling sering curhat ke saudara?
+s|Apa kebiasaan saudara yang paling kamu rindukan kalau berjauhan?
+s|Siapa yang paling sering mengalah soal makanan?
+s|Apa tontonan yang dulu dilarang tapi kita tonton diam-diam?
+s|Siapa yang paling sering dimintai tolong orang tua?
+s|Apa hal yang dulu kita lakukan saat orang tua sedang bertengkar?
+s|Siapa yang paling suka bercanda di antara kita?
+s|Apa kejadian rumah yang hanya kita berdua atau bertiga yang tahu?
+s|Siapa yang paling sering menyalakan musik keras-keras?
+s|Apa hal pertama yang kamu cari tahu dari saudara saat lama tidak bertemu?
+s|Siapa yang paling mirip sifatnya dengan kakek atau nenek?
+s|Apa hadiah yang ingin kamu berikan ke saudara tahun ini?
+s|Siapa yang paling sering menjadi juru damai di keluarga?
+m|Apa yang paling kamu syukuri dari punya saudara?
+m|Apa hal yang dulu membuatmu iri pada saudara?
+m|Apa yang paling kamu kagumi dari saudaramu?
+m|Kapan kamu merasa paling dekat dengan saudaramu?
+m|Kapan kamu merasa paling jauh dari saudaramu?
+m|Bagaimana perasaanmu dulu saat dibandingkan dengan saudara?
+m|Apa yang ingin kamu ketahui tentang hidup saudaramu sekarang?
+m|Apa hal yang ingin kamu pelajari dari saudaramu?
+m|Apa yang paling berubah dari hubungan kita sejak kecil sampai sekarang?
+m|Apa peran yang kamu rasakan sebagai anak sulung, tengah, bungsu, atau tunggal di keluarga?
+m|Apa hal yang membuatmu merasa saudaramu melindungimu?
+m|Bagaimana cara kita bisa lebih sering mengobrol walau sibuk?
+m|Apa kebiasaan saudaramu yang ternyata menurun ke dirimu?
+m|Apa yang kamu harapkan dari hubungan kita saat sudah sama-sama berkeluarga?
+m|Bagaimana pendapatmu tentang pembagian tanggung jawab merawat orang tua di antara saudara?
+m|Apa yang ingin kamu ucapkan terima kasih ke saudaramu?
+m|Apa hal yang membuatmu bangga pada saudaramu tahun ini?
+m|Bagaimana kamu ingin saudaramu mendukungmu saat sedang kesulitan?
+m|Apa hal yang dulu kamu salah pahami tentang saudaramu?
+m|Apa yang membuat pertengkaran kita sekarang berbeda dari dulu?
+m|Apa yang ingin kamu lakukan bersama saudara sebelum semuanya semakin sibuk?
+m|Bagaimana cara saudaramu menunjukkan sayang dengan caranya sendiri?
+m|Apa hal yang membuatmu merasa diperlakukan tidak adil dibanding saudara?
+m|Pernahkah kamu merasa saudaramu menanggung beban lebih berat darimu di rumah?
+m|Apa kenangan bersama saudara yang ingin kamu ceritakan ke anak-anakmu nanti?
+m|Bagaimana pendapatmu tentang meminjam uang ke saudara?
+m|Apa yang ingin kamu ketahui tentang perasaan saudaramu saat kecil?
+m|Bagaimana cara kita menjaga hubungan baik dengan pasangan masing-masing saudara?
+m|Apa hal yang ingin kamu ubah dari caramu memperlakukan saudara?
+m|Apa yang membuatmu yakin saudaramu akan selalu ada untukmu?
+m|Bagaimana kita sebaiknya menyelesaikan perbedaan pendapat soal urusan keluarga?
+m|Apa hal yang paling kamu rindukan dari masa tinggal serumah dengan saudara?
+m|Apa hal yang membuatmu ingin melindungi saudaramu?
+m|Bagaimana kamu ingin kita merayakan hari ulang tahun satu sama lain ke depan?
+m|Apa nasihat terbaik yang pernah diberikan saudaramu?
+d|Apa yang belum pernah kamu katakan kepada saudaramu?
+d|Apa luka dari masa kecil yang berhubungan dengan saudaramu?
+d|Apa yang ingin kamu minta maaf kepada saudaramu?
+d|Kapan kamu merasa saudaramu menyelamatkanmu?
+d|Apa yang paling kamu takutkan tentang hubungan kita di masa depan?
+d|Apa yang membuatmu merasa tidak cukup baik dibanding saudaramu?
+d|Apa yang ingin kamu dengar dari saudaramu yang belum pernah terucap?
+d|Bagaimana kamu ingin kita saling menjaga saat orang tua sudah tiada?
+d|Apa yang membuatmu bangga menjadi saudara dari orang di depanmu?
+d|Apa yang kamu harap saudaramu pahami tentang perjuanganmu?
+d|Apa yang membuatmu sulit bercerita kepada saudaramu?
+d|Apa hal yang kamu pendam dari masa kecil yang ingin kamu lepaskan sekarang?
+d|Apa yang ingin kamu katakan pada saudaramu di hari tersulitnya?
+d|Bagaimana kamu ingin kita dikenang sebagai saudara?
+d|Apa yang membuatmu merasa saudaramu adalah rumah?
+d|Apa yang ingin kamu perbaiki dari hubungan kita sebelum terlambat?
+d|Apa yang membuatmu yakin kita bisa melewati perselisihan apa pun?
+d|Apa kenangan bersama saudara yang membuatmu ingin menangis?
+d|Apa yang kamu pelajari tentang kasih sayang dari saudaramu?
+d|Apa satu janji yang ingin kamu buat kepada saudaramu?
+d|Apa yang membuatmu merasa kehilangan saat saudaramu pindah atau menikah?
+d|Apa yang ingin kamu sampaikan kepada saudaramu tentang orang tua kita?
+d|Apa yang membuatmu merasa tidak sendirian karena punya saudara?
+d|Apa yang kamu harapkan dari saudaramu saat kamu sudah tua?
+d|Apa yang membuatmu ingin menjadi saudara yang lebih baik mulai hari ini?
+d|Apa yang membuatmu merasa saudaramu tahu dirimu lebih dari siapa pun?
+d|Apa yang ingin kamu katakan kepada dirimu yang kecil tentang saudaramu?
+d|Apa yang membuatmu bisa memaafkan saudaramu atas kesalahan besarnya?
+d|Apa yang kamu rasakan saat melihat saudaramu bahagia?
+d|Apa yang ingin kamu wariskan dari hubungan kita kepada anak-anak kita?
+s|Siapa yang paling sering bertanya soal pelajaran ke saudara?
+s|Apa kebiasaan saudara saat sedang marah yang langsung bisa ditebak?
+s|Siapa yang paling sering membela saudara di depan orang lain?
+s|Apa makanan buatan saudara yang paling enak?
+s|Siapa yang paling sering mengganti gaya rambut di antara kita?
+s|Apa kejadian lucu saat kita bertukar pakaian?
+s|Siapa yang paling jago membuat orang tua tertawa?
+s|Apa hal yang dulu kita sembunyikan di bawah kasur?
+s|Siapa yang paling sering ketiduran di mobil saat perjalanan jauh?
+s|Apa lagu yang mengingatkanmu pada saudaramu?
+s|Siapa yang paling sering kebagian kursi depan di mobil?
+s|Apa permainan petak umpet paling seru yang pernah kita mainkan?
+s|Siapa yang paling sering membuat masakan gagal di dapur?
+s|Apa barang peninggalan masa kecil yang masih kita simpan berdua?
+s|Siapa yang paling sering minta ditraktir saudara?
+s|Apa kebiasaan saudara di hari Minggu yang paling khas?
+s|Siapa yang paling sering memotret diam-diam saudara saat tidur?
+s|Apa kejadian lucu saat kita belajar naik sepeda?
+s|Siapa yang dulu paling sering diajak orang tua ke kantor atau pasar?
+s|Apa nama hewan peliharaan yang dulu kita rawat bersama?
+s|Siapa yang paling cepat menghabiskan uang jajan?
+s|Apa hal yang selalu kita bawa pulang dari rumah nenek?
+s|Siapa yang paling sering kebagian menjaga rumah saat yang lain pergi?
+s|Apa tontonan horor yang dulu kita tonton lalu takut tidur sendiri?
+s|Siapa yang paling sering mengaku tidak salah saat ada barang pecah?
+s|Apa hal yang dulu kita lakukan untuk membuat orang tua terkejut di hari spesial?
+s|Siapa yang paling jago menebak isi kado?
+s|Apa kebiasaan saudara saat sedang belajar untuk ujian?
+s|Siapa yang paling sering ketinggalan barang saat liburan keluarga?
+s|Apa hal yang membuat kita kompak melawan aturan rumah dulu?
+s|Siapa yang paling sering menyanyi di kamar mandi?
+s|Apa pengalaman pertama kita naik pesawat atau kapal bersama?
+s|Siapa yang paling suka mengoleksi barang di antara kita?
+s|Apa hal yang selalu kita perebutkan saat makan malam?
+s|Siapa yang paling sering membawa teman ke rumah?
+s|Apa kebiasaan kita saat menunggu orang tua pulang?
+s|Siapa yang paling sering pura-pura sakit supaya tidak sekolah?
+s|Apa cerita hantu rumah yang dulu kita percayai bersama?
+s|Siapa yang paling cepat akrab dengan sepupu-sepupu?
+s|Apa kejadian lucu saat kita difoto untuk album keluarga?
+s|Siapa yang paling sering mengingatkan saudara untuk makan?
+s|Apa hal yang dulu kita lakukan saat hujan deras dan tidak bisa keluar rumah?
+s|Siapa yang paling suka begadang di antara kita?
+s|Apa hal yang selalu membuat kita tertawa saat ingat masa kecil?
+m|Apa hal yang membuatmu ingin dekat lagi dengan saudaramu?
+m|Apa yang ingin kamu tunjukkan kepada saudaramu tentang hidupmu sekarang?
+m|Bagaimana pendapatmu soal saudara yang tinggal jauh dari orang tua?
+m|Apa hal yang ingin kamu lakukan untuk saudaramu yang sedang kesulitan?
+m|Bagaimana kita bisa saling menyemangati tanpa terdengar menggurui?
+m|Apa hal yang dulu membuat kita jarang bicara, dan bagaimana memperbaikinya?
+m|Apa hal yang kamu harap saudaramu tahu tentang pasangan atau sahabatmu?
+m|Bagaimana pendapatmu soal pembagian warisan atau harta keluarga kelak?
+m|Apa kebiasaan baru yang ingin kita mulai sebagai saudara?
+m|Apa yang paling kamu hargai dari pilihan hidup saudaramu walau berbeda darimu?
+m|Bagaimana kamu ingin kita merayakan pencapaian saudara?
+m|Apa hal yang kamu harap saudaramu lakukan lebih sering?
+m|Bagaimana perasaanmu saat saudaramu menjadi orang tua atau saat membayangkannya?
+m|Apa hal yang membuatmu merasa tetap anak kecil di depan saudaramu?
+m|Bagaimana kita bisa saling menjaga rahasia tanpa membebani satu sama lain?
+m|Apa tradisi saudara yang ingin kita buat setiap tahun?
+m|Apa hal yang ingin kamu ketahui tentang mimpi saudaramu?
+m|Bagaimana kamu ingin saudaramu memperlakukan anak-anakmu kelak?
+m|Apa yang membuatmu merasa saudaramu sudah dewasa?
+m|Apa hal yang ingin kamu pelajari bersama saudaramu?
+d|Apa yang membuatmu merasa saudaramu adalah sahabat pertamamu?
+d|Apa yang ingin kamu katakan kepada saudaramu saat dia meragukan dirinya?
+d|Apa yang kamu rasakan saat saudaramu disakiti orang lain?
+d|Apa hal yang membuatmu merasa bersalah kepada saudaramu?
+d|Apa yang ingin kamu ubah dari peranmu sebagai kakak atau adik?
+d|Apa yang membuatmu merasa saudaramu menjadi alasan kamu kuat?
+d|Apa kenangan bersama saudara yang ingin kamu putar ulang seribu kali?
+d|Apa yang ingin kamu lakukan bersama saudaramu sebelum semuanya berubah?
+d|Apa yang membuatmu merasa saudaramu memahami luka yang sama denganmu?
+d|Apa yang ingin kamu sampaikan kepada saudaramu yang sudah tiada, kalau ada?
+s|Siapa yang paling sering mengambil porsi lauk paling besar?
+s|Apa hal yang dulu kita lakukan saat menunggu buka puasa atau makan besar?
+s|Siapa yang paling sering kehilangan sandal di rumah?
+s|Apa kejadian lucu saat kita belajar memasak bersama?
+s|Siapa yang paling sering mengunci pintu kamar?
+s|Apa kebiasaan saudara di kamar mandi yang paling bikin heran?
+s|Siapa yang paling sering ngambek saat kalah main ular tangga?
+s|Apa julukan yang dulu dipakai orang tua untuk memanggil kita bersama?
+s|Siapa yang paling sering menjawab telepon rumah dulu?
+s|Apa hal yang dulu kita tukar diam-diam di meja makan?
+s|Siapa yang paling sering dimintai tolong membeli sesuatu ke warung?
+s|Apa kenangan bersama saudara saat malam takbiran, malam Natal, atau malam tahun baru?
+s|Siapa yang paling sering menyembunyikan remote TV?
+s|Apa hal yang dulu kita lakukan saat orang tua pulang terlambat?
+m|Apa hal yang ingin kamu dengar dari saudaramu tentang masa kecil kita?
+m|Bagaimana pendapatmu tentang saudara yang memilih jalan hidup berbeda dari keluarga?
+m|Apa hal yang membuatmu ingin lebih sering mengunjungi saudaramu?
+m|Bagaimana kita bisa saling membantu menjaga kesehatan orang tua?
+m|Apa yang membuatmu merasa nyaman bercerita kepada saudaramu?
+m|Apa hal yang ingin kamu katakan kepada pasangan saudaramu tentang dia?
+m|Bagaimana kamu ingin kita membagi waktu berkunjung ke rumah orang tua?
+d|Apa yang membuatmu merasa saudaramu satu-satunya orang yang mengerti masa kecilmu?
+d|Apa yang ingin kamu maafkan dari saudaramu agar hatimu lebih ringan?
+d|Apa yang kamu harap saudaramu ingat tentangmu saat kalian sudah tua?
+d|Apa yang membuatmu merasa ingin melindungi saudaramu dari rasa sakit yang pernah kamu alami?
+d|Apa yang ingin kamu ucapkan kepada saudaramu kalau malam ini adalah kesempatan terakhir?
+d|Apa yang membuatmu yakin ikatan saudara lebih kuat dari pertengkaran apa pun?
