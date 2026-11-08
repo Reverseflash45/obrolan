@@ -90,7 +90,7 @@ export default function PilihTopik() {
                     </span>
                     <span>
                       <span className="block text-lg font-semibold leading-tight">{t.nama}</span>
-                      <span className="block text-base opacity-90">{JUMLAH[t.id]?.total ?? 0} kartu</span>
+                      <span className="block text-base">{JUMLAH[t.id]?.total ?? 0} kartu</span>
                     </span>
                     <span
                       className={`absolute right-2 top-2 grid h-9 w-9 place-items-center rounded-full border-2 ${

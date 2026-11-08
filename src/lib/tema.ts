@@ -34,7 +34,8 @@ const RONA_GRUP: Record<GrupId, number> = {
 };
 
 // Topik dalam satu grup tetap satu keluarga warna, tapi beda sedikit rona & terang supaya bisa dibedakan.
-const TERANG = [0, -0.05, 0.035, -0.025, 0.05, -0.04, 0.015];
+// hanya ke arah lebih gelap di tema gelap (kontras teks putih tetap ≥ 4,5:1); tema pastel membaliknya lewat --kartu-arah
+const TERANG = [0, -0.05, -0.025, -0.04, -0.01, -0.055, -0.03];
 const ronaTopik = new Map<string, { h: number; l: number }>();
 for (const g of Object.keys(RONA_GRUP) as GrupId[]) {
   const isi = TOPIK.filter((t) => t.grup === g);

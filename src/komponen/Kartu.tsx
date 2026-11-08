@@ -1,4 +1,4 @@
-import { motion, useReducedMotion } from "framer-motion";
+import { m, useReducedMotion } from "framer-motion";
 import type { CSSProperties } from "react";
 import { grupDari, nomorKartu, TOPIK_PER_ID, type Pertanyaan, type Topik } from "../lib/jenis";
 import { warnaKartu } from "../lib/tema";
@@ -41,7 +41,7 @@ function ukuranTeks(teks: string) {
   // makin panjang makin kecil, tapi tidak pernah di bawah 24px
   const n = teks.length;
   const cqw = n <= 45 ? 8.4 : n <= 70 ? 7.4 : n <= 95 ? 6.6 : 6;
-  return `clamp(24px, ${cqw}cqw, 46px)`;
+  return `clamp(24px, ${cqw}cqw, 72px)`;
 }
 
 export function MukaDepan({ q, topik, gaya }: { q: Pertanyaan; topik: Topik; gaya?: CSSProperties }) {
@@ -90,7 +90,7 @@ export function Kartu({ q, terbuka, onKetuk }: { q: Pertanyaan; terbuka: boolean
   const isi = kurangiGerak ? (
     <div className="relative aspect-[1.55] w-full">{terbuka ? <MukaDepan q={q} topik={topik} /> : <MukaBelakang topik={topik} />}</div>
   ) : (
-    <motion.div
+    <m.div
       className="relative aspect-[1.55] w-full"
       style={{ transformStyle: "preserve-3d" }}
       initial={false}
@@ -103,7 +103,7 @@ export function Kartu({ q, terbuka, onKetuk }: { q: Pertanyaan; terbuka: boolean
       <div className="sisi-belakang-tersembunyi absolute inset-0" style={{ transform: "rotateY(180deg)" }}>
         <MukaBelakang topik={topik} />
       </div>
-    </motion.div>
+    </m.div>
   );
 
   return (

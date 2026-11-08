@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { AnimatePresence, motion, useReducedMotion, type PanInfo } from "framer-motion";
+import { AnimatePresence, m, useReducedMotion, type PanInfo } from "framer-motion";
 import { muatBanyak } from "../lib/data";
 import { LEVEL, TOPIK_PER_ID, type Pertanyaan } from "../lib/jenis";
 import { pergi } from "../lib/rute";
@@ -68,8 +68,10 @@ export default function Main() {
   useEffect(() => {
     function tekan(e: KeyboardEvent) {
       if (!q || (e.target as HTMLElement)?.closest("input,textarea")) return;
-      if (e.key === "ArrowRight") terbuka ? maju("dijawab") : setTerbuka(true);
-      else if (e.key === "ArrowLeft") maju("dilewati");
+      if (e.key === "ArrowRight") {
+        if (terbuka) maju("dijawab");
+        else setTerbuka(true);
+      } else if (e.key === "ArrowLeft") maju("dilewati");
     }
     window.addEventListener("keydown", tekan);
     return () => window.removeEventListener("keydown", tekan);
@@ -140,7 +142,7 @@ export default function Main() {
       <div className="text-center">
         {adaGiliran ? (
           <h1 className="text-2xl font-semibold leading-snug">
-            Giliran <span className="text-emas">{penanya}</span> bertanya
+            Giliran <span className="text-sorot">{penanya}</span> bertanya
             <span className="block text-lg font-normal text-redup">{penjawab} menjawab duluan</span>
           </h1>
         ) : (
@@ -180,7 +182,7 @@ export default function Main() {
         )}
         <AnimatePresence initial={false} custom={arah}>
           {q ? (
-            <motion.div
+            <m.div
               key={q.id}
               className="relative z-[1] touch-pan-y [grid-area:1/1]"
               custom={arah}
@@ -195,7 +197,7 @@ export default function Main() {
               onDragEnd={lepasGeser}
             >
               <Kartu q={q} terbuka={terbuka} onKetuk={() => setTerbuka(true)} />
-            </motion.div>
+            </m.div>
           ) : (
             <div key="memuat" className="kartu-wadah [grid-area:1/1]">
               <div className="grid aspect-[1.55] w-full place-items-center rounded-[6cqw] border-2 border-dashed border-garis text-lg text-redup">

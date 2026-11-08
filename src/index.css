@@ -14,6 +14,7 @@
   --color-utama: var(--utama);
   --color-utinta: var(--utinta);
   --color-emas: var(--emas);
+  --color-sorot: var(--sorot);
   --color-garis: var(--garis);
   --color-bingkai: var(--bingkai);
   --color-ktinta: var(--kartu-tinta);
@@ -35,6 +36,7 @@
   --utama: #e2bd63;
   --utinta: #3d0a12;
   --emas: #d9b25f;
+  --sorot: var(--emas);
   --garis: rgb(255 247 236 / 0.28);
   --bingkai: #fffaf2;
   --kartu-tinta: #fffaf2;
@@ -59,10 +61,12 @@
   --utama: #6a3f9e;
   --utinta: #ffffff;
   --emas: #b8893a;
+  --sorot: #6a3f9e;
   --garis: #e6d3dc;
   --bingkai: #ffffff;
   --kartu-tinta: #2c1f33;
-  --kartu-l: 0.86;
+  --kartu-l: 0.85;
+  --kartu-arah: -1;
   --kartu-c: 0.075;
   --kartu-geser: 0deg;
   color-scheme: light;
@@ -139,6 +143,7 @@
   --utama: #3b2213;
   --utinta: #fbeed0;
   --emas: #f2c14e;
+  --sorot: #8a2e0e;
   --garis: rgb(59 34 19 / 0.22);
   --bingkai: #fbeed0;
   --kartu-tinta: #fbeed0;

@@ -1,5 +1,5 @@
 import { useEffect, type ReactElement } from "react";
-import { MotionConfig } from "framer-motion";
+import { LazyMotion, MotionConfig, domMax } from "framer-motion";
 import { useRute, type Rute } from "./lib/rute";
 import { terapkanTema } from "./lib/tema";
 import { PenyediaToko, useToko } from "./lib/toko";
@@ -50,10 +50,12 @@ function Isi() {
 
 export default function App() {
   return (
+    <LazyMotion features={domMax} strict>
     <MotionConfig reducedMotion="user">
       <PenyediaToko>
         <Isi />
       </PenyediaToko>
     </MotionConfig>
+    </LazyMotion>
   );
 }

@@ -1,10 +1,13 @@
 {
   "name": "obrolan",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "data": "node scripts/susun.mjs",
+    "validasi": "node scripts/validasi.mjs",
+    "prebuild": "node scripts/susun.mjs && node scripts/validasi.mjs",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"

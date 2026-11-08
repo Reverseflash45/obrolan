@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-import { toBlob } from "html-to-image";
+
 import { TOPIK_PER_ID, type Pertanyaan } from "../lib/jenis";
 import { MukaDepan } from "./Kartu";
 
@@ -44,6 +44,7 @@ export function useBagikan() {
     (async () => {
       try {
         await document.fonts.ready;
+        const { toBlob } = await import("html-to-image");
         const blob = await toBlob(ref.current!, { width: 1080, height: 1920, pixelRatio: 1, cacheBust: false });
         if (!blob || batal) throw new Error("kosong");
         const nama = `obrolan-${q.id}.png`;
