@@ -20,6 +20,8 @@
       try {
         var p = JSON.parse(localStorage.getItem("obrolan:pengaturan") || "{}");
         if (p.tema) document.documentElement.dataset.tema = p.tema;
+        // beranda hasil prerender hanya untuk rute "/", rute lain menunggu aplikasi
+        if (location.hash && location.hash !== "#/") document.documentElement.classList.add("rute-dalam");
       } catch (e) {}
     </script>
   </head>

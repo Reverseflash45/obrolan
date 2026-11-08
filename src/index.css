@@ -207,3 +207,8 @@
     scroll-behavior: auto !important;
   }
 }
+
+/* beranda hasil prerender disembunyikan kalau halaman dibuka langsung di rute lain */
+.rute-dalam [data-pra] {
+  visibility: hidden;
+}
