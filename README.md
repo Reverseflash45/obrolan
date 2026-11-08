@@ -1,5 +1,7 @@
 # Obrolan
 
+Live: **https://obrolan.raffstw.my.id**
+
 Kartu pertanyaan *deep talk* di browser, terinspirasi dari kartu fisik untuk pasangan. Pilih mode, pilih topik, lalu tarik kartu satu per satu dan jawab bergantian. Tidak perlu akun dan tidak ada iklan. Bisa dipasang ke layar utama HP dan dipakai tanpa internet.
 
 - **41 topik, 10.309 pertanyaan.** Tiap topik punya minimal 250 pertanyaan, terbagi ke tiga level: santai, sedang, dan dalam.
