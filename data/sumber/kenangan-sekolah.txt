@@ -1,0 +1,251 @@
+# Kenangan Sekolah — teman, lo/gue boleh
+s|Lo dulu duduk di barisan depan, tengah, atau belakang?
+s|Siapa guru paling galak yang pernah lo temuin?
+s|Siapa guru paling asik yang pernah ngajar lo?
+s|Pelajaran apa yang paling lo benci waktu sekolah?
+s|Pelajaran apa yang paling lo tunggu-tunggu?
+s|Apa jajanan kantin paling legendaris di sekolah lo?
+s|Lo pernah dihukum karena apa di sekolah?
+s|Apa ekskul yang lo ikutin waktu SMA?
+s|Siapa teman sebangku lo yang paling lama?
+s|Apa julukan lo waktu sekolah?
+s|Lo pernah bolos ke mana?
+s|Upacara bendera paling memorable yang pernah lo alami apa?
+s|Apa seragam sekolah yang paling lo suka, putih biru atau putih abu?
+s|Lo pernah jadi petugas upacara?
+s|Siapa artis yang paling sering diomongin di kelas waktu itu?
+s|Apa game yang paling sering dimainin di kelas?
+s|Lo pernah ketahuan main ponsel di kelas?
+s|Apa trik nyontek paling kreatif yang pernah lo lihat?
+s|Lo dulu tipe yang ngerjain PR di rumah atau di sekolah pagi-pagi?
+s|Apa acara pensi paling seru yang pernah lo tonton?
+s|Siapa yang jadi ketua kelas di angkatan lo dan gimana orangnya?
+s|Lo pernah jadi pengurus OSIS?
+s|Apa lagu yang selalu dinyanyiin pas jam kosong?
+s|Siapa crush lo waktu SMP?
+s|Lo pernah kirim salam lewat temen?
+s|Apa hal paling memalukan yang terjadi di depan kelas?
+s|Apa kegiatan study tour yang paling lo inget?
+s|Lo pernah ikut lomba mewakili sekolah?
+s|Apa mata pelajaran yang nilai lo paling jelek?
+s|Siapa teman yang paling sering minjem pulpen?
+s|Lo tim bawa bekal atau jajan di kantin?
+s|Apa tempat nongkrong favorit pas jam istirahat?
+s|Siapa penjaga sekolah atau satpam yang paling lo inget?
+s|Lo pernah ketiduran di kelas?
+s|Apa gaya rambut paling hits di zaman sekolah lo?
+s|Apa tas sekolah yang dulu lo pakai?
+s|Lo pernah naik angkot atau bus sekolah tiap hari?
+s|Apa kebiasaan aneh guru yang masih lo inget?
+s|Siapa teman sekelas yang paling lucu?
+s|Lo pernah dipanggil ke ruang BK?
+s|Apa pengalaman MOS atau MPLS yang paling lo inget?
+s|Lo pernah ikut kemah atau persami?
+s|Apa jenis hukuman sekolah yang paling lo takutin?
+s|Siapa teman yang paling rajin nyatet di kelas?
+s|Lo dulu suka coret-coret meja atau buku?
+s|Apa pelajaran olahraga yang paling lo suka?
+s|Lo pernah ikut lari pagi atau senam di sekolah?
+s|Apa kejadian paling heboh di sekolah lo?
+s|Siapa teman yang paling sering telat masuk sekolah?
+s|Lo pernah nyanyi di depan kelas?
+s|Apa buku pelajaran yang paling tebal dan menyiksa?
+s|Lo dulu suka koleksi kertas binder atau stiker?
+s|Apa acara perpisahan sekolah yang paling lo inget?
+s|Siapa yang jadi teman curhat lo pas sekolah?
+s|Lo pernah jadi korban jahil teman sekelas?
+s|Apa hal paling lucu yang pernah dilakuin guru di kelas?
+s|Lo dulu pinter matematika atau lebih ke bahasa?
+s|Apa gelang, aksesori, atau barang yang lagi hits waktu sekolah?
+s|Lo pernah ikut paduan suara atau band sekolah?
+s|Apa kebiasaan teman-teman pas jam kosong?
+s|Siapa wali kelas yang paling berkesan buat lo?
+s|Lo pernah nyimpen surat atau kertas dari teman sekelas?
+s|Apa jajanan di depan gerbang sekolah yang paling lo kangenin?
+s|Lo pernah ikut tawuran atau nyaris ikut, kalau iya gimana ceritanya?
+s|Apa kegiatan Agustusan di sekolah yang paling seru?
+s|Siapa teman yang paling sering dapat ranking satu?
+s|Lo pernah remedial berapa kali?
+s|Apa nama grup chat kelas lo dulu?
+s|Lo pernah ikut les bimbel buat ujian?
+s|Apa pengalaman ujian nasional atau ujian akhir yang paling lo inget?
+s|Lo pernah salah masuk kelas?
+s|Apa hal paling nekat yang pernah lo lakuin buat dapat nilai bagus?
+s|Siapa teman yang paling cepat akrab sama guru?
+s|Lo pernah jadi panitia acara sekolah?
+s|Apa yel-yel kelas lo dulu?
+s|Lo pernah lupa pakai atribut seragam pas upacara?
+s|Apa mainan atau tren yang sempat dilarang di sekolah?
+s|Siapa teman yang paling jago gambar di kelas?
+s|Lo pernah ikut lomba kebersihan kelas?
+s|Apa pelajaran praktikum yang paling seru?
+s|Lo pernah nyasar di gedung sekolah baru?
+s|Apa jadwal pelajaran paling berat dalam seminggu?
+s|Lo dulu sering izin ke toilet buat kabur sebentar?
+s|Siapa teman yang selalu bawa camilan buat dibagi?
+s|Apa lagu yang ngingetin lo sama masa SMA?
+s|Lo pernah jadi bahan gosip satu sekolah?
+s|Apa pengalaman pertama naik panggung di sekolah?
+s|Lo pernah ikut kegiatan pramuka sampai kemah besar?
+s|Apa makanan bekal yang paling sering lo bawa?
+m|Apa pelajaran dari masa sekolah yang masih kepakai sampai sekarang?
+m|Siapa guru yang paling berpengaruh buat hidup lo?
+m|Apa hal yang pengin lo ulang kalau bisa balik ke masa sekolah?
+m|Apa hal yang lo syukuri nggak harus diulang dari masa sekolah?
+m|Gimana lo dulu ngadepin tekanan nilai dan ranking?
+m|Siapa teman sekolah yang masih lo kontak sampai sekarang?
+m|Siapa teman sekolah yang pengin lo temuin lagi?
+m|Apa hal yang dulu bikin lo minder di sekolah?
+m|Apa hal yang dulu bikin lo percaya diri di sekolah?
+m|Gimana rasanya jadi murid baru, kalau lo pernah pindah sekolah?
+m|Apa keputusan jurusan yang lo ambil dulu dan gimana hasilnya sekarang?
+m|Apa yang paling lo kangenin dari temen-temen sekelas?
+m|Apa hal yang dulu lo pikir penting banget tapi ternyata nggak?
+m|Siapa teman yang dulu lo remehkan tapi sekarang sukses?
+m|Apa pengalaman di sekolah yang bikin lo belajar soal keadilan?
+m|Gimana hubungan lo sama guru BK atau wali kelas dulu?
+m|Apa yang bikin lo semangat berangkat sekolah dulu?
+m|Apa yang bikin lo malas berangkat sekolah dulu?
+m|Gimana sekolah ngebentuk cara lo bergaul sekarang?
+m|Apa kenangan sekolah yang bikin lo senyum kalau lagi capek?
+m|Apa yang lo pelajari dari kegagalan ujian dulu?
+m|Gimana rasanya reuni pertama setelah lulus?
+m|Apa yang paling berubah dari teman-teman setelah lulus?
+m|Apa hal yang pengin lo bilang ke guru favorit lo sekarang?
+m|Apa hal yang pengin lo bilang ke guru yang dulu nyebelin?
+m|Gimana pengaruh geng atau kelompok di sekolah ke hidup lo?
+m|Apa pengalaman organisasi sekolah yang paling ngebentuk lo?
+m|Apa kebiasaan belajar dari sekolah yang masih lo pakai?
+m|Gimana pendapat lo soal sistem ranking di sekolah?
+m|Apa hal yang paling nggak adil yang pernah lo alami di sekolah?
+m|Gimana rasanya pertama kali jatuh cinta di sekolah?
+m|Apa hal yang dulu lo rahasiain dari orang tua soal sekolah?
+m|Apa cita-cita lo waktu SMA dan seberapa jauh dari kenyataan sekarang?
+m|Gimana lo ngadepin pertemanan yang retak di sekolah?
+m|Apa hal yang lo pelajari dari teman yang beda latar belakang di sekolah?
+m|Siapa yang paling banyak bantu lo melewati masa sekolah?
+m|Apa yang pengin lo ubah dari cara sekolah ngajarin kita dulu?
+m|Gimana rasanya hari terakhir di sekolah?
+m|Apa hal yang dulu lo anggap keren tapi sekarang bikin malu?
+m|Apa yang paling lo inget dari masa pandemi kalau lo sekolah atau kuliah saat itu?
+m|Gimana masa sekolah ngebentuk selera musik dan tontonan lo?
+m|Apa pengalaman di sekolah yang bikin lo jadi lebih berani?
+m|Apa yang paling lo hargai dari orang tua selama masa sekolah?
+m|Apa hal dari sekolah yang pengin lo kenalin ke anak lo nanti?
+m|Gimana rasanya ketemu teman sekolah yang udah beda banget sekarang?
+d|Pernah nggak lo ngerasa sendirian di masa sekolah?
+d|Apa pengalaman di sekolah yang ninggalin luka sampai sekarang?
+d|Pernah nggak lo jadi korban atau pelaku perundungan, dan gimana lo memaknainya sekarang?
+d|Apa yang pengin lo bilang ke diri lo waktu masih SMA?
+d|Siapa teman sekolah yang pengin lo minta maaf?
+d|Apa yang bikin lo bertahan di masa sekolah yang berat?
+d|Apa hal yang lo sembunyiin dari temen-temen sekolah dulu?
+d|Kapan lo ngerasa paling nggak dianggap di sekolah?
+d|Apa ekspektasi orang tua soal sekolah yang paling berat buat lo?
+d|Apa yang lo sesali dari cara lo memperlakukan teman sekolah?
+d|Apa kenangan sekolah yang pengin lo lupain?
+d|Siapa guru yang pernah bikin lo ngerasa berharga?
+d|Siapa guru yang pernah bikin lo ngerasa nggak berguna?
+d|Apa yang lo rasain kalau lewat depan sekolah lama lo?
+d|Apa yang pengin lo sembuhin dari pengalaman sekolah dulu?
+d|Kalau bisa ketemu diri lo yang lagi nangis di toilet sekolah, apa yang bakal lo lakuin?
+d|Apa yang bikin lo akhirnya bisa nerima diri setelah masa sekolah?
+d|Apa yang pengin lo kasih tahu ke adik kelas yang lagi struggling?
+d|Apa yang paling bikin lo bangga dari perjalanan lo sejak lulus sekolah?
+d|Siapa teman sekolah yang udah nggak ada dan pengin lo kenang?
+d|Apa yang lo pelajari tentang pertemanan dari masa sekolah yang menyakitkan?
+d|Apa yang bikin lo ngerasa harus jadi orang lain waktu sekolah?
+d|Apa yang lo harap guru-guru tahu tentang lo dulu?
+d|Kapan lo sadar bahwa nilai bukan segalanya?
+d|Apa yang pengin lo ucapin ke teman yang dulu selalu ada buat lo?
+d|Apa yang paling lo takutin waktu sekolah dan apakah itu masih ada sekarang?
+d|Apa yang bikin lo bisa maafin masa lalu di sekolah?
+d|Kalau lo bisa ngasih satu hadiah buat diri lo yang kelas tiga SMA, hadiahnya apa?
+d|Apa pelajaran hidup yang nggak pernah diajarin di sekolah tapi lo dapet sendiri?
+d|Apa yang pengin lo pastiin nggak dialami anak-anak sekarang di sekolah?
+s|Apa merek pulpen atau pensil favorit lo waktu sekolah?
+s|Siapa teman yang paling sering bawa bola buat main di lapangan?
+s|Apa permainan yang paling sering dimainin pas istirahat SD?
+s|Lo pernah naik sepeda ke sekolah?
+s|Apa acara TV yang selalu diomongin di kelas besoknya?
+s|Siapa teman yang paling sering dimarahi guru tapi tetap santai?
+s|Apa lagu wajib yang paling sering dinyanyiin di sekolah?
+s|Lo pernah jadi dirigen atau pemimpin lagu?
+s|Apa kejadian lucu waktu foto kelas?
+s|Siapa teman yang tulisannya paling rapi di kelas?
+s|Apa jenis kotak pensil yang lagi hits di zaman lo?
+s|Lo pernah ikut lomba cerdas cermat?
+s|Apa kebiasaan lo setiap pagi sebelum masuk kelas?
+s|Siapa teman yang paling sering ngajak ke kantin?
+s|Apa makanan yang dijual ibu kantin favorit lo?
+s|Lo dulu suka buku perpustakaan jenis apa?
+s|Apa kejadian lucu waktu pelajaran olahraga?
+s|Lo pernah salah pakai seragam di hari yang salah?
+s|Apa mainan yang sering dibawa diam-diam ke sekolah?
+s|Siapa teman yang paling heboh kalau ada guru baru?
+s|Apa kegiatan pondok Ramadan atau kegiatan keagamaan di sekolah yang lo inget?
+s|Lo pernah ikut drumband atau marching band?
+s|Apa kebiasaan kelas lo saat ada pelajaran kosong?
+s|Siapa teman yang paling sering bikin kelas rame?
+s|Lo dulu suka tukeran kartu atau stiker sama teman?
+s|Apa hal paling unik dari gedung sekolah lo?
+s|Lo pernah ikut lomba mading?
+s|Apa kejadian lucu waktu karyawisata naik bus?
+s|Siapa teman yang paling jago main voli atau basket?
+s|Apa julukan yang dikasih murid buat guru tertentu?
+s|Lo pernah kepergok pacaran di sekolah, atau lihat orang kepergok?
+s|Apa kebiasaan pulang sekolah yang paling lo kangenin?
+s|Siapa teman yang rumahnya paling sering jadi tempat kerja kelompok?
+s|Apa hal yang lo bawa pulang dari study tour sebagai oleh-oleh?
+s|Lo pernah ketinggalan buku PR dan pura-pura lupa?
+s|Apa pengalaman paling seru waktu classmeeting?
+s|Siapa teman yang paling jago main gitar di kelas?
+s|Apa makanan yang dijual di depan sekolah pas pulang?
+s|Lo pernah jadi bintang tamu atau MC acara sekolah?
+s|Apa kejadian paling kocak saat pelajaran praktik memasak atau kesenian?
+s|Lo pernah nulis nama di meja atau dinding sekolah?
+s|Apa hal pertama yang lo lakuin pas pengumuman kelulusan?
+s|Siapa teman yang paling sering minjem catatan lo?
+s|Apa aplikasi chat yang dipakai angkatan lo waktu sekolah?
+s|Lo dulu punya buku diary yang diisi teman-teman?
+s|Apa hal paling aneh yang pernah lo temuin di laci meja kelas?
+s|Siapa teman yang paling sering sakit perut pas ujian?
+s|Lo pernah ikut lomba tujuh belasan antar kelas?
+s|Apa kebiasaan guru matematika atau guru favorit lo yang khas?
+s|Lo pernah ngerjain PR teman demi dapat traktiran?
+m|Apa yang lo pelajari dari teman sekelas yang paling beda dari lo?
+m|Gimana cara lo dulu ngadepin guru yang nggak suka sama lo?
+m|Apa yang bikin satu kelas bisa kompak menurut lo?
+m|Apa kenangan bareng teman sekolah yang pengin lo ceritain ke anak lo?
+m|Gimana rasanya jadi kakak kelas yang dihormati, atau adik kelas yang dibimbing?
+m|Apa hal di sekolah yang dulu bikin lo marah tapi sekarang lo paham alasannya?
+m|Siapa teman yang dulu nggak akrab tapi sekarang deket banget?
+m|Gimana lo ngadepin perbedaan kelompok pertemanan di sekolah?
+m|Apa yang pengin lo pelajari ulang kalau sekarang bisa sekolah lagi?
+m|Apa hal yang pengin lo kasih ke sekolah lama lo sekarang?
+m|Gimana masa sekolah ngebentuk cara lo ngadepin aturan?
+m|Apa pengalaman di sekolah yang bikin lo jadi pemimpin?
+m|Apa yang lo rasain pas lihat foto angkatan lo sekarang?
+m|Gimana pendapat lo soal seragam sekolah?
+m|Apa kebiasaan sekolah zaman lo yang beda jauh sama sekolah zaman sekarang?
+m|Apa hal yang dulu bikin lo deg-degan setiap pembagian rapor?
+m|Gimana cara orang tua lo nanggepin nilai rapor lo?
+m|Apa yang paling lo kangenin dari rutinitas sekolah?
+d|Apa yang pengin lo bilang ke teman yang dulu sering dijauhi di kelas?
+d|Apa kata-kata guru yang masih kebawa di kepala lo sampai sekarang?
+d|Apa yang bikin lo ngerasa nggak cukup di mata teman sekolah?
+d|Siapa teman yang paling berjasa nemenin lo di masa sekolah tersulit?
+d|Apa yang lo harap bisa lo ubah dari cara lo memandang diri sendiri waktu remaja?
+d|Apa yang lo rasain kalau inget teman sekolah yang hidupnya sekarang berat?
+d|Apa yang pengin lo kasih tahu ke orang tua lo soal masa sekolah lo yang sebenarnya?
+d|Apa yang bikin lo bangga bisa ngelewatin masa sekolah?
+d|Apa yang paling lo syukuri dari teman-teman sekolah sampai hari ini?
+d|Apa kebiasaan bertahan diri dari masa sekolah yang masih lo pakai sekarang?
+d|Apa hal yang dulu bikin lo pengin cepat-cepat lulus?
+d|Apa yang lo pelajari tentang keberanian dari masa sekolah?
+d|Apa yang pengin lo ucapin ke guru yang dulu percaya sama lo?
+d|Apa kenangan sekolah yang bikin lo pengin jadi orang yang lebih baik?
+d|Apa luka sekolah yang sekarang udah sembuh, dan apa yang nyembuhinnya?
+d|Apa yang pengin lo inget terus dari diri lo waktu masih sekolah?
+d|Apa yang bikin lo akhirnya bisa ngelepasin rasa malu dari masa sekolah?
+d|Apa yang pengin lo ubah di sekolah supaya nggak ada anak yang ngerasa sendirian?

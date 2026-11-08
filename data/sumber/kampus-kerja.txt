@@ -1,0 +1,252 @@
+# Kampus & Kerja — teman, lo/gue boleh
+s|Lo kuliah jurusan apa, atau kerja di bidang apa sekarang?
+s|Kenapa dulu lo milih jurusan itu?
+s|Apa mata kuliah yang paling bikin lo pusing?
+s|Siapa dosen paling unik yang pernah lo temuin?
+s|Apa tempat makan favorit di sekitar kampus atau kantor?
+s|Lo tim ngerjain tugas jauh-jauh hari atau mepet deadline?
+s|Apa pengalaman ospek atau masa orientasi yang paling lo inget?
+s|Lo pernah ketiduran di kelas atau rapat?
+s|Apa organisasi atau UKM yang pernah lo ikutin?
+s|Siapa rekan kerja atau teman kuliah yang paling lucu?
+s|Apa kebiasaan atasan atau dosen yang paling nyebelin?
+s|Lo lebih suka kerja dari rumah atau dari kantor?
+s|Apa aplikasi kerja atau kuliah yang paling sering lo buka?
+s|Berapa gelas kopi yang lo minum di hari kerja?
+s|Apa tempat nongkrong favorit setelah kuliah atau kerja?
+s|Lo pernah salah kirim pesan ke grup kantor atau kelas?
+s|Apa outfit kerja atau kuliah andalan lo?
+s|Lo pernah titip absen?
+s|Apa pengalaman magang pertama lo?
+s|Gaji atau uang saku pertama lo dipakai buat apa?
+s|Siapa teman sekelompok yang paling sering ngilang pas tugas?
+s|Apa makan siang andalan lo di hari kerja?
+s|Lo pernah begadang ngerjain skripsi atau laporan sampai subuh?
+s|Apa pengalaman wawancara kerja paling lucu atau canggung?
+s|Lo tim meja rapi atau meja berantakan?
+s|Apa playlist yang nemenin lo kerja atau belajar?
+s|Lo pernah ikut lomba atau kompetisi mewakili kampus atau kantor?
+s|Apa acara kantor atau kampus yang paling seru?
+s|Siapa yang paling sering ngajak makan siang bareng?
+s|Lo pernah salah masuk ruang kelas atau ruang rapat?
+s|Apa kendaraan andalan lo ke kampus atau kantor?
+s|Berapa lama perjalanan lo setiap hari?
+s|Lo pernah telat banget sampai ketahuan?
+s|Apa alasan paling kreatif yang pernah lo pakai buat izin?
+s|Apa hal paling lucu yang terjadi di rapat online?
+s|Lo pernah lupa mematikan mikrofon saat rapat?
+s|Apa kebiasaan lo pas lagi nunggu jam pulang?
+s|Siapa rekan kerja yang paling jago presentasi?
+s|Apa pengalaman kos atau tinggal jauh dari rumah yang paling seru?
+s|Lo pernah masak mi instan di kos tengah malam?
+s|Apa barang wajib di meja kerja lo?
+s|Lo tim nyatet di buku atau di laptop?
+s|Apa perpustakaan atau kafe favorit buat nugas?
+s|Lo pernah ikut KKN, dan apa yang paling lo inget?
+s|Apa kebiasaan aneh teman kos lo?
+s|Siapa dosen pembimbing atau mentor yang paling berkesan?
+s|Apa grup chat kantor atau kampus yang paling ramai?
+s|Lo pernah ikut kepanitiaan acara besar?
+s|Apa singkatan atau istilah kantor yang cuma dimengerti orang dalam?
+s|Lo tim lembur demi kelar atau pulang tepat waktu apa pun yang terjadi?
+s|Apa hadiah tukar kado kantor atau kelas paling aneh yang pernah lo dapat?
+s|Siapa yang paling sering bawa camilan buat dibagi di kantor atau kelas?
+s|Apa hal paling memalukan yang pernah lo alami di kampus atau kantor?
+s|Lo pernah ikut seminar cuma demi sertifikat atau makan siang?
+s|Apa kebiasaan lo pas lagi ujian atau tenggat waktu?
+s|Lo pernah ganti jurusan atau ganti kerjaan?
+s|Apa ruangan favorit di kampus atau kantor lo?
+s|Lo pernah kena tegur karena hal sepele?
+s|Apa acara outing atau study tour yang paling seru?
+s|Siapa yang paling sering curhat soal kerjaan ke lo?
+s|Lo tim ngerjain tugas sambil denger musik atau harus sunyi?
+s|Apa kebiasaan rapat yang menurut lo buang waktu?
+s|Lo pernah salah panggil nama atasan atau dosen?
+s|Apa jajanan sore di sekitar kantor atau kampus?
+s|Lo pernah kerja sambil kuliah?
+s|Apa pengalaman pertama naik transportasi umum ke kantor?
+s|Lo pernah ikut kegiatan relawan dari kampus atau kantor?
+s|Apa kebiasaan hari Jumat di kantor atau kampus lo?
+s|Siapa yang paling heboh kalau ada makanan gratis?
+s|Apa nama panggilan lucu buat atasan atau dosen di antara teman-teman?
+s|Lo pernah jadi asisten dosen atau ketua tim?
+s|Apa pengalaman wisuda yang paling lo inget?
+s|Lo pernah salah pakai baju pas dresscode kantor?
+s|Apa kebiasaan lo di hari pertama kerja?
+s|Siapa teman kerja yang jadi sahabat beneran?
+s|Apa alat tulis atau gawai yang paling sering hilang di kantor?
+s|Lo tim makan siang di meja atau keluar kantor?
+s|Apa hal paling absurd yang pernah diminta atasan atau dosen?
+s|Lo pernah pakai baju yang sama tiga hari berturut-turut ke kampus atau kantor?
+s|Apa tempat parkir paling strategis yang selalu lo incar?
+s|Lo pernah ketahuan main game atau nonton saat jam kerja?
+s|Apa yang biasanya lo lakuin pas gajian?
+s|Siapa rekan kerja yang paling cocok jadi komedian?
+s|Lo pernah ikut kelas online yang nggak pernah selesai?
+s|Apa hal yang selalu lo bawa ke ruang ujian atau rapat penting?
+m|Apa hal yang bikin lo bertahan di kuliah atau kerjaan sekarang?
+m|Kalau bisa ulang, lo bakal milih jurusan atau karier yang sama?
+m|Apa pelajaran paling berharga dari dunia kerja atau kampus sejauh ini?
+m|Gimana cara lo ngadepin atasan atau dosen yang susah?
+m|Apa tipe rekan kerja yang paling bikin lo nyaman?
+m|Apa tipe rekan kerja yang paling bikin lo stres?
+m|Gimana cara lo ngatur waktu antara kerja atau kuliah dan kehidupan pribadi?
+m|Pernah nggak lo ngerasa salah jurusan atau salah tempat kerja?
+m|Apa pencapaian kerja atau kuliah yang paling lo banggain?
+m|Apa kegagalan kerja atau kuliah yang paling ngajarin lo?
+m|Gimana perasaan lo soal gaji atau uang saku lo sekarang?
+m|Apa skill yang pengin lo kuasai buat karier lo?
+m|Gimana pendapat lo soal budaya lembur?
+m|Apa yang bikin lo ngerasa dihargai di tempat kerja atau kampus?
+m|Apa yang bikin lo pengin resign atau berhenti?
+m|Gimana cara lo nolak permintaan atasan atau teman yang berlebihan?
+m|Apa hal yang pengin lo ubah dari lingkungan kerja atau kampus lo?
+m|Siapa mentor yang paling ngebantu perkembangan lo?
+m|Gimana cara lo ngadepin rasa minder pas lihat teman seangkatan lebih sukses?
+m|Apa pendapat lo soal kerja di perusahaan besar dibanding startup?
+m|Gimana rasanya pertama kali dapat gaji sendiri?
+m|Apa pertanyaan wawancara kerja yang paling susah lo jawab?
+m|Gimana cara lo ngadepin presentasi atau sidang yang bikin deg-degan?
+m|Apa yang bikin lo semangat Senin pagi, kalau ada?
+m|Gimana pendapat lo soal kerja sesuai passion dibanding kerja demi uang?
+m|Apa hal yang dulu lo kira enak dari dunia kerja tapi ternyata nggak?
+m|Gimana cara lo istirahat dari kerjaan tanpa ngerasa bersalah?
+m|Apa yang pengin lo capai di karier dalam lima tahun?
+m|Gimana pendapat lo soal persaingan di kantor atau kelas?
+m|Apa yang bikin lo susah fokus kerja atau belajar akhir-akhir ini?
+m|Gimana cara lo ngomong ke orang tua soal pilihan karier yang beda dari harapan mereka?
+m|Apa hal yang bikin lo bangga sama tim lo?
+m|Gimana cara lo ngadepin kritik pedas soal kerjaan lo?
+m|Apa yang bakal lo lakuin kalau dapat tawaran kerja di luar negeri?
+m|Gimana rasanya kerja bareng teman dekat sendiri?
+m|Apa pendapat lo soal kerja sampingan?
+m|Apa hal yang pengin lo pelajari dari atasan atau dosen favorit lo?
+m|Gimana cara lo bangkit setelah ditolak kerja atau beasiswa?
+m|Apa kebiasaan produktif yang paling ngebantu lo?
+m|Gimana cara lo ngadepin rekan kerja yang suka nyalip kerjaan lo?
+m|Apa yang bikin lo ngerasa udah dewasa di dunia kerja?
+m|Gimana pendapat lo soal pindah-pindah kerja dalam waktu singkat?
+m|Apa hal yang lo syukuri dari pekerjaan atau kuliah sekarang walau berat?
+d|Pernah nggak lo ngerasa nggak cukup pintar di tempat kerja atau kampus?
+d|Apa ketakutan terbesar lo soal masa depan karier?
+d|Apa yang lo korbankan demi pekerjaan atau kuliah yang kadang lo sesali?
+d|Kapan lo ngerasa paling burnout, dan gimana lo keluar dari situ?
+d|Apa yang pengin lo bilang ke diri lo di hari pertama kerja atau kuliah?
+d|Apa yang bikin lo ngerasa hidup lo cuma kerja dan nggak ada yang lain?
+d|Apa mimpi karier yang lo kubur karena realita?
+d|Gimana cara lo ngadepin rasa gagal pas ekspektasi keluarga nggak tercapai?
+d|Apa yang bikin lo takut kelihatan lemah di depan rekan kerja?
+d|Apa hal di kantor atau kampus yang pernah bikin lo nangis diam-diam?
+d|Pernah nggak lo diperlakukan nggak adil di tempat kerja, dan gimana lo menghadapinya?
+d|Apa arti sukses buat lo setelah ngerasain dunia kerja?
+d|Apa yang bikin lo bertahan di masa paling berat di kuliah atau kerja?
+d|Siapa orang yang paling percaya sama lo di saat lo ragu sama karier lo?
+d|Apa yang pengin lo ubah dari hubungan lo sama pekerjaan?
+d|Apa yang bikin lo ngerasa nggak punya waktu buat diri sendiri?
+d|Kalau uang bukan masalah, lo bakal kerja apa?
+d|Apa yang pengin lo buktiin dan buat siapa?
+d|Apa yang bikin lo ngerasa kerjaan lo berarti buat orang lain?
+d|Apa yang lo pelajari tentang diri lo dari pekerjaan pertama?
+d|Kapan lo sadar bahwa lo layak dapat lebih baik dari tempat kerja lo?
+d|Apa yang pengin lo lakuin sebelum terlambat di luar urusan kerja?
+d|Apa yang bikin lo takut ganti haluan karier?
+d|Apa yang pengin lo kasih tahu ke junior yang baru masuk dunia kerja?
+d|Apa yang bikin lo ngerasa cukup walau karier belum seperti yang lo mau?
+d|Apa yang lo harap orang tua lo ngerti soal tekanan kerja lo?
+d|Siapa rekan kerja atau teman kuliah yang pernah nolong lo di saat paling sulit?
+d|Apa yang bakal lo sesali kalau terus kerja kayak sekarang sepuluh tahun lagi?
+d|Apa yang bikin lo bangga sama diri lo meski belum ada yang muji?
+d|Apa yang pengin lo jaga dari diri lo walau dunia kerja keras banget?
+s|Apa kantin kampus atau kantor yang paling enak menurut lo?
+s|Siapa teman yang paling sering minjem laptop atau charger?
+s|Apa kebiasaan lo pas lagi nunggu dosen atau atasan datang?
+s|Lo pernah salah kirim file tugas atau laporan?
+s|Apa kejadian lucu waktu foto wisuda?
+s|Siapa teman yang paling sering jadi notulen rapat?
+s|Apa jenis rapat yang paling bikin ngantuk?
+s|Lo pernah ikut kelas pagi jam tujuh dengan mata setengah tertutup?
+s|Apa kebiasaan kantor yang lucu, misalnya ulang tahun bersama atau makan bersama?
+s|Siapa yang paling sering pesan makanan online di kantor?
+s|Apa lagu yang selalu diputar di ruangan kerja atau sekretariat?
+s|Lo pernah jadi panitia acara yang hampir gagal total?
+s|Apa singkatan mata kuliah yang paling lucu?
+s|Siapa teman yang paling jago bikin slide presentasi?
+s|Apa pengalaman paling seru waktu ikut lomba atau hackathon?
+s|Lo pernah ketiduran di perpustakaan?
+s|Apa jajanan favorit buat begadang ngerjain tugas?
+s|Siapa yang paling sering ngajak ngopi di sela kerja?
+s|Apa kejadian lucu pas presentasi di depan kelas atau klien?
+s|Lo pernah salah sebut nama perusahaan saat wawancara?
+s|Apa barang paling aneh yang pernah lo lihat di meja rekan kerja?
+s|Lo pernah salah naik lift atau salah lantai di gedung kantor?
+s|Apa kebiasaan rekan kerja pas Jumat sore?
+s|Siapa teman yang paling sering bawa bekal buatan sendiri?
+s|Apa kegiatan team building paling aneh yang pernah lo ikuti?
+s|Lo pernah salah paham sama instruksi atasan sampai kerjanya diulang?
+s|Apa nama grup tugas paling kreatif yang pernah lo bikin?
+s|Siapa yang paling sering jadi tukang foto di acara kantor atau kampus?
+s|Apa kejadian lucu saat kuliah atau rapat online dari rumah?
+s|Lo pernah ikut kelas yang dosennya nggak datang tapi tetap absen?
+s|Apa pengalaman pertama ikut seminar atau konferensi?
+s|Siapa teman kos yang paling sering pinjam barang?
+s|Apa makanan andalan anak kos di akhir bulan?
+s|Lo pernah salah transfer uang patungan?
+s|Apa tradisi unik di jurusan atau divisi lo?
+s|Siapa rekan kerja yang paling sering bikin suasana kantor cair?
+s|Apa kebiasaan lo di hari libur setelah minggu kerja yang panjang?
+s|Lo pernah tersesat di gedung kampus yang luas?
+s|Apa hal yang paling sering lo lupa bawa ke kampus atau kantor?
+s|Siapa yang paling sering pulang paling akhir dari kantor?
+s|Apa pengalaman kerja paruh waktu pertama lo?
+s|Lo pernah salah pakai kostum di acara kampus atau kantor?
+s|Apa julukan lucu yang dikasih teman sekantor atau sekelas buat lo?
+s|Siapa teman yang paling cepat dapat kerja setelah lulus?
+s|Apa kebiasaan lo pas lagi bosan di meja kerja?
+s|Lo pernah jadi korban prank di kantor atau kampus?
+s|Apa acara perpisahan rekan kerja atau senior yang paling berkesan?
+s|Siapa yang paling sering nyuruh lo ikut rapat yang nggak penting?
+m|Apa hal yang pengin lo ubah dari cara lo kerja sama tim?
+m|Gimana pendapat lo soal teman kerja yang jadi pacar?
+m|Apa yang bikin lo percaya sama pemimpin atau atasan?
+m|Apa yang lo lakuin kalau ide lo diambil orang lain di rapat?
+m|Gimana cara lo nyeimbangin organisasi dan kuliah atau kerja dan hobi?
+m|Apa yang bikin lo tetap semangat di pekerjaan yang membosankan?
+m|Apa pengalaman yang bikin lo ngerti arti profesional?
+m|Gimana pendapat lo soal kantor yang terlalu banyak aturan?
+m|Apa yang pengin lo pelajari dari rekan kerja yang lebih muda?
+m|Nasihat senior mana yang paling ngubah cara lo kerja?
+m|Gimana cara lo ngomong ke atasan kalau beban kerja udah kebanyakan?
+m|Apa yang lo rasain pas pertama kali dipercaya pegang proyek besar?
+m|Gimana cara lo tetap jaga pertemanan sama teman kuliah setelah kerja?
+m|Apa hal yang bikin lo nyaman kerja di satu tempat lama?
+m|Apa kebiasaan kerja yang lo pelajari dari orang tua?
+m|Gimana pendapat lo soal karier yang naik turun?
+m|Apa yang pengin lo capai sebelum umur tiga puluh di bidang kerja?
+m|Apa pengalaman kerja yang bikin lo makin menghargai pekerjaan orang lain?
+m|Gimana cara lo ngadepin perubahan mendadak di kantor atau kampus?
+m|Apa yang lo pelajari dari rekan kerja yang akhirnya resign?
+d|Apa yang lo rasain pas pertama kali gagal di dunia kerja?
+d|Apa yang bikin lo susah bilang capek ke orang di sekitar lo?
+d|Apa yang pengin lo bilang ke diri lo yang dulu takut nggak dapat kerja?
+d|Apa yang bikin lo tetap jujur walau di tempat kerja banyak yang nggak jujur?
+d|Siapa orang yang pengin lo buat bangga lewat karier lo?
+d|Apa yang lo rasain tiap kali ditanya kerja di mana atau kapan lulus?
+d|Apa yang paling lo takutin kalau suatu hari kehilangan pekerjaan?
+d|Apa yang bikin lo ngerasa terjebak di jalur karier sekarang?
+d|Apa yang bikin lo akhirnya berani ninggalin sesuatu yang nggak sehat buat lo?
+d|Apa yang pengin lo jaga dari kesehatan lo walau kerjaan menuntut banyak?
+d|Apa yang bikin lo ngerasa kerja keras lo nggak pernah cukup?
+d|Apa yang pengin lo ubah dari cara lo ngukur keberhasilan diri?
+s|Apa bunyi notifikasi yang paling bikin lo deg-degan di hari kerja?
+s|Siapa yang paling sering lupa password Wi-Fi kantor atau kampus?
+s|Apa menu sarapan cepat andalan lo sebelum berangkat?
+s|Lo pernah ketinggalan kereta atau bus sampai telat masuk?
+s|Apa kebiasaan lo pas lagi rapat panjang biar nggak ngantuk?
+m|Gimana cara lo bilang ke rekan kerja kalau kerjaannya bikin tim kerepotan?
+m|Apa yang bikin lo milih bertahan walau ada tawaran kerja lain?
+m|Gimana cara lo ngerayain keberhasilan kecil di kerjaan?
+d|Apa yang bikin lo ngerasa dihargai sebagai manusia, bukan cuma sebagai pekerja?
+d|Apa yang pengin lo bilang ke atasan yang pernah bikin lo hampir menyerah?
+d|Apa yang bikin lo yakin lo nggak salah langkah walau jalannya pelan?
+d|Kapan terakhir kali lo ngerasa bangga sama kerjaan lo sendiri?
+d|Apa yang pengin lo lakuin buat diri lo setelah semua tenggat ini selesai?
